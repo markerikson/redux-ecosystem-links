@@ -3,7 +3,13 @@
 
 #### Immutable Data Structures
 
-
+- **Immutable.js**  
+  https://facebook.github.io/immutable-js/  
+  Fully-featured data structures library that uses advanced internal data storage to efficiently manage modified references.  Very widely used, but also rather complex.
+  
+- **seamless-immutable**  
+  https://github.com/rtfeldman/seamless-immutable  
+  Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.  Uses freezing.
 
 #### Immutable Update Utilities
 

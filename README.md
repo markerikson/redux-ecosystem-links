@@ -14,6 +14,7 @@ This page overlaps with the [Ecosystem page](http://redux.js.org/docs/introducti
 
 #### Advanced Redux Concepts
 
+- [Immutable Data](immutable-data.md)
 - [Middleware](middleware.md)
 - [Side Effects](side-effects.md)
 - [Dev Tools](devtools.md)
