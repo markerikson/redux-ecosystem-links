@@ -1,27 +1,31 @@
 ### Reducers
 
+
+#### Reducer Utilities
+
 - **multireducer**  
   https://github.com/erikras/multireducer  
   A utility to wrap many copies of a single Redux reducer into a single key-based reducer.
+  
+- **reduce-reducers**  
+  https://github.com/acdlite/reduce-reducers  
+  Reduce multiple reducers into a single reducer from left to right.
 
 - **redux-modules**
   https://github.com/mboperator/redux-modules  
   A library for defining clear, boilerplate free Redux reducers with typechecked action payloads. Based on the redux duck paradigm proposed by erikras.
   
-- **redux-operations**  
-  https://github.com/mattkrick/redux-operations  
-  https://medium.com/@matt.krick/solving-redux-s-shortcoming-in-150-locs-540979ce6cf9  
-  https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b    
-  Adds additional logic to reducers to handle ordering of reducer handling, dynamic state creation, and display of reducer behavior in the Redux DevTools.
+- **redux-delegator**  
+  https://github.com/lapanoid/redux-delegator  
+  Compose reducers in a structured way 
   
-- **redux-components**  
-  https://github.com/wcjohnson/redux-components  
-  A component model for Redux state trees based on the React.js component model and other familiar design patterns from the React ecosystem.  Allows creation of "reducer components" that can be dynamically added and removed, and targeted with scoped actions.
+- **create-reducer**  
+  https://github.com/nrn/create-reducer  
+  Create a redux reducer from an object of action handling functions, keyed by the actions they handle. Has createReducer.compose(fns) helper function to combine multiple action handlers into a single action. 
   
-- **redux-reducer-factory**  
-  https://github.com/mclauia/redux-reducer-factory  
-  A configurable createReducer factory (i.e. it is a factory for making a createReducer function) that essentially allows projects to insert extra generic reducers (enhancers) before and after individual domain reducers are invoked, without muddying those individual domains.
   
+#### Higher-Order Reducers
+
 - **redux-undo**  
   https://github.com/omnidan/redux-undo  
   Higher order reducer to add undo/redo functionality to redux state containers
@@ -37,3 +41,28 @@
 - **redux-optimist**  
   https://github.com/ForbesLindesay/redux-optimist  
   Optimistically apply actions that can be later commited or reverted.
+  
+  
+#### Advanced Reducer Use Cases
+
+- **redux-operations**  
+  https://github.com/mattkrick/redux-operations  
+  https://medium.com/@matt.krick/solving-redux-s-shortcoming-in-150-locs-540979ce6cf9  
+  https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b    
+  Adds additional logic to reducers to handle ordering of reducer handling, dynamic state creation, and display of reducer behavior in the Redux DevTools.
+  
+- **redux-components**  
+  https://github.com/wcjohnson/redux-components  
+  A component model for Redux state trees based on the React.js component model and other familiar design patterns from the React ecosystem.  Allows creation of "reducer components" that can be dynamically added and removed, and targeted with scoped actions.
+  
+- **redux-reducer-factory**  
+  https://github.com/mclauia/redux-reducer-factory  
+  A configurable createReducer factory (i.e. it is a factory for making a createReducer function) that essentially allows projects to insert extra generic reducers (enhancers) before and after individual domain reducers are invoked, without muddying those individual domains.
+  
+- **redux-reset**  
+  https://github.com/wwayne/redux-reset  
+  A store enhancer to allow resetting the state based on a specific action
+  
+- **redux-list-reducer**  
+  https://github.com/mattikl/redux-list-reducer    
+  redux-list-reducer is a factory function for creating Redux reducers that operate on lists.

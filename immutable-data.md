@@ -10,6 +10,10 @@
 - **seamless-immutable**  
   https://github.com/rtfeldman/seamless-immutable  
   Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.  Uses freezing.
+  
+- **redux-tcomb**  
+  https://github.com/gcanti/redux-tcomb  
+  Immutable and type-checked state and actions for Redux (built on tcomb library)
 
 #### Immutable Update Utilities
 
@@ -21,6 +25,18 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **Redecorate**  
   https://github.com/Wildhoney/Redecorate  
   Simple module for reducing immutable nested properties in Redux applications.  
+
+
+
+#### Immutable.js-Redux Interop
+
+- **redux-immutable**  
+  https://github.com/gajus/redux-immutable  
+  redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
+
+- **immutable-redux**  
+  https://github.com/unindented/immutable-redux  
+  Provides utilities for dealing with Immutable data structures in Redux.
 
 
 

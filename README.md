@@ -12,12 +12,14 @@ This page overlaps with the [Ecosystem page](http://redux.js.org/docs/introducti
 - [Actions](actions.md)
 - [Store](store.md)
 
-#### Advanced Redux Concepts
+#### Advanced/Additional Redux Concepts
 
 - [Immutable Data](immutable-data.md)
 - [Middleware](middleware.md)
 - [Side Effects](side-effects.md)
 - [Dev Tools](devtools.md)
+- [Testing](testing.md)
+- [Other Redux Resources](other-resources.md)
 
 #### Redux-Based Libraries
 

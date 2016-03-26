@@ -17,4 +17,10 @@
   https://github.com/jasonslyvia/redux-form-utils  
   Make handling forms in Redux less painful by providing helper functions to handle form bindings.
   
+- **redux-fields**  
+  https://github.com/cbioley/redux-fields  
+  A lean Higher Order Component which keeps form state in a Redux store, extracted from Este.js.
   
+- **redux-field**  
+  https://github.com/cape-io/redux-field  
+  For when you want to control individual form fields with redux. 
