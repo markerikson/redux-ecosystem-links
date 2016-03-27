@@ -86,6 +86,10 @@
 - **redux-polymorphic**  
   https://github.com/yesmeck/redux-polymorphic  
   Another attempt to reuse your reducers, inspired from multireducer
+
+- **combined-reduction**  
+  https://github.com/convoyinc/combined-reduction  
+  Like Redux's combineReducers, but more better!  Allows definition of nested reducers and multiple top-level reducers.
   
   
 #### Higher-Order Reducers
