@@ -29,3 +29,7 @@
 - **Replux**  
   https://github.com/gregthebusker/replux
   Self contained components and enhancements for Redux
+  
+- **Reductor**  
+  https://github.com/mbensch/reductor  
+  Opinionated JS framework for React/Redux based applications.

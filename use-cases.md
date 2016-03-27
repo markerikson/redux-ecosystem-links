@@ -4,6 +4,10 @@
   https://github.com/vhpoet/redux-pagination  
   Pagination utilities (action creators, higher order reducer) for Redux. 
   
+- **redux-paginate**  
+  https://github.com/Pegase745/redux-paginate  
+  redux reducer for pagination. should be used w/ normalizr
+  
 - **Redux Collections**  
   https://github.com/khrykin/redux-collections  
   One-liners for creating redux reducers and action creators for scrollable, editable lists. his module provides methods for creating reducers for ordered or key-value state to be used in redux apps.
@@ -32,10 +36,18 @@
   https://github.com/karlguillotte/redux-geolocation  
   Redux actions and reducer for the Geolocation API
   
+- **redux-responsive**  
+  https://github.com/AlecAivazis/redux-responsive  
+  A redux reducer for managing the responsive state of your application
+  
   
 #### Network
   
 - **redux-requests**  
   https://github.com/idolize/redux-requests  
   Manages in-flight requests with a Redux reducer - avoid issuing duplicate requests without any special logic!
+  
+- **redux-asyncState-reducer**  
+  https://github.com/natac13/redux-asyncState-reducer  
+  A reducer and actionCreators for handling the asynchronous state of your requests
 

@@ -43,7 +43,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Ice Dam: a very lightweight library to freeze data. Data is frozen at the edge, where your Flux container sends it to views.
 
 
-#### Immutable.js-Redux Interop
+#### Immutable/Redux Interop
 
 - **redux-immutable**  
   https://github.com/gajus/redux-immutable  
@@ -60,7 +60,22 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-immutable-utils**  
   https://github.com/aparticka/redux-immutable-utils  
   Utilities for using Immutable with Redux
+  
+- **immutable-reducers**  
+  https://github.com/phuu/immutable-reducers  
+  Create reducers for immutable data structures.
 
+- **redux-seamless-reducers**  
+  https://github.com/mrydengren/redux-seamless-reducers  
+  Integrate seamless-immutable with Redux
+  
+- **redux-immutable-combine-reducers**  
+  https://github.com/dustinspecker/redux-immutable-combine-reducers  
+  A Redux combineReducers that returns an Immutable Map
+  
+- **Redux Immutable to JS**  
+  https://github.com/nakamura-to/redux-immutable-to-js  
+  Redux Immutable to JS allows you to convert immutable objects to JS objects automatically when Redux state is required outside reducers.
 
 
 #### Alternate Data Management Concepts

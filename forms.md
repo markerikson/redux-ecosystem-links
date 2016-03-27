@@ -24,3 +24,7 @@
 - **redux-field**  
   https://github.com/cape-io/redux-field  
   For when you want to control individual form fields with redux. 
+
+- **Redux Form Validation**  
+  https://github.com/posabsolute/redux-form-validator  
+  An es6 redux form validator middleware that helps you manage inputs. This middleware is not about keeping your global form state; it's about keeping your form validation state.

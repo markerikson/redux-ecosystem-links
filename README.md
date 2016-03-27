@@ -19,6 +19,7 @@ This page overlaps with the [Ecosystem page](http://redux.js.org/docs/introducti
 - [Side Effects](side-effects.md)
 - [Dev Tools](devtools.md)
 - [Testing](testing.md)
+- [Routing](routing.md)
 - [Other Redux Resources](other-resources.md)
 
 #### Redux-Based Libraries

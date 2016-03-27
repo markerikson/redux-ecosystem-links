@@ -85,6 +85,22 @@
   https://github.com/joshrtay/redux-log  
   Simple log of redux actions, good for testing.
   
+- **redux-log-slow-reducers**  
+  https://github.com/michaelcontento/redux-log-slow-reducers  
+  Warn about slow reducers used in your redux app
+  
+- **redux-state-trail**  
+  https://github.com/darthtrevino/redux-state-trail  
+  This middleware tracks a trail of actions of a user interacting with an application. This trail may be posted to a development server and replayed in development mode.
+  
+- **Redux State History**  
+  https://github.com/inakianduaga/redux-state-history  
+  Redux store enhancers / component for tracking and visualizing state changes & debugging remote sessions.  Inspired by the redux devtools and redux slider monitor, this package provides state recording/playback (i.e. "time travel") abilities for redux applications.
+  
+- **redux-log-errors**  
+  https://github.com/kolodny/redux-log-errors  
+  redux store enhancer to log errors while dispatching
+  
   
  #### Linting
  
@@ -107,3 +123,15 @@
 - **redux-action-propcheck**  
   https://github.com/itaylor/redux-action-propcheck  
   A Redux middleware that can check your redux action's property types against a provided specification of expected property types.
+  
+- **redux-freeze-state**  
+  https://github.com/jfpalacios/redux-freeze-state  
+  Use freezeState with your reducer to find spots in your app where you are mutating state. It is not recommended to use this in production as it recursively freezes objects and could affect performance.
+  
+- **redux-freeze**  
+  https://github.com/buunguyen/redux-freeze  
+  Redux middleware that prevents state from being mutated anywhere in the app. When mutation occurs, an error will be thrown by the runtime. This is useful during development mode to ensure that no part of the app accidentally mutates the state.
+  
+- **redux-validator**  
+  https://github.com/MaxLee1994/redux-validator  
+  Action parameter validator middleware for redux

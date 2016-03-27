@@ -43,6 +43,14 @@
   https://github.com/adriancooney/redux-pending  
   A promise middleware that you add to your store and will handle resolving the promises and dispatching pending actions. It's based heavily around redux-promise.
   
+- **redux-promised**  
+  https://github.com/bobmonteverde/redux-promised  
+  FSA-compliant promise middleware for redux with optimistic update support
+  
+- **redux-await-middleware**  
+  https://github.com/zenato/redux-await-middleware  
+  Await(Promise) middleware for Redux.  Await middleware supprorts FSA actions.
+  
   
 #### Timeouts and Delays
 
@@ -73,6 +81,10 @@
 - **redux-throttle-actions**  
   https://github.com/pirosikick/redux-throttle-actions  
   A Redux middleware which throttles actions.
+  
+- **redux-debounce**  
+  https://github.com/wyze/redux-debounce  
+  A middleware for Redux to debounce actions.
   
   
 #### Other Async Actions
@@ -108,6 +120,10 @@
 - **redux-notify**  
   https://github.com/zalmoxisus/redux-notify  
   Redux middleware to notify when an action from the list is dispatched.
+  
+- **redux-co**  
+  https://github.com/kilianc/redux-co  
+  redux-co is a drop-in replacement for redux-thunk (and indeed passes its test suite). It's meant to support async actions through yieldables as well as plain thunk functions.
   
 
 #### Action Grouping and Interception
@@ -186,6 +202,42 @@
   https://github.com/sergiodxa/socket.io-redux  
   Redux middleware to emit actions to a socket.io server
   
+- **redux-ws**  
+  https://github.com/arturmuller/redux-ws  
+  Redux middleware for WebSockets communication.
+  
+- **twiliojs-redux**  
+  https://github.com/yarcub/twiliojs-redux  
+  Twilio's javascript SDK middleware for Redux.
+  
+- **redux-action-emit-middleware**  
+  https://github.com/pafciu17/redux-action-emit-middleware  
+  Middleware for emitting redux actions over socket
+  
+- **redux-loopback**  
+  https://github.com/TimPerry/redux-loopback  
+  Loopback middleware for redux
+  
+- **redux-zmq**  
+  https://github.com/code-mancers/redux-zmq  
+  A redux middleware for zeromq
+  
+- **redux-matter**  
+  https://github.com/KyperTech/redux-matter  
+  Redux middleware, actions, and reducer for Matter.
+  
+- **redux-effects-socketio**  
+  https://github.com/alexjg/redux-effects-socketio  
+  Redux effects middleware for socketio
+  
+- **redux-socket-io**  
+  https://github.com/nkt/redux-socket-io  
+  Socket.io middleware for Redux.
+  
+- **redux-ddp**  
+  https://github.com/rclai/redux-ddp  
+  Get DDP collection data synced straight into a Redux store instead of minimongo and attempting optimistic updates.
+  
   
 #### Network Requests
 
@@ -196,6 +248,34 @@
 - **reduxr-async**  
   https://github.com/chrisdavies/reduxr-async  
   Easily and cleanly handle AJAX in Redux.
+  
+- **redux-api-middleware**  
+  https://github.com/agraboso/redux-api-middleware  
+  Redux middleware for calling an API.
+  
+- **redux-axios-middleware**  
+  https://github.com/svrcekmichal/redux-axios-middleware  
+  Redux middleware for fetching data with axios HTTP client
+  
+- **redux-callApi-middleware**  
+  https://github.com/fskinner/redux-callApi-middleware  
+  Redux middleware for API calls through Axios
+  
+- **redux-request-middleware**  
+  https://github.com/founderlab/redux-request-middleware  
+  Works like redux promise middleware. Resolves request objects from superagent or BackboneORM models. Can work with anything with a similar callback style api.
+  
+- **redux-fetch-middleware**  
+  https://github.com/LuckyZhou880808/redux-fetch-middleware  
+  A middleware for redux that help to fetch data from rest API
+  
+- **redux-axios-api-middleware**  
+  https://github.com/mikeyamadeo/redux-axios-api-middleware  
+  redux middleware using axios making api calls with redux easy
+  
+- **rictus**  
+  https://github.com/defact/rictus  
+  Redux middleware for promise-based resource requests
   
   
 #### Analytics
@@ -208,13 +288,35 @@
   https://github.com/danscan/rn-redux-mixpanel  
   Configurable redux middleware that sends your actions & user profile data to Mixpanel. It also works with React Native.
   
+- **redux-keen**  
+  https://github.com/pavelvolek/redux-keen  
+  Redux middleware for sending analytics to Keen.
+  
+  
+#### Data Management
+
+- **redux-normalizr-middleware**  
+  https://github.com/wbinnssmith/redux-normalizr-middleware  
+  Combines redux middleware and normalizr to make flattening nested data a snap
+  
+- **redux-make-immutable**  
+  https://github.com/kwhitaker/redux-make-immutable  
+  Redux middleware to coerce native javascript types into the equivalent Immutable.js types. Works with both Flux Standard Actions and non-standard actions.
+  
+- **redux-make-mori**  
+  https://github.com/kwhitaker/redux-make-mori  
+  Redux middleware to coerce native javascript types into the equivalent Mori types. 
+  
+- **Redux Provider Middleware**  
+  https://github.com/reduxible/redux-provider-middleware  
+  A redux middleware which provides Angular-like providers.
+  
+- **redux-inject**  
+  https://github.com/bradharms/redux-inject  
+  Redux middleware generator that allows dependencies to be injected into action creators.
   
   
 #### Other
-
-- **redux-validator**  
-  https://github.com/MaxLee1994/redux-validator  
-  Action parameter validator middleware for redux
   
 - **redux-action-tracker**  
   https://github.com/gfogle/redux-action-tracker  
@@ -223,3 +325,24 @@
 - **redux-string**  
   https://github.com/igl/redux-string  
   Allow dispatching of a string as action-type
+  
+- **redux-favicon**  
+  https://github.com/joshwcomeau/redux-favicon  
+  Redux middleware that displays colourful notification badges in the favicon area.
+  
+- **Redux Worker Middleware**  
+  https://github.com/keyanzhang/redux-worker-middleware  
+  The goal of the middleware is to provide an unopinionated workflow that delegates expensive operations to Web Workers. 
+  
+- **Redux Sounds**  
+  https://github.com/joshwcomeau/redux-sounds  
+  Redux middleware that lets you easily trigger sound effects on actions. Makes it completely trivial to do so, by adding a meta property to any action.
+  
+- **redux-auth**  
+  https://github.com/Nicktho/redux-auth  
+  A simple redux middleware for JWT based authorization.  Works with any async store middleware.
+  
+- **postal-redux-middleware**  
+  https://github.com/dehamilton/postal-redux-middleware  
+  Middleware to interact with Postal.js
+  

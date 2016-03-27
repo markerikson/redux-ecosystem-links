@@ -41,6 +41,10 @@
   https://github.com/rt2zz/redux-remotes  
   Trigger side-effects (e.g. async actions) via dispatch. Vaguely similar to cerebral signals or elm side effects.
   
+- **redux-side-effect-reducers**
+  https://github.com/matystl/redux-effect-reducers  
+  Library that enable returning of effects in reducers for redux library
+  
   
   
 #### Redux-Effects extensions
@@ -96,3 +100,4 @@
 - **redux-flo**  
   https://github.com/redux-effects/redux-flo  
   Redux style control flow middleware - inspired by haskel's free monad approach to io and co.
+  

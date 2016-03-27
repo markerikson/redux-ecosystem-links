@@ -31,3 +31,15 @@
 - **redux-mount**  
   https://github.com/popc0rn/redux-mount  
   Mount data on a path and change state values on the fly. No need to create reducers, actions, or selectors to handle view-specific state yourself.
+  
+- **redux-component-state**  
+  https://github.com/cef62/redux-component-state  
+  Component level state's manager using redux reducers to support on-demand store creation.
+  
+- **redux-bind**  
+  https://github.com/sorrycc/redux-bind  
+  A Higher Order Component to keep component state in a Redux store.
+  
+- **redux-extract-state**  
+  https://github.com/caojs/redux-extract-state  
+  Extract local component state to redux store.

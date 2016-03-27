@@ -1,6 +1,7 @@
 ### Utilities
 
 
+#### Data Manipulation
 - **reselect**  
   https://github.com/reactjs/reselect  
   Simple “selector” library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
@@ -9,13 +10,28 @@
   https://github.com/gaearon/normalizr  
   Normalizes deeply nested JSON API responses according to a schema, producing flatter and unduplicated state.
   
-- **redux-rx**  
-  https://github.com/acdlite/redux-rx  
-  RxJS utilities for Redux.  
+- **Redux Tree**  
+  https://github.com/stefanroex/redux-tree  
+  Denormalize your immutable Redux store
+  
+  
+#### Functional Programming
   
 - **redux-transducers**  
   https://github.com/acdlite/redux-transducers  
   Transducer utilities for Redux.
+  
+- **recompose**  
+  https://github.com/acdlite/recompose  
+  Recompose is a React utility belt for function components and higher-order components. Think of it like lodash for React.
+  
+- **redux-rx**  
+  https://github.com/acdlite/redux-rx  
+  RxJS utilities for Redux.  
+  
+- **redux-bacon**  
+  https://github.com/aparticka/redux-bacon  
+  Utilities for attaching Bacon.js to Redux
   
   
   
@@ -84,3 +100,12 @@
 - **redux-utils**  
   https://github.com/newtack/redux-utils  
   Redux-utils makes it easy to combine redux and immutableJS as well as make api calls using FSA conventions.
+  
+- **Tiny Duck**  
+  https://github.com/LockedOn/tiny-duck  
+  Tiny Duck is a small library that allows you to define small, reusable collections of reducer actions and compose them together.  Tiny Duck gives you high code reuse and testabilty for your redux reducers.  Tiny Duck was inspired from the pattern of erikras/ducks-modular-redux where you bundle all of your actions, action types and reducers in the one module.
+
+- **redux-utils**  
+  https://github.com/mindfront/redux-utils
+  Functions for creating and composing reducers and middleware efficiently
+  

@@ -11,6 +11,14 @@
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
   Store enhancer that syncs (a subset) of your Redux store state to localstorage.
+  
+- **redux-localstorage-slicer**  
+  https://github.com/ngokevin/redux-localstorage-slicer  
+  Custom slicer for redux-localstorage that allows reducers to define their own persistence configuration.
+  
+- **redux-localstorage-immutable**  
+  https://github.com/jakelazaroff/redux-localstorage-immutable  
+  Enhancer for redux-localstorage that allows you to persist an immutable store
 
 - **redux-storage**  
   https://github.com/michaelcontento/redux-storage
@@ -36,6 +44,14 @@
   https://github.com/conorhastings/redux-session-storage  
   Redux middleware for recording redux actions for a particular session to session storage
   
+- **redux-persistent-state-snapshot**  
+  https://github.com/Marcoga/redux-persistent-state-snapshot  
+  Middleware to persist your state in a Redux app.
+  
+- **redux-simple-localstorage**  
+  https://github.com/MoombaDS/redux-simple-localstorage  
+  Ridiculously simple implementation for serialising the entire Redux store to local storage and retrieving it on application restart.
+  
 
 #### Store Change Subscriptions
 
@@ -55,6 +71,10 @@
   https://github.com/xuoe/redux-observers  
   Observe Redux state changes and dispatch actions on change.
   
+- **redux-observer**  
+  https://github.com/jimf/redux-observer  
+  Redux middleware for observing state change and taking action when changes of interest occur.
+  
 - **redux-batched-subscribe**  
   https://github.com/tappleby/redux-batched-subscribe  
   Store enhancer for redux which allows batching of subscribe notifications that occur as a result of dispatches.  Semi-similar use case as [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions).
@@ -71,6 +91,18 @@
   https://github.com/tshelburne/redux-skip-by-action  
   Store enhancer for redux that enables skipping subscriber notifications for individual actions.
   
+- **redux-store-observer**  
+  https://github.com/jonnyreeves/redux-store-observer  
+  redux-store-observer provides a thin wrapper around Redux's store#subscribe() to allow you to respond to state changes.
+  
+- **redux-spy**  
+  https://github.com/erikras/redux-spy  
+  A higher order component decorator to read from a Redux store without subscribing to all its changes
+  
+- **redux-debounce-listener**  
+  https://github.com/nakamura-to/redux-debounce-listener  
+  Redux Debounce Listener allows you to delay invoking listeners. If you use this with React, rendering cost may be reduced.
+  
   
   
 #### Other
@@ -78,3 +110,4 @@
 - **redux-lift**  
   https://github.com/izaakschroeder/redux-lift  
   Store composition for redux.  Lifting allows you to "lift" your state, reducers and actions into another context. Lifting is a kind of store enhancer that is a superset of middleware.
+  

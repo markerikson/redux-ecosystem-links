@@ -47,6 +47,38 @@
   https://github.com/bydooweedoo/reducer-sandbox  
   reducer-sandbox helps you to reuse your redux reducers in different place without conflict them.
   
+- **redux-create-reducer**  
+  https://github.com/kolodny/redux-create-reducer  
+  Publishing createReducer from Redux's Reducing Boilerplate page.
+  
+- **redux-action-reducer**  
+  https://github.com/troch/redux-action-reducer
+  Remove redux reducer boilerplate
+  
+- **Redux Reducer**  
+  https://github.com/chetanism/redux-reducer  
+  This library is intended to provide a little more object-oriented approach to write reducers. All it does is provide Reducer and CombineReducers classes to get rid of switch-case. Additionally it also lets you modify reducers dynamically.
+  
+- **redux-reducer**  
+  https://github.com/nathanial/redux-reducer  
+  A small library for writing redux actions with less boilerplate using classes.
+  
+- **redux-switch-action**  
+  https://github.com/qwtel/redux-switch-action  
+  Slightly more concise reducer switching for Flux Standard Actions.
+  
+- **make-reducer**  
+  https://github.com/reactbits/make-reducer  
+  Functions to easily build redux reducers without boilerplate code.
+  
+- **ReduMan**  
+  https://github.com/ajlopez/ReduMan  
+  Reducer manager, it can be used as a replace for switch in Redux reducers
+  
+- **create-redux-reducer-from-map**  
+  https://github.com/TehShrike/create-redux-reducer-from-map  
+  A personal preference for building reducers for Redux.
+  
   
 #### Higher-Order Reducers
 
@@ -66,6 +98,22 @@
   https://github.com/ForbesLindesay/redux-optimist  
   Optimistically apply actions that can be later commited or reverted.
   
+- **redux-optimistic-ui**  
+  https://github.com/mattkrick/redux-optimistic-ui
+  A reducer enhancer to enable type-agnostic optimistic updates
+  
+- **Redux Entities**  
+  https://github.com/itsmepetrov/redux-entities  
+  Higher-order reducer for store entities received from gaearon's normalizr and makes it easy to handle them.
+  
+- **redux-cache**  
+  https://github.com/simplesmiler/redux-cache  
+  Higher order cache reducer
+  
+- **redux-multiplex**  
+  https://github.com/reducks/redux-multiplex  
+  Provides a higher-order reducer for managing multiple instances of the same redux state subtree.
+  
   
 #### Advanced Reducer Use Cases
 
@@ -83,6 +131,10 @@
   https://github.com/mclauia/redux-reducer-factory  
   A configurable createReducer factory (i.e. it is a factory for making a createReducer function) that essentially allows projects to insert extra generic reducers (enhancers) before and after individual domain reducers are invoked, without muddying those individual domains.
   
+- **redux-reducers-meld**  
+  https://github.com/mclauia/redux-reducer-meld  
+  A beforeReduce enhancer for use with redux-reducer-factory that can meld previous and initial state to flesh out default state of partial state hydration (for example, when persisting only specific parts of your state tree to local storage)
+  
 - **redux-reset**  
   https://github.com/wwayne/redux-reset  
   A store enhancer to allow resetting the state based on a specific action
@@ -94,3 +146,16 @@
 - **rereduce**  
   https://github.com/slorber/rereduce  
   Simple reducer library for Redux. It's like Reselect but for reducers.  By using aggressive memoization, reducers can depend on each others in an efficient way, without having to query Redux store.  It works fine with time-travel debugging and server-side rendering, because reducers remains totally stateless pure functions.  It permits to replace the imperative waitFor of original Flux implementation by a purely functional approach.
+  
+- **redux-waitfor**  
+  https://github.com/dtinth/redux-waitfor  
+  Reducer combinator that allows reducers to wait upon each other.
+  
+- **incremental-redux-reducers**  
+  https://github.com/tazsingh/incremental-redux-reducers  
+  Incrementally load Redux reducers into a single store
+  
+- **redux-register**  
+  https://github.com/dexbol/redux-register  
+  An Redux enhancer for registering reducer by namespace
+  
