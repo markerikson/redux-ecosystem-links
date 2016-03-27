@@ -11,7 +11,7 @@
   https://github.com/acdlite/reduce-reducers  
   Reduce multiple reducers into a single reducer from left to right.
 
-- **redux-modules**
+- **redux-modules**  
   https://github.com/mboperator/redux-modules  
   A library for defining clear, boilerplate free Redux reducers with typechecked action payloads. Based on the redux duck paradigm proposed by erikras.
   
@@ -52,7 +52,7 @@
   Publishing createReducer from Redux's Reducing Boilerplate page.
   
 - **redux-action-reducer**  
-  https://github.com/troch/redux-action-reducer
+  https://github.com/troch/redux-action-reducer  
   Remove redux reducer boilerplate
   
 - **Redux Reducer**  
@@ -84,7 +84,7 @@
   A way to combine reducers by their dependencies and access at their ancestor's values.
   
 - **redux-polymorphic**  
-  https://github.com/yesmeck/redux-polymorphic
+  https://github.com/yesmeck/redux-polymorphic  
   Another attempt to reuse your reducers, inspired from multireducer
   
   
@@ -107,7 +107,7 @@
   Optimistically apply actions that can be later commited or reverted.
   
 - **redux-optimistic-ui**  
-  https://github.com/mattkrick/redux-optimistic-ui
+  https://github.com/mattkrick/redux-optimistic-ui  
   A reducer enhancer to enable type-agnostic optimistic updates
   
 - **Redux Entities**  

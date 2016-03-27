@@ -14,7 +14,7 @@
   React bindings for redux-saga, allowing you to dynamically start sagas by mounting them as React components
   
 - **redux-saga-combine-latest**  
-  https://github.com/jhewlett/redux-saga-combine-latest 
+  https://github.com/jhewlett/redux-saga-combine-latest  
   Wait for several action types to be dispatched before handling them
   
 - **redux-loop**  

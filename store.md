@@ -25,7 +25,7 @@
   Enhancer for redux-localstorage that allows you to persist an immutable store
 
 - **redux-storage**  
-  https://github.com/michaelcontento/redux-storage
+  https://github.com/michaelcontento/redux-storage  
   Persistence layer for redux with flexible backends.  Save and load the Redux state with ease.
   
 - **redux-pouchdb**  
