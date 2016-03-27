@@ -28,6 +28,10 @@
   https://github.com/jfairbank/redux-binary  
   Create simple Redux actions and a reducer for managing binary state.
   
+- **redux-geolocation**  
+  https://github.com/karlguillotte/redux-geolocation  
+  Redux actions and reducer for the Geolocation API
+  
   
 #### Network
   

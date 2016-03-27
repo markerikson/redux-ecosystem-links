@@ -35,6 +35,14 @@
   https://github.com/mathieudutour/redux-optimist-promise  
   FSA-compliant promise middleware middleware for Redux and automatically add necessary for redux-optimist.
   
+- **redux-async-middleware**  
+  https://github.com/reducks/redux-async-middleware  
+  Provides a middleware for handling asynchronous actions.
+  
+- **redux-pending**  
+  https://github.com/adriancooney/redux-pending  
+  A promise middleware that you add to your store and will handle resolving the promises and dispatching pending actions. It's based heavily around redux-promise.
+  
   
 #### Timeouts and Delays
 
@@ -50,6 +58,21 @@
   https://github.com/ryanseddon/redux-debounced  
   Debounce allows you to discard a fast paced action from updating your state until a certain period of time passes after the last action is fired.
   
+- **redux-delay**  
+  https://github.com/Laiff/redux-delay  
+  Delay redux actions
+  
+- **Redux Action Buffer**  
+  https://github.com/rt2zz/redux-action-buffer  
+  A middleware for redux that buffers all actions into a queue until a breaker condition is met, at which point the queue is released (i.e. actions are triggered).
+  
+- **Quince**  
+  https://github.com/defact/quince  
+  Queueing middleware for Redux.
+  
+- **redux-throttle-actions**  
+  https://github.com/pirosikick/redux-throttle-actions  
+  A Redux middleware which throttles actions.
   
   
 #### Other Async Actions
@@ -101,9 +124,32 @@
   https://github.com/jasonslyvia/redux-sequence-action  
   A middleware enabling sequential action dispatch for Redux.
   
+- **redux-multi**  
+  https://github.com/ashaffer/redux-multi  
+  Dispatch multiple actions from one action creator
+  
+- **redux-next**  
+  https://github.com/RnbWd/redux-next  
+  Recurse Redux actions
+  
 - **redux-signals**  
   https://github.com/itaylor/redux-signals  
   A redux middleware that allows the creation of 'signal' actions that don't have reducers of their own, but instead dispatch other actions.
+  
+- **redux-action-listeners**  
+  https://github.com/rhythnic/redux-action-listeners  
+  This is Redux middleware for listening to actions. The middleware is configured with actionListeners, and those action listeners are called after the reducer runs. The action listeners receive the action and the store.
+  
+- **redux-handle-actions**  
+  https://github.com/joshrtay/redux-handle-actions  
+  Redux middleware for handling actions.
+  
+- **redux-white-black**  
+  https://github.com/rnsloan/redux-white-black  
+  Redux middleware to execute a callback on action types using a whitelist or blacklist approach
+  
+ 
+  
   
   
 #### Sockets and Adapters
@@ -120,6 +166,37 @@
   https://github.com/rstuven/redux-via  
   redux-via provides a basis for using Redux across boundaries with Flux Standard Actions.
   
+- **redux-streams**  
+  https://github.com/Industrial/redux-streams  
+  Store middleware for Redux that lets you dispatch streams of actions.
+  
+- **cape-redux-socket**  
+  https://github.com/cape-io/cape-redux-socket  
+  Socket middleware, reducer, actions, constants
+  
+- **redux-middleware-oneshot**  
+  https://github.com/michaelcontento/redux-middleware-oneshot  
+  Create Redux actions from arbitrary sources out of middlewares.
+  
+- **redux-socket-middleware**  
+  https://github.com/madewithlove/redux-socket-middleware  
+  Redux middleware that dispatches an action to all connected clients
+  
+- **socket.io-redux**  
+  https://github.com/sergiodxa/socket.io-redux  
+  Redux middleware to emit actions to a socket.io server
+  
+  
+#### Network Requests
+
+- **redux-request**  
+  https://github.com/TossShinHwa/redux-request  
+  Uses either fetch or superagent to make requests.
+  
+- **reduxr-async**  
+  https://github.com/chrisdavies/reduxr-async  
+  Easily and cleanly handle AJAX in Redux.
+  
   
 #### Analytics
 
@@ -130,3 +207,19 @@
 - **rn-redux-mixpanel**  
   https://github.com/danscan/rn-redux-mixpanel  
   Configurable redux middleware that sends your actions & user profile data to Mixpanel. It also works with React Native.
+  
+  
+  
+#### Other
+
+- **redux-validator**  
+  https://github.com/MaxLee1994/redux-validator  
+  Action parameter validator middleware for redux
+  
+- **redux-action-tracker**  
+  https://github.com/gfogle/redux-action-tracker  
+  Set of middlewares for Redux to instrument and track actions and their corresponding child actions.
+  
+- **redux-string**  
+  https://github.com/igl/redux-string  
+  Allow dispatching of a string as action-type

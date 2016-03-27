@@ -23,6 +23,30 @@
   https://github.com/nrn/create-reducer  
   Create a redux reducer from an object of action handling functions, keyed by the actions they handle. Has createReducer.compose(fns) helper function to combine multiple action handlers into a single action. 
   
+- **redux-map-reducers**  
+  https://github.com/zippyui/redux-map-reducers  
+  Redux reducer that maps over an object of action types.
+  
+- **reduxr-obj-reducer**  
+  https://github.com/chrisdavies/reduxr-obj-reducer  
+  A utility to create Redux reducers from simple objects.
+  
+- **reduxr-scoped-reducer**  
+  https://github.com/chrisdavies/reduxr-scoped-reducer  
+  A utility to create Redux reducers which only respond to prefixed actions.
+  
+- **reducer-chain**  
+  https://github.com/bydooweedoo/reducer-chain  
+  reducer-chain helps you to chain redux reducers with given state and action, then keep last updated state.
+  
+- **reducer-pipe**  
+  https://github.com/bydooweedoo/reducer-pipe  
+  reducer-pipe helps you to pipe redux reducers with given state and action, passing previously returned state to next reducer, then keep last updated state.
+  
+- **reducer-sandbox**  
+  https://github.com/bydooweedoo/reducer-sandbox  
+  reducer-sandbox helps you to reuse your redux reducers in different place without conflict them.
+  
   
 #### Higher-Order Reducers
 
@@ -66,3 +90,7 @@
 - **redux-list-reducer**  
   https://github.com/mattikl/redux-list-reducer    
   redux-list-reducer is a factory function for creating Redux reducers that operate on lists.
+  
+- **rereduce**  
+  https://github.com/slorber/rereduce  
+  Simple reducer library for Redux. It's like Reselect but for reducers.  By using aggressive memoization, reducers can depend on each others in an efficient way, without having to query Redux store.  It works fine with time-travel debugging and server-side rendering, because reducers remains totally stateless pure functions.  It permits to replace the imperative waitFor of original Flux implementation by a purely functional approach.

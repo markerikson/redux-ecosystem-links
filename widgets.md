@@ -13,6 +13,18 @@
   https://github.com/indexiatech/re-notif  
   React & Redux based notifications center.  Thanks to Redux, the notification objects are maintained within Redux Store's State and are fired by Actions,  Features such auto dismiss and styling are supported
   
+- **react-inline-grid**  
+  https://github.com/broucz/react-inline-grid  
+  A predictable grid layout based on flexbox for React applications using inline styles.  Uses Redux.
+  
+- **subdivide**  
+  https://github.com/philholden/subdivide  
+  Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
+  
+- **redux-flash-notification**  
+  https://github.com/posabsolute/redux-flash-notification  
+  An es6 growl-like notification plugin for react and redux.
+  
   
   
 #### Data Fetching
@@ -40,3 +52,11 @@
 - **firedux**  
   https://github.com/adjohnson916/firedux  
   Wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.
+  
+- **AutoAction**  
+  https://github.com/tonyhb/autoaction  
+  Declarative data loading and action calling within react-redux
+  
+- **redux-preheat**  
+  https://github.com/mikew/redux-preheat  
+  A helpful decorator to run Redux actions in universal React apps with support for Promises.

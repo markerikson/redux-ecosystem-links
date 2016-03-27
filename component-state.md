@@ -27,3 +27,7 @@
 - **redux-state**  
   https://github.com/babotech/redux-state  
   connect() style implementation of storage a local state for reusable components
+  
+- **redux-mount**  
+  https://github.com/popc0rn/redux-mount  
+  Mount data on a path and change state values on the fly. No need to create reducers, actions, or selectors to handle view-specific state yourself.

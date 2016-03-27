@@ -32,6 +32,42 @@
   https://github.com/keuller/redux-action-help  
   Includes utility functionx to generate simple and dynamic actions.
   
+- **redux-action-types**  
+  https://github.com/ripeworks/redux-action-types  
+  Shortcut for making normal and async action types.
+  
+- **redux-simple-actions**  
+  https://github.com/xiamidaxia/redux-simple-actions  
+  Create actions based on objects with functions
+  
+- **async-redux-actions**  
+  https://github.com/spalger/async-redux-actions  
+  A simple wrapper around async redux actions.
+  
+- **Faction**  
+  https://github.com/af/faction  
+  Utilities and conventions for managing Redux (or Flux) actions.  Co-locate your action types and action creators and keep them DRY, automatically dispatch follow-up actions when your async actions complete, validate arguments sent to each actionCreator
+  
+- **redux-purify**  
+  https://github.com/alpacaaa/redux-purify  
+  Allows definition of actions by passing named reducers in an object
+  
+- **reduxr-obj-actions**  
+  https://github.com/chrisdavies/reduxr-obj-actions  
+  A utility to create auto-typed Redux actions from an object.
+  
+- **redux-promise-thunk**  
+  https://github.com/kpaxqin/redux-promise-thunk  
+  Create thunk generator to dispatch Flux-Standard-Action in each phase of Promise.
+  
+- **redux-api-action-creators**  
+  https://github.com/AlanFoster/redux-api-action-creators  
+  API Action Creators for Redux
+  
+- **create-action**  
+  https://github.com/nkt/create-action  
+  Helpers for creating FSA compatible actions.
+  
   
 #### Other Action Use Cases  
   

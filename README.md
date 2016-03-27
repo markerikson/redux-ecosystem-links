@@ -29,4 +29,4 @@ This page overlaps with the [Ecosystem page](http://redux.js.org/docs/introducti
 - [Forms](forms.md)
 - [Alternate Approaches and Variations](variations.md)
 - [Utilities](utilities.md)
-
+- [Code Generation](code-generation.md)

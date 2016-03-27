@@ -14,6 +14,10 @@
 - **redux-tcomb**  
   https://github.com/gcanti/redux-tcomb  
   Immutable and type-checked state and actions for Redux (built on tcomb library)
+  
+- **immu**  
+  https://github.com/scottcorgan/immu  
+  A TINY, fail-fast, lazy, "naked", simple immutable Javascript objects library.
 
 #### Immutable Update Utilities
 
@@ -26,6 +30,17 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/Wildhoney/Redecorate  
   Simple module for reducing immutable nested properties in Redux applications.  
 
+- **reduxr-reducer-helpers**  
+  https://github.com/chrisdavies/reduxr-reducer-helpers  
+  A utility to handle common array manipulation reducer functions.
+  
+- **updeep**  
+  https://github.com/substantial/updeep  
+  Easily update nested frozen objects and arrays in a declarative and immutable manner.
+  
+- **icedam**  
+  https://github.com/winkler1/icedam  
+  Ice Dam: a very lightweight library to freeze data. Data is frozen at the edge, where your Flux container sends it to views.
 
 
 #### Immutable.js-Redux Interop
@@ -37,6 +52,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **immutable-redux**  
   https://github.com/unindented/immutable-redux  
   Provides utilities for dealing with Immutable data structures in Redux.
+  
+- **redux-immutablejs**  
+  https://github.com/indexiatech/redux-immutablejs  
+  This is a small library that aims to provide integration tools between Redux & ImmutableJs that fully conforms Redux actions & reducers standards.
+  
+- **redux-immutable-utils**  
+  https://github.com/aparticka/redux-immutable-utils  
+  Utilities for using Immutable with Redux
 
 
 

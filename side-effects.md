@@ -13,6 +13,10 @@
   https://github.com/threepointone/react-redux-saga  
   React bindings for redux-saga, allowing you to dynamically start sagas by mounting them as React components
   
+- **redux-saga-combine-latest**  
+  https://github.com/jhewlett/redux-saga-combine-latest 
+  Wait for several action types to be dispatched before handling them
+  
 - **redux-loop**  
   https://github.com/raisemarketplace/redux-loop  
   Sequence your effects naturally and purely by returning them from your reducers.  Also returns descriptive objects, which are executed later.
@@ -20,6 +24,10 @@
 - **redux-side-effects**  
   https://github.com/salsita/redux-side-effects  
   Redux toolset for keeping all the side effects inside your reducers while maintaining their purity, using generators.
+  
+- **redux-action-side-effects**  
+  https://github.com/jonnyreeves/redux-action-side-effects  
+  Trigger side effects after actions have been reduced.
   
 - **redux-task**  
   https://github.com/sskyy/redux-task  

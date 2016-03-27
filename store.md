@@ -24,6 +24,18 @@
   https://github.com/rt2zz/redux-owl  
   Redux One Way Linking.  This is a simple method for supporting offline sync.  The basic concept is, try to execute the action, on failure add it to a retry queue. Every so often process the retry queue until success is achieved. 
   
+- **redux-live**  
+  https://github.com/eitak/redux-live  
+  Redux Live a framework for persisting Redux actions to a database and synchronising them across multiple clients. 
+  
+- **redux-action-store**  
+  https://github.com/oakfang/redux-action-store  
+  Save and load actions to persist state
+  
+- **redux-session-storage**  
+  https://github.com/conorhastings/redux-session-storage  
+  Redux middleware for recording redux actions for a particular session to session storage
+  
 
 #### Store Change Subscriptions
 
@@ -50,5 +62,19 @@
 - **redux-batched-updates**  
   https://github.com/acdlite/redux-batched-updates  
   Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.
-
   
+- **redux-when**  
+  https://github.com/jameslnewell/redux-when  
+  Delay dispatching an action until a condition is true.
+
+- **redux-skip-by-action**  
+  https://github.com/tshelburne/redux-skip-by-action  
+  Store enhancer for redux that enables skipping subscriber notifications for individual actions.
+  
+  
+  
+#### Other
+
+- **redux-lift**  
+  https://github.com/izaakschroeder/redux-lift  
+  Store composition for redux.  Lifting allows you to "lift" your state, reducers and actions into another context. Lifting is a kind of store enhancer that is a superset of middleware.

@@ -11,6 +11,10 @@
   https://github.com/zalmoxisus/redux-devtools-extension  
   Browser extension to show DevTools UI in separate browser windows rather than in-page (currently Chrome only)
   
+- **Remote Redux DevTools**  
+  https://github.com/zalmoxisus/remote-redux-devtools  
+  Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps.
+  
   
 #### DevTools Monitors
 
@@ -46,16 +50,12 @@
   https://github.com/YoruNoHikage/redux-devtools-dispatch  
   A monitor that lets you manually dispatch actions to see how the app reacts.
   
-
-#### Debugging and Development
-
-- **redux-immutable-state-invariant**  
-  https://github.com/leoasis/redux-immutable-state-invariant  
-  Redux middleware that detects mutations between and outside redux dispatches. For development use only.
+- **Import Export Monitor**  
+  https://github.com/lapanoid/redux-import-export-monitor  
+  A simple monitor for Redux DevTools that enables exporting, then importing the serialized state of a Redux application. It looks like a prompt() modal, but without the character limit.
   
-- **redux-ensure-fsa**  
-  https://github.com/meadow/redux-ensure-fsa  
-  redux-ensure-fsa provides a middleware function to use as part of the redux dispatch chain. It is intended for use in development only to check that all actions at the end of the chain follow the Flux Standard Action protocol.
+
+#### Logging
   
 - **redux-logger**  
   https://github.com/fcomb/redux-logger  
@@ -80,3 +80,30 @@
 - **redux-perf-middleware**  
   https://github.com/AvraamMavridis/redux-perf-middleware  
   Redux performance middleware, Measure the time that the actions need to change the state
+  
+- **redux-log**  
+  https://github.com/joshrtay/redux-log  
+  Simple log of redux actions, good for testing.
+  
+  
+ #### Linting
+ 
+- **redux-immutable-state-invariant**  
+  https://github.com/leoasis/redux-immutable-state-invariant  
+  Redux middleware that detects mutations between and outside redux dispatches. For development use only.
+  
+- **redux-ensure-fsa**  
+  https://github.com/meadow/redux-ensure-fsa  
+  redux-ensure-fsa provides a middleware function to use as part of the redux dispatch chain. It is intended for use in development only to check that all actions at the end of the chain follow the Flux Standard Action protocol.
+  
+- **redux-fsa-linter**  
+  https://github.com/maxmechanic/redux-fsa-linter  
+  Redux middleware that validates incoming actions with Flux Standard Action. 
+  
+- **redux-unhandled-actions**  
+  https://github.com/socialtables/redux-unhandled-action  
+  Redux middleware that logs an error to the console when an action is fired and the state is not mutated
+  
+- **redux-action-propcheck**  
+  https://github.com/itaylor/redux-action-propcheck  
+  A Redux middleware that can check your redux action's property types against a provided specification of expected property types.
