@@ -18,6 +18,18 @@
 - **immu**  
   https://github.com/scottcorgan/immu  
   A TINY, fail-fast, lazy, "naked", simple immutable Javascript objects library.
+  
+- **icedam**  
+  https://github.com/winkler1/icedam  
+  Ice Dam: a very lightweight library to freeze data. Data is frozen at the edge, where your Flux container sends it to views.
+  
+- **updeep**  
+  https://github.com/substantial/updeep  
+  Easily update nested frozen objects and arrays in a declarative and immutable manner.
+  
+- **icepick**  
+  https://github.com/aearly/icepick  
+  Utilities for treating frozen JavaScript objects as persistent immutable collections
 
 #### Immutable Update Utilities
 
@@ -29,19 +41,46 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **Redecorate**  
   https://github.com/Wildhoney/Redecorate  
   Simple module for reducing immutable nested properties in Redux applications.  
+  
+- **object-path-immutable**  
+  https://github.com/mariocasciaro/object-path-immutable  
+  Modify deep object properties without modifying the original object (immutability). Works great with React and Redux.
+  
+- **immutable-path**  
+  https://github.com/baptistemanson/immutable-path  
+  Immutable path is a simple micro library providing js object selectors and modifiers.  Stick to immutability: modification always returns a new instance of the object.  Free optin and optout: no need to wrap all your plain objects in classes, no init.
 
+- **update-in**  
+  https://github.com/dustingetz/update-in/  
+  Persistent functional object updates on vanilla js data structures (wraps react-addons-update)
+  
+- **dot-prop-immutable**  
+  https://github.com/debitoor/dot-prop-immutable  
+  The motivation for this module is to have a simple utility for changing state in a React-Redux application without mutate existing state of plain JavaScript objects.
+  
+- **Sprout**  
+  https://github.com/herrstucki/sprout/  
+  Sprout provides a set of functions to help you work with nested data without all the headaches. Sprout never mutates the original data but returns new versions. This way, plain JavaScript objects (and arrays) can be effectively treated as if they were immutable.
+  
+- **Scour**  
+  https://github.com/rstacruz/scour  
+  Traverse objects and arrays immutably.  Scour is a general-purpose library for dealing with JSON trees.  Use it to: manage your Redux datastore; provide a model layer to access data in your single-page app; navigate a large JSON tree easily; rejoice in having a lightweight alternative to Immutable.js.
+  
+- **Timm**  
+  https://github.com/guigrpa/timm  
+  Immutability helpers with fast reads and acceptable writes.  Timm's approach: use plain objects and arrays and provide simple mutation functions that will probably not handle all edge cases.
+  
+- **emerge**  
+  https://github.com/Mitranim/emerge  
+  Utilities for creating and merging immutable data trees. Friendly to functional programming. Only plain JS objects, no custom classes, no OOP, bring your own data. 
+  
 - **reduxr-reducer-helpers**  
   https://github.com/chrisdavies/reduxr-reducer-helpers  
   A utility to handle common array manipulation reducer functions.
   
-- **updeep**  
-  https://github.com/substantial/updeep  
-  Easily update nested frozen objects and arrays in a declarative and immutable manner.
-  
-- **icedam**  
-  https://github.com/winkler1/icedam  
-  Ice Dam: a very lightweight library to freeze data. Data is frozen at the edge, where your Flux container sends it to views.
-
+- **React Immutability Helpers**  
+  https://facebook.github.io/react/docs/update.html  
+  A set of commands for immutably updating data.
 
 #### Immutable/Redux Interop
 
@@ -76,6 +115,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **Redux Immutable to JS**  
   https://github.com/nakamura-to/redux-immutable-to-js  
   Redux Immutable to JS allows you to convert immutable objects to JS objects automatically when Redux state is required outside reducers.
+  
+- **redux-tcomb-actions**  
+  https://gitlab.com/zdragnar/redux-tcomb-actions  
+  This module presents a simple way to generate action creators that provide a bit of type safety via tcomb.
 
 
 #### Alternate Data Management Concepts
@@ -87,3 +130,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **reduxdb**  
   https://github.com/wizawu/reduxdb  
   Redux with MongoDB-like API.  Dispatches internal Redux actions in response to API calls like `db.someCollection.insert({id : 1, name "abc"})`.
+  
+- **Vry**  
+  https://github.com/JaapRood/vry  
+  Data modeling with Immutable.js designed for use with Redux-like architectures.  Defining models using Immutable.js, making it easier to define defaults, parsing, serialisation, merging, identifiying entities, etc. Models are stateless (anaemic), meaning the instances (Immutable.Maps) are passed to the Model's methods as the first argument and a new / updated version is returned. This makes them a great fit to implement Redux reducers.

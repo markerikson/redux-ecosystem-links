@@ -45,6 +45,29 @@
   https://github.com/matystl/redux-effect-reducers  
   Library that enable returning of effects in reducers for redux library
   
+- **redux-side-effect**  
+  https://github.com/gregwebs/redux-side-effect  
+  Side Effect middleware for Redux. Lets you specify side effects in your reducing function that dispatch new actions.
+  
+- **redux-reactions**  
+  https://github.com/winstonewert/redux-reactions  
+  A reactions approach to side-effects in redux.
+  
+- **redux-yield-effect**  
+  https://github.com/wizardzloy/redux-yield-effect  
+  Declarative side effects for redux with generators
+  
+- **redux-walk**  
+  https://github.com/xaviervia/redux-walk  
+  An async extension for Redux that keeps you functional
+  
+- **redux-process**  
+  https://github.com/maksimsco/redux-process  
+  Process manager for Redux to orchestrate complex/asynchronous operations in one place.
+  
+- **redux-fork**  
+  https://github.com/floxjs/fork  
+  Non blocking async call effects.
   
   
 #### Redux-Effects extensions

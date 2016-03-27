@@ -43,3 +43,19 @@
 - **redux-extract-state**  
   https://github.com/caojs/redux-extract-state  
   Extract local component state to redux store.
+  
+- **Redux Namespace**  
+  https://github.com/evanrs/redux-namespace  
+  Dead simple tool moving component local state to a Redux store namespace.
+  
+- **redux-as-component**  
+  https://github.com/lapanoid/redux-as-component  
+  Wrap your app to use it as component inside other app
+  
+- **redux-state-props**  
+  https://www.npmjs.com/package/redux-state-props  
+  stateProps is as a Higher-order Component to insert state as props into Stateless React Components in a declarative way (see stateProps for more info).  This package extends stateProps to use redux as a store.
+  
+- **redux-ephemeral**  
+  https://github.com/ashaffer/redux-ephemeral  
+  Library for managing transient local state in redux. Uses a hash array mapped trie internally, so it is extremely performant by default, but you still deal only with plain JS objects, and your redux state atom is still serializable in the same way.

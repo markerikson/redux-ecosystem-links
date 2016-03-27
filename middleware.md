@@ -238,6 +238,18 @@
   https://github.com/rclai/redux-ddp  
   Get DDP collection data synced straight into a Redux store instead of minimongo and attempting optimistic updates.
   
+- **redux-react-firebase**  
+  https://github.com/tiberiuc/redux-react-firebase  
+  Use Firebase with React and Redux in ES6
+  
+- **feathers-react-redux**  
+  https://github.com/saiichihashimoto/feathers-react-redux  
+  Unofficial Feathers bindings for React-Redux.  React-Redux is great. Feathers is fantastic. feathers-react-redux aims to tie these two together.
+  
+- **redux-socket-cluster**  
+  https://github.com/mattkrick/redux-socket-cluster  
+  A socket-cluster state snatcher.  Socket cluster is awesome, but it doesn't share it's state, so you always have to go to your stored socket to find out. This tiny package grabs all the tasty little state bits & sticks em in your redux store. Then, it sets up listeners for updates to keep those state bits nice and fresh.
+  
   
 #### Network Requests
 
@@ -292,8 +304,16 @@
   https://github.com/pavelvolek/redux-keen  
   Redux middleware for sending analytics to Keen.
   
+- **redux-segment**  
+  https://github.com/rangle/redux-segment  
+  Segment.io analytics integration for redux.
+  
   
 #### Data Management
+
+- **redux-falsy**  
+  https://github.com/ashaffer/redux-falsy  
+  Drop falsy values that have been dispatched into redux. This may be a candidate for the simplest redux middleware possible.
 
 - **redux-normalizr-middleware**  
   https://github.com/wbinnssmith/redux-normalizr-middleware  

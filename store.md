@@ -7,6 +7,10 @@
 - **redux-persist**  
   https://github.com/rt2zz/redux-persist  
   Persist and rehydrate a redux store.  The core idea behind redux-persist is to provide performant persistence and rehydration methods. At the same time redux-persist is designed to minimize complexity by knowing as little about your application as possible.
+  
+- **redux-persist-crosstab**  
+  https://github.com/rt2zz/redux-persist-crosstab  
+  Add cross tab syncing to your redux app with 1 line. This tiny module listens to the window for redux-persist storage events. When an event occurs it will dispatch a rehydrate action.
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -103,6 +107,9 @@
   https://github.com/nakamura-to/redux-debounce-listener  
   Redux Debounce Listener allows you to delay invoking listeners. If you use this with React, rendering cost may be reduced.
   
+- **pull-redux**  
+  https://github.com/ahdinosaur/pull-redux  
+  use redux as a through pull stream
   
   
 #### Other

@@ -28,3 +28,11 @@
 - **Redux Form Validation**  
   https://github.com/posabsolute/redux-form-validator  
   An es6 redux form validator middleware that helps you manage inputs. This middleware is not about keeping your global form state; it's about keeping your form validation state.
+  
+- **redux-formo**  
+  https://github.com/jameslnewell/redux-formo  
+  An alternate forms framework for Redux+React.  Validate on blur, not change.  Validate individual fields, not the whole form
+  
+- **redux-uniform**  
+  https://github.com/babotech/redux-uniform  
+  High order component for working with forms with redux

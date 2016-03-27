@@ -51,3 +51,11 @@
 - **redux-addressbar**  
   https://github.com/Yaska/redux-addressbar  
   Treat the address bar as just another input, and render your app only from Redux store state.
+  
+- **redux-title**  
+  https://www.npmjs.com/package/redux-title  
+  Synchronization of document title and redux state
+  
+- **redux-auth-wrapper**  
+  https://github.com/mjrussell/redux-auth-wrapper
+  A React Higher Order Component (HOC) for handling Authentication and Authorization with Redux and React-Router

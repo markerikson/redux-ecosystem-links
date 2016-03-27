@@ -54,6 +54,10 @@
   https://github.com/lapanoid/redux-import-export-monitor  
   A simple monitor for Redux DevTools that enables exporting, then importing the serialized state of a Redux application. It looks like a prompt() modal, but without the character limit.
   
+- **Multiple Monitor**  
+  https://github.com/YoruNoHikage/redux-devtools-multiple-monitors  
+  Integrate multiple monitors to your redux devtools.
+  
 
 #### Logging
   
@@ -100,6 +104,10 @@
 - **redux-log-errors**  
   https://github.com/kolodny/redux-log-errors  
   redux store enhancer to log errors while dispatching
+  
+- **mole-redux**  
+  https://github.com/molejs/mole-redux  
+  mole-redux is a tiny helper library that works as a middleware for redux, allowing easy state-action molejs. Underneath, it uses the report() method from mole-reporter one of the three independent packages that form the whole molejs service stack.
   
   
  #### Linting

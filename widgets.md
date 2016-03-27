@@ -1,29 +1,76 @@
 ### Widgets and Components
 
-
-- **React-Redux Grid**  
-  https://github.com/bencripps/react-redux-grid  
-  A Grid Component written in React using the Redux Pattern.
+#### Assorted Components
 
 - **react-redux-modal**  
   https://github.com/yuanqing/react-redux-modal  
   A React modal connected to the Redux store.
   
-- **re-notif**  
-  https://github.com/indexiatech/re-notif  
-  React & Redux based notifications center.  Thanks to Redux, the notification objects are maintained within Redux Store's State and are fired by Actions,  Features such auto dismiss and styling are supported
-  
-- **react-inline-grid**  
-  https://github.com/broucz/react-inline-grid  
-  A predictable grid layout based on flexbox for React applications using inline styles.  Uses Redux.
+- **react-redux-modal**  
+  https://github.com/diegoddox/react-redux-modal  
+  Another Redux-based React modal
   
 - **subdivide**  
   https://github.com/philholden/subdivide  
   Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
   
+- **redux-infinite-scroll**  
+  https://github.com/RealScout/redux-infinite-scroll  
+  A stateless React infinite scroll component meant for usage within Redux.
+  
+- **redux-authentication**  
+  https://github.com/Jackong/redux-authentication  
+  An authentication decorator/component for Redux
+  
+- **React Tab Component Redux**  
+  https://github.com/pspfolio/ReactTabComponentRedux  
+  React tab component. Handling application state with Redux.
+  
+- **redux-validations**  
+  https://github.com/trevorwhitney/redux-validations  
+  A library to provide simple validations for React components using Redux and higher order component decorators.
+  
+- **redux-json-tree**  
+  https://github.com/krispo/redux-json-tree  
+  React/Redux editable JSON tree component for deeply nested data, with a single store. It simulates a simple two-way data-binding mechanism. 
+
+- **connect-with-transition-group**  
+  https://github.com/esayemm/connect-with-transition-group  
+  Enable ReactTransitionGroup lifecycles on redux 'connected' components
+
+
+#### Grids and Tables
+
+- **react-inline-grid**  
+  https://github.com/broucz/react-inline-grid  
+  A predictable grid layout based on flexbox for React applications using inline styles.  Uses Redux.
+
+- **React-Redux Grid**  
+  https://github.com/bencripps/react-redux-grid  
+  A Grid Component written in React using the Redux Pattern.
+
+- **react-redux-table**  
+  https://github.com/axelhzf/react-redux-table  
+  Proof of concept of using Immutable.Cursor to create reusable redux components
+  
+  
+#### Notifications
+  
+- **re-notif**  
+  https://github.com/indexiatech/re-notif  
+  React & Redux based notifications center.  Thanks to Redux, the notification objects are maintained within Redux Store's State and are fired by Actions,  Features such auto dismiss and styling are supported  
+  
 - **redux-flash-notification**  
   https://github.com/posabsolute/redux-flash-notification  
   An es6 growl-like notification plugin for react and redux.
+  
+- **react-redux-toastr**  
+  https://github.com/diegoddox/react-redux-toastr  
+  react-redux-toastr is a toastr message implemented with Redux 
+  
+- **redux-tooltip**  
+  https://github.com/kuy/redux-tooltip  
+  A tooltip React component for Redux.
   
   
   
@@ -68,3 +115,27 @@
 - **ReduxAsyncConnect**  
   https://github.com/Rezonans/redux-async-connect  
   It allows you to request async data, store them in redux state and connect them to your react component.
+  
+- **Redux Data Loader**  
+  https://github.com/kouhin/redux-dataloader  
+  Loads async data for Redux apps focusing on preventing duplicated requests and dealing with async dependencies.  Deeply inspired by Alt Data Sources API, also inspired by redux-saga.
+  
+- **redux-filter**  
+  https://github.com/nsmith7989/redux-filter
+  Higher Order React Component for filtering (and sorting) a collection of items. This is especially useful in product filters that mimic the sorting/filtering behavior of Amazon or Best Buy.
+  
+- **Redux Connected PropTypes**  
+  https://github.com/conorhastings/redux-connected-proptypes  
+  Redux Connected PropTypes consumes a React Component(with propTypes) and returns a connected version of that component in react-redux parlance with the props defined on the compoents propTypes injected into the component instance from the redux global state.
+  
+- **react-redux-resolve**  
+  https://github.com/martijndeh/react-redux-resolve  
+  Experimental library to universally resolve your component's initial data. Per component you can specify a resolver. On the client side, the resolver is executed in componentDidMount() and on the server-side once you call waitForResolves(renderProps, store). This makes server-side rendering easy to implement
+  
+- **react-gql**  
+  https://github.com/leeching/react-gql  
+  A collection of helper functions to build a react app with redux and graphql.
+  
+- **Relate**  
+  https://github.com/relax/relate  
+  Relate is a library built to use together with Redux and GraphQL. You can think of it as an alternative to Relay for Redux. It extends the React Redux's connect where you can additionally specify your container's data needs. Relate will resolve each container data needs automatically and provides it to each one the data they requested.

@@ -28,6 +28,10 @@
   https://github.com/Versent/redux-crud  
   Redux CRUD is a convention driven way of building CRUD applications using Redux.  It gives you a standard set of action types, actions, and reducers.
   
+- **Redux Easy CRUD**  
+  https://github.com/JacquesBonet/redux-easy-crud  
+  redux-easy-crud is a library based on redux-crud.  It provides helper functions to speed redux crud application development.
+  
 - **redux-binary**  
   https://github.com/jfairbank/redux-binary  
   Create simple Redux actions and a reducer for managing binary state.
@@ -39,6 +43,10 @@
 - **redux-responsive**  
   https://github.com/AlecAivazis/redux-responsive  
   A redux reducer for managing the responsive state of your application
+  
+- **redux-mouse**  
+  https://github.com/montemishkin/redux-mouse  
+  Utilities for managing mouse state with redux.
   
   
 #### Network

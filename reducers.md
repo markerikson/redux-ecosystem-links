@@ -79,6 +79,14 @@
   https://github.com/TehShrike/create-redux-reducer-from-map  
   A personal preference for building reducers for Redux.
   
+- **topologically-combine-reducers**  
+  https://github.com/KodersLab/topologically-combine-reducers  
+  A way to combine reducers by their dependencies and access at their ancestor's values.
+  
+- **redux-polymorphic**  
+  https://github.com/yesmeck/redux-polymorphic
+  Another attempt to reuse your reducers, inspired from multireducer
+  
   
 #### Higher-Order Reducers
 

@@ -68,6 +68,10 @@
   https://github.com/nkt/create-action  
   Helpers for creating FSA compatible actions.
   
+- **action-names**  
+  https://github.com/Versent/action-names  
+  Utility functions to generate action name triplets for CRUD ops.
+  
   
 #### Other Action Use Cases  
   
@@ -78,6 +82,10 @@
 - **Redux Smart Action**  
   https://github.com/stephan83/redux-smart-action  
   SmartActions add a layer on top of actions to do things depending on whether an action would modify the state. When a SmartAction is called, it returns an object instead of dispatching immediately. The returned object tells you whether executing it would change the state, and a method to execute it.
+  
+- **Redux Undo Stack**  
+  https://github.com/stephan83/redux-undo-stack  
+  An undo stack for redux. It works by storing incremental changes instead of entire states, which is optimal when working with large data. It works in combination with SmartActions.
   
 - **redux-queue-offline**  
   https://github.com/mathieudutour/redux-queue-offline  

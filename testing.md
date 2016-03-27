@@ -19,3 +19,20 @@
 - **redux-ava**  
   https://github.com/sotojuan/redux-ava  
   Write AVA tests for redux pretty quickly
+  
+- **redux-chaos**  
+  https://github.com/thomas-jeepe/redux-chaos  
+  Dead Simple Chaos/Property Testing with Redux
+  This randomly chooses an action from an array 100,000 times and dispatches it to a store with a hook on each repetition.
+  
+- **redux-test**  
+  https://github.com/dariocravero/redux-test  
+  Create a redux-like store for testing
+  
+- **tape-redux**  
+  https://github.com/KaleoSoftware/tape-redux  
+  Write tape tests for redux blazingly fast.
+  
+- **redux-asserts**  
+  https://github.com/mitodl/redux-asserts  
+  Functions to assert dispatched actions in redux
