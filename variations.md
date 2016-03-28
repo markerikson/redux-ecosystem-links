@@ -26,7 +26,7 @@
   React-ViewModel make it possible to write 'ViewModel' classes to reorganize code for reducer implement in Redux.
   
 - **Replux**  
-  https://github.com/gregthebusker/replux
+  https://github.com/gregthebusker/replux  
   Self contained components and enhancements for Redux
   
 - **Reductor**  
@@ -39,7 +39,7 @@
   
 - **Vada**  
   https://github.com/xogeny/vada  
-  https://medium.com/@mtiller/encapsulating-application-logic-with-reactors-392635763e7
+  https://medium.com/@mtiller/encapsulating-application-logic-with-reactors-392635763e7  
   Code to support a viewless, action driven architecture
   
 - **redux-apis**  
@@ -48,7 +48,7 @@
   
 - **react-redux-provide**  
   https://github.com/loggur/react-redux-provide  
-  https://medium.com/@timbur/react-automatic-redux-providers-and-replicators-c4e35a39f1
+  https://medium.com/@timbur/react-automatic-redux-providers-and-replicators-c4e35a39f1  
   Wrap components with a smart component and later assign providers (i.e., stores and action creators) to it.
   
 - **redux-tree**  

@@ -57,5 +57,5 @@
   Synchronization of document title and redux state
   
 - **redux-auth-wrapper**  
-  https://github.com/mjrussell/redux-auth-wrapper
+  https://github.com/mjrussell/redux-auth-wrapper  
   A React Higher Order Component (HOC) for handling Authentication and Authorization with Redux and React-Router
