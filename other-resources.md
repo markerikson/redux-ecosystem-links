@@ -11,6 +11,9 @@
   https://github.com/xgrommx/awesome-redux  
   A full list of any and all links related to Redux
 
+- **Reactiflux**  
+  http://www.reactiflux.com  
+  A community for discussion of React-related technologies.  Numerous channels for general discussion, help / questions, and specific libraries such as Redux.  Uses the Discord chat service.
 
 #### Community-Defined Standards
 
