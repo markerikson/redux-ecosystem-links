@@ -55,6 +55,11 @@
 - **redux-simple-localstorage**  
   https://github.com/MoombaDS/redux-simple-localstorage  
   Ridiculously simple implementation for serialising the entire Redux store to local storage and retrieving it on application restart.
+
+- **Redux Share**  
+  https://github.com/baptistemanson/redux-share-server  
+  https://github.com/baptistemanson/redux-share-client  
+  Share redux state across the network between clients and servers
   
 
 #### Store Change Subscriptions
