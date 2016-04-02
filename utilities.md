@@ -4,7 +4,7 @@
 #### Data Manipulation
 - **reselect**  
   https://github.com/reactjs/reselect  
-  Simple ìselectorî library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
+  Simple ‚Äúselector‚Äù library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
   
 - **normalizr**  
   https://github.com/gaearon/normalizr  
@@ -120,3 +120,7 @@
 - **rehash**  
   https://github.com/sodiumjoe/rehash  
   A set of utilities to generate an initial state, a reducer, and an action creator tree for use with redux.
+
+- **actionize**  
+  https://github.com/aol/actionize  
+  Actionize helps you build Redux reducers without having to write large switch statements to handle actions or create action factories to call them. Actionize maintains a set of reducer names and ensures they are unique; this ensures all actions have unique names for dispatching.
