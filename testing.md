@@ -32,7 +32,11 @@
 - **tape-redux**  
   https://github.com/KaleoSoftware/tape-redux  
   Write tape tests for redux blazingly fast.
-  
+
 - **redux-asserts**  
   https://github.com/mitodl/redux-asserts  
   Functions to assert dispatched actions in redux
+
+- **expect-redux-actions**  
+  https://github.com/dmitry-zaets/expect-redux-actions  
+  Expect assertions for redux actions testing 
