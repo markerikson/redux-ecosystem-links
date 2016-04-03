@@ -82,6 +82,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://facebook.github.io/react/docs/update.html  
   A set of commands for immutably updating data.
 
+- **immutability-helper**  
+  https://github.com/kolodny/immutability-helper  
+  "React Immutability Helpers" most likely are [going to be deprecated](https://github.com/kolodny/immutability-helper/issues/1). This library is a drop-in replacement for `react-addons-update` that in addition allows you to extend its functionality.
+
 #### Immutable/Redux Interop
 
 - **redux-immutable**  
