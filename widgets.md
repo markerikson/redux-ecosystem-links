@@ -139,3 +139,7 @@
 - **Relate**  
   https://github.com/relax/relate  
   Relate is a library built to use together with Redux and GraphQL. You can think of it as an alternative to Relay for Redux. It extends the React Redux's connect where you can additionally specify your container's data needs. Relate will resolve each container data needs automatically and provides it to each one the data they requested.
+
+- **redux-async-props**  
+  https://github.com/AlastairTaft/redux-async-props  
+  A simple way to load props and state asynchonously with react-router and redux.
