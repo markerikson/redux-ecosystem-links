@@ -36,3 +36,7 @@
 - **redux-uniform**  
   https://github.com/babotech/redux-uniform  
   High order component for working with forms with redux
+
+- **revalidate**  
+  https://github.com/jfairbank/revalidate  
+  Elegant and composable validations. Works out of the box with redux-form but useful for general validations too.
