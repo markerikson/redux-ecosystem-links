@@ -127,7 +127,7 @@
   Provides a higher-order reducer for managing multiple instances of the same redux state subtree.
 
 - **redux-meta-reducer**  
-  https://github.com/DerekCuevas/redux-meta-reducer
+  https://github.com/DerekCuevas/redux-meta-reducer  
   A redux higher order reducer to simplify the state of fetched data.
   
   
