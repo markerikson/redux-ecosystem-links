@@ -68,6 +68,10 @@
 - **redux-fork**  
   https://github.com/floxjs/fork  
   Non blocking async call effects.
+
+- **redux-tap**  
+  https://github.com/markdalgleish/redux-tap  
+  Simple side-effect middleware for Redux.
   
   
 #### Redux-Effects extensions
