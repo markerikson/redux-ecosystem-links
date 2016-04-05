@@ -71,6 +71,10 @@
 - **action-names**  
   https://github.com/Versent/action-names  
   Utility functions to generate action name triplets for CRUD ops.
+
+- **redux-request**  
+  https://github.com/kongdigital/redux-request  
+  Redux-Request simplifies Restful API calls using redux. It follows the convention of "configuration" over "code" and is designed for applications that make a lot of API calls.
   
   
 #### Other Action Use Cases  
