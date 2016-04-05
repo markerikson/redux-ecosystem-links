@@ -40,3 +40,7 @@
 - **expect-redux-actions**  
   https://github.com/dmitry-zaets/expect-redux-actions  
   Expect assertions for redux actions testing 
+
+- **redux-actions-assertions**  
+  https://github.com/dmitry-zaets/redux-actions-assertions  
+  Assertions for redux actions testing
