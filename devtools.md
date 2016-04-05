@@ -143,3 +143,19 @@
 - **redux-validator**  
   https://github.com/MaxLee1994/redux-validator  
   Action parameter validator middleware for redux
+
+
+
+#### Component Update Monitoring
+
+- **React Render Visualizer**  
+  https://github.com/redsunsoft/react-render-visualizer  
+  A component mixin that overlays a tooltip indicating when a component has re-rendered and why, as well as animating the component's outline.
+
+- **react-transform-render-visualizer**  
+  https://github.com/spredfast/react-transform-render-visualizer  
+  A react-transform version of the render visualizer.  Transforms *all* React components by default, but also offers a second transform that can be used to only modify components with a `static rerenderViz = true` attribute on the component class.
+
+- **"WhyDidYouUpdateMixin"**  
+  http://benchling.engineering/deep-dive-react-perf-debugging/  
+  The article contains a useful props-diffing mixin that logs change information to the console.
