@@ -72,6 +72,10 @@
 - **redux-tap**  
   https://github.com/markdalgleish/redux-tap  
   Simple side-effect middleware for Redux.
+
+- **redux-io**  
+  https://github.com/stoeffel/redux-io  
+  Wrap side-effects in an IO monad.
   
   
 #### Redux-Effects extensions
