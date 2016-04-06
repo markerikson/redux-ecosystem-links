@@ -101,10 +101,6 @@
   https://github.com/stoeffel/redux-future  
   FSA-compliant future monad middleware for Redux, based on redux-promise.
   
-- **redux-io**  
-  https://github.com/stoeffel/redux-io  
-  FSA-compliant io monad middleware for Redux, based on redux-future.
-  
 - **redux-either**  
   https://github.com/stoeffel/redux-either  
   FSA-compliant either monad middleware for Redux, based on redux-future.
