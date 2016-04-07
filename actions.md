@@ -76,6 +76,9 @@
   https://github.com/kongdigital/redux-request  
   Redux-Request simplifies Restful API calls using redux. It follows the convention of "configuration" over "code" and is designed for applications that make a lot of API calls.
   
+- **redux-glue**  
+  https://github.com/jfairbank/redux-glue  
+  Glue together actions to create testable, sequenced actions.
   
 #### Other Action Use Cases  
   
