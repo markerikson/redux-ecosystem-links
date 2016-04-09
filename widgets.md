@@ -143,3 +143,7 @@
 - **redux-async-props**  
   https://github.com/AlastairTaft/redux-async-props  
   A simple way to load props and state asynchonously with react-router and redux.
+
+- **react-reflorp**  
+  https://github.com/tomat/react-reflorp  
+  A simple ORM using React Refetch as a backend, but the data is stored in the Redux store.
