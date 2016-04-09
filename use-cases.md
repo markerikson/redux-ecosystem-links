@@ -47,6 +47,10 @@
 - **redux-mouse**  
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
+
+- **redux-collection**  
+  https://github.com/eladlevy/redux-collection  
+  A robust redux collection data structure that easily syncs with a RESTful API.
   
   
 #### Network
