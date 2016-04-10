@@ -82,3 +82,7 @@
 - **two-way-rest**  
   https://github.com/l2silver/two-way-rest  
   A react-redux plugin that facilitates changes to the state and backend data sources.
+
+- **Radical**  
+  https://github.com/nathan-rice/radical  
+  Radical is a client API framework, designed to simplify the creation and maintenance of React/Redux applications. Radical allows you to model your client API and state via the composition of Actions and Namespaces.
