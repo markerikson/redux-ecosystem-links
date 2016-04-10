@@ -38,6 +38,11 @@
   https://github.com/esayemm/connect-with-transition-group  
   Enable ReactTransitionGroup lifecycles on redux 'connected' components
 
+- **react-redux-idle-monitor**  
+  https://github.com/cchamberlain/redux-idle-monitor  
+  https://github.com/cchamberlain/react-redux-idle-monitor  
+  Works in tandem with redux-idle-monitor to connect information about a users activity / idle state into your React components.
+
 
 #### Grids and Tables
 
