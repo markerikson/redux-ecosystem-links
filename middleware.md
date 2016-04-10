@@ -362,3 +362,6 @@
   https://github.com/dehamilton/postal-redux-middleware  
   Middleware to interact with Postal.js
   
+- **redux-worker**  
+  https://github.com/chikeichan/redux-worker  
+  Helps you build multi-threaded JavaScript applications by moving your reducer into a Web Worker. It also provides a simple API for you to register tasks to be executed in the web worker outside of Redux. 
