@@ -87,6 +87,6 @@
   https://github.com/nathan-rice/radical  
   Radical is a client API framework, designed to simplify the creation and maintenance of React/Redux applications. Radical allows you to model your client API and state via the composition of Actions and Namespaces.
 
-- **redux-nimble*  
+- **redux-nimble**  
   https://github.com/bodyflex/redux-nimble  
   A library that removes a lot of the boilerplate necessary to use redux.
