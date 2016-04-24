@@ -6,6 +6,10 @@
   https://github.com/reactjs/reselect  
   Simple “selector” library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
   
+- **reselect-change-memoize**  
+  https://github.com/kbrownlees/reselect-change-memoize  
+  A simple memoize function for reselect which performs a callback everytime the result changes.
+  
 - **normalizr**  
   https://github.com/gaearon/normalizr  
   Normalizes deeply nested JSON API responses according to a schema, producing flatter and unduplicated state.
@@ -124,3 +128,15 @@
 - **actionize**  
   https://github.com/aol/actionize  
   Actionize helps you build Redux reducers without having to write large switch statements to handle actions or create action factories to call them. Actionize maintains a set of reducer names and ensures they are unique; this ensures all actions have unique names for dispatching.
+  
+- **redux-reqhelper**  
+  https://github.com/ophite/redux-reqhelper  
+  Helper for processing requests in redux (work with actions, reducers, selectors)
+  
+- **redux-rest-resource**  
+  https://github.com/mgcrea/redux-rest-resource  
+  Generate types, actions and reducers to easily interact with a REST API
+
+- **redux-duck**  
+  https://github.com/sergiodxa/redux-duck  
+  Helper function to create Redux modules using the ducks-modular-redux proposal 

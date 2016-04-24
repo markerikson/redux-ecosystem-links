@@ -124,6 +124,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://gitlab.com/zdragnar/redux-tcomb-actions  
   This module presents a simple way to generate action creators that provide a bit of type safety via tcomb.
 
+- **node-dux**  
+  https://github.com/eknkc/node-dux  
+  Seamless-Immutable Redux helpers
+
 
 #### Alternate Data Management Concepts
 
@@ -135,6 +139,18 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/wizawu/reduxdb  
   Redux with MongoDB-like API.  Dispatches internal Redux actions in response to API calls like `db.someCollection.insert({id : 1, name "abc"})`.
   
+- **redux-schema**  
+  https://github.com/ddsol/redux-schema  
+  Automatic actions, reducers and validation for Redux.  Designed to make using the immutable state easy to use while keeping the state serializable.
+  
 - **Vry**  
   https://github.com/JaapRood/vry  
   Data modeling with Immutable.js designed for use with Redux-like architectures.  Defining models using Immutable.js, making it easier to define defaults, parsing, serialisation, merging, identifiying entities, etc. Models are stateless (anaemic), meaning the instances (Immutable.Maps) are passed to the Model's methods as the first argument and a new / updated version is returned. This makes them a great fit to implement Redux reducers.
+
+- **Datascript**  
+  https://github.com/tonsky/datascript  
+  Immutable database and Datalog query engine for Clojure, ClojureScript and JS
+
+- **jseg**  
+  https://github.com/brandonbloom/jseg  
+  A super simple, in-memory, JS graph database.

@@ -109,6 +109,10 @@
   https://github.com/molejs/mole-redux  
   mole-redux is a tiny helper library that works as a middleware for redux, allowing easy state-action molejs. Underneath, it uses the report() method from mole-reporter one of the three independent packages that form the whole molejs service stack.
   
+- **redux-catch**  
+  https://github.com/sergiodxa/redux-catch  
+  Error catcher middleware for Redux reducers and middlewares.
+  
   
  #### Linting
  
@@ -159,3 +163,7 @@
 - **"WhyDidYouUpdateMixin"**  
   http://benchling.engineering/deep-dive-react-perf-debugging/  
   The article contains a useful props-diffing mixin that logs change information to the console.
+
+- **should-component-update-dev**  
+  https://github.com/ConciergeAuctions/should-component-update-dev  
+  A development replacement for shouldComponentUpdate that gives you the "why?"

@@ -15,3 +15,15 @@
 - **redux-cli**  
   https://github.com/SpencerCDixon/redux-cli  
   An opinionated CLI for building redux/react apps quicker
+  
+- **redux-boot**  
+  https://github.com/choko-org/redux-boot  
+  Modular Redux bootstrap with asynchronous side-effects.  Minimal Framework using Redux to develop modularized universal (backend and frontend) applications, based on functional programming paradigms and friends such as Map and Reduce, Immutability and Reactive programming.
+  
+- **redux-bootstrap**  
+  https://github.com/remojansen/redux-bootstrap  
+  Bootstrapping function for Redux applications. Redux bootstrap does not generate files for you. It is not a project template or project scaffolding tool and it is not related with Bootstrap (responsive web apps framework).  This library handles most of the common application initialization/bootstrapping that takes place every time you create a new Redux project.
+  
+- **mikey**  
+  https://github.com/Mikeysax/mikey  
+  Mikey is a node command-line tool for generating React-Redux projects, React-Redux containers, React components, React actions, React reducers, and React helpers.

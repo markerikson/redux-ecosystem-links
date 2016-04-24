@@ -86,6 +86,10 @@
   https://github.com/wyze/redux-debounce  
   A middleware for Redux to debounce actions.
   
+- **redux-async-queue**  
+  https://github.com/zackargyle/redux-async-queue  
+  ReduxAsyncQueue middleware makes queueing redux actions painless. This allows you to fire multiple actions simultaneously and have them execute asynchronously in order. 
+  
   
 #### Other Async Actions
   
@@ -120,6 +124,10 @@
 - **redux-co**  
   https://github.com/kilianc/redux-co  
   redux-co is a drop-in replacement for redux-thunk (and indeed passes its test suite). It's meant to support async actions through yieldables as well as plain thunk functions.
+  
+- **Redux Thunk Inject**  
+  https://github.com/producthunt/redux-thunk-inject  
+  A drop-in replacement for redux-thunk that lets you inject additional variables into your action creators.
   
 
 #### Action Grouping and Interception
@@ -159,8 +167,6 @@
 - **redux-white-black**  
   https://github.com/rnsloan/redux-white-black  
   Redux middleware to execute a callback on action types using a whitelist or blacklist approach
-  
- 
   
   
   
@@ -285,6 +291,17 @@
   https://github.com/defact/rictus  
   Redux middleware for promise-based resource requests
   
+- **redux-autobahn**  
+  https://github.com/saadtazi/redux-autobahn  
+  A redux middleware for WAMP protocol using autobahn.
+  
+- **redux-track-async**  
+  https://github.com/lronhoj/redux-track-async  
+  A lib for tracking pending async requests. Exposes middleware & a reducer
+  
+- **multi-action-api-middleware**  
+  https://github.com/gkosharov/multi-action-api-middleware  
+  Redux api middleware for handling simultaneous asynchronous action dispatches (api calls).
   
 #### Analytics
 
@@ -365,3 +382,7 @@
 - **redux-worker**  
   https://github.com/chikeichan/redux-worker  
   Helps you build multi-threaded JavaScript applications by moving your reducer into a Web Worker. It also provides a simple API for you to register tasks to be executed in the web worker outside of Redux. 
+
+- **Redux Provider**  
+  https://github.com/reduxible/redux-provider-middleware  
+  The providerMiddleware provides providers that similar with providers of Angular.js. A providerMiddleware injects providers that returns new or cached objects to action. It also similar with Spring Beans.

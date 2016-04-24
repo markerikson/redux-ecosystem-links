@@ -42,6 +42,10 @@
   https://github.com/cchamberlain/redux-idle-monitor  
   https://github.com/cchamberlain/react-redux-idle-monitor  
   Works in tandem with redux-idle-monitor to connect information about a users activity / idle state into your React components.
+  
+- **duck-ahead**  
+  https://github.com/yormi/duck-ahead  
+  A simple async typeahead solution for React and Redux
 
 
 #### Grids and Tables
@@ -58,6 +62,9 @@
   https://github.com/axelhzf/react-redux-table  
   Proof of concept of using Immutable.Cursor to create reusable redux components
   
+- **redux-table**  
+  https://github.com/rwieruch/redux-table  
+  Table component build with redux and react. It provides interactions like sort, filter and selection.
   
 #### Notifications
   
@@ -77,6 +84,9 @@
   https://github.com/kuy/redux-tooltip  
   A tooltip React component for Redux.
   
+- **react-redux-notifications**  
+  https://github.com/JakeGinnivan/react-redux-notifications  
+  Redux powered notification React components.
   
   
 #### Data Fetching
@@ -152,3 +162,7 @@
 - **react-reflorp**  
   https://github.com/tomat/react-reflorp  
   A simple ORM using React Refetch as a backend, but the data is stored in the Redux store.
+
+- **redux-taxi**  
+  https://github.com/nytimes/redux-taxi  
+  ReduxTaxi allows for component-driven asynchronous server-side rendering in isomorphic/universal React+Redux apps.

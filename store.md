@@ -115,7 +115,10 @@
 - **pull-redux**  
   https://github.com/ahdinosaur/pull-redux  
   use redux as a through pull stream
-  
+
+- **redux-on-state-change**  
+  https://github.com/franjohn21/redux-on-state-change  
+  Extremely simple middleware to observe Redux state changes.  It's simply to have a place to handle tangentially related logic that doesn't belong in components or reducers but relies on knowing about state or action updates.
   
 #### Other
 

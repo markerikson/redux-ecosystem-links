@@ -91,6 +91,17 @@
   https://github.com/convoyinc/combined-reduction  
   Like Redux's combineReducers, but more better!  Allows definition of nested reducers and multiple top-level reducers.
   
+- **redux-reducer-delegate**  
+  https://github.com/wmira/redux-reducer-delegate  
+  Create a reducer by delegating types to sub reducers.  A way to create reducers by composing sub-reducers. This prevent the switch statements.
+  
+- **redux-blower**  
+  https://github.com/JiriChara/redux-blower  
+  Faster and nicer reducers for your Redux applications. Say "NO!" to switch statements!
+  
+- **redux-modifiers**  
+  https://github.com/calvinfroedge/redux-modifiers  
+  A collection of generic functions on top of ImmutableJS and Redux Actions for simplifying your reducers. Declare your reducers and state as plain old javascript objects, but take advantage of Immutable guarantees and data structure traversal utilities.
   
 #### Higher-Order Reducers
 

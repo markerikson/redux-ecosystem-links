@@ -90,3 +90,11 @@
 - **redux-nimble**  
   https://github.com/bodyflex/redux-nimble  
   A library that removes a lot of the boilerplate necessary to use redux.
+
+- **redux-direct**  
+  https://github.com/LiquidLabsGmbH/redux-direct  
+  With redux-direct you can use your action creators directly inside the reducers instead of having to define string constants for each action.
+  
+- **Tango**  
+  https://github.com/Graf009/tango  
+  Toolkit for building redux/react applications.  Easy to understand objects instead of crazy functional composition. Bundle groups of middleware, enhancers, and reducers together as "plugins". Dead simple Component API - use ES6 classes, bring back sane behavior, bind component functions scope to class (like old react), never write mapDispatchToProps or mapStateToProps.

@@ -44,3 +44,7 @@
 - **redux-actions-assertions**  
   https://github.com/dmitry-zaets/redux-actions-assertions  
   Assertions for redux actions testing
+  
+- **redux-test-store**  
+  https://github.com/davidkpiano/redux-test-store  
+  Test existing stores in Redux, the easy way

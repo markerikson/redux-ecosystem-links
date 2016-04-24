@@ -24,14 +24,6 @@
   https://github.com/alexkuz/redux-pagan  
   Managing internationalization via redux
   
-- **Redux CRUD**  
-  https://github.com/Versent/redux-crud  
-  Redux CRUD is a convention driven way of building CRUD applications using Redux.  It gives you a standard set of action types, actions, and reducers.
-  
-- **Redux Easy CRUD**  
-  https://github.com/JacquesBonet/redux-easy-crud  
-  redux-easy-crud is a library based on redux-crud.  It provides helper functions to speed redux crud application development.
-  
 - **redux-binary**  
   https://github.com/jfairbank/redux-binary  
   Create simple Redux actions and a reducer for managing binary state.
@@ -47,10 +39,25 @@
 - **redux-mouse**  
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
+  
+  
+#### Collections / CRUD
+
+- **Redux CRUD**  
+  https://github.com/Versent/redux-crud  
+  Redux CRUD is a convention driven way of building CRUD applications using Redux.  It gives you a standard set of action types, actions, and reducers.
+  
+- **Redux Easy CRUD**  
+  https://github.com/JacquesBonet/redux-easy-crud  
+  redux-easy-crud is a library based on redux-crud.  It provides helper functions to speed redux crud application development.
 
 - **redux-collection**  
   https://github.com/eladlevy/redux-collection  
   A robust redux collection data structure that easily syncs with a RESTful API.
+
+- **redux-crud-store**  
+  https://github.com/uniqueway/redux-crud-store  
+  A reusable API for syncing models with a backend.  Handles async using redux-saga, implements a default reducer for models, defines action creators for the reducer, and provides selectors for models.
   
   
 #### Network
@@ -63,3 +70,14 @@
   https://github.com/natac13/redux-asyncState-reducer  
   A reducer and actionCreators for handling the asynchronous state of your requests
 
+
+
+#### Backbone Integration
+
+- **backbone-redux**  
+  https://github.com/redbooth/backbone-redux  
+  The easy way to keep your backbone collections and redux store in sync.  Creates reducers and listeners for your backbone collections and fires action creators on every collection change.
+  
+- **Redux-Marionette**  
+  https://github.com/stutrek/redux-marionette  
+  This is a simple connection between Marionette and redux. It's designed to ease a transition to redux.  Redux-Marionette binds to the lifecycle of your views, so any model or collection attached to a view will transparently be attached to your reducer and dispatcher then disconnected when the view is removed.

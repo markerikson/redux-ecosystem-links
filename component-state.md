@@ -59,3 +59,7 @@
 - **redux-ephemeral**  
   https://github.com/ashaffer/redux-ephemeral  
   Library for managing transient local state in redux. Uses a hash array mapped trie internally, so it is extremely performant by default, but you still deal only with plain JS objects, and your redux state atom is still serializable in the same way.
+  
+- **relux**  
+  https://github.com/namelos/relux  
+  Generate dynamic actions and reducers.

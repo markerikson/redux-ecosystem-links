@@ -23,7 +23,7 @@ Items listed in a category are generally in no specific order - just whatever se
 - [Routing](routing.md)
 - [Other Redux Resources](other-resources.md)
 
-#### Redux-Based Libraries
+#### Redux-Based Libraries and Apps
 
 - [Component/Local State](component-state.md)
 - [Assorted Use Cases](use-cases.md)
@@ -32,3 +32,4 @@ Items listed in a category are generally in no specific order - just whatever se
 - [Alternate Approaches and Variations](variations.md)
 - [Utilities](utilities.md)
 - [Code Generation](code-generation.md)
+- [Applications and Examples](apps-and-examples.md)

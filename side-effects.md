@@ -13,6 +13,10 @@
   https://github.com/threepointone/react-redux-saga  
   React bindings for redux-saga, allowing you to dynamically start sagas by mounting them as React components
   
+- **redux-saga-debounce-effect**  
+  https://github.com/madewithlove/redux-saga-debounce-effect  
+  A small debounce effect for redux-saga
+  
 - **redux-saga-combine-latest**  
   https://github.com/jhewlett/redux-saga-combine-latest  
   Wait for several action types to be dispatched before handling them
@@ -77,6 +81,9 @@
   https://github.com/stoeffel/redux-io  
   Wrap side-effects in an IO monad.
   
+- **reelm**  
+  https://github.com/tihonove/reelm  
+  Awesome effect management library for redux
   
 #### Redux-Effects extensions
 

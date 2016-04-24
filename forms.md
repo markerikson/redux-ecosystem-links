@@ -36,3 +36,7 @@
 - **revalidate**  
   https://github.com/jfairbank/revalidate  
   Elegant and composable validations. Works out of the box with redux-form but useful for general validations too.
+  
+- **react-redux-autobound-inputs**  
+  https://github.com/calvinfroedge/react-redux-autobound-inputs  
+  Two way data binding and edit / view states for selected input controls.  This project provides automatic data binding to redux store for some common inputs. The inputs include choices from react-bootstrap and react-widgets.
