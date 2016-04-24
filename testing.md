@@ -48,3 +48,7 @@
 - **redux-test-store**  
   https://github.com/davidkpiano/redux-test-store  
   Test existing stores in Redux, the easy way
+
+- **redux-saga-test**  
+  https://github.com/stoeffel/redux-saga-test  
+  Utility for creating expressive redux-saga tests.
