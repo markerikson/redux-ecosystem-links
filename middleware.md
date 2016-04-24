@@ -242,7 +242,7 @@
   
 - **redux-react-firebase**  
   https://github.com/tiberiuc/redux-react-firebase  
-  Use Firebase with React and Redux in ES6
+  Use Firebase with React and Redux in ES6.  Integrated into Redux, automatic binding/unbinding, declarative decorator syntax for React components, support for nested props, 0ut of the box support for authentication (with auto load user profile).
   
 - **feathers-react-redux**  
   https://github.com/saiichihashimoto/feathers-react-redux  
@@ -251,7 +251,26 @@
 - **redux-socket-cluster**  
   https://github.com/mattkrick/redux-socket-cluster  
   A socket-cluster state snatcher.  Socket cluster is awesome, but it doesn't share it's state, so you always have to go to your stored socket to find out. This tiny package grabs all the tasty little state bits & sticks em in your redux store. Then, it sets up listeners for updates to keep those state bits nice and fresh.
-  
+
+- **redux-firebase**  
+  https://github.com/colbyr/redux-firebase  
+  Declarative firebase queries for redux.
+
+- **firedux**  
+  https://github.com/adjohnson916/firedux  
+  Firedux (fiery·ducks) wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.  Also supports some authentication methods and actions.
+
+- **este-redux-firebase**  
+  https://github.com/este/este-redux-firebase  
+  Standalone module of Este's Firebase/Redux integration lib
+
+- **refire**  
+  https://github.com/hoppula/refire  
+  Declarative Firebase bindings for Redux and React.  Refire keeps your local Redux store in sync with selected Firebase paths. You can declaratively bind Firebase paths as Strings, Objects or Arrays.  You can also specify queries based on Redux state (e.g. currently logged in user or route parameter) and Refire will automatically subscribe and unsubscribe your bindings when state changes.
+
+- **redux-firebase**  
+  https://github.com/gobadiah/redux-firebase  
+  Provides some added functionality when using redux with firebase, such as anonymous use, offline recovery.  Redux firebase makes the connection between your firebase backend and your redux store, using a schema.
   
 #### Network Requests
 
