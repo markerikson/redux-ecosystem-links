@@ -1,4 +1,4 @@
-### Code Generation
+### Project Scaffolding and CLIs
 
 - **redux-thunk-scaffolding**  
   https://github.com/jmakeig/redux-thunk-scaffolding  
