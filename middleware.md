@@ -172,6 +172,9 @@
   https://github.com/rnsloan/redux-white-black  
   Redux middleware to execute a callback on action types using a whitelist or blacklist approach
   
+- **redux-interceptor**  
+  https://github.com/Simonify/redux-interceptor  
+  redux-interceptor is a middleware for intercepting Redux actions and deferring their execution to a later time.
   
   
 #### Sockets and Adapters

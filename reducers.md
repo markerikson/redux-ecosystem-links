@@ -141,6 +141,10 @@
   https://github.com/DerekCuevas/redux-meta-reducer  
   A redux higher order reducer to simplify the state of fetched data.
   
+- **Indexed List Reducer Generator**  
+  https://gist.github.com/elado/95484b754f31fcd6846c7e75de4aafe4  
+  A high-order-reducer that manages dynamic indexed lists (by ID)
+  
   
 #### Advanced Reducer Use Cases
 
