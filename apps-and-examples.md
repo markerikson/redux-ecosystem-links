@@ -32,7 +32,7 @@
   https://github.com/guigrpa/storyboard  
   End-to-end, hierarchical, real-time, colorful logs and stories.  A library, plus a Chrome DevTools extension.
   
-- **Firefox DevTools - Memory Tool**
+- **Firefox DevTools - Memory Tool**  
   https://dxr.mozilla.org/mozilla-central/source/devtools/client/memory  
   
 - **Firefox DevTools - Debugger**  
