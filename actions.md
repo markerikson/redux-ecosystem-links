@@ -1,7 +1,7 @@
 ### Actions
 
 - Related pages:
-  - [Utilities](utilities.md): includes libraries that generate actions and reducers
+  - [Action/Reducer/Constant Generators](action-reducer-generators.md): includes libraries that generate actions and reducers
   - [Use Cases](use-cases.md): includes libraries that provide their own actions for various domains
   - [Middleware](middleware.md): includes libraries that modify actions in some way
 
