@@ -40,3 +40,7 @@
 - **react-redux-autobound-inputs**  
   https://github.com/calvinfroedge/react-redux-autobound-inputs  
   Two way data binding and edit / view states for selected input controls.  This project provides automatic data binding to redux store for some common inputs. The inputs include choices from react-bootstrap and react-widgets.
+
+- **redux-easy-forms**  
+  https://github.com/moarwick/redux-easy-forms  
+  REForms: A React-Redux forms library for the people!  Define your fields via a simple "schema" object.  REForms automatically flows your form data through Redux state. Use a friendly API to interact with your forms and data. Supply your own validation functions and error messages, sanitizers, filters. Use it with raw HTML inputs, React-Bootstrap, custom components.

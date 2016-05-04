@@ -46,6 +46,10 @@
 - **duck-ahead**  
   https://github.com/yormi/duck-ahead  
   A simple async typeahead solution for React and Redux
+  
+- **react-tabs-redux**  
+  https://github.com/patrik-piskay/react-tabs-redux  
+  Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
 
 
 #### Grids and Tables

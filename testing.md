@@ -52,3 +52,11 @@
 - **redux-saga-test**  
   https://github.com/stoeffel/redux-saga-test  
   Utility for creating expressive redux-saga tests.
+
+- **redux-saga-test-plan**  
+  https://github.com/jfairbank/redux-saga-test-plan  
+  Redux Saga Test Plan is inspired by redux-saga-test with a slightly different API.
+  
+- **redux-action-logging**  
+  https://github.com/madebymany/redux-action-logging  
+  Redux testing utility middleware to log actions received by a store without mocking that store.

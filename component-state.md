@@ -63,3 +63,11 @@
 - **relux**  
   https://github.com/namelos/relux  
   Generate dynamic actions and reducers.
+  
+- **reduceless**  
+  https://github.com/trashgenerator/reduceless  
+  Redux helpers to avoid odd reducers, actions and constants.  Specify a path into your state, get it passed in and a setter to update it.
+  
+- **Reduction Sauce**  
+  - https://github.com/ericwooley/reduction-sauce  
+    Simple key value reducers without boilerplate

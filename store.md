@@ -11,6 +11,10 @@
 - **redux-persist-crosstab**  
   https://github.com/rt2zz/redux-persist-crosstab  
   Add cross tab syncing to your redux app with 1 line. This tiny module listens to the window for redux-persist storage events. When an event occurs it will dispatch a rehydrate action.
+  
+- **redux-persist-transform-compress**  
+  https://github.com/rt2zz/redux-persist-transform-compress  
+  Uses lz-string to compress state before storing.
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -61,6 +65,7 @@
   https://github.com/baptistemanson/redux-share-client  
   Share redux state across the network between clients and servers
   
+
 
 #### Store Change Subscriptions
 

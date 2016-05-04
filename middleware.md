@@ -51,6 +51,10 @@
   https://github.com/zenato/redux-await-middleware  
   Await(Promise) middleware for Redux.  Await middleware supprorts FSA actions.
   
+- **redux-object-to-promise**  
+  https://github.com/mathieudutour/redux-object-to-promise  
+  Redux middleware to transform an object into a promise
+  
   
 #### Timeouts and Delays
 

@@ -113,6 +113,10 @@
   https://github.com/sergiodxa/redux-catch  
   Error catcher middleware for Redux reducers and middlewares.
   
+- **realtime-redux-logger**  
+  https://github.com/dbslone/realtime-redux-logger  
+  Log Redux Actions in realtime to an electron app for separate browser viewing
+  
   
  #### Linting
  

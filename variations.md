@@ -98,3 +98,7 @@
 - **Tango**  
   https://github.com/Graf009/tango  
   Toolkit for building redux/react applications.  Easy to understand objects instead of crazy functional composition. Bundle groups of middleware, enhancers, and reducers together as "plugins". Dead simple Component API - use ES6 classes, bring back sane behavior, bind component functions scope to class (like old react), never write mapDispatchToProps or mapStateToProps.
+  
+- **Kea**  
+  https://github.com/mariusandra/kea-logic  
+  kea-logic lets you create logic stores, and access their contents from React components as props.  Logic stores consist of 1) actions, 2) reducers, 3) selectors and 4) optionally sagas.  Logic stores augment your components, are stored in redux, and are connected via ES6 imports.

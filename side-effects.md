@@ -85,6 +85,10 @@
   https://github.com/tihonove/reelm  
   Awesome effect management library for redux
   
+- **redux-epic**  
+  https://github.com/BerkeleyTrue/redux-epic  
+  Redux-Epic is a library built to do complex/async side-effects and server side rendering(SSR) data pre-fetching using RxJS.
+  
 #### Redux-Effects extensions
 
 - **redux-effects**  

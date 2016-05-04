@@ -79,10 +79,6 @@
   https://github.com/TehShrike/create-redux-reducer-from-map  
   A personal preference for building reducers for Redux.
   
-- **topologically-combine-reducers**  
-  https://github.com/KodersLab/topologically-combine-reducers  
-  A way to combine reducers by their dependencies and access at their ancestor's values.
-  
 - **redux-polymorphic**  
   https://github.com/yesmeck/redux-polymorphic  
   Another attempt to reuse your reducers, inspired from multireducer
@@ -102,6 +98,10 @@
 - **redux-modifiers**  
   https://github.com/calvinfroedge/redux-modifiers  
   A collection of generic functions on top of ImmutableJS and Redux Actions for simplifying your reducers. Declare your reducers and state as plain old javascript objects, but take advantage of Immutable guarantees and data structure traversal utilities.
+  
+- **redux-commons**  
+  https://github.com/KodersLab/redux-commons  
+  Easily create common reducers by just composing functions
   
 #### Higher-Order Reducers
 
@@ -177,6 +177,10 @@
 - **redux-waitfor**  
   https://github.com/dtinth/redux-waitfor  
   Reducer combinator that allows reducers to wait upon each other.
+  
+- **topologically-combine-reducers**  
+  https://github.com/KodersLab/topologically-combine-reducers  
+  A way to combine reducers by their dependencies and access at their ancestor's values.
   
 - **incremental-redux-reducers**  
   https://github.com/tazsingh/incremental-redux-reducers  
