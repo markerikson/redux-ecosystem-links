@@ -27,3 +27,11 @@
 - **mikey**  
   https://github.com/Mikeysax/mikey  
   Mikey is a node command-line tool for generating React-Redux projects, React-Redux containers, React components, React actions, React reducers, and React helpers.
+  
+- **Kea**  
+  https://github.com/mariusandra/kea  
+  kea provides: a scaffolding tool with multiple generators; a modular code structure that's optimized for clarity; a guide to teach you how it all fits together
+  
+- **react-redux-workbench**  
+  https://github.com/calvinfroedge/react-redux-workbench  
+  A starting point for creating React components, including babel, webpack, mocha tests, redux, hot reloads, etc.
