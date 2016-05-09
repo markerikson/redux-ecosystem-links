@@ -103,6 +103,14 @@
   https://github.com/KodersLab/redux-commons  
   Easily create common reducers by just composing functions
   
+- **redux-frr**  
+  https://github.com/e-jigsaw/redux-frr  
+  Redux Filter and Reduce Reducers.
+  
+- **Simr**  
+  https://github.com/dalexj/simr  
+  A library for reducing common functionality in Redux reducers
+  
 #### Higher-Order Reducers
 
 - **redux-undo**  
@@ -144,6 +152,10 @@
 - **Indexed List Reducer Generator**  
   https://gist.github.com/elado/95484b754f31fcd6846c7e75de4aafe4  
   A high-order-reducer that manages dynamic indexed lists (by ID)
+  
+- **Redux Undo Immutable**  
+  https://github.com/idealeric/redux-undo-immutable  
+  A higher order reducer to add undo/redo to redux state containers using immutable js.  It is conceptually identical to redx-undo and shares almost the same API.
   
   
 #### Advanced Reducer Use Cases

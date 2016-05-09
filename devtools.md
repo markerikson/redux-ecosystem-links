@@ -58,6 +58,10 @@
   https://github.com/YoruNoHikage/redux-devtools-multiple-monitors  
   Integrate multiple monitors to your redux devtools.
   
+- **Redux DevTools Clipboard**  
+  https://github.com/ryanashcraft/redux-devtools-clipboard  
+  Dispatch your actions manually to test if your app reacts well.
+  
 
 #### Logging
   

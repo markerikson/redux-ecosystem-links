@@ -133,6 +133,10 @@
   https://github.com/producthunt/redux-thunk-inject  
   A drop-in replacement for redux-thunk that lets you inject additional variables into your action creators.
   
+- **redux-fsa-thunk**  
+  https://github.com/jtpalmer/redux-fsa-thunk  
+  FSA-compliant thunk middleware for Redux.
+  
 
 #### Action Grouping and Interception
 
@@ -412,3 +416,11 @@
 - **Redux Provider**  
   https://github.com/reduxible/redux-provider-middleware  
   The providerMiddleware provides providers that similar with providers of Angular.js. A providerMiddleware injects providers that returns new or cached objects to action. It also similar with Spring Beans.
+
+- **redux-publish-action**  
+  https://github.com/oriweingart/redux-publish-action  
+  Redux middleware for showing another user's interaction with your application in your browser using PbNub.  Using this middleware you can see what your users see in their application or you can show them what you see on your end. Useful for demos and debug sessions.
+  
+- **redux-elm-middleware**  
+  https://github.com/stoeffel/redux-elm-middleware  
+  Elm middleware for redux.  Write bulletproof business logic, handle state and effects, still have the rich react/redux ecosystem at your paws, slowly convert a redux/react app into Elm.

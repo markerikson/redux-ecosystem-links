@@ -65,6 +65,9 @@
   https://github.com/baptistemanson/redux-share-client  
   Share redux state across the network between clients and servers
   
+- **redux-smooth-storage**  
+  https://github.com/dsacramone/redux-smooth-storage  
+  Small program to store your react redux store or stores in local storage or session storage
 
 
 #### Store Change Subscriptions

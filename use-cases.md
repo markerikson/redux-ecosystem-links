@@ -40,6 +40,9 @@
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
   
+- **paginated-redux**  
+  https://github.com/robmclarty/paginated-redux  
+  A higher order Redux reducer (or transducer) that adds pagination, sorting, and filtering to a reducer of an array of objects.
   
 #### Collections / CRUD
 

@@ -102,3 +102,11 @@
 - **Kea**  
   https://github.com/mariusandra/kea-logic  
   kea-logic lets you create logic stores, and access their contents from React components as props.  Logic stores consist of 1) actions, 2) reducers, 3) selectors and 4) optionally sagas.  Logic stores augment your components, are stored in redux, and are connected via ES6 imports.
+  
+- **redux-signals**  
+  https://github.com/cerebral/redux-signals  
+  The Cerebral signals running on Redux
+  
+- **redux-flux**  
+  https://github.com/umidbekkarimov/redux-flux  
+  Bring back Flux features to Redux.  

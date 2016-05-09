@@ -84,6 +84,10 @@
   https://github.com/doordash/async-actions  
   Async action creator for use with redux and redux-thunk. Uses whatwg-fetch and dispatches IN_PROGRESS, SUCCESS, and FAIL events during the lifecycle of an async request.
   
+- **redux-actios-class**  
+  https://github.com/Lokua/redux-actions-class  
+  Create action creators and types with minimal redundancy.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

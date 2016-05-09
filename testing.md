@@ -60,3 +60,11 @@
 - **redux-action-logging**  
   https://github.com/madebymany/redux-action-logging  
   Redux testing utility middleware to log actions received by a store without mocking that store.
+  
+- **circumstance**  
+  https://github.com/dtinth/circumstance  
+  circumstance lets you test your state-updating functions (including Redux reducers) using the Given-When-Then concept.
+  
+- **Redux-duck-test**  
+  https://github.com/sergiodxa/redux-duck-test  
+  Helper functions for testing redux ducks made with redux-duck library

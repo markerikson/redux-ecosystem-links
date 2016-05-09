@@ -35,3 +35,7 @@
 - **react-redux-workbench**  
   https://github.com/calvinfroedge/react-redux-workbench  
   A starting point for creating React components, including babel, webpack, mocha tests, redux, hot reloads, etc.
+
+- **Lore**  
+  https://github.com/lore/lore  
+  Respectully opinionated convention-driven framework for building React applications. Built on React, Webpack, Redux, and React-Router.

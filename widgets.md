@@ -50,6 +50,14 @@
 - **react-tabs-redux**  
   https://github.com/patrik-piskay/react-tabs-redux  
   Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
+  
+- **React Redux Loading Bar**  
+  https://github.com/mironov/react-redux-loading-bar  
+  A simple React component that provides Loading Bar (aka Progress Bar) for long running tasks. Works out of the box with redux-promise-middleware and can be easily tweaked for other usage.
+  
+ - **Redux UI Panels**  
+   https://github.com/StJohn3D/redux-ui-panels  
+   A configurable panel framework inspired by blender.org
 
 
 #### Grids and Tables
@@ -134,6 +142,10 @@
 - **ReduxAsyncConnect**  
   https://github.com/Rezonans/redux-async-connect  
   It allows you to request async data, store them in redux state and connect them to your react component.
+  
+- **redux-connect**  
+  https://github.com/makeomatic/redux-connect  
+  Fork and refactor of redux-async-connect
   
 - **Redux Data Loader**  
   https://github.com/kouhin/redux-dataloader  
