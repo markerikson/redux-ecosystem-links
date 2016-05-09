@@ -41,3 +41,26 @@
 - **Debugger.html**  
   https://github.com/jlongster/debugger.html  
   A prototype Firefox debugger written without any XUL and based on React and Redux.
+  
+- **Guild Wars 2 Armory**  
+  https://github.com/madou/armory-front  
+  Allows GW2 players to share account, character, and guild information.
+
+
+#### Redux Usage Stories
+
+- **Twitter: mobile.twitter.com**  
+  https://twitter.com/necolas/status/727538799966715904  
+  "Thanks for Redux. When we adopted it we saw big improvements in performance, testing, and code comprehension."
+  
+- **Lystable: Real World Redux**  
+  https://speakerdeck.com/chrisui/real-world-redux  
+  Explores the real world experiences of using Redux everyday within a rapidly scaling team and product.
+  
+- **KarmaCRM: Launching an Enterprise React & Redux App – Part 1**  
+  http://jpnarowski.com/enterprise-react-redux-part-1/  
+  A combination tutorial and lessons learned series.
+  
+- **WaveHQ**  
+  https://twitter.com/NickPresta/status/684058236828266496  
+  "We use Redux on our core project.... for scale, we have ~500 action types, ~400 reducer cases, ~150 components, 5 middlewares, ~200 actions, ~2300 tests"

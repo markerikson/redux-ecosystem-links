@@ -180,6 +180,10 @@
   https://github.com/Simonify/redux-interceptor  
   redux-interceptor is a middleware for intercepting Redux actions and deferring their execution to a later time.
   
+- **redux-cut**  
+  https://github.com/leonaves/redux-cut  
+  Middleware to block redux actions based on provided criteria.
+  
   
 #### Sockets and Adapters
 
