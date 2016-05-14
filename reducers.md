@@ -111,6 +111,14 @@
   https://github.com/dalexj/simr  
   A library for reducing common functionality in Redux reducers
   
+- **fineCombine**  
+  https://github.com/pcarden/fine-combine  
+  Combines reducer collections, even when they have duplicate keys.
+  
+- **redux-merge-reducers**  
+  https://github.com/kuy/redux-merge-reducers  
+  A decorator to make your Redux's reducers mergeable.
+  
 #### Higher-Order Reducers
 
 - **redux-undo**  

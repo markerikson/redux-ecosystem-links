@@ -175,3 +175,7 @@
 - **should-component-update-dev**  
   https://github.com/ConciergeAuctions/should-component-update-dev  
   A development replacement for shouldComponentUpdate that gives you the "why?"
+  
+- **why-did-you-update**  
+  https://github.com/garbles/why-did-you-update  
+  Puts your console on blast when React is making unnecessary updates.  Inspired by Benchling's mixin, but monkey-patches React instead.

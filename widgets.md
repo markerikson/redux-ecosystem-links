@@ -182,3 +182,11 @@
 - **redux-taxi**  
   https://github.com/nytimes/redux-taxi  
   ReduxTaxi allows for component-driven asynchronous server-side rendering in isomorphic/universal React+Redux apps.
+  
+- **redux-data**  
+  https://github.com/dmin/redux-data  
+  Redux-Data is a companion to Redux that allows you to declare the data (i.e. records from your server) that your application uses. Redux-Data helps you query and cache data as well as perform mutations on the data.
+  
+- **redux-fetch-data**  
+  https://github.com/nordsoftware/redux-fetch-data  
+  Redux utility library for fetching data using promises on both server and client

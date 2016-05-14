@@ -72,6 +72,10 @@
 - **redux-asyncState-reducer**  
   https://github.com/natac13/redux-asyncState-reducer  
   A reducer and actionCreators for handling the asynchronous state of your requests
+  
+- **request-duck**  
+  https://github.com/export-mike/request-duck  
+  redux duck for adding isFetching error props to a given container component, scoped so props do not clash.
 
 
 

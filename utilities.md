@@ -18,6 +18,10 @@
   https://github.com/stefanroex/redux-tree  
   Denormalize your immutable Redux store
   
+- **memoize-immutable**  
+  https://github.com/louisremi/memoize-immutabe  
+  An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments
+  
   
 #### Functional Programming
   

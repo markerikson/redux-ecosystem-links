@@ -47,6 +47,10 @@
   https://github.com/mindfront/redux-utils
   Functions for creating and composing reducers and middleware efficiently
   
+- **redux-code-generator**  
+  https://github.com/jermspeaks/redux-code-generator  
+  Pass a yaml file and the generator spits out action, reducer, and test files. Tests are written for Mocha.
+  
   
 #### Network Requests and APIs
 

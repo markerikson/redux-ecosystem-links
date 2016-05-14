@@ -46,6 +46,9 @@
   https://github.com/madou/armory-front  
   Allows GW2 players to share account, character, and guild information.
 
+- **Shifted Maps**  
+  https://github.com/FH-Potsdam/shifted-maps  
+  Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
 
 #### Redux Usage Stories
 

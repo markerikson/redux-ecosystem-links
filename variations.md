@@ -110,3 +110,11 @@
 - **redux-flux**  
   https://github.com/umidbekkarimov/redux-flux  
   Bring back Flux features to Redux.  
+  
+- **redux-observe-store-path**  
+  https://github.com/d6u/redux-observe-store-path  
+  Efficient and descriptive Redux React binding.  Unlike connect in react-redux, redux-observe-store-path will update tree leaf component directly, rather than passing down props at each level. This way we can skip middle level components and directly update deeply nested components.
+  
+- **redux-conductor**  
+  https://github.com/alexyuly/redux-conductor  
+  Automatically conduct event traffic through Redux by reacting to actions

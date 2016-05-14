@@ -105,3 +105,7 @@
 - **redux-queue-offline**  
   https://github.com/mathieudutour/redux-queue-offline  
   Queue actions when offline and dispatch them when getting back online
+  
+- **redux-bind-action-groups**  
+  https://github.com/eyasliu/redux-bind-action-groups  
+  A small utility to bind dispatch to nested objects full of action creators.

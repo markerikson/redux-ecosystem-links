@@ -15,6 +15,10 @@
 - **redux-persist-transform-compress**  
   https://github.com/rt2zz/redux-persist-transform-compress  
   Uses lz-string to compress state before storing.
+  
+- **redux-persist-migrate**  
+  https://github.com/wildlifela/redux-persist-migrate  
+  Migrate redux state between versions
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -68,6 +72,10 @@
 - **redux-smooth-storage**  
   https://github.com/dsacramone/redux-smooth-storage  
   Small program to store your react redux store or stores in local storage or session storage
+  
+- **redux-state-archiver**  
+  https://github.com/schwers/redux-state-archiver  
+  A collection of React components for serializing your redux state.  
 
 
 #### Store Change Subscriptions
@@ -133,4 +141,12 @@
 - **redux-lift**  
   https://github.com/izaakschroeder/redux-lift  
   Store composition for redux.  Lifting allows you to "lift" your state, reducers and actions into another context. Lifting is a kind of store enhancer that is a superset of middleware.
+  
+- **redux-plugins-immutable**  
+  https://github.com/jcoreio/redux-plugins-immutable  
+  Asynchronously load Redux reducers and middleware, React Components, etc. in app plugins.
+  
+- **redux-plugins-immutable-react**  
+  https://github.com/jcoreio/redux-plugins-immutable-react  
+  React helper components for redux-plugins-immutable
   

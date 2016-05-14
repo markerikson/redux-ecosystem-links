@@ -69,5 +69,13 @@
   Redux helpers to avoid odd reducers, actions and constants.  Specify a path into your state, get it passed in and a setter to update it.
   
 - **Reduction Sauce**  
-  - https://github.com/ericwooley/reduction-sauce  
-    Simple key value reducers without boilerplate
+  https://github.com/ericwooley/reduction-sauce  
+  Simple key value reducers without boilerplate
+    
+- **react-redux-substate**  
+  https://github.com/titoasty/react-redux-substate  
+  Create substates to isolate your components.  This is a very simple way to add substates to the components. It does not ensure fractality of the components because substates are stored in the app state.
+  
+- **redux-values**  
+  https://github.com/alexesDev/redux-values  
+  Simple key-value storage for Redux
