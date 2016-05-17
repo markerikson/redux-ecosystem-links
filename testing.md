@@ -59,13 +59,9 @@
   https://github.com/mitodl/redux-asserts  
   Functions to assert dispatched actions in redux
 
-- **expect-redux-actions**  
-  https://github.com/dmitry-zaets/expect-redux-actions  
-  Expect assertions for redux actions testing 
-
 - **redux-actions-assertions**  
   https://github.com/dmitry-zaets/redux-actions-assertions  
-  Assertions for redux actions testing
+  Assertions (chai, expect, expect.js, should) for redux actions testing 
 
 - **redux-saga-test**  
   https://github.com/stoeffel/redux-saga-test  
