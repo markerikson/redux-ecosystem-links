@@ -1,11 +1,18 @@
 ### Immutable Data
 
 
-#### Immutable Data Structures
+#### Immutable Data Structures (Specialized)
 
 - **Immutable.js**  
   https://facebook.github.io/immutable-js/  
   Fully-featured data structures library that uses advanced internal data storage to efficiently manage modified references.  Very widely used, but also rather complex.
+
+- **Mori**  
+  https://github.com/swannodette/mori  
+  ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript  
+
+
+#### Immutable Data Structures (Object Freezing)
   
 - **seamless-immutable**  
   https://github.com/rtfeldman/seamless-immutable  
@@ -31,8 +38,8 @@
   https://github.com/aearly/icepick  
   Utilities for treating frozen JavaScript objects as persistent immutable collections
 
-#### Immutable Update Utilities
 
+#### Immutable Update Utilities
 
 - **immutable-ops**  
   https://github.com/tommikaikkonen/immutable-ops  
