@@ -78,6 +78,10 @@
   https://github.com/rwieruch/redux-table  
   Table component build with redux and react. It provides interactions like sort, filter and selection.
   
+- **redux-datagrid**  
+  https://github.com/JamesHageman/redux-datagrid  
+  A Higher-Order Component for filtering, sorting and grouping in data tables. Inspired by redux-form. 
+  
 #### Notifications
   
 - **re-notif**  

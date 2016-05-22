@@ -19,6 +19,10 @@
 - **redux-persist-migrate**  
   https://github.com/wildlifela/redux-persist-migrate  
   Migrate redux state between versions
+  
+- **redux-persist-transform-encrypt**  
+  https://github.com/maxdeviant/redux-persist-transform-encrypt  
+  Encrypt your Redux store.
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -76,6 +80,10 @@
 - **redux-state-archiver**  
   https://github.com/schwers/redux-state-archiver  
   A collection of React components for serializing your redux state.  
+  
+- **redux-sync**  
+  https://github.com/Autarc/redux-sync  
+  A store enhancer for Redux which allows to mirror one store as a part of another and keeps them in sync.
 
 
 #### Store Change Subscriptions
@@ -149,4 +157,8 @@
 - **redux-plugins-immutable-react**  
   https://github.com/jcoreio/redux-plugins-immutable-react  
   React helper components for redux-plugins-immutable
+  
+- **redux-plugins-immutable-hot-loader**  
+  https://github.com/jcoreio/redux-plugins-immutable-hot-loader  
+  Webpack loader that hot-reloads plugins made with redux-plugins-immutable when you make changes to them.
   

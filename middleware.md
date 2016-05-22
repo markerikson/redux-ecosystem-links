@@ -137,6 +137,13 @@
   https://github.com/jtpalmer/redux-fsa-thunk  
   FSA-compliant thunk middleware for Redux.
   
+- **redux-method-middleware**  
+  https://github.com/abhiaiyer91/redux-method-middleware  
+  Similar to Promise Middleware, handle asynchronous callback functions via Redux Middleware
+  
+- **redux-codi**  
+  https://github.com/laat/redux-codi  
+  Redux middleware with dependency injection and async control flow.  Enables async/await style actions with co, and simple dependency injection in the middleware creator.
 
 #### Action Grouping and Interception
 
@@ -183,6 +190,10 @@
 - **redux-cut**  
   https://github.com/leonaves/redux-cut  
   Middleware to block redux actions based on provided criteria.
+  
+- **redux-action-transform-middleware**  
+  https://github.com/benwiley4000/redux-action-transform-middleware  
+  Generates Redux middleware for applying a given transformer function to a given sub-object target on each dispatched action (if it exists). This target's key is specified as a string and can be deeply nested (e.g. 'req.data').
   
   
 #### Sockets and Adapters
@@ -336,6 +347,10 @@
 - **multi-action-api-middleware**  
   https://github.com/gkosharov/multi-action-api-middleware  
   Redux api middleware for handling simultaneous asynchronous action dispatches (api calls).
+  
+- **redux-fetch-middleware**  
+  https://github.com/RevoltTV/redux-fetch-middleware  
+  A middleware for Redux that uses isomorphic-fetch to perform network requests
   
 #### Analytics
 

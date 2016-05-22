@@ -15,6 +15,10 @@
 - **redux-namespaced-actions**  
   https://github.com/skleeschulte/redux-namespaced-actions  
   Wrapper for redux-actions to easily add namespaces to action types.
+  
+- **Redux Actions Magic**  
+  https://github.com/felixmc/redux-actions-magic  
+  Syntax magic for the redux-actions module, meant to remove repetitive typing of action names, that might slightly reduce development time and bug generation.
 
 - **redux-batched-actions**  
   https://github.com/tshelburne/redux-batched-actions  

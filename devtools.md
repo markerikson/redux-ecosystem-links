@@ -15,6 +15,9 @@
   https://github.com/zalmoxisus/remote-redux-devtools  
   Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps.
   
+- **Reactotron**  
+  https://github.com/skellock/reactotron  
+  Control, monitor, and instrument your React DOM and React Native apps. From the comfort of your TTY.
   
 #### DevTools Monitors
 
@@ -179,3 +182,7 @@
 - **why-did-you-update**  
   https://github.com/garbles/why-did-you-update  
   Puts your console on blast when React is making unnecessary updates.  Inspired by Benchling's mixin, but monkey-patches React instead.
+  
+- **ReactPerfTool**  
+  https://github.com/RamonGebben/react-perf-tool  
+  ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs. This makes it easier to spot bottlenecks.

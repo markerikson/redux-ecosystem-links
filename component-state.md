@@ -65,7 +65,7 @@
   Generate dynamic actions and reducers.
   
 - **reduceless**  
-  https://github.com/trashgenerator/reduceless  
+  https://github.com/nosovsh/reduceless  
   Redux helpers to avoid odd reducers, actions and constants.  Specify a path into your state, get it passed in and a setter to update it.
   
 - **Reduction Sauce**  
@@ -79,3 +79,15 @@
 - **redux-values**  
   https://github.com/alexesDev/redux-values  
   Simple key-value storage for Redux
+  
+- **react-redux-isolate**  
+  https://github.com/Trimma/react-redux-isolate  
+  Isolate Redux apps to sandboxed state subtrees.  Provides a way for multiple react-redux apps to share the same state tree, adhering to the principle of Single Source Of Truth, without requiring changes to the apps. It enables you to use sub-apps inside your redux app, without using multiple stores, and without requiring that you write your sub-apps in a particular manner. 
+  
+- **react-redux-setstate**  
+  https://github.com/rundmt/react-redux-setstate  
+  Use this.props.setState just like this.setState.
+  
+- **Redux "subapps" example**  
+  https://gist.github.com/gaearon/eeee2f619620ab7b55673a4ee2bf8400  
+  A small snippet from Dan Abramov demonstrating setting up a separate store for each individual "sub-app" instance in a page.

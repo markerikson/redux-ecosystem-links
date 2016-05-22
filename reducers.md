@@ -165,6 +165,14 @@
   https://github.com/idealeric/redux-undo-immutable  
   A higher order reducer to add undo/redo to redux state containers using immutable js.  It is conceptually identical to redx-undo and shares almost the same API.
   
+- **redux-reset**  
+  https://github.com/abhiaiyer91/redux-reset  
+  Higher Order Reducer for resetting multiple parts of your state tree
+  
+- **path-reducer**  
+  https://github.com/appfeel/path-reducer  
+  This is a reducer function to modify the app state via path (100% compatible with redux). At this development stage, it only works with immutable-js state objects.
+  
   
 #### Advanced Reducer Use Cases
 

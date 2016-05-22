@@ -90,8 +90,12 @@
   Redux-Epic is a library built to do complex/async side-effects and server side rendering(SSR) data pre-fetching using RxJS.
   
 - **redux-observable**  
-  https://github.com/blesh/redux-observable  
+  https://github.com/redux-observable/redux-observable  
   RxJS 5-based middleware for Redux. Compose and cancel async actions and more.
+  
+- **react-redux-observable**  
+  https://github.com/redux-observable/react-redux-observable  
+  React helpers for redux-observable
   
 #### Redux-Effects extensions
 
@@ -147,3 +151,6 @@
   https://github.com/redux-effects/redux-flo  
   Redux style control flow middleware - inspired by haskel's free monad approach to io and co.
   
+- **redux-effects-http-cache**  
+  https://github.com/leesiongchan/redux-effects-http-cache  
+  Cache HTTP requests to fetch requests to prevent duplicated requests.

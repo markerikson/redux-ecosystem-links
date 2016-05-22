@@ -49,6 +49,10 @@
 - **Shifted Maps**  
   https://github.com/FH-Potsdam/shifted-maps  
   Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
+  
+- **Audio Insights**  
+  https://github.com/jch254/audio-insights  
+  Audio insights derived from your Spotify library using React and Redux
 
 #### Redux Usage Stories
 
@@ -67,3 +71,7 @@
 - **WaveHQ**  
   https://twitter.com/NickPresta/status/684058236828266496  
   "We use Redux on our core project.... for scale, we have ~500 action types, ~400 reducer cases, ~150 components, 5 middlewares, ~200 actions, ~2300 tests"
+  
+- **Neos CMS Goes for a Full UI Rewrite with React and Redux**  
+  http://dimaip.github.io/2016/03/13/neos-react-redux-rewrite/  
+  Gives an overview of the Neos CMS codebase, and the reasoning for a code rewrite.

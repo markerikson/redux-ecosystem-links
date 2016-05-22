@@ -51,6 +51,10 @@
   https://github.com/jermspeaks/redux-code-generator  
   Pass a yaml file and the generator spits out action, reducer, and test files. Tests are written for Mocha.
   
+- **reduxsauce**  
+  https://github.com/skellock/reduxsauce  
+  Provides a few tools for working with Redux-based codebases.  
+  
   
 #### Network Requests and APIs
 
@@ -105,6 +109,10 @@
 - **giadc-redux-json-api**  
   https://github.com/giadc/giadc-redux-json-api  
   A package for consuming and accessing JSON API data with Redux
+  
+- **redux-request**  
+  https://github.com/kongdigital/redux-request  
+  Simplified AJAX calls using SuperAgent and Redux-Thunk.  Redux-Request simplifies Restful API calls using redux. It follows the convention of "configuration" over "code" and is designed for applications that make a lot of API calls..
   
   
 #### Other Code Structures

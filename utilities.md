@@ -10,6 +10,10 @@
   https://github.com/kbrownlees/reselect-change-memoize  
   A simple memoize function for reselect which performs a callback everytime the result changes.
   
+- **memoize-immutable**  
+  https://github.com/louisremi/memoize-immutable  
+  An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments.  Dependency free!
+  
 - **normalizr**  
   https://github.com/gaearon/normalizr  
   Normalizes deeply nested JSON API responses according to a schema, producing flatter and unduplicated state.

@@ -118,3 +118,7 @@
 - **redux-conductor**  
   https://github.com/alexyuly/redux-conductor  
   Automatically conduct event traffic through Redux by reacting to actions
+  
+- **Redux Action Thunk**  
+  https://github.com/ShMcK/redux-action-thunk  
+  Move your actions & types into Redux middleware.  No more importing actions & types. Instead, register your actions on startup and call them by dispatching strings. Redux Action Thunk (RAT) allows you to write more modular Redux code.

@@ -39,6 +39,7 @@
   https://github.com/rradczewski/expect-redux  
   Assertions for testing a redux store and the actions dispatched to it using mocha and its Promise-Interface with expect Matchers 
   
+  
 #### Reducers
 
 - **redux-promise-test**  
@@ -74,6 +75,10 @@
 - **redux-action-logging**  
   https://github.com/madebymany/redux-action-logging  
   Redux testing utility middleware to log actions received by a store without mocking that store.
+  
+- **redux-mock-dispatcher**  
+  https://github.com/playground-xyz/redux-mock-dispatcher  
+  Utility module for ease of testing redux-thunk style action creators.
   
 
   
