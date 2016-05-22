@@ -158,6 +158,10 @@
 - **redux-validator**  
   https://github.com/MaxLee1994/redux-validator  
   Action parameter validator middleware for redux
+  
+- **redux-uncaught-promise**  
+  https://github.com/laat/redux-uncaught-promise  
+  Handle uncaught promises returned from dispatch.
 
 
 
