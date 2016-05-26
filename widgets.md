@@ -55,10 +55,13 @@
   https://github.com/mironov/react-redux-loading-bar  
   A simple React component that provides Loading Bar (aka Progress Bar) for long running tasks. Works out of the box with redux-promise-middleware and can be easily tweaked for other usage.
   
- - **Redux UI Panels**  
-   https://github.com/StJohn3D/redux-ui-panels  
-   A configurable panel framework inspired by blender.org
-
+- **Redux UI Panels**  
+  https://github.com/StJohn3D/redux-ui-panels  
+  A configurable panel framework inspired by blender.org
+   
+- **react-redux-terminal**  
+  https://github.com/phpingme/react-redux-terminal
+  React+Redux driven terminal component
 
 #### Grids and Tables
 

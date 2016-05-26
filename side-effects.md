@@ -97,6 +97,10 @@
   https://github.com/redux-observable/react-redux-observable  
   React helpers for redux-observable
   
+- **redux-observable-process-fetch**  
+  https://github.com/istarkov/redux-observable-process-fetch  
+  This middleware add caching, refetching, pre and post loading actions support for async data loading services like Observable.ajax or any other service with signature (...args: Array<any>) => Observable<any>.
+  
 #### Redux-Effects extensions
 
 - **redux-effects**  

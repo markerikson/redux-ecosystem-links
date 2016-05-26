@@ -91,3 +91,7 @@
 - **Redux "subapps" example**  
   https://gist.github.com/gaearon/eeee2f619620ab7b55673a4ee2bf8400  
   A small snippet from Dan Abramov demonstrating setting up a separate store for each individual "sub-app" instance in a page.
+  
+- **ReduxLocal**  
+  https://github.com/Wildhoney/ReduxLocal  
+  Redux helper for maintaining pseudo-local state in a single tree.  Philosophies: Reducers should only exist in one place, rather than assigned to individual components; Be able to dictate which components are updated with shouldComponentUpdate; Provide an overt distinction between standard dispatches and pseudo-local dispatches; Allow actions to be written without pseudo-local actions in mind.

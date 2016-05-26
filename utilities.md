@@ -26,6 +26,10 @@
   https://github.com/louisremi/memoize-immutabe  
   An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments
   
+- **salvage**  
+  https://github.com/xogeny/salvage  
+  A library for updating only those values that have changed in a Javascript value
+  
   
 #### Functional Programming
   

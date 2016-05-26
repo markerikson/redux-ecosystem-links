@@ -53,7 +53,7 @@
   
 - **reduxsauce**  
   https://github.com/skellock/reduxsauce  
-  Provides a few tools for working with Redux-based codebases.  
+  Provides a few tools for working with Redux-based codebases.    
   
   
 #### Network Requests and APIs
@@ -132,3 +132,7 @@
 - **purescript-redux-utils**  
   https://github.com/osener/purescript-redux-utils  
   Utilities for writing Redux actions and reducers in PureScript
+  
+- **redux-modules**  
+  https://github.com/fullstackreact/redux-modules  
+  The overall idea behind redux-modules is to build all of the corresponding redux functionality, constants, reducers, actions in a common location that makes it easy to understand the entire workflow common to a component of an application.  Redux modules is essentially a collection of helpers that provide functionality for common tasks related to using Redux.

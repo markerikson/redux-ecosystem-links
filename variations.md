@@ -122,3 +122,15 @@
 - **Redux Action Thunk**  
   https://github.com/ShMcK/redux-action-thunk  
   Move your actions & types into Redux middleware.  No more importing actions & types. Instead, register your actions on startup and call them by dispatching strings. Redux Action Thunk (RAT) allows you to write more modular Redux code.
+  
+- **redux-realtime-cqrs**  
+  https://github.com/latam-autos/redux-realtime-cqrs  
+  Redux Realtime CQRS is a library that lets you convert a traditional request/response rest api into a Real-time api with CQRS
+  
+- **redux-action-class-middleware**  
+  https://github.com/diosmosis/redux-action-class-middleware  
+  Redux middleware that lets you define async/sync actions as ES6 classes.
+  
+- **redux-semantic-action-middleware**  
+  https://github.com/diosmosis/redux-semantic-action-middleware  
+  Redux middleware that lets you define actions as meaningful units, without OOP.

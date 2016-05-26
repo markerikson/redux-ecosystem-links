@@ -352,6 +352,10 @@
   https://github.com/RevoltTV/redux-fetch-middleware  
   A middleware for Redux that uses isomorphic-fetch to perform network requests
   
+- **redux-composable-fetch**  
+  https://github.com/jasonslyvia/redux-composable-fetch  
+  A fetch middleware with extensible and opt-in functionalities like cache or log for Redux
+  
 #### Analytics
 
 - **redux-analytics**  

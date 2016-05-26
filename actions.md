@@ -19,6 +19,10 @@
 - **Redux Actions Magic**  
   https://github.com/felixmc/redux-actions-magic  
   Syntax magic for the redux-actions module, meant to remove repetitive typing of action names, that might slightly reduce development time and bug generation.
+  
+- **redux-actions-api-addon**  
+  https://github.com/jkusachi/redux-actions-api-addon  
+  Redux Actions add-on to support API Requests.  Reduce boilerplate by auto dispatching Request, Success, and Failure Events
 
 - **redux-batched-actions**  
   https://github.com/tshelburne/redux-batched-actions  
