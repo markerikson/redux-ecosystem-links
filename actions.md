@@ -112,7 +112,8 @@
   
 - **redux-queue-offline**  
   https://github.com/mathieudutour/redux-queue-offline  
-  Queue actions when offline and dispatch them when getting back online
+  https://github.com/mathieudutour/redux-queue-offline-listener  
+  Queue actions when offline and dispatch them when getting back online.  You can use the NetworkListener high order component to wrap the redux Provider and automatically dispatch the ONLINE and OFFLINE action when listening to window.on('online') and window.on('online').
   
 - **redux-bind-action-groups**  
   https://github.com/eyasliu/redux-bind-action-groups  

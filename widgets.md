@@ -62,6 +62,10 @@
 - **react-redux-terminal**  
   https://github.com/phpingme/react-redux-terminal
   React+Redux driven terminal component
+  
+- **react-redux-leaflet**  
+  https://github.com/burmisov/react-redux-leaflet  
+  Use Leaflet seamlessly in a React + Redux based application
 
 #### Grids and Tables
 

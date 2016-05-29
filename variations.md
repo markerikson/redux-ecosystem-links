@@ -134,3 +134,15 @@
 - **redux-semantic-action-middleware**  
   https://github.com/diosmosis/redux-semantic-action-middleware  
   Redux middleware that lets you define actions as meaningful units, without OOP.
+  
+- **tinier**  
+  https://github.com/zakandrewking/tinier  
+  Simple views and bindings to redux, with d3.js in mind
+  
+- **socrates**  
+  https://github.com/matthewmueller/socrates  
+  Small (12kb), batteries-included redux stack to reduce boilerplate and promote good habits.
+  
+- **Strux**  
+  https://github.com/jgnewman/strux  
+  A layer on top of redux for describing data flow throughout your application in a revolutionary way.

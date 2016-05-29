@@ -94,6 +94,10 @@
   https://github.com/zackargyle/redux-async-queue  
   ReduxAsyncQueue middleware makes queueing redux actions painless. This allows you to fire multiple actions simultaneously and have them execute asynchronously in order. 
   
+- **redux-throttle**  
+  https://github.com/mathieudutour/redux-throttle  
+  Redux middleware to throttle your actions
+  
   
 #### Other Async Actions
   
@@ -144,6 +148,10 @@
 - **redux-codi**  
   https://github.com/laat/redux-codi  
   Redux middleware with dependency injection and async control flow.  Enables async/await style actions with co, and simple dependency injection in the middleware creator.
+  
+- **redux-sync-promise**  
+  https://github.com/shanhaichik/redux-sync-promise  
+  Middleware for writing asynchronous actions in synchronous style
 
 #### Action Grouping and Interception
 
@@ -297,6 +305,10 @@
 - **redux-firebase**  
   https://github.com/gobadiah/redux-firebase  
   Provides some added functionality when using redux with firebase, such as anonymous use, offline recovery.  Redux firebase makes the connection between your firebase backend and your redux store, using a schema.
+  
+- **redux-meteorware**  
+  https://github.com/shawnmclean/redux-meteorware  
+  Meteor middleware for Redux.  This Redux middleware allows us to subscribe and load meteor data through actions and have them returned to the reducers when loaded.
   
 #### Network Requests
 

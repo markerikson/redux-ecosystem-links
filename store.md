@@ -84,6 +84,10 @@
 - **redux-sync**  
   https://github.com/Autarc/redux-sync  
   A store enhancer for Redux which allows to mirror one store as a part of another and keeps them in sync.
+  
+- **redux-swarmlog**  
+  https://github.com/philholden/redux-swarmlog  
+  A super simple way of writing distributed Redux applications. The Redux action log is persisted in an IndexDB and synced with other peers via a WebRTC Swarm using Swarmlog.
 
 
 #### Store Change Subscriptions
@@ -143,6 +147,10 @@
 - **redux-on-state-change**  
   https://github.com/franjohn21/redux-on-state-change  
   Extremely simple middleware to observe Redux state changes.  It's simply to have a place to handle tangentially related logic that doesn't belong in components or reducers but relies on knowing about state or action updates.
+  
+- **redux-subscriptions**  
+  https://github.com/xaviervia/redux-subscriptions  
+  Higher-level API for the Redux store.subscribe.  redux-subscriptions keeps the previous state for you and gives you the ability of running diffs in the state (using object-difference) so that you can do something when part of the state is updated, much like the React bindings for Redux work.
   
 #### Other
 

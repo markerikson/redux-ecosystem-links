@@ -95,3 +95,7 @@
 - **ReduxLocal**  
   https://github.com/Wildhoney/ReduxLocal  
   Redux helper for maintaining pseudo-local state in a single tree.  Philosophies: Reducers should only exist in one place, rather than assigned to individual components; Be able to dictate which components are updated with shouldComponentUpdate; Provide an overt distinction between standard dispatches and pseudo-local dispatches; Allow actions to be written without pseudo-local actions in mind.
+
+- **redux-ui-state**  
+  https://github.com/jamiecopeland/redux-ui-state  
+  Component state for Redux applications

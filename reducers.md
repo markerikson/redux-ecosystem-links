@@ -173,6 +173,10 @@
   https://github.com/appfeel/path-reducer  
   This is a reducer function to modify the app state via path (100% compatible with redux). At this development stage, it only works with immutable-js state objects.
   
+- **initializable-reducer**  
+  https://github.com/oreshinya/initializable-reducer  
+  Initializing reducers action and associated higher order reducer for redux.
+  
   
 #### Advanced Reducer Use Cases
 
