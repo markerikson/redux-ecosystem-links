@@ -30,6 +30,10 @@
   https://github.com/xogeny/salvage  
   A library for updating only those values that have changed in a Javascript value
   
+- **reduxql**  
+  https://github.com/AppHubPlatform/reduxql  
+  Proof of concept for using GraphQL to select data from a Redux store.
+  
   
 #### Functional Programming
   

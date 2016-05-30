@@ -53,6 +53,14 @@
 - **Audio Insights**  
   https://github.com/jch254/audio-insights  
   Audio insights derived from your Spotify library using React and Redux
+  
+- **Theremin**  
+  https://github.com/lukephills/Theremin  
+  Browser based Theremin emulator using web audio, React, Redux, and Typescript 
+  
+- **Jenkins BlueOcean Plugin**  
+  https://github.com/jenkinsci/blueocean-plugin  
+  A new user experience and UI for Jenkins.  The "Dashboard" and "Web" pieces are built on React and Redux.
 
 #### Redux Usage Stories
 

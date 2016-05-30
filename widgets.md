@@ -66,6 +66,10 @@
 - **react-redux-leaflet**  
   https://github.com/burmisov/react-redux-leaflet  
   Use Leaflet seamlessly in a React + Redux based application
+  
+- **redux-file-upload**  
+  https://github.com/blueberryapps/redux-file-upload  
+  There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
 
 #### Grids and Tables
 
@@ -201,3 +205,11 @@
 - **redux-fetch-data**  
   https://github.com/nordsoftware/redux-fetch-data  
   Redux utility library for fetching data using promises on both server and client
+  
+- **redial**  
+  https://github.com/markdalgleish/redial  
+  Universal data fetching and route lifecycle management for React.
+  
+- **react-refetch**  
+  https://github.com/heroku/react-refetch  
+  A simple, declarative, and composable way to fetch data for React components

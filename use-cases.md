@@ -44,6 +44,10 @@
   https://github.com/robmclarty/paginated-redux  
   A higher order Redux reducer (or transducer) that adds pagination, sorting, and filtering to a reducer of an array of objects.
   
+- **redux-midi**  
+  https://github.com/motiz88/redux-midi  
+  This module provides a store enhancer and a set of action creators wrapping the Web MIDI API for use in Redux apps.
+  
 #### Collections / CRUD
 
 - **Redux CRUD**  

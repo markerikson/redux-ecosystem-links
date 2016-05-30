@@ -44,3 +44,7 @@
 - **redux-easy-forms**  
   https://github.com/moarwick/redux-easy-forms  
   REForms: A React-Redux forms library for the people!  Define your fields via a simple "schema" object.  REForms automatically flows your form data through Redux state. Use a friendly API to interact with your forms and data. Supply your own validation functions and error messages, sanitizers, filters. Use it with raw HTML inputs, React-Bootstrap, custom components.
+  
+- **redux-form-validation-helpers**  
+  https://github.com/leiringer/redux-form-validation-helpers  
+  A number of validation functions.

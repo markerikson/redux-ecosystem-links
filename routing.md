@@ -59,3 +59,7 @@
 - **redux-auth-wrapper**  
   https://github.com/mjrussell/redux-auth-wrapper  
   A React Higher Order Component (HOC) for handling Authentication and Authorization with Redux and React-Router
+  
+- **redux-router-state**  
+  https://github.com/gadicc/redux-router-state  
+  Store router state in Redux and route via redux
