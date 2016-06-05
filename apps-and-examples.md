@@ -1,5 +1,7 @@
 ### Applications and Examples
 
+Note: This is not a comprehensive list of all projects using Redux, just a selection of reasonably-sized projects that looked interesting.
+
 - **Redux Saga Persistence Example**  
   https://github.com/jportela/redux-saga-persistence  
   This example shows how a persistence mechanism can be implemented by using Redux Sagas.
@@ -32,15 +34,14 @@
   https://github.com/guigrpa/storyboard  
   End-to-end, hierarchical, real-time, colorful logs and stories.  A library, plus a Chrome DevTools extension.
   
-- **Firefox DevTools - Memory Tool**  
+- **Firefox DevTools - Memory Tool and Debugger**  
   https://dxr.mozilla.org/mozilla-central/source/devtools/client/memory  
-  
-- **Firefox DevTools - Debugger**  
   https://dxr.mozilla.org/mozilla-central/source/devtools/client/debugger  
+  Parts of the current Firefox DevTools debugger were rewritten using Redux
   
 - **Debugger.html**  
   https://github.com/jlongster/debugger.html  
-  A prototype Firefox debugger written without any XUL and based on React and Redux.
+  A prototype Firefox debugger, written without any XUL and based on React and Redux.
   
 - **Guild Wars 2 Armory**  
   https://github.com/madou/armory-front  
@@ -72,7 +73,7 @@
   https://speakerdeck.com/chrisui/real-world-redux  
   Explores the real world experiences of using Redux everyday within a rapidly scaling team and product.
   
-- **KarmaCRM: Launching an Enterprise React & Redux App – Part 1**  
+- **KarmaCRM: Launching an Enterprise React & Redux App â€“ Part 1**  
   http://jpnarowski.com/enterprise-react-redux-part-1/  
   A combination tutorial and lessons learned series.
   
