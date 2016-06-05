@@ -51,6 +51,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Debugger.html**  
   https://github.com/jlongster/debugger.html  
   A prototype Firefox debugger, written without any XUL and based on React and Redux.
+
+- **Project Tofino**  
+  https://github.com/mozilla/tofino  
+  An experimental browser prototype, investigating new ideas and interactions.
   
 - **Guild Wars 2 Armory**  
   https://github.com/madou/armory-front  
