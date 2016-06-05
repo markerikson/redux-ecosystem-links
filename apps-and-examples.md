@@ -2,10 +2,23 @@
 
 Note: This is not a comprehensive list of all projects using Redux, just a selection of reasonably-sized projects that looked interesting.
 
+
+#### Purpose-Built Demos and Examples
+
 - **Redux Saga Persistence Example**  
   https://github.com/jportela/redux-saga-persistence  
   This example shows how a persistence mechanism can be implemented by using Redux Sagas.
+
+- **Redux Review**  
+  https://github.com/GoThinkster/redux-review  
+  An example real world application built with Redux.  Demos a Medium-like social blogging site that includes JWT authentication, CRUD, favoriting articles, following users, routing, and more.
+
+- **Saga Login Flow**  
+  https://github.com/sotojuan/saga-login-flow  
+  This application demonstrates what a React-based register/login workflow might look like with Redux Saga.  It's based on Max Stoiber's login-flow, but uses Redux Saga instead of Redux Thunk to handle asynchronous actions.
   
+
+#### Applications
 - **MapStore2**  
   https://github.com/geosolutions-it/MapStore2  
   Modern webmapping with OL3, Leaflet, React, and Redux.  
@@ -17,10 +30,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Wordpress-Calypso**  
   https://github.com/Automattic/wp-calypso  
   The new JavaScript- and API-powered WordPress.com
-  
-- **Redux Review**  
-  https://github.com/GoThinkster/redux-review  
-  An example real world application built with Redux.  Demos a Medium-like social blogging site that includes JWT authentication, CRUD, favoriting articles, following users, routing, and more.
   
 - **Panther**  
   https://github.com/joshwcomeau/panther  
