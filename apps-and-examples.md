@@ -76,6 +76,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/jenkinsci/blueocean-plugin  
   A new user experience and UI for Jenkins.  The "Dashboard" and "Web" pieces are built on React and Redux.
 
+- **Neos CMS UI rewrite**  
+  https://github.com/PackageFactory/PackageFactory.Guevara  
+  New user interface for Neos CMS built with React and Redux. This is an ongoing project, and it is open to new contributors.
+
 #### Redux Usage Stories
 
 - **Twitter: mobile.twitter.com**  
