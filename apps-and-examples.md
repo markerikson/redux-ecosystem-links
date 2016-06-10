@@ -80,6 +80,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/PackageFactory/PackageFactory.Guevara  
   New user interface for Neos CMS built with React and Redux. This is an ongoing project, and it is open to new contributors.
 
+- **CarteJaune**  
+  https://github.com/nikgraf/CarteJaune 
+  A React Native/Redux (+Saga) application to keep track of your vaccinations
+
 #### Redux Usage Stories
 
 - **Twitter: mobile.twitter.com**  
