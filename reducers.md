@@ -10,10 +10,6 @@
 - **reduce-reducers**  
   https://github.com/acdlite/reduce-reducers  
   Reduce multiple reducers into a single reducer from left to right.
-
-- **redux-modules**  
-  https://github.com/mboperator/redux-modules  
-  A library for defining clear, boilerplate free Redux reducers with typechecked action payloads. Based on the redux duck paradigm proposed by erikras.
   
 - **redux-delegator**  
   https://github.com/lapanoid/redux-delegator  
@@ -119,6 +115,18 @@
   https://github.com/kuy/redux-merge-reducers  
   A decorator to make your Redux's reducers mergeable.
   
+- **stack-feature-store-redux**  
+  https://github.com/gp-technical/stack-feature-store-redux  
+  An alternative redux combineReducers function for use with feature package oriented applications
+  
+- **reduxerit**  
+  https://github.com/jurgob/reduxerit  
+  reduxerit is strongly influenced from redux-modifiers (https://github.com/calvinfroedge/redux-modifiers), It tries to simplify writing the redux reducer, but without using immutablejs.
+  
+- **combineSectionReducers**  
+  https://github.com/ryo33/combine-section-reducers  
+  Section reducers is the same as reducers but it requires the third argument to get the entire state.  (sectionState, action, state) => newSectionState
+  
 #### Higher-Order Reducers
 
 - **redux-undo**  
@@ -176,6 +184,10 @@
 - **initializable-reducer**  
   https://github.com/oreshinya/initializable-reducer  
   Initializing reducers action and associated higher order reducer for redux.
+  
+- **Redux-Queue**  
+  https://github.com/JBlaak/Redux-Queue  
+  Higher order reducer to easily cope with async actions.
   
   
 #### Advanced Reducer Use Cases

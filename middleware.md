@@ -152,6 +152,10 @@
 - **redux-sync-promise**  
   https://github.com/shanhaichik/redux-sync-promise  
   Middleware for writing asynchronous actions in synchronous style
+  
+- **wait-for-redux-thunk**  
+  https://github.com/kkotlarski/wait-for-redux-thunk  
+  Simple middleware providing hooks after every async action and a final callback when all async actions are completed. Very useful when building universal react applications with redux-thunk.
 
 #### Action Grouping and Interception
 
@@ -454,8 +458,16 @@
 
 - **redux-publish-action**  
   https://github.com/oriweingart/redux-publish-action  
-  Redux middleware for showing another user's interaction with your application in your browser using PbNub.  Using this middleware you can see what your users see in their application or you can show them what you see on your end. Useful for demos and debug sessions.
+  Redux middleware for showing another user's interaction with your application in your browser using PubNub.  Using this middleware you can see what your users see in their application or you can show them what you see on your end. Useful for demos and debug sessions.
   
 - **redux-elm-middleware**  
   https://github.com/stoeffel/redux-elm-middleware  
   Elm middleware for redux.  Write bulletproof business logic, handle state and effects, still have the rich react/redux ecosystem at your paws, slowly convert a redux/react app into Elm.
+  
+- **redux-cookies**  
+  https://github.com/MrCheater/redux-cookies  
+  Redux cookies-middleware and cookies-actions for Isomorphic(Universal) cookies
+  
+- **Redux Electron IPC Middleware**  
+  https://github.com/mariotacke/redux-electron-ipc  
+  A Redux middleware to reduce code around ipc calls in an Electron application. You can send and receive IPC events with a simple api.

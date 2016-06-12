@@ -63,3 +63,15 @@
 - **redux-router-state**  
   https://github.com/gadicc/redux-router-state  
   Store router state in Redux and route via redux
+  
+- **redux-little-router**  
+  https://github.com/FormidableLabs/redux-little-router  
+  A tiny router for Redux that lets the URL do the talking.
+  
+- **redux-history-state**  
+  https://github.com/mortenolsendk/redux-history-state  
+  Redux state time traveling, optimized for pushState navigation 
+  
+- **redux-director**  
+  https://github.com/mandeepbrar/redux-director  
+  Redux bindings to director router. Works as front end router for redux react applications.

@@ -112,7 +112,15 @@
   
 - **redux-request**  
   https://github.com/kongdigital/redux-request  
-  Simplified AJAX calls using SuperAgent and Redux-Thunk.  Redux-Request simplifies Restful API calls using redux. It follows the convention of "configuration" over "code" and is designed for applications that make a lot of API calls..
+  Simplified AJAX calls using SuperAgent and Redux-Thunk.  Redux-Request simplifies Restful API calls using redux. It follows the convention of "configuration" over "code" and is designed for applications that make a lot of API calls.
+  
+- **redux-fetch-helpers**  
+  https://github.com/alexjg/redux-fetch-helpers  
+  First stab at a few helpers to remove some of the boilerplate when interacting with rest APIs from redux.
+  
+- **redux-action-api-utils**  
+  https://github.com/APSL/redux-action-api-utils  
+  Redux actions utility for creating and handling REST API requests
   
   
 #### Other Code Structures
@@ -129,6 +137,10 @@
   https://github.com/LockedOn/tiny-duck  
   Tiny Duck is a small library that allows you to define small, reusable collections of reducer actions and compose them together.  Tiny Duck gives you high code reuse and testabilty for your redux reducers.  Tiny Duck was inspired from the pattern of erikras/ducks-modular-redux where you bundle all of your actions, action types and reducers in the one module.
   
+- **redux-modules**  
+  https://github.com/mboperator/redux-modules  
+  A library that takes the Redux module concept to another level with: an intuitive way define actions and state transformations; propType style typechecking for action payloads; auto generated, camelCased action creators; auto prefixed action constants; and a decorator to easily drop module capabilities in to your view
+    
 - **purescript-redux-utils**  
   https://github.com/osener/purescript-redux-utils  
   Utilities for writing Redux actions and reducers in PureScript
@@ -136,3 +148,4 @@
 - **redux-modules**  
   https://github.com/fullstackreact/redux-modules  
   The overall idea behind redux-modules is to build all of the corresponding redux functionality, constants, reducers, actions in a common location that makes it easy to understand the entire workflow common to a component of an application.  Redux modules is essentially a collection of helpers that provide functionality for common tasks related to using Redux.
+  

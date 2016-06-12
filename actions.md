@@ -96,6 +96,10 @@
   https://github.com/Lokua/redux-actions-class  
   Create action creators and types with minimal redundancy.
   
+- **namespace-constants**  
+  https://github.com/cheton/namespace-constants  
+  Add namespace to Redux action type constants without name conflicts.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

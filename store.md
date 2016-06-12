@@ -23,6 +23,10 @@
 - **redux-persist-transform-encrypt**  
   https://github.com/maxdeviant/redux-persist-transform-encrypt  
   Encrypt your Redux store.
+  
+- **redux-persist-transform-expire**  
+  https://github.com/gabceb/redux-persist-transform-expire  
+  Add expiration to your persisted store
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -40,6 +44,10 @@
   https://github.com/michaelcontento/redux-storage  
   Persistence layer for redux with flexible backends.  Save and load the Redux state with ease.
   
+- **redux-storage-decorator-engines**  
+  https://github.com/allegro/redux-storage-decorator-engines  
+  Composing decorator for redux-storage to use different storage types like redux-storage-engine-localstorage or redux-storage-engine-sessionstorage including custom engines (i.e. to load information from cookies) in a single application.
+  
 - **redux-pouchdb**  
   https://github.com/vicentedealencar/redux-pouchdb  
   Sync store state to pouchdb
@@ -50,6 +58,8 @@
   
 - **redux-live**  
   https://github.com/eitak/redux-live  
+  https://github.com/eitak/redux-live-localdb  
+  https://github.com/eitak/redux-live-socketio  
   Redux Live a framework for persisting Redux actions to a database and synchronising them across multiple clients. 
   
 - **redux-action-store**  
@@ -88,6 +98,14 @@
 - **redux-swarmlog**  
   https://github.com/philholden/redux-swarmlog  
   A super simple way of writing distributed Redux applications. The Redux action log is persisted in an IndexDB and synced with other peers via a WebRTC Swarm using Swarmlog.
+  
+- **redux-async-initial-state**  
+  https://github.com/KELiON/redux-async-initial-state  
+  Redux middleware for async loading of initial app state.
+  
+- **persistent-redux**  
+  https://github.com/explorigin/persistent-redux  
+  Persistent-Redux is a drop-in middleware that will save your Redux state and restore it on the next page load.  Previously this tool focused on PouchDB but now it offers an adapter API to use any backend.
 
 
 #### Store Change Subscriptions
@@ -170,3 +188,6 @@
   https://github.com/jcoreio/redux-plugins-immutable-hot-loader  
   Webpack loader that hot-reloads plugins made with redux-plugins-immutable when you make changes to them.
   
+- **redux-shared-worker**  
+  https://github.com/burakcan/redux-shared-worker  
+  A higher order Redux store that runs the actual store in a SharedWorker or WebWorker. 

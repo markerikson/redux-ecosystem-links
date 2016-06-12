@@ -17,6 +17,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/sotojuan/saga-login-flow  
   This application demonstrates what a React-based register/login workflow might look like with Redux Saga.  It's based on Max Stoiber's login-flow, but uses Redux Saga instead of Redux Thunk to handle asynchronous actions.
   
+- **Redux Saga Examples**  
+  https://github.com/kuy/redux-saga-examples  
+  http://kuy.github.io/redux-saga-examples/  
+  A set of examples demonstrating usage of redux-saga (autocomplete, throttle, start-stop, backend integration)
+  
 
 #### Applications
 - **MapStore2**  

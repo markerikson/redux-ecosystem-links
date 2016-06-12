@@ -1,18 +1,6 @@
 ### Widgets and Components
 
 #### Assorted Components
-
-- **react-redux-modal**  
-  https://github.com/yuanqing/react-redux-modal  
-  A React modal connected to the Redux store.
-  
-- **react-redux-modal**  
-  https://github.com/diegoddox/react-redux-modal  
-  Another Redux-based React modal
-  
-- **subdivide**  
-  https://github.com/philholden/subdivide  
-  Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
   
 - **redux-infinite-scroll**  
   https://github.com/RealScout/redux-infinite-scroll  
@@ -21,10 +9,6 @@
 - **redux-authentication**  
   https://github.com/Jackong/redux-authentication  
   An authentication decorator/component for Redux
-  
-- **React Tab Component Redux**  
-  https://github.com/pspfolio/ReactTabComponentRedux  
-  React tab component. Handling application state with Redux.
   
 - **redux-validations**  
   https://github.com/trevorwhitney/redux-validations  
@@ -47,17 +31,9 @@
   https://github.com/yormi/duck-ahead  
   A simple async typeahead solution for React and Redux
   
-- **react-tabs-redux**  
-  https://github.com/patrik-piskay/react-tabs-redux  
-  Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
-  
 - **React Redux Loading Bar**  
   https://github.com/mironov/react-redux-loading-bar  
   A simple React component that provides Loading Bar (aka Progress Bar) for long running tasks. Works out of the box with redux-promise-middleware and can be easily tweaked for other usage.
-  
-- **Redux UI Panels**  
-  https://github.com/StJohn3D/redux-ui-panels  
-  A configurable panel framework inspired by blender.org
    
 - **react-redux-terminal**  
   https://github.com/phpingme/react-redux-terminal
@@ -67,9 +43,48 @@
   https://github.com/burmisov/react-redux-leaflet  
   Use Leaflet seamlessly in a React + Redux based application
   
+- **redux-map-gl**  
+  https://github.com/Willyham/redux-map-gl  
+  A small library to remove the boilerplate of connecting you the react-map-gl component to a redux store.
+  
 - **redux-file-upload**  
   https://github.com/blueberryapps/redux-file-upload  
   There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
+
+
+#### Layout
+
+- **subdivide**  
+  https://github.com/philholden/subdivide  
+  Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
+  
+- **Redux UI Panels**  
+  https://github.com/StJohn3D/redux-ui-panels  
+  A configurable panel framework inspired by blender.org
+  
+- **React Tab Component Redux**  
+  https://github.com/pspfolio/ReactTabComponentRedux  
+  React tab component. Handling application state with Redux.
+  
+- **react-tabs-redux**  
+  https://github.com/patrik-piskay/react-tabs-redux  
+  Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
+
+
+#### Modals
+
+- **react-redux-modal**  
+  https://github.com/yuanqing/react-redux-modal  
+  A React modal connected to the Redux store.
+  
+- **react-redux-modal**  
+  https://github.com/diegoddox/react-redux-modal  
+  Another Redux-based React modal
+  
+- **redux-modals**  
+  https://github.com/barracudanetworks/redux-modals  
+  redux-modals is a very simple package for handling modal state in your redux applications. It only provides a reducer and a couple of actions for setting and unsetting your modals.  The only thing this package assumes is that your modals are driven by your application state. Nothing fancy is done here and it does not actually show or hide your modals, it simply stores and provides a list of enabled modals.
+
 
 #### Grids and Tables
 
@@ -213,3 +228,7 @@
 - **react-refetch**  
   https://github.com/heroku/react-refetch  
   A simple, declarative, and composable way to fetch data for React components
+  
+- **react-relay-redux**  
+  https://github.com/Aweary/react-relay-redux  
+  Redux integration for Relay.  react-relay-redux lets you listen and respond to Relay queries and mutations using Redux actions and reducers.

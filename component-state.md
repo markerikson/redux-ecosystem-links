@@ -7,10 +7,6 @@
 - **redux-react-local**  
   https://github.com/threepointone/redux-react-local  
   Creates component wrappers with per-instance local state stored in Redux, as well as locally scoped actions and reducers
-
-- **Redux-Staged-State**  
-  https://github.com/mboperator/redux-modules  
-  The goal of this library is to provide a convenient way to manage transient state in a redux application.  The idea is similar to that of redux-form, but it differs in that it does not focus on forms, but on staged state, that is, parts of the state the a user intends to change but has not committed yet. Staged state may appear in different forms.
   
 - **Redux Cursor**  
   https://github.com/Dashlane/redux-cursor  
@@ -99,3 +95,7 @@
 - **redux-ui-state**  
   https://github.com/jamiecopeland/redux-ui-state  
   Component state for Redux applications
+  
+- **react-state-redux**  
+  https://github.com/ryo33/react-state-redux  
+  Clear away states from React components.  It helps us move states to the Redux store from React components, especially when your components is dynamically used in many places. 
