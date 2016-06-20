@@ -20,6 +20,10 @@
 - **redux-saga-combine-latest**  
   https://github.com/jhewlett/redux-saga-combine-latest  
   Wait for several action types to be dispatched before handling them
+
+- **redux-saga-sc**  
+  https://github.com/stipsan/redux-saga-sc
+  Provides sagas to easily dispatch redux actions over SocketCluster websockets. Useful to keep remote redux stores in sync and more.
   
 - **redux-loop**  
   https://github.com/raisemarketplace/redux-loop  
