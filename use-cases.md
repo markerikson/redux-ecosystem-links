@@ -80,6 +80,24 @@
 - **request-duck**  
   https://github.com/export-mike/request-duck  
   redux duck for adding isFetching error props to a given container component, scoped so props do not clash.
+  
+#### Authentication
+
+- **redux-auth**  
+  https://github.com/Nicktho/redux-auth  
+  A simple redux middleware for JWT based authorization.  Works with any async store middleware.
+  
+- **redux-auth-wrapper**  
+  https://github.com/mjrussell/redux-auth-wrapper  
+  A React Higher Order Component (HOC) for handling Authentication and Authorization with Redux and React-Router
+  
+- **redux-authentication**  
+  https://github.com/Jackong/redux-authentication  
+  An authentication decorator/component for Redux
+  
+- **redux-security**  
+  https://github.com/lokhmakov/redux-security  
+  Redux based user, group and access management with authentication
 
 
 

@@ -146,3 +146,19 @@
 - **Strux**  
   https://github.com/jgnewman/strux  
   A layer on top of redux for describing data flow throughout your application in a revolutionary way.
+  
+- **react-relax**  
+  https://github.com/musicglue/react-relax  
+  A minimal way of providing redux state to react components that doesn't use context
+  
+- **redux-plus**  
+  https://github.com/ashtonwar/redux-plus  
+  The core of Redux is simple. But it comes with a big ecosystem, middleware, action creators, selectors and other things attached that slow down development - a single change in specs shouldn't require changes in 5+ locations to implement. redux-plus makes developers more productive by finding one place for all state-related code: the reducer.
+  
+- **Conventional Redux**  
+  https://github.com/mjaneczek/conventional-redux  
+  Make your redux more friendly by adding conventions and writing less code! Combine actions and reducers into a interactor class; Dispatch action in a interactorName:method format (eg. this.dispatch('counter:double')); Handle an action by defining methods in the interactor
+  
+- **react-redux-oop**  
+  https://github.com/newtoncodes/react-redux-oop  
+  OOP implementation of redux and react.  It uses plain react, redux and react-redux. No functionality is changed or added to these libraries. It's only a way to organize your app with a bunch of helpful classes. Also it solves the problem with multiple stores and binded action creators.

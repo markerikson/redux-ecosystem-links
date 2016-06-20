@@ -18,6 +18,14 @@
   https://github.com/gaearon/normalizr  
   Normalizes deeply nested JSON API responses according to a schema, producing flatter and unduplicated state.
   
+- **denormalizr**  
+  https://github.com/gpbl/denormalizr  
+  Denormalizr takes an entity normalized by normalizr, and returns its complete tree including all the referred entities.
+  
+- **denormalizr-immutable**  
+  https://github.com/dehbmarques/denormalizr-immutable  
+  Denormalizer for normalizr using immutable data
+  
 - **Redux Tree**  
   https://github.com/stefanroex/redux-tree  
   Denormalize your immutable Redux store

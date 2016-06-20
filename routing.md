@@ -56,10 +56,6 @@
   https://www.npmjs.com/package/redux-title  
   Synchronization of document title and redux state
   
-- **redux-auth-wrapper**  
-  https://github.com/mjrussell/redux-auth-wrapper  
-  A React Higher Order Component (HOC) for handling Authentication and Authorization with Redux and React-Router
-  
 - **redux-router-state**  
   https://github.com/gadicc/redux-router-state  
   Store router state in Redux and route via redux
@@ -75,3 +71,7 @@
 - **redux-director**  
   https://github.com/mandeepbrar/redux-director  
   Redux bindings to director router. Works as front end router for redux react applications.
+  
+- **react-router-route-reducers**  
+  https://github.com/mrtnbroder/react-router-route-reducers  
+  Add reducer to your routes and let them be composed and combined into a single state object that follows your route-structure.

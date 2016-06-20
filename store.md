@@ -106,6 +106,14 @@
 - **persistent-redux**  
   https://github.com/explorigin/persistent-redux  
   Persistent-Redux is a drop-in middleware that will save your Redux state and restore it on the next page load.  Previously this tool focused on PouchDB but now it offers an adapter API to use any backend.
+  
+- **redux-store-sync**  
+  https://github.com/lokhmakov/redux-store-sync  
+  Redux store sync middleware
+  
+- **redux-simple-storage-middleware**  
+  https://github.com/BartWaardenburg/redux-simple-storage-middleware  
+  Simple redux middleware which will store the current state tree in either session- or localstorage
 
 
 #### Store Change Subscriptions

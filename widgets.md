@@ -6,10 +6,6 @@
   https://github.com/RealScout/redux-infinite-scroll  
   A stateless React infinite scroll component meant for usage within Redux.
   
-- **redux-authentication**  
-  https://github.com/Jackong/redux-authentication  
-  An authentication decorator/component for Redux
-  
 - **redux-validations**  
   https://github.com/trevorwhitney/redux-validations  
   A library to provide simple validations for React components using Redux and higher order component decorators.
@@ -50,6 +46,10 @@
 - **redux-file-upload**  
   https://github.com/blueberryapps/redux-file-upload  
   There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
+  
+- **semantic-react-redux**  
+  https://github.com/insilica/semantic-react-redux  
+  Just a collection of components for projects using semantic-ui, redux, and react.
 
 
 #### Layout
@@ -58,8 +58,8 @@
   https://github.com/philholden/subdivide  
   Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
   
-- **Redux UI Panels**  
-  https://github.com/StJohn3D/redux-ui-panels  
+- **Repanel**  
+  https://github.com/StJohn3D/repanel 
   A configurable panel framework inspired by blender.org
   
 - **React Tab Component Redux**  
@@ -232,3 +232,11 @@
 - **react-relay-redux**  
   https://github.com/Aweary/react-relay-redux  
   Redux integration for Relay.  react-relay-redux lets you listen and respond to Relay queries and mutations using Redux actions and reducers.
+  
+- **redux-data**  
+  https://github.com/dmin/redux-data  
+  Redux-Data is a companion to Redux that allows you to declare the data (i.e. records from your server) that your application uses. Redux-Data helps you query and cache data as well as perform mutations on the data.
+  
+- **Roulade**  
+  https://github.com/nerdgrass/roulade  
+  Roulade is a library to enable React & Redux applications to easily work with GraphQL servers.

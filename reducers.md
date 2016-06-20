@@ -127,6 +127,10 @@
   https://github.com/ryo33/combine-section-reducers  
   Section reducers is the same as reducers but it requires the third argument to get the entire state.  (sectionState, action, state) => newSectionState
   
+- **Redux Conditional**  
+  https://github.com/ypxing/redux-conditional  
+  Conditionally apply actions to Redux reducers to make sharing reducers easy.
+  
 #### Higher-Order Reducers
 
 - **redux-undo**  
@@ -238,3 +242,6 @@
   https://github.com/dexbol/redux-register  
   An Redux enhancer for registering reducer by namespace
   
+- **remerge**  
+  https://github.com/siawyoung/remerge  
+  The sole purpose of Remerge is to provide a consistent interface for defining and manipulating state. It's extremely easy and intuitive to use once you get the hang of it. While there is a slight learning curve, hopefully our examples will ease the learning process.  Although Remerge was built for use with Redux, it can also be used standalone. It is completely framework-agnostic.

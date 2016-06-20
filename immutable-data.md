@@ -92,6 +92,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **no-mutate**  
   https://github.com/otissv/no-mutate  
   Immutable data structures and methods for plain JavaScript arrays
+  
+- **redux-pipe**  
+  https://github.com/js-and-chill/redux-pipe  
+  Chaining for common immutable Redux operations (push, pop, update, set, move, etc).  Functions are not Redux-specific.
 
 #### Immutable/Redux Interop
 
@@ -134,6 +138,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **node-dux**  
   https://github.com/eknkc/node-dux  
   Seamless-Immutable Redux helpers
+  
+- **redux-mori**  
+  https://github.com/redbadger/redux-mori  
+  redux-mori is a drop-in replacement for Redux's combineReducers that works with mori.js immutable data structures.
 
 
 #### Alternate Data Management Concepts

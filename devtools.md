@@ -124,6 +124,10 @@
   https://github.com/dbslone/realtime-redux-logger  
   Log Redux Actions in realtime to an electron app for separate browser viewing
   
+- **redux-bug-reporter**  
+  https://github.com/dtschust/redux-bug-reporter  
+  A bug reporter and bug playback tool for redux.  Includes easy bug reporting, logging of state, redaction of sensitive information, easy bug playback, and more.
+  
   
  #### Linting
  

@@ -55,6 +55,9 @@
   https://github.com/skellock/reduxsauce  
   Provides a few tools for working with Redux-based codebases.    
   
+- **Redux Factory**  
+  https://github.com/roblafeve/redux-factory  
+  Composable, curried factory for creating Redux reducers and actions. Being curried, you can supply an initial state and define your actions, but omit the prefix argument that is required to finally generate your actionCreator and reducer functions. Doing this allows you to export a base configuration to be used in any number of distinct portions of your state tree.
   
 #### Network Requests and APIs
 

@@ -39,6 +39,10 @@
   https://github.com/rradczewski/expect-redux  
   Assertions for testing a redux store and the actions dispatched to it using mocha and its Promise-Interface with expect Matchers 
   
+- **Redux-Promise-Mock**  
+  https://github.com/ericmasiello/Redux-Promise-Mock  
+  Middleware meant to be used with Redux Promise that can be used to mock remote API calls with mock data.  This middleware will automatically return mock data whenever the API promise-based request executed via redux-promise (https://github.com/acdlite/redux-promise) throws an error.
+  
   
 #### Reducers
 

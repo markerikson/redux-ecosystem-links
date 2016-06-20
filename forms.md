@@ -48,3 +48,7 @@
 - **redux-form-validation-helpers**  
   https://github.com/leiringer/redux-form-validation-helpers  
   A number of validation functions.
+  
+- **react-formagic**  
+  https://github.com/kjessec/react-formagic  
+  A react form binding that adapts to your code, not the other way around.  At the end of the day, react-formagic is just a HoC wrapper that translates props given to it into a set of enhanced props that'll make it easy to work with forms.

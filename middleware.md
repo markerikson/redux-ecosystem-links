@@ -149,6 +149,10 @@
   https://github.com/laat/redux-codi  
   Redux middleware with dependency injection and async control flow.  Enables async/await style actions with co, and simple dependency injection in the middleware creator.
   
+- **redux-di**  
+  https://github.com/laat/redux-di  
+  Thunk middleware with dependency injection
+  
 - **redux-sync-promise**  
   https://github.com/shanhaichik/redux-sync-promise  
   Middleware for writing asynchronous actions in synchronous style
@@ -206,6 +210,10 @@
 - **redux-action-transform-middleware**  
   https://github.com/benwiley4000/redux-action-transform-middleware  
   Generates Redux middleware for applying a given transformer function to a given sub-object target on each dispatched action (if it exists). This target's key is specified as a string and can be deeply nested (e.g. 'req.data').
+  
+- **redux-action-enhancer**  
+  https://github.com/bdwain/redux-action-enhancer  
+  Enhance your actions with values from the store. Inspired by connected components in react-redux.
   
   
 #### Sockets and Adapters
@@ -289,6 +297,10 @@
 - **redux-socket-cluster**  
   https://github.com/mattkrick/redux-socket-cluster  
   A socket-cluster state snatcher.  Socket cluster is awesome, but it doesn't share it's state, so you always have to go to your stored socket to find out. This tiny package grabs all the tasty little state bits & sticks em in your redux store. Then, it sets up listeners for updates to keep those state bits nice and fresh.
+  
+- **redux-saga-sc**  
+  https://github.com/stipsan/redux-saga-sc  
+  Provides sagas to easily dispatch redux actions over SocketCluster websockets
 
 - **redux-firebase**  
   https://github.com/colbyr/redux-firebase  
@@ -372,6 +384,10 @@
   https://github.com/jasonslyvia/redux-composable-fetch  
   A fetch middleware with extensible and opt-in functionalities like cache or log for Redux
   
+- **redux-req**  
+  https://github.com/jedirandy/redux-req  
+  A redux middleware for handling HTTP requests  It's based on plain old XHR, though not as fancy as fetch, it simply does the job and there's no need for extra dependencies.
+  
 #### Analytics
 
 - **redux-analytics**  
@@ -440,10 +456,6 @@
   https://github.com/joshwcomeau/redux-sounds  
   Redux middleware that lets you easily trigger sound effects on actions. Makes it completely trivial to do so, by adding a meta property to any action.
   
-- **redux-auth**  
-  https://github.com/Nicktho/redux-auth  
-  A simple redux middleware for JWT based authorization.  Works with any async store middleware.
-  
 - **postal-redux-middleware**  
   https://github.com/dehamilton/postal-redux-middleware  
   Middleware to interact with Postal.js
@@ -471,3 +483,7 @@
 - **Redux Electron IPC Middleware**  
   https://github.com/mariotacke/redux-electron-ipc  
   A Redux middleware to reduce code around ipc calls in an Electron application. You can send and receive IPC events with a simple api.
+  
+- **redux-queryparam-middleware**  
+  https://github.com/BartWaardenburg/redux-queryparam-middleware  
+  Redux middleware which will store (part of) the payload of specified actions in the url and is able to retrieve an initial state from the url
