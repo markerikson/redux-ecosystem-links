@@ -178,6 +178,14 @@
   https://github.com/xaviervia/redux-subscriptions  
   Higher-level API for the Redux store.subscribe.  redux-subscriptions keeps the previous state for you and gives you the ability of running diffs in the state (using object-difference) so that you can do something when part of the state is updated, much like the React bindings for Redux work.
   
+- **redux-batch-enhancer**  
+  https://github.com/abc123s/redux-batch-enhancer  
+  Batch subscriber notification for an array of actions (including complex actions, e.g. thunks).
+  
+- **redux-limiter**  
+  https://github.com/joaker/redux-limiter  
+  Throttle the rate of change notifications from a redux store to stateless components (NOTE: not for use with stateful components)
+  
 #### Other
 
 - **redux-lift**  

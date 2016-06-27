@@ -43,6 +43,14 @@
   https://github.com/ericmasiello/Redux-Promise-Mock  
   Middleware meant to be used with Redux Promise that can be used to mock remote API calls with mock data.  This middleware will automatically return mock data whenever the API promise-based request executed via redux-promise (https://github.com/acdlite/redux-promise) throws an error.
   
+- **redux-devtools-test-generator**  
+  https://github.com/zalmoxisus/redux-devtools-test-generator  
+  Generate tests right in Redux DevTools.
+  
+- **redux-simple-test-recorder**  
+  https://github.com/e-xtrategy/redux-simple-test-recorder  
+  Simple Test Recorder for Redux.  Record actions running through your store.
+  
   
 #### Reducers
 

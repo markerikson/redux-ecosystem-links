@@ -162,3 +162,12 @@
 - **react-redux-oop**  
   https://github.com/newtoncodes/react-redux-oop  
   OOP implementation of redux and react.  It uses plain react, redux and react-redux. No functionality is changed or added to these libraries. It's only a way to organize your app with a bunch of helpful classes. Also it solves the problem with multiple stores and binded action creators.
+  
+- **redux-store-element**  
+  https://github.com/lastmjs/redux-store-element  
+  A simple Polymer web component that allows a more declarative use of Redux.
+  
+- **redux-schema**  
+  https://github.com/ddsol/redux-schema  
+  https://github.com/ddsol/react-redux-schema  
+  Automatic actions, reducers and validation for Redux.  Designed to make using the immutable state easy to use while keeping the state serializable.

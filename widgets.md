@@ -50,6 +50,10 @@
 - **semantic-react-redux**  
   https://github.com/insilica/semantic-react-redux  
   Just a collection of components for projects using semantic-ui, redux, and react.
+  
+- **react-recorder-redux**  
+  https://github.com/agrasley/react-recorder-redux  
+  Redux actions and bindings for react-recorder
 
 
 #### Layout
@@ -240,3 +244,7 @@
 - **Roulade**  
   https://github.com/nerdgrass/roulade  
   Roulade is a library to enable React & Redux applications to easily work with GraphQL servers.
+  
+- **react-redux-pledge**  
+  https://github.com/PCreations/react-redux-pledge  
+  Enhance your redux-connected component by rendering them only when their props are guaranteed (i.e, relative data are fetched)

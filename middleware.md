@@ -55,6 +55,10 @@
   https://github.com/mathieudutour/redux-object-to-promise  
   Redux middleware to transform an object into a promise
   
+- **redux-payload-promise**  
+  https://github.com/zavalit/redux-payload-promise  
+  Async Redux Action on a Promise base
+  
   
 #### Timeouts and Delays
 
@@ -97,6 +101,14 @@
 - **redux-throttle**  
   https://github.com/mathieudutour/redux-throttle  
   Redux middleware to throttle your actions
+  
+- **optimistic-middleware**  
+  https://github.com/Workpop/optimistic-middleware  
+  Optimistically apply actions that will be reverted on error.
+  
+- **redux-queue-offline**  
+  https://github.com/mathieudutour/redux-queue-offline  
+  Queue actions when offline and dispatch them when getting back online.
   
   
 #### Other Async Actions
@@ -326,6 +338,10 @@
   https://github.com/shawnmclean/redux-meteorware  
   Meteor middleware for Redux.  This Redux middleware allows us to subscribe and load meteor data through actions and have them returned to the reducers when loaded.
   
+- **redux-channels**  
+  https://github.com/danielfarrell/redux-channels  
+  Connector library for redux and websocket channels(ie, socket.io/Phoenix/ActionCable)
+  
 #### Network Requests
 
 - **redux-request**  
@@ -405,6 +421,10 @@
 - **redux-segment**  
   https://github.com/rangle/redux-segment  
   Segment.io analytics integration for redux.
+  
+- **redux-rollbar-middleware**  
+  https://github.com/netguru/redux-rollbar-middleware  
+  Redux middleware that integrates Rollbar. If exception happens during the action, it will send information to Rollbar
   
   
 #### Data Management
@@ -487,3 +507,7 @@
 - **redux-queryparam-middleware**  
   https://github.com/BartWaardenburg/redux-queryparam-middleware  
   Redux middleware which will store (part of) the payload of specified actions in the url and is able to retrieve an initial state from the url
+  
+- **redux-replaceable-middleware**  
+  https://github.com/pgte/redux-replaceable-middleware  
+  Redux middleware that allows replacement with another middleware.

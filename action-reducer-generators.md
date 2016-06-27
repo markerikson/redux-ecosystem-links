@@ -59,6 +59,18 @@
   https://github.com/roblafeve/redux-factory  
   Composable, curried factory for creating Redux reducers and actions. Being curried, you can supply an initial state and define your actions, but omit the prefix argument that is required to finally generate your actionCreator and reducer functions. Doing this allows you to export a base configuration to be used in any number of distinct portions of your state tree.
   
+- **redux-setters**  
+  https://github.com/jedwards1211/redux-setters  
+  Convenient action creator creators for setting fields in redux state
+  
+- **Redux Action Schema**  
+  https://github.com/modernserf/redux-action-schema  
+  Redux Action Schema is a library for managing actions in Redux apps. It is a replacement for the constants file, providing stronger type guarantees while reducing boilerplate.
+  
+- **actionsreducer**  
+  https://github.com/Xananax/actionsreducer  
+  Simplifies the creation of actions, state, and reducers, and the creation of async actions. Return values are automatically re-assigned to state at the right location, no need for reducers composition.
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  

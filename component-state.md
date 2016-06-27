@@ -99,3 +99,10 @@
 - **react-state-redux**  
   https://github.com/ryo33/react-state-redux  
   Clear away states from React components.  It helps us move states to the Redux store from React components, especially when your components is dynamically used in many places. 
+  
+- **redux-container-state**  
+  https://github.com/HansDP/redux-container-state  
+  https://github.com/HansDP/redux-container-state-globalstate  
+  https://github.com/HansDP/redux-container-state-saga  
+  https://github.com/HansDP/redux-container-state-thunk  
+  Local container state for Redux based on the Elm Architecture.  This project evolves the ideas of redux-elm, but avoids opinions about specific implementations of Side Effects and tries to be more in line with the Redux approach of reducers.

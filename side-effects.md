@@ -105,6 +105,10 @@
   https://github.com/xaviervia/redux-haiku  
   redux-haiku proposes is that any side-effect can be treated just like a DOM side-effect–that is, it can be done as the result of a state change. The state change can be identified by running a diff between the new and the old states on the segment of the state that the side-effect cares about, in the meanwhile reusing established patterns such as selectors, mapStateToProps, mapDispatchToProps, etc.
   
+- **redux-elmish**  
+  https://github.com/minedeljkovic/redux-elmish  
+  The Elm Architecture in Redux, statically checked using flow.  Attempts to be as close as possible to Elm Architecture in means of composition and static typing, and not lose Redux good parts (devtools) in the process.
+  
 #### Redux-Effects extensions
 
 - **redux-effects**  

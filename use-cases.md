@@ -1,12 +1,4 @@
 ### Assorted Use Cases
-
-- **redux-pagination**  
-  https://github.com/vhpoet/redux-pagination  
-  Pagination utilities (action creators, higher order reducer) for Redux. 
-  
-- **redux-paginate**  
-  https://github.com/Pegase745/redux-paginate  
-  redux reducer for pagination. should be used w/ normalizr
   
 - **Redux Collections**  
   https://github.com/khrykin/redux-collections  
@@ -40,13 +32,23 @@
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
   
-- **paginated-redux**  
-  https://github.com/robmclarty/paginated-redux  
-  A higher order Redux reducer (or transducer) that adds pagination, sorting, and filtering to a reducer of an array of objects.
-  
 - **redux-midi**  
   https://github.com/motiz88/redux-midi  
   This module provides a store enhancer and a set of action creators wrapping the Web MIDI API for use in Redux apps.
+  
+#### Pagination
+  
+- **redux-pagination**  
+  https://github.com/vhpoet/redux-pagination  
+  Pagination utilities (action creators, higher order reducer) for Redux. 
+  
+- **redux-paginate**  
+  https://github.com/Pegase745/redux-paginate  
+  redux reducer for pagination. should be used w/ normalizr
+  
+- **paginated-redux**  
+  https://github.com/robmclarty/paginated-redux  
+  A higher order Redux reducer (or transducer) that adds pagination, sorting, and filtering to a reducer of an array of objects.
   
 #### Collections / CRUD
 
@@ -65,6 +67,10 @@
 - **redux-crud-store**  
   https://github.com/uniqueway/redux-crud-store  
   A reusable API for syncing models with a backend.  Handles async using redux-saga, implements a default reducer for models, defines action creators for the reducer, and provides selectors for models.
+  
+- **redents**  
+  https://github.com/kneradovsky/redents  
+  Prebuilt middleware and reducers for managing REST entity APIs, plus more.
   
   
 #### Network

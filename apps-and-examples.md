@@ -22,6 +22,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   http://kuy.github.io/redux-saga-examples/  
   A set of examples demonstrating usage of redux-saga (autocomplete, throttle, start-stop, backend integration)
   
+- **Scalable Frontend with Elm or Redux**  
+  https://github.com/slorber/scalable-frontend-with-elm-or-redux  
+  Various user-submitted implementations of the "RandomGif" example app used to demonstrate the Elm Architecture and composable behavior, with comparisons between the different implementations.
+  
 
 #### Applications
 - **MapStore2**  

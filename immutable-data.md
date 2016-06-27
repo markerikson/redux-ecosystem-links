@@ -37,6 +37,10 @@
 - **icepick**  
   https://github.com/aearly/icepick  
   Utilities for treating frozen JavaScript objects as persistent immutable collections
+  
+- **crio**  
+  https://github.com/planttheidea/crio  
+  Immutable JS objects with a natural API.  Creates wrapper objects with replacements for mutating APIs that return new objects instead.
 
 
 #### Immutable Update Utilities
@@ -153,10 +157,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **reduxdb**  
   https://github.com/wizawu/reduxdb  
   Redux with MongoDB-like API.  Dispatches internal Redux actions in response to API calls like `db.someCollection.insert({id : 1, name "abc"})`.
-  
-- **redux-schema**  
-  https://github.com/ddsol/redux-schema  
-  Automatic actions, reducers and validation for Redux.  Designed to make using the immutable state easy to use while keeping the state serializable.
+
   
 - **Vry**  
   https://github.com/JaapRood/vry  
