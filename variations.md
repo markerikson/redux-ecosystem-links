@@ -1,5 +1,9 @@
 ### Alternate Approaches and Variations
 
+- **dva**
+  https://github.com/sorrycc/dva
+  It's a framework based on react, redux, react-redux, react-router and redux-saga, and make use of redux much simper.
+
 - **redux-controller**  
   https://github.com/lexich/redux-controller  
   redux-controller helps to generate controllers (functions) with access to (dispatch and getState) redux functionality without binding to React components.
