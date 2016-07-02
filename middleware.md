@@ -110,6 +110,10 @@
   https://github.com/mathieudutour/redux-queue-offline  
   Queue actions when offline and dispatch them when getting back online.
   
+- **redux-q**  
+  https://github.com/ConciergeAuctions/redux-q  
+  redux-q lets you enqueue any function in a queue that is mapped to an action type. The next time that action is dispatched each callback will be called with that action and the queue will be cleared.
+  
   
 #### Other Async Actions
   
@@ -403,6 +407,10 @@
 - **redux-req**  
   https://github.com/jedirandy/redux-req  
   A redux middleware for handling HTTP requests  It's based on plain old XHR, though not as fancy as fetch, it simply does the job and there's no need for extra dependencies.
+  
+- **redux-http-middleware**  
+  https://github.com/sky-uk/redux-http-middleware  
+  Make http requests by dispatching actions!  The goal of this module is to move the imperative handling of HTTP requests out of Redux applications. Instead HTTP requests are declared as actions and the success or failure of the request is dispatched as another action.
   
 #### Analytics
 

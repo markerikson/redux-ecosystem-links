@@ -109,6 +109,10 @@
   https://github.com/minedeljkovic/redux-elmish  
   The Elm Architecture in Redux, statically checked using flow.  Attempts to be as close as possible to Elm Architecture in means of composition and static typing, and not lose Redux good parts (devtools) in the process.
   
+- **redux-stream**  
+  https://github.com/mcoetzee/redux-stream  
+  Use RxJS 5 to compose side effect streams.  When composing your module's side effects, you have access to all state streams, which allows you to react to an independent module's state changes and produce side effects from it.
+  
 #### Redux-Effects extensions
 
 - **redux-effects**  

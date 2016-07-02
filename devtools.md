@@ -166,6 +166,10 @@
 - **redux-uncaught-promise**  
   https://github.com/laat/redux-uncaught-promise  
   Handle uncaught promises returned from dispatch.
+  
+- **redux-bugsnag-middleware**  
+  https://github.com/netguru/redux-bugsnag-middleware  
+  Redux middleware that wraps exceptions in actions and sends them to Bugsnag with current state
 
 
 

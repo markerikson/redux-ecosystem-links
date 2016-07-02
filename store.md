@@ -207,3 +207,7 @@
 - **redux-shared-worker**  
   https://github.com/burakcan/redux-shared-worker  
   A higher order Redux store that runs the actual store in a SharedWorker or WebWorker. 
+  
+- **redux-undoredo**  
+  https://github.com/ajainarayanan/redux-undoredo  
+  A generic undo-redo reducer that can be used for any redux store. Similar to omnidan/redux-undo, but written to add undo/redo capability as an addon/enhancer to an already existing Redux store.

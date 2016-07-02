@@ -139,6 +139,10 @@
   https://github.com/ryo33/redux-concatenate-reducers  
   Concatenates reducers and merges states returned by them.
   
+- **create-reducer-redux**  
+  https://github.com/johnnyji/create-reducer-redux  
+  Create simple and functional reducers that can listen to multiple action creators.
+  
   
 #### Higher-Order Reducers
 
@@ -201,6 +205,10 @@
 - **Redux-Queue**  
   https://github.com/JBlaak/Redux-Queue  
   Higher order reducer to easily cope with async actions.
+  
+- **redux-schema-sanitizing-reducer**  
+  https://github.com/kjessec/redux-schema-sanitizing-reducer  
+  Returns a reducer that immutably sanitizes input state. Easily composable with your existing reducer.
   
   
 #### Advanced Reducer Use Cases

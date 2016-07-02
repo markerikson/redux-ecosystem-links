@@ -171,3 +171,15 @@
   https://github.com/ddsol/redux-schema  
   https://github.com/ddsol/react-redux-schema  
   Automatic actions, reducers and validation for Redux.  Designed to make using the immutable state easy to use while keeping the state serializable.
+  
+- **react-redux-classconnect**  
+  https://github.com/jondot/react-redux-classconnect  
+  Remove cognitive load by moving prop mapping into the component, by using static method references.
+  
+- **easy-react-redux**  
+  https://github.com/dai-shi/easy-react-redux  
+  Yet another react redux integration only with stateless function components.
+  
+- **redux-action-object**  
+  https://github.com/vasyas/redux-action-object  
+  Defining your Redux reducers and actions using ES6 class syntax.

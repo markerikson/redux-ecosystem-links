@@ -37,6 +37,7 @@
   
 - **react-redux-leaflet**  
   https://github.com/burmisov/react-redux-leaflet  
+  https://github.com/burmisov/redux-leaflet-layer  
   Use Leaflet seamlessly in a React + Redux based application
   
 - **redux-map-gl**  
