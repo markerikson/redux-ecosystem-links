@@ -135,6 +135,10 @@
   https://github.com/JakeGinnivan/react-redux-notifications  
   Redux powered notification React components.
   
+- **Reapop**  
+  https://github.com/LouisBarranqueiro/reapop  
+  A React and Redux notifications system
+  
   
 #### Data Fetching
 
