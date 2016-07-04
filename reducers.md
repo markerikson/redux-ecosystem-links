@@ -131,10 +131,6 @@
   https://github.com/ypxing/redux-conditional  
   Conditionally apply actions to Redux reducers to make sharing reducers easy.
   
-- **stack-feature-store-redux**  
-  https://github.com/gp-technical/stack-feature-store-redux  
-  An alternative redux combineReducers function for use with feature package oriented applications
-  
 - **redux-concatenate-reducers**  
   https://github.com/ryo33/redux-concatenate-reducers  
   Concatenates reducers and merges states returned by them.
