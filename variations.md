@@ -58,6 +58,11 @@
 - **modular-redux**  
   https://github.com/ariporad/modular-redux  
   Build completely modular applications with redux
+
+- **redux-boot**
+  https://github.com/choko-org/redux-boot
+  Modular Redux bootstrap with asynchronous side-effects.
+  Minimal Framework using Redux to develop modularized universal (backend and frontend) applications, based on functional programming paradigms and friends such as Map and Reduce, Immutability and Reactive programming.
   
 - **redux-2way-binding**  
   https://github.com/roderickwang/redux-2way-binding  
