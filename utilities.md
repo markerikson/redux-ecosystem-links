@@ -42,6 +42,10 @@
   https://github.com/AppHubPlatform/reduxql  
   Proof of concept for using GraphQL to select data from a Redux store.
   
+- **model-environment**  
+  https://github.com/tomascharad/model-environment  
+  Super lightweight environment that permits to define relations between objects when receiving data from normalized api's
+  
   
 #### Functional Programming
   

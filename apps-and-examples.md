@@ -93,6 +93,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/nikgraf/CarteJaune 
   A React Native/Redux (+Saga) application to keep track of your vaccinations
 
+- **HyperTerm**  
+  https://github.com/zeit/hyperterm  
+  A beautiful and extensible experience for command-line interface users, built on open web standards.
+
 #### Redux Usage Stories
 
 - **Twitter: mobile.twitter.com**  

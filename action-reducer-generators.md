@@ -71,6 +71,10 @@
   https://github.com/Xananax/actionsreducer  
   Simplifies the creation of actions, state, and reducers, and the creation of async actions. Return values are automatically re-assigned to state at the right location, no need for reducers composition.
   
+- **redux-standard-actions**  
+  https://github.com/yangmillstheory/redux-standard-actions  
+  Flux Standard Action utilities for Redux.
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  
@@ -136,6 +140,10 @@
 - **redux-action-api-utils**  
   https://github.com/APSL/redux-action-api-utils  
   Redux actions utility for creating and handling REST API requests
+  
+- **redux-request-state**  
+  https://github.com/alanzanattadev/redux-request-state  
+  Redux utils to handle easily requests state and display of components based on it 
   
   
 #### Other Code Structures

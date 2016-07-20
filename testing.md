@@ -51,6 +51,10 @@
   https://github.com/e-xtrategy/redux-simple-test-recorder  
   Simple Test Recorder for Redux.  Record actions running through your store.
   
+- **redux-test-utils**  
+  https://github.com/knegusen/redux-test-utils  
+  Provides a mock store and utilities for checking dispatched actions.
+  
   
 #### Reducers
 
@@ -73,7 +77,8 @@
   Functions to assert dispatched actions in redux
 
 - **redux-actions-assertions**  
-  https://github.com/dmitry-zaets/redux-actions-assertions  
+  https://github.com/redux-things/redux-actions-assertions  
+  https://github.com/redux-things/redux-actions-assertions-js  
   Assertions (chai, expect, expect.js, should) for redux actions testing 
 
 - **redux-saga-test**  

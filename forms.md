@@ -52,3 +52,11 @@
 - **react-formagic**  
   https://github.com/kjessec/react-formagic  
   A react form binding that adapts to your code, not the other way around.  At the end of the day, react-formagic is just a HoC wrapper that translates props given to it into a set of enhanced props that'll make it easy to work with forms.
+  
+- **redux-form-submit-saga**  
+  https://github.com/colinbate/redux-form-submit-saga  
+  Handles redux-form submissions using redux-saga
+  
+- **luft**  
+  https://github.com/jdudek/luft  
+  Simple and flexible forms in React and Redux

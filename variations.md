@@ -107,9 +107,9 @@
   https://github.com/cerebral/redux-signals  
   The Cerebral signals running on Redux
   
-- **redux-flux**  
-  https://github.com/umidbekkarimov/redux-flux  
-  Bring back Flux features to Redux.  
+- **redux-remake**  
+  https://github.com/umidbekkarimov/redux-remake  
+  Make redux reducers more easier to define by using Flux-like features.
   
 - **redux-observe-store-path**  
   https://github.com/d6u/redux-observe-store-path  
@@ -183,3 +183,7 @@
 - **redux-action-object**  
   https://github.com/vasyas/redux-action-object  
   Defining your Redux reducers and actions using ES6 class syntax.
+  
+- **redux-entity-store**  
+  https://github.com/vasyas/redux-entity-store  
+  ORM-like API to access Redux store state

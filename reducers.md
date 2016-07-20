@@ -139,6 +139,10 @@
   https://github.com/johnnyji/create-reducer-redux  
   Create simple and functional reducers that can listen to multiple action creators.
   
+- **redux-tk**  
+  https://github.com/geowarin/redux-tk  
+  Utility functions for generating reducers.
+  
   
 #### Higher-Order Reducers
 
@@ -205,6 +209,22 @@
 - **redux-schema-sanitizing-reducer**  
   https://github.com/kjessec/redux-schema-sanitizing-reducer  
   Returns a reducer that immutably sanitizes input state. Easily composable with your existing reducer.
+  
+- **redux-reset-reducer**  
+  https://github.com/CyberInt/redux-reset-reducer  
+  Higher-order Redux reducer which resets state to original reducer's initial state
+  
+- **redux-reuse**  
+  https://github.com/CyberInt/redux-reuse  
+  Helper utility to create higher-order reducers to reuse your action handlers in existing Redux reducers
+  
+- **redux-payload**  
+  https://github.com/CyberInt/redux-payload  
+  Higher-order Redux reducer which returns payload for specific actions
+  
+- **redux-map-state**  
+  https://github.com/CyberInt/redux-map-state  
+  Higher-order Redux reducer which helps apply your existent reducers on any format of state
   
   
 #### Advanced Reducer Use Cases

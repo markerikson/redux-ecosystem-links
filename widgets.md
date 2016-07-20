@@ -55,6 +55,14 @@
 - **react-recorder-redux**  
   https://github.com/agrasley/react-recorder-redux  
   Redux actions and bindings for react-recorder
+  
+- **react-redux-dropdown**  
+  https://github.com/rcsole/react-redux-dropdown  
+  simple react dropdown component using redux-ui
+  
+- **redux-audio**  
+  https://github.com/agrasley/redux-audio  
+  Redux bindings for HTML5 audio elements
 
 
 #### Layout
@@ -138,6 +146,10 @@
 - **Reapop**  
   https://github.com/LouisBarranqueiro/reapop  
   A React and Redux notifications system
+  
+- **re-alert**  
+  https://github.com/zesik/re-alert  
+  A light-weight web page notification system for React and Redux. 
   
   
 #### Data Fetching
@@ -253,3 +265,19 @@
 - **react-redux-pledge**  
   https://github.com/PCreations/react-redux-pledge  
   Enhance your redux-connected component by rendering them only when their props are guaranteed (i.e, relative data are fetched)
+  
+- **react-redux-promise**  
+  https://github.com/rainforestapp/async-state-components  
+  A set of tools to link react component to the lifecycle of a promise
+  
+- **react-redux-universal-resolver**  
+  https://github.com/Tarabyte/react-redux-universal-resolver  
+  Yet another universal redux based higher order component for React
+  
+- **redux-data-fetching**  
+  https://github.com/alanzanattadev/redux-data-fetching  
+  Automatic data managment with caching and auto merging of cached data and fetched one, based on GraphQL.
+  
+- **redux-resource-manager**  
+  https://github.com/rolyatmax/redux-resource-manager  
+  A Redux wrapper that helps manage external resources in a client-side application.

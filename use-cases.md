@@ -12,10 +12,6 @@
   https://github.com/swennemans/redux-lunr  
   Redux middleware that makes your store searchable with Lunr.js
   
-- **redux-pagan**  
-  https://github.com/alexkuz/redux-pagan  
-  Managing internationalization via redux
-  
 - **redux-binary**  
   https://github.com/jfairbank/redux-binary  
   Create simple Redux actions and a reducer for managing binary state.
@@ -28,6 +24,10 @@
   https://github.com/AlecAivazis/redux-responsive  
   A redux reducer for managing the responsive state of your application
   
+- **redux-mediaquery**  
+  https://github.com/Yaska/redux-mediaquery  
+  An ActionCreator for Redux that makes CSS mediaqueries (and more) available in the store. This allows you to declaratively make responsive layouts.
+  
 - **redux-mouse**  
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
@@ -35,6 +35,30 @@
 - **redux-midi**  
   https://github.com/motiz88/redux-midi  
   This module provides a store enhancer and a set of action creators wrapping the Web MIDI API for use in Redux apps.
+  
+- **redux-saga-network-status**  
+  https://github.com/EventMobi/redux-saga-network-status  
+  Network status detection with server ping and backoff for redux-saga.
+  
+
+  
+### Internationalization
+
+- **redux-pagan**  
+  https://github.com/alexkuz/redux-pagan  
+  Managing internationalization via redux
+  
+- **React Intl Redux**  
+  https://github.com/ratson/react-intl-redux  
+  Redux binding for React Intl.
+
+- **redux-lang**  
+  https://github.com/jamestierney/redux-lang  
+  A Redux implementation for simple React and React Native language i18n.
+  
+- **redux-i18n**  
+  https://github.com/APSL/redux-i18n  
+  A simple and powerful package for translate your react application with react-redux.
   
 #### Pagination
   
@@ -72,6 +96,9 @@
   https://github.com/kneradovsky/redents  
   Prebuilt middleware and reducers for managing REST entity APIs, plus more.
   
+- **redux-entity**  
+  https://github.com/gilesbradshaw/redux-entity  
+  A redux module allowing CRUD with real time updates
   
 #### Network
   
@@ -104,6 +131,14 @@
 - **redux-security**  
   https://github.com/lokhmakov/redux-security  
   Redux based user, group and access management with authentication
+  
+- **redux-oauth**  
+  https://github.com/yury-dymov/redux-oauth  
+  Oauth token authentication system for react + redux.
+  
+- **redux-auth**  
+  https://github.com/lynndylanhurley/redux-auth  
+  Complete token authentication system for react + redux that supports isomorphic rendering.
 
 
 

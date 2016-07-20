@@ -177,6 +177,15 @@
   https://github.com/kkotlarski/wait-for-redux-thunk  
   Simple middleware providing hooks after every async action and a final callback when all async actions are completed. Very useful when building universal react applications with redux-thunk.
 
+- **redux-generator-thunk**  
+  https://github.com/geckoboard/redux-generator-thunk  
+  Allows you to write action creators that return a generator function instead of an action.
+  
+- **redux-pull-actors**  
+  https://github.com/nrn/redux-pull-actors  
+  Middleware for doing additional asynchronous work based on redux actions and state transitions.
+  
+
 #### Action Grouping and Interception
 
 - **redux-combine-actions**  
@@ -412,6 +421,10 @@
   https://github.com/sky-uk/redux-http-middleware  
   Make http requests by dispatching actions!  The goal of this module is to move the imperative handling of HTTP requests out of Redux applications. Instead HTTP requests are declared as actions and the success or failure of the request is dispatched as another action.
   
+- **redux-cached-api**  
+  https://github.com/VerenigingCampusKabel/redux-cached-api  
+  Redux middleware for calling and caching a (REST) API
+  
 #### Analytics
 
 - **redux-analytics**  
@@ -433,6 +446,13 @@
 - **redux-rollbar-middleware**  
   https://github.com/netguru/redux-rollbar-middleware  
   Redux middleware that integrates Rollbar. If exception happens during the action, it will send information to Rollbar
+  
+- **redux-reporter**  
+  https://github.com/ezekielchentnik/redux-reporter  
+  https://github.com/ezekielchentnik/redux-adobe-dtm  
+  https://github.com/ezekielchentnik/redux-newrelic  
+  https://github.com/ezekielchentnik/redux-optimizely  
+  Redux middleware for reporting actions to third party APIs. Extremely useful for analytics and error handling.  Author has specialized versions for Adobe DTM, NewRelic, and Optimizely.
   
   
 #### Data Management
@@ -460,6 +480,10 @@
 - **redux-inject**  
   https://github.com/bradharms/redux-inject  
   Redux middleware generator that allows dependencies to be injected into action creators.
+  
+- **redux-schema-middleware**  
+  https://github.com/NapalmDeath/redux-schema-middleware  
+  Using NormalizrJS to normalize redux action payload
   
   
 #### Other

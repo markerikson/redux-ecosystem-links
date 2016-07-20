@@ -114,6 +114,10 @@
 - **redux-simple-storage-middleware**  
   https://github.com/BartWaardenburg/redux-simple-storage-middleware  
   Simple redux middleware which will store the current state tree in either session- or localstorage
+  
+- **redux-scuttlebutt**  
+  https://github.com/grrowl/redux-scuttlebutt  
+  Self-replicating, self-ordering log of actions shared between all clients. Using the power behind redux's hot reloading and time travel, your client dispatches actions itself and so does every other client, they share the state, and it all just works.
 
 
 #### Store Change Subscriptions
@@ -211,3 +215,11 @@
 - **redux-undoredo**  
   https://github.com/ajainarayanan/redux-undoredo  
   A generic undo-redo reducer that can be used for any redux store. Similar to omnidan/redux-undo, but written to add undo/redo capability as an addon/enhancer to an already existing Redux store.
+  
+- **redux-web-worker**  
+  https://github.com/deebloo/redux-web-worker  
+  Redux implementation in a web worker (experiment). The entire state is kept in a separate thread. (this also gives the added benefit of immutable objects)
+  
+- **redux-mount-store**  
+  https://github.com/RetailMeNotSandbox/redux-mount-store  
+  Redux store enhancer that makes it possible to mount sub-stores

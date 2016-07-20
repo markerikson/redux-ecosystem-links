@@ -19,6 +19,10 @@
   https://github.com/skellock/reactotron  
   Control, monitor, and instrument your React DOM and React Native apps. From the comfort of your TTY.
   
+- **react-gui-debugger**  
+  https://github.com/dittonjs/react-gui-debugger  
+  A dock that lets you view you components props and state without putting debuggers and console.logs all over the place. Inspired by redux-devtools.
+  
 #### DevTools Monitors
 
 - **Log Monitor**  
