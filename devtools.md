@@ -132,8 +132,12 @@
   https://github.com/dtschust/redux-bug-reporter  
   A bug reporter and bug playback tool for redux.  Includes easy bug reporting, logging of state, redaction of sensitive information, easy bug playback, and more.
   
+- **redux-simple-logger**  
+  https://github.com/pinn3/redux-simple-logger  
+  Super simple cli logger middleware for redux
   
- #### Linting
+  
+#### Linting
  
 - **redux-immutable-state-invariant**  
   https://github.com/leoasis/redux-immutable-state-invariant  

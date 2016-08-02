@@ -145,6 +145,10 @@
   https://github.com/alanzanattadev/redux-request-state  
   Redux utils to handle easily requests state and display of components based on it 
   
+- **redux-request-utils**  
+  https://github.com/rockingskier/redux-request-utils  
+  Utility functions to generate network-related actions and sagas, and execute the requests
+  
   
 #### Other Code Structures
 
@@ -172,3 +176,6 @@
   https://github.com/fullstackreact/redux-modules  
   The overall idea behind redux-modules is to build all of the corresponding redux functionality, constants, reducers, actions in a common location that makes it easy to understand the entire workflow common to a component of an application.  Redux modules is essentially a collection of helpers that provide functionality for common tasks related to using Redux.
   
+- **modular-redux-thunk**  
+  https://github.com/benbeadle/modular-redux-thunk  
+  A ducks-inspired package to help organize actions, reducers, and selectors together.

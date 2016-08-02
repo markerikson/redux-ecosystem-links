@@ -97,6 +97,13 @@
   https://github.com/playground-xyz/redux-mock-dispatcher  
   Utility module for ease of testing redux-thunk style action creators.
   
+- **redux-saga-test-runner**  
+  https://github.com/ksmithbaylor/redux-saga-test-runner  
+  Utilities to make testing sagas easier
+  
+- **redux-saga-chai**  
+  https://github.com/R1ZZU/redux-saga-chai  
+  redux-saga-chai extends Chai and allows you to be more verbose while testing sagas
 
   
 

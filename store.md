@@ -118,6 +118,10 @@
 - **redux-scuttlebutt**  
   https://github.com/grrowl/redux-scuttlebutt  
   Self-replicating, self-ordering log of actions shared between all clients. Using the power behind redux's hot reloading and time travel, your client dispatches actions itself and so does every other client, they share the state, and it all just works.
+  
+- **Redux-Session**  
+  https://github.com/HelpfulHuman/Redux-Session  
+  Redux middleware for automatic setting and hydration of state data in external storage.
 
 
 #### Store Change Subscriptions

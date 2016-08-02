@@ -35,15 +35,6 @@
   https://github.com/phpingme/react-redux-terminal
   React+Redux driven terminal component
   
-- **react-redux-leaflet**  
-  https://github.com/burmisov/react-redux-leaflet  
-  https://github.com/burmisov/redux-leaflet-layer  
-  Use Leaflet seamlessly in a React + Redux based application
-  
-- **redux-map-gl**  
-  https://github.com/Willyham/redux-map-gl  
-  A small library to remove the boilerplate of connecting you the react-map-gl component to a redux store.
-  
 - **redux-file-upload**  
   https://github.com/blueberryapps/redux-file-upload  
   There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
@@ -150,6 +141,22 @@
 - **re-alert**  
   https://github.com/zesik/re-alert  
   A light-weight web page notification system for React and Redux. 
+  
+  
+#### Maps
+
+- **react-redux-leaflet**  
+  https://github.com/burmisov/react-redux-leaflet  
+  https://github.com/burmisov/redux-leaflet-layer  
+  Use Leaflet seamlessly in a React + Redux based application
+  
+- **redux-map-gl**  
+  https://github.com/Willyham/redux-map-gl  
+  A small library to remove the boilerplate of connecting you the react-map-gl component to a redux store.
+  
+- **react-redux-mapbox-gl**  
+  https://github.com/yunluyl/react-redux-mapbox-gl  
+  Embed React elements in Mapbox GL with Redux state control
   
   
 #### Data Fetching
@@ -281,3 +288,7 @@
 - **redux-resource-manager**  
   https://github.com/rolyatmax/redux-resource-manager  
   A Redux wrapper that helps manage external resources in a client-side application.
+  
+- **redux-async-loader**  
+  https://github.com/recruit-tech/redux-async-loader  
+  Async data loader for Redux apps with React-Router.

@@ -75,3 +75,7 @@
 - **react-router-route-reducers**  
   https://github.com/mrtnbroder/react-router-route-reducers  
   Add reducer to your routes and let them be composed and combined into a single state object that follows your route-structure.
+  
+- **redux-history-utils**  
+  https://github.com/kchmck/redux-history-utils  
+  Simple redux utilities for history and navigation

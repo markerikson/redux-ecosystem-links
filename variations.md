@@ -187,3 +187,20 @@
 - **redux-entity-store**  
   https://github.com/vasyas/redux-entity-store  
   ORM-like API to access Redux store state
+  
+- **redux-virtual-dom**  
+  https://github.com/subuta/redux-virtual-dom  
+  react-redux for your vdom library.  Make your vdom-based development flow easy, with virtual-dom or snabbdom.  Convenient utility(only ~100 line) for Redux.  Automatically memoize your render function for better performance!
+
+- **redux-smooth-bind-actioncreators**  
+  https://github.com/dsacramone/redux-smooth-bind-actioncreators  
+  Simple utility to faciliate mapping and binding action creators / states to classes.  Reduce the boilerplate of "mapStateToProps" and "mapDispatchToProps" !
+  
+- **react-redux-with-path**  
+  https://github.com/ZhengHe-MD/react-redux-with-path  
+  A customization of react-redux designed for cases that want to access sub-tree of the state
+  
+- **Jumpsuit**  
+  https://github.com/jumpsuit/jumpsuit  
+  https://medium.com/@tannerlinsley/jumpsuit-react-redux-made-simple-e3186ba1b077  
+  Jumpsuit is a powerful and extremely efficient Front-end framework & CLI. It is the fastest way to write scalable react/redux apps with the least overhead.  No boilerplate; Dedicated build system; Scaffolding tools; Minimal API; Simple and scalable state management based on Redux.

@@ -158,7 +158,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/wizawu/reduxdb  
   Redux with MongoDB-like API.  Dispatches internal Redux actions in response to API calls like `db.someCollection.insert({id : 1, name "abc"})`.
 
-  
 - **Vry**  
   https://github.com/JaapRood/vry  
   Data modeling with Immutable.js designed for use with Redux-like architectures.  Defining models using Immutable.js, making it easier to define defaults, parsing, serialisation, merging, identifiying entities, etc. Models are stateless (anaemic), meaning the instances (Immutable.Maps) are passed to the Model's methods as the first argument and a new / updated version is returned. This makes them a great fit to implement Redux reducers.
@@ -170,3 +169,4 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **jseg**  
   https://github.com/brandonbloom/jseg  
   A super simple, in-memory, JS graph database.
+  

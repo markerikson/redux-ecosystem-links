@@ -2,7 +2,7 @@
   
 - **Redux Collections**  
   https://github.com/khrykin/redux-collections  
-  One-liners for creating redux reducers and action creators for scrollable, editable lists. his module provides methods for creating reducers for ordered or key-value state to be used in redux apps.
+  One-liners for creating redux reducers and action creators for scrollable, editable lists. This module provides methods for creating reducers for ordered or key-value state to be used in redux apps.
   
 - **redux-search**  
   https://github.com/treasure-data/redux-search  
@@ -151,3 +151,7 @@
 - **Redux-Marionette**  
   https://github.com/stutrek/redux-marionette  
   This is a simple connection between Marionette and redux. It's designed to ease a transition to redux.  Redux-Marionette binds to the lifecycle of your views, so any model or collection attached to a view will transparently be attached to your reducer and dispatcher then disconnected when the view is removed.
+  
+- **backbone-connect**  
+  https://github.com/m90/backbone-connect  
+  React-Redux inspired Backbone.js/React bindings

@@ -114,6 +114,10 @@
   https://github.com/ConciergeAuctions/redux-q  
   redux-q lets you enqueue any function in a queue that is mapped to an action type. The next time that action is dispatched each callback will be called with that action and the queue will be cleared.
   
+- **Redux Optimistic Actions**  
+  https://github.com/Audicy/redux-optimistic-actions  
+  Middleware for managing optimistic actions based on promises
+  
   
 #### Other Async Actions
   
@@ -184,6 +188,10 @@
 - **redux-pull-actors**  
   https://github.com/nrn/redux-pull-actors  
   Middleware for doing additional asynchronous work based on redux actions and state transitions.
+  
+- **redux-iterators**  
+  https://github.com/aabenoja/redux-iterators  
+  Redux middleware for handling action creators that return iterators
   
 
 #### Action Grouping and Interception
@@ -355,6 +363,10 @@
   https://github.com/danielfarrell/redux-channels  
   Connector library for redux and websocket channels(ie, socket.io/Phoenix/ActionCable)
   
+- **pouch-redux-middleware**  
+  https://github.com/pgte/pouch-redux-middleware  
+  Redux Middleware for syncing state and a PouchDB database.  Propagates state changes into PouchDB. Propagates PouchDB changes into the state.
+  
 #### Network Requests
 
 - **redux-request**  
@@ -424,6 +436,10 @@
 - **redux-cached-api**  
   https://github.com/VerenigingCampusKabel/redux-cached-api  
   Redux middleware for calling and caching a (REST) API
+  
+- **redux-api-middleman**  
+  https://github.com/CodementorIO/redux-api-middleman  
+  A Redux middleware extracting the asynchronous behavior of sending API requests.
   
 #### Analytics
 
@@ -543,3 +559,7 @@
 - **redux-replaceable-middleware**  
   https://github.com/pgte/redux-replaceable-middleware  
   Redux middleware that allows replacement with another middleware.
+  
+- **redux-cookie**  
+  https://github.com/iroy2000/redux-cookie  
+  Redux cookie middleware for both client and server ( universal )

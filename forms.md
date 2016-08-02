@@ -60,3 +60,11 @@
 - **luft**  
   https://github.com/jdudek/luft  
   Simple and flexible forms in React and Redux
+  
+- **redux-autoform**  
+  https://github.com/redux-autoform/redux-autoform  
+  Redux-Autoform is an UI agnostic library for dynamically generating redux-form out of metadata.
+  
+- **React Redux Local Form**  
+  https://github.com/jschr/react-redux-local-form  
+  React components for building forms with a local Redux store for managing state.
