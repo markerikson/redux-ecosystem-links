@@ -75,8 +75,9 @@
   A higher order Redux reducer (or transducer) that adds pagination, sorting, and filtering to a reducer of an array of objects.
 
 - **redux-paginator**
-  https://github.com/PCreations/redux-paginator
+  https://github.com/PCreations/redux-paginator  
   redux-paginator helps you deal with server-side paginated API with redux without the need to create new actions and reducers cases
+  
   
 #### Collections / CRUD
 
