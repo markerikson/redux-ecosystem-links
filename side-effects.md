@@ -113,6 +113,11 @@
   https://github.com/mcoetzee/redux-stream  
   Use RxJS 5 to compose side effect streams.  When composing your module's side effects, you have access to all state streams, which allows you to react to an independent module's state changes and produce side effects from it.
   
+- **redux-logic**  
+  https://github.com/jeffbski/redux-logic  
+  Redux middleware for organizing business logic and action side effects.
+  
+  
 #### Redux-Effects extensions
 
 - **redux-effects**  
