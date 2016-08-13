@@ -46,6 +46,10 @@
   https://github.com/tomascharad/model-environment  
   Super lightweight environment that permits to define relations between objects when receiving data from normalized api's
   
+- **redux-variants**  
+  https://github.com/homezen/redux-variants  
+  Variants system for Redux (with optional React helpers)
+  
   
 #### Functional Programming
   

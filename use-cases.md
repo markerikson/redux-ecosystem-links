@@ -40,6 +40,9 @@
   https://github.com/EventMobi/redux-saga-network-status  
   Network status detection with server ping and backoff for redux-saga.
   
+- **kasia**  
+  https://github.com/outlandishideas/kasia  
+  A React Redux toolset for the WordPress API.  Declaratively connect React components to data from WordPress, 
 
   
 ### Internationalization
@@ -160,3 +163,7 @@
 - **backbone-connect**  
   https://github.com/m90/backbone-connect  
   React-Redux inspired Backbone.js/React bindings
+
+- **backbone-redux-store**  
+  https://github.com/adamterlson/backbone-redux-store  
+  Redux store API for your Backbone Models and Collections. Works with or without Redux.

@@ -79,3 +79,7 @@
 - **redux-history-utils**  
   https://github.com/kchmck/redux-history-utils  
   Simple redux utilities for history and navigation
+  
+- **redux-history-sync**  
+  https://github.com/cape-io/redux-history-sync  
+  Essentially, this module syncs browser history locations with a Redux store. If you are looking to read and write changes to the address bar via Redux this might be for you.

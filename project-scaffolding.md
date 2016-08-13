@@ -39,3 +39,7 @@
 - **Lore**  
   https://github.com/lore/lore  
   Respectully opinionated convention-driven framework for building React applications. Built on React, Webpack, Redux, and React-Router.
+
+- **redux-generators**  
+  https://github.com/bpxl-labs/redux-generators  
+  Redux Generators is a lightweight, opinionated CLI that helps scaffold a scalable approach to Redux.

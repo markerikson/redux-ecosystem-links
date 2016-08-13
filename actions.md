@@ -126,3 +126,7 @@
 - **redux-bind-action-groups**  
   https://github.com/eyasliu/redux-bind-action-groups  
   A small utility to bind dispatch to nested objects full of action creators.
+
+- **redux-actions-hub**  
+  https://github.com/apentle/redux-actions-hub  
+  Share Redux Actions between modules

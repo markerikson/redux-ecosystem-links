@@ -143,6 +143,10 @@
   https://github.com/geowarin/redux-tk  
   Utility functions for generating reducers.
   
+- **better-combine-reducers**  
+  https://github.com/shinout/better-combine-reducers  
+  Better redux combineReducers, initial state injectable.
+  
   
 #### Higher-Order Reducers
 
@@ -278,3 +282,7 @@
 - **remerge**  
   https://github.com/siawyoung/remerge  
   The sole purpose of Remerge is to provide a consistent interface for defining and manipulating state. It's extremely easy and intuitive to use once you get the hang of it. While there is a slight learning curve, hopefully our examples will ease the learning process.  Although Remerge was built for use with Redux, it can also be used standalone. It is completely framework-agnostic.
+  
+- **reducify**  
+  https://github.com/gtg092x/reducify  
+  Generate redux reducers with less effort 

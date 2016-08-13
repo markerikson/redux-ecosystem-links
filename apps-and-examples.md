@@ -96,6 +96,22 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **HyperTerm**  
   https://github.com/zeit/hyperterm  
   A beautiful and extensible experience for command-line interface users, built on open web standards.
+  
+- **Phoenix Trello**  
+  https://github.com/bigardone/phoenix-trello  
+  Trello tribute done in Elixir, Phoenix Framework, React and Redux.
+  
+- **JSchematic**  
+  https://github.com/nicksenger/JSchematic  
+  JSchematic is a React-Redux application for drawing molecules and chemical reactions
+  
+- **io-808**  
+  https://github.com/vincentriemer/io-808  
+  An attempt at a fully recreated web-based TR-808 drum machine
+  
+- **portfolio**  
+  https://github.com/tsurupin/portfolio  
+  A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules
 
 #### Redux Usage Stories
 

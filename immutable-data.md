@@ -170,3 +170,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/brandonbloom/jseg  
   A super simple, in-memory, JS graph database.
   
+- **redux-graph**  
+  https://github.com/cape-io/redux-graph  
+  Really basic graph database with entity and triple storage with some helper functions to join it all together. The module loosely follows the Hexastore approach. Six indices are created for every triple, in order to access them as fast as it is possible.

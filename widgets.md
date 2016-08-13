@@ -54,6 +54,10 @@
 - **redux-audio**  
   https://github.com/agrasley/redux-audio  
   Redux bindings for HTML5 audio elements
+  
+- **redux-accordion**  
+  https://github.com/rorykermack/redux-accordion  
+  A reusable and customisable accordion component for react/redux 
 
 
 #### Layout
@@ -292,3 +296,11 @@
 - **redux-async-loader**  
   https://github.com/recruit-tech/redux-async-loader  
   Async data loader for Redux apps with React-Router.
+  
+- **react-redux-fetch**  
+  https://github.com/hirviid/react-redux-fetch  
+  A declarative and customizable way to fetch data for React components and manage that data in the Redux state.
+  
+- **redux-fetch**  
+  https://github.com/flowcommerce/redux-fetch  
+  Redux Fetch provides universal data fetching bindings for applications built with React, React Router, and Redux.

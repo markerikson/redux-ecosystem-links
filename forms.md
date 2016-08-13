@@ -68,3 +68,19 @@
 - **React Redux Local Form**  
   https://github.com/jschr/react-redux-local-form  
   React components for building forms with a local Redux store for managing state.
+  
+- **redux-field**  
+  https://github.com/cape-io/redux-field  
+  Redux form field reducer and actions, for when you want to control individual form fields with redux. Think something like https://vitalets.github.io/x-editable/ for Redux.
+  
+- **asasalad**  
+  https://github.com/contrarian/asasalad  
+  Redux Form Validation Utility Designed to Work With Immutable.js 
+  
+- **simple-redux-form**  
+  https://github.com/mihirsoni/simple-redux-form  
+  A tiny alternative for Redux-Form
+  
+- **redux-form-saga**  
+  https://github.com/mhssmnn/redux-form-saga  
+  Connecting Redux Form and Redux Saga through a saga.

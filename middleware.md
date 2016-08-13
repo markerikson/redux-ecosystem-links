@@ -118,6 +118,10 @@
   https://github.com/Audicy/redux-optimistic-actions  
   Middleware for managing optimistic actions based on promises
   
+- **redux-optimistic**  
+  https://github.com/conorhastings/redux-optimistic  
+  Simple, user controlled optimistic updates for redux. 
+  
   
 #### Other Async Actions
   
@@ -248,6 +252,18 @@
   https://github.com/bdwain/redux-action-enhancer  
   Enhance your actions with values from the store. Inspired by connected components in react-redux.
   
+- **redux-error-middleware**  
+  https://github.com/johnrhampton/redux-error-middleware  
+  Middleware that dispatches defined actions when the current action has an error.
+  
+- **redux-multi-conditional**  
+  https://github.com/JamesRandall/redux-multi-conditional  
+  Conditionally dispatch multiple actions from one action creator
+  
+- **redux-batch-actions**  
+  https://github.com/gtg092x/redux-batch-actions  
+  Batch Redux actions.
+  
   
 #### Sockets and Adapters
 
@@ -367,6 +383,10 @@
   https://github.com/pgte/pouch-redux-middleware  
   Redux Middleware for syncing state and a PouchDB database.  Propagates state changes into PouchDB. Propagates PouchDB changes into the state.
   
+- **redux-pubnub-action-sync-middleware**  
+  https://github.com/danislu/redux-pubnub-action-sync-middleware  
+  Middleware for syncing redux actions between app instances via pubnub.
+  
 #### Network Requests
 
 - **redux-request**  
@@ -440,6 +460,14 @@
 - **redux-api-middleman**  
   https://github.com/CodementorIO/redux-api-middleman  
   A Redux middleware extracting the asynchronous behavior of sending API requests.
+  
+- **redux-remote-resource**  
+  https://github.com/tylerFowler/redux-remote-resource  
+  Flexible Redux middleware for making remote API calls
+  
+- **redux-graphql-middleware**  
+  https://github.com/gtg092x/redux-graphql-middleware  
+  Generate GraphQL queries with Redux middleware .
   
 #### Analytics
 

@@ -106,3 +106,7 @@
   https://github.com/HansDP/redux-container-state-saga  
   https://github.com/HansDP/redux-container-state-thunk  
   Local container state for Redux based on the Elm Architecture.  This project evolves the ideas of redux-elm, but avoids opinions about specific implementations of Side Effects and tries to be more in line with the Redux approach of reducers.
+  
+- **redux-internal-state**  
+  https://github.com/josepot/redux-internal-state  
+  Manage the internal state of your components from the redux-store

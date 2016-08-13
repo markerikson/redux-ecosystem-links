@@ -204,3 +204,15 @@
   https://github.com/jumpsuit/jumpsuit  
   https://medium.com/@tannerlinsley/jumpsuit-react-redux-made-simple-e3186ba1b077  
   Jumpsuit is a powerful and extremely efficient Front-end framework & CLI. It is the fastest way to write scalable react/redux apps with the least overhead.  No boilerplate; Dedicated build system; Scaffolding tools; Minimal API; Simple and scalable state management based on Redux.
+
+- **vidom**  
+  https://github.com/dfilatov/vidom-redux  
+  Redux bindings for Vidom
+  
+- **reduceless-connect**  
+  https://github.com/anorudes/reduceless-connect  
+  Easy change redux state for ui without creating constants and actions
+  
+- **feeble**  
+  https://github.com/tianche/feeble  
+  Feeble is a framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.

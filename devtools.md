@@ -136,6 +136,14 @@
   https://github.com/pinn3/redux-simple-logger  
   Super simple cli logger middleware for redux
   
+- **redux-action-replay-middleware**  
+  https://github.com/danislu/redux-action-replay-middleware  
+  Middleware for storing redux actions in localstorage and replaying them later. Usefull for QA reproducing bugs etc.
+  
+- **Redux TrackJS Action Logger**  
+  https://github.com/timarney/redux-trackjs-logger  
+  Logs user actions to TrackJS so you can replay them later.
+  
   
 #### Linting
  
