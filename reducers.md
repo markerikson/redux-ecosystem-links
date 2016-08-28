@@ -147,6 +147,14 @@
   https://github.com/shinout/better-combine-reducers  
   Better redux combineReducers, initial state injectable.
   
+- **redux-callback-reducer**  
+  https://github.com/soofty/redux-callback-reducer  
+  redux-callback-reducer allows any function or class method to make a reducer for your state, without adding any additional actions.
+  
+- **redux-curried-reducers**  
+  https://github.com/rvikmanis/redux-curried-reducers  
+  Curried reducer utilities for Redux - create reducers declaratively via function composition.  Works really well with functional utilities like lodash-fp and Ramda.
+  
   
 #### Higher-Order Reducers
 
@@ -229,6 +237,14 @@
 - **redux-map-state**  
   https://github.com/CyberInt/redux-map-state  
   Higher-order Redux reducer which helps apply your existent reducers on any format of state
+  
+- **redux-undoable**  
+  https://github.com/linn/redux-undoable  
+  A reducer enhancer (or higher order reducer) that provides undo/redo functionality for Redux by replaying actions (rather than storing previous state)
+  
+- **redux-pipeline**  
+  https://github.com/gtg092x/redux-pipeline  
+  Redux Pipeline combines reducers into a single, manageable sequence.
   
   
 #### Advanced Reducer Use Cases

@@ -216,3 +216,15 @@
 - **feeble**  
   https://github.com/tianche/feeble  
   Feeble is a framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.
+  
+- **redux-saga-models**  
+  https://github.com/vshushkov/redux-saga-models  
+  Library to build models layer backed with redux-saga
+  
+- **redux-easy-models**  
+  https://github.com/machadogj/redux-easy-models  
+  Easily define your models using standard redux libraries (redux, redux-actions, redux-thunk).
+  
+- **redux-entity**  
+  https://github.com/lelandrichardson/redux-entity  
+  An abstraction layer around handling normalized entity storage and data fetching with redux

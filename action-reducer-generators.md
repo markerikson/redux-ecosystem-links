@@ -75,6 +75,10 @@
   https://github.com/yangmillstheory/redux-standard-actions  
   Flux Standard Action utilities for Redux.
   
+- **redux-factories**  
+  https://github.com/zxdong262/redux-factories  
+  A factory lib to produce redux constants and reducers of certain format.
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  

@@ -117,6 +117,10 @@
   https://github.com/jeffbski/redux-logic  
   Redux middleware for organizing business logic and action side effects.
   
+- **redux-effex**  
+  https://github.com/brentvatne/redux-effex  
+  Spin off async functions to perform side effects
+  
   
 #### Redux-Effects extensions
 

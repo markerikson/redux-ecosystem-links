@@ -109,4 +109,5 @@
   
 - **redux-internal-state**  
   https://github.com/josepot/redux-internal-state  
+  https://github.com/josepot/react-redux-internal-state  
   Manage the internal state of your components from the redux-store

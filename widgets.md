@@ -58,6 +58,10 @@
 - **redux-accordion**  
   https://github.com/rorykermack/redux-accordion  
   A reusable and customisable accordion component for react/redux 
+  
+- **React-Redux-Typeahead**  
+  https://github.com/zan-rosenthal/React-Redux-Typeahead  
+  An autocomplete UI component built with React and Redux. 
 
 
 #### Layout
@@ -304,3 +308,7 @@
 - **redux-fetch**  
   https://github.com/flowcommerce/redux-fetch  
   Redux Fetch provides universal data fetching bindings for applications built with React, React Router, and Redux.
+  
+- **redux-saga-fetcher**  
+  https://github.com/ntkoso/redux-saga-fetcher  
+  redux-saga-fetcher is an universal data fetching library for Redux Saga and React Router.

@@ -83,3 +83,7 @@
 - **redux-history-sync**  
   https://github.com/cape-io/redux-history-sync  
   Essentially, this module syncs browser history locations with a Redux store. If you are looking to read and write changes to the address bar via Redux this might be for you.
+  
+- **router-redux**  
+  https://github.com/subuta/router-redux  
+  View framework agnostic router for redux :) This is react-router-redux for your vdom-based project.

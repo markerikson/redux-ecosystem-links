@@ -122,6 +122,10 @@
 - **Redux-Session**  
   https://github.com/HelpfulHuman/Redux-Session  
   Redux middleware for automatic setting and hydration of state data in external storage.
+  
+- **redux-ipc**  
+  https://github.com/vutran/redux-ipc  
+  Log your Redux state and actions to a node backend via WebSockets.
 
 
 #### Store Change Subscriptions

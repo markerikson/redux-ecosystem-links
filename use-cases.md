@@ -43,6 +43,10 @@
 - **kasia**  
   https://github.com/outlandishideas/kasia  
   A React Redux toolset for the WordPress API.  Declaratively connect React components to data from WordPress, 
+  
+- **redux-page-scope**  
+  https://github.com/recruit-tech/redux-page-scope  
+  Page scope state management for Redux
 
   
 ### Internationalization
@@ -108,6 +112,14 @@
   https://github.com/gilesbradshaw/redux-entity  
   A redux module allowing CRUD with real time updates
   
+- **redux-entities-reducer**  
+  https://github.com/luskhq/redux-entities-reducer  
+  A Redux reducer for handling entities
+  
+- **redux-collector**  
+  https://github.com/gtg092x/redux-collector  
+  Easy Collection Reducers for Redux.
+  
 #### Network
   
 - **redux-requests**  
@@ -121,6 +133,10 @@
 - **request-duck**  
   https://github.com/export-mike/request-duck  
   redux duck for adding isFetching error props to a given container component, scoped so props do not clash.
+  
+- **easy-redux**  
+  https://github.com/welljs/easy-redux  
+  Helpers to facilitate the work with redux, including network request tracking
   
 #### Authentication
 
@@ -148,6 +164,9 @@
   https://github.com/lynndylanhurley/redux-auth  
   Complete token authentication system for react + redux that supports isomorphic rendering.
 
+- **Cred Redux**  
+  https://github.com/robmclarty/cred-redux  
+  A Redux middleware for managing JSON Web Tokens client-side in a Redux application. It handles storing tokens locally, refreshing access-tokens when they expire, and making API calls to cloud servers (including access-tokens in the Authorization header).
 
 
 #### Backbone Integration

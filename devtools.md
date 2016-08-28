@@ -69,6 +69,10 @@
   https://github.com/ryanashcraft/redux-devtools-clipboard  
   Dispatch your actions manually to test if your app reacts well.
   
+- **Redux DevTools Profiler Monitor**  
+  https://github.com/pbomb/redux-devtools-profiler-monitor  
+  A custom monitor for Redux DevTools to profile a given action in Chrome DevTools
+  
 
 #### Logging
   
@@ -144,6 +148,9 @@
   https://github.com/timarney/redux-trackjs-logger  
   Logs user actions to TrackJS so you can replay them later.
   
+- **redux-vcr**  
+  https://github.com/joshwcomeau/redux-vcr  
+  A WIP set of tools for recording and replaying Redux actions
   
 #### Linting
  

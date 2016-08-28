@@ -59,6 +59,10 @@
   https://github.com/zavalit/redux-payload-promise  
   Async Redux Action on a Promise base
   
+- **redux-loading-promise-middleware**  
+  https://github.com/kallaspriit/redux-loading-promise-middleware  
+  Middleware for Redux that turns promises into several dispatches of loading, success and error states, confirming to flux standard action schema.
+  
   
 #### Timeouts and Delays
 
@@ -122,6 +126,13 @@
   https://github.com/conorhastings/redux-optimistic  
   Simple, user controlled optimistic updates for redux. 
   
+- **redux-enqueue**  
+  https://github.com/jacobp100/redux-enqueue  
+  Simple queue system for redux. Use with redux-thunk.
+  
+- **redux-trigger-middleware**  
+  https://github.com/saintcrawler/redux-trigger-middleware  
+  Middleware that lets you call predefined functions on certain actions.
   
 #### Other Async Actions
   
@@ -468,6 +479,14 @@
 - **redux-graphql-middleware**  
   https://github.com/gtg092x/redux-graphql-middleware  
   Generate GraphQL queries with Redux middleware .
+  
+- **redux-fetcher**  
+  https://github.com/vgno/redux-fetcher  
+  Really simple isomorphic fetch for Redux. Can be used in any Redux project that uses redux-api-middleware.
+  
+- **redux-middleware-fetch**  
+  https://github.com/fantasywind/redux-middleware-fetch  
+  Redux Whatwg Fetch Middleware
   
 #### Analytics
 
