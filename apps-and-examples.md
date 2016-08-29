@@ -112,6 +112,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **portfolio**  
   https://github.com/tsurupin/portfolio  
   A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules
+  
+- **Linode Manager**  
+  https://github.com/Linode/manager  
+  https://engineering.linode.com/2016/05/16/Announcing-the-new-open-source-manager.html  
+  Linode's new account management application
 
 #### Redux Usage Stories
 

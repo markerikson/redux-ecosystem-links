@@ -221,3 +221,7 @@
 - **ReactPerfTool**  
   https://github.com/RamonGebben/react-perf-tool  
   ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs. This makes it easier to spot bottlenecks.
+  
+- **React Monocle**  
+  https://github.com/team-gryff/react-monocle  
+  React Monocle is a developer tool for generating visual representations of your React app's component hierarchy.
