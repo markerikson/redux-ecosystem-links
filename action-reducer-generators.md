@@ -44,7 +44,7 @@
   A set of utilities to generate an initial state, a reducer, and an action creator tree for use with redux.
   
 - **redux-utils**  
-  https://github.com/mindfront/redux-utils
+  https://github.com/mindfront/redux-utils  
   Functions for creating and composing reducers and middleware efficiently
   
 - **redux-code-generator**  
@@ -80,7 +80,7 @@
   A factory lib to produce redux constants and reducers of certain format.
 
 - **cx-redux-utils**  
-  https://github.com/crosschx/cx-redux-utils
+  https://github.com/crosschx/cx-redux-utils  
   Simple redux boilerplate reduction lib with maximum api clarity as the primary concern.
   
 #### Network Requests and APIs
