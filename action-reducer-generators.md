@@ -78,6 +78,10 @@
 - **redux-factories**  
   https://github.com/zxdong262/redux-factories  
   A factory lib to produce redux constants and reducers of certain format.
+
+- **cx-redux-utils**  
+  https://github.com/crosschx/cx-redux-utils
+  Simple redux boilerplate reduction lib with maximum api clarity as the primary concern.
   
 #### Network Requests and APIs
 
