@@ -36,7 +36,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/ZachLiuGIS/census-search  
   A geospatial census data search application built with ReactJS + Redux + Census CitySDK + OpenLayers3
   
-- **Wordpress-Calypso**  
+- **WordPress-Calypso**  
   https://github.com/Automattic/wp-calypso  
   The new JavaScript- and API-powered WordPress.com
   
