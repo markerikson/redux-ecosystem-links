@@ -84,3 +84,15 @@
 - **redux-form-saga**  
   https://github.com/mhssmnn/redux-form-saga  
   Connecting Redux Form and Redux Saga through a saga.
+  
+- **franklin**  
+  https://github.com/contrarian/franklin  
+  Franklin lets you build boilerplate-free Redux forms. 
+  
+- **rform**  
+  https://github.com/KonstantinKo/rform  
+  React/Redux Forms - optimized for a Ruby on Rails backend.  Inspired by Ruby on Rails forms (FormHelper/SimpleForm) and form objects (reform)
+  
+- **React Formy**  
+  https://github.com/wellguimaraes/react-formy  
+  A light, simple and fast Higher Order Component to keep form state, inspired by redux-form.

@@ -152,6 +152,14 @@
   https://github.com/joshwcomeau/redux-vcr  
   A WIP set of tools for recording and replaying Redux actions
   
+- **redux-bugsnag-middleware**  
+  https://github.com/netguru/redux-bugsnag-middleware  
+  Redux middleware that wraps exceptions in actions and sends them to Bugsnag with current state
+  
+- **redux-action-log**  
+  https://github.com/AgentME/redux-action-log  
+  A redux store enhancer which allows you to record the redux action history and access it. It can be configured to have a maximum number of actions to keep in the history. Early actions will be removed from the history, and the redux state of the beginning of the history will be recorded.
+  
 #### Linting
  
 - **redux-immutable-state-invariant**  
@@ -190,11 +198,6 @@
   https://github.com/laat/redux-uncaught-promise  
   Handle uncaught promises returned from dispatch.
   
-- **redux-bugsnag-middleware**  
-  https://github.com/netguru/redux-bugsnag-middleware  
-  Redux middleware that wraps exceptions in actions and sends them to Bugsnag with current state
-
-
 
 #### Component Update Monitoring
 

@@ -126,6 +126,10 @@
 - **redux-ipc**  
   https://github.com/vutran/redux-ipc  
   Log your Redux state and actions to a node backend via WebSockets.
+  
+- **redux-action-sync**  
+  https://github.com/czak/redux-action-sync  
+  redux-action-sync is an action persistence middleware for Redux applications. A simple solution for keeping state synchronised across multiple clients. It uses a single-endpoint backend as an alternative to CRUD APIs.
 
 
 #### Store Change Subscriptions

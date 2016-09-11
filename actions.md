@@ -104,6 +104,10 @@
   https://github.com/rockingskier/redux-request-utils  
   Generate actions and sagas for network requests
   
+- **redaxt**  
+  https://github.com/lifehackett/redaxt  
+  An opinionated declarative set of factory functions for creating Redux actions.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

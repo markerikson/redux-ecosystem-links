@@ -146,6 +146,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-mori**  
   https://github.com/redbadger/redux-mori  
   redux-mori is a drop-in replacement for Redux's combineReducers that works with mori.js immutable data structures.
+  
+- **redux-seamless-immutable**  
+  https://github.com/eadmundo/redux-seamless-immutable  
+  Helpers for using seamless-immutable in Redux. Provides a compatible combineReducers and routerReducer (for use with react-router-redux).
 
 
 #### Alternate Data Management Concepts

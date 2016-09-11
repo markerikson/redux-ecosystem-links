@@ -62,6 +62,14 @@
 - **React-Redux-Typeahead**  
   https://github.com/zan-rosenthal/React-Redux-Typeahead  
   An autocomplete UI component built with React and Redux. 
+  
+- **redux-nprogress**  
+  https://github.com/jaredt67/redux-nprogress  
+  Redux Middleware, Reducer, Component & Actions for the most popular progress bar
+  
+- **React Redux Spinner**  
+  https://github.com/Storytel/react-redux-spinner  
+  A simple spinner for any "long" running tasks (such as fetching data off a server).
 
 
 #### Layout
@@ -119,6 +127,10 @@
 - **redux-datagrid**  
   https://github.com/JamesHageman/redux-datagrid  
   A Higher-Order Component for filtering, sorting and grouping in data tables. Inspired by redux-form. 
+  
+- **Sematable**  
+  https://github.com/sematext/sematable  
+  Sematable wraps a table component, and provides filtering, sorting, row selection, pagination, with the ability to persist the table state in application state with Redux, so filters, sort info, selected rows, and pagination info survives route navigations.
   
 #### Notifications
   

@@ -55,6 +55,10 @@
   https://github.com/knegusen/redux-test-utils  
   Provides a mock store and utilities for checking dispatched actions.
   
+- **redux-jest**  
+  https://github.com/Roilan/redux-jest  
+  Write your Redux test with Jest.  Port of redux-ava.
+  
   
 #### Reducers
 
@@ -81,14 +85,6 @@
   https://github.com/redux-things/redux-actions-assertions-js  
   Assertions (chai, expect, expect.js, should) for redux actions testing 
 
-- **redux-saga-test**  
-  https://github.com/stoeffel/redux-saga-test  
-  Utility for creating expressive redux-saga tests.
-
-- **redux-saga-test-plan**  
-  https://github.com/jfairbank/redux-saga-test-plan  
-  Redux Saga Test Plan is inspired by redux-saga-test with a slightly different API.
-  
 - **redux-action-logging**  
   https://github.com/madebymany/redux-action-logging  
   Redux testing utility middleware to log actions received by a store without mocking that store.
@@ -97,6 +93,18 @@
   https://github.com/playground-xyz/redux-mock-dispatcher  
   Utility module for ease of testing redux-thunk style action creators.
   
+  
+  
+#### Sagas
+
+- **redux-saga-test**  
+  https://github.com/stoeffel/redux-saga-test  
+  Utility for creating expressive redux-saga tests.
+
+- **redux-saga-test-plan**  
+  https://github.com/jfairbank/redux-saga-test-plan  
+  Redux Saga Test Plan is inspired by redux-saga-test with a slightly different API.
+
 - **redux-saga-test-runner**  
   https://github.com/ksmithbaylor/redux-saga-test-runner  
   Utilities to make testing sagas easier
@@ -104,6 +112,10 @@
 - **redux-saga-chai**  
   https://github.com/R1ZZU/redux-saga-chai  
   redux-saga-chai extends Chai and allows you to be more verbose while testing sagas
+
+- **redux-saga-tester**  
+  https://github.com/guybenron/redux-saga-tester  
+  Full redux environment testing helper for redux-saga
 
   
 

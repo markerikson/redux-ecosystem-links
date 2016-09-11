@@ -208,6 +208,14 @@
   https://github.com/aabenoja/redux-iterators  
   Redux middleware for handling action creators that return iterators
   
+- **Redux Triple Barreled Actions**  
+  https://github.com/davidfurlong/redux-triple-barreled-actions  
+  Redux Middleware which provides a syntax for dispatching async actions
+  
+- **Redux Service**  
+  https://github.com/ThatBean/redux-service  
+  Service middleware for Redux.
+  
 
 #### Action Grouping and Interception
 
@@ -274,6 +282,11 @@
 - **redux-batch-actions**  
   https://github.com/gtg092x/redux-batch-actions  
   Batch Redux actions.
+  
+- **redux-validation**  
+  https://github.com/mkamakura/redux-validation  
+  Validate action properties
+  
   
   
 #### Sockets and Adapters
@@ -398,6 +411,18 @@
   https://github.com/danislu/redux-pubnub-action-sync-middleware  
   Middleware for syncing redux actions between app instances via pubnub.
   
+- **redux-firebasev3**  
+  https://github.com/prescottprue/redux-firebasev3  
+  Use Firebase with React and Redux in ES6
+  
+- **redux-sockjs**  
+  https://github.com/superwf/redux-sockjs  
+  Use sockjs to pub and sub redux actions
+  
+- **ez-redux**  
+  https://github.com/dcoellarb/ez-redux  
+  Library to manage parse objects and simplify integration with parse
+  
 #### Network Requests
 
 - **redux-request**  
@@ -487,6 +512,14 @@
 - **redux-middleware-fetch**  
   https://github.com/fantasywind/redux-middleware-fetch  
   Redux Whatwg Fetch Middleware
+  
+- **redux-rest-easy**  
+  https://github.com/oscarekholm/redux-rest-easy  
+  A simple Redux middleware for declarative data fetching - helps you REST easy
+  
+- **redux-api-promise-middleware**  
+  https://github.com/restlessbit/redux-api-promise-middleware  
+  Middleware that gives you a uniform way to define API actions in Redux applications.
   
 #### Analytics
 

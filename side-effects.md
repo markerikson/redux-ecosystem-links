@@ -9,18 +9,6 @@
   https://github.com/yelouafi/redux-saga  
   Generator-based side effects approach.  Create "sagas", which act like background threads or daemons that can listen for actions and dispatch objects describing side effects.
   
-- **react-redux-saga**  
-  https://github.com/threepointone/react-redux-saga  
-  React bindings for redux-saga, allowing you to dynamically start sagas by mounting them as React components
-  
-- **redux-saga-debounce-effect**  
-  https://github.com/madewithlove/redux-saga-debounce-effect  
-  A small debounce effect for redux-saga
-  
-- **redux-saga-combine-latest**  
-  https://github.com/jhewlett/redux-saga-combine-latest  
-  Wait for several action types to be dispatched before handling them
-  
 - **redux-loop**  
   https://github.com/raisemarketplace/redux-loop  
   Sequence your effects naturally and purely by returning them from your reducers.  Also returns descriptive objects, which are executed later.
@@ -120,6 +108,30 @@
 - **redux-effex**  
   https://github.com/brentvatne/redux-effex  
   Spin off async functions to perform side effects
+  
+- **redux-ship**  
+  https://github.com/clarus/redux-ship  
+  Redux Ship is a Redux middleware for side effects which focuses on: composition: you can duplicate and reuse sub-stores, as you would do with React components; typing: you can type check your code with 100% coverage in Flow; testing: you can run unit tests of your side effects, by taking snapshots of their execution traces.
+  
+  
+#### Redux-Saga extensions  
+
+- **react-redux-saga**  
+  https://github.com/threepointone/react-redux-saga  
+  React bindings for redux-saga, allowing you to dynamically start sagas by mounting them as React components
+  
+- **redux-saga-debounce-effect**  
+  https://github.com/madewithlove/redux-saga-debounce-effect  
+  A small debounce effect for redux-saga
+  
+- **redux-saga-combine-latest**  
+  https://github.com/jhewlett/redux-saga-combine-latest  
+  Wait for several action types to be dispatched before handling them
+
+- **redux-saga-helpers**  
+  https://github.com/sebinsua/redux-saga-helpers  
+  Error-handling for redux-saga.  This library provides a selection of small utilities to better handle sagas.
+
   
   
 #### Redux-Effects extensions

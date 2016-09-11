@@ -83,6 +83,11 @@
   https://github.com/crosschx/cx-redux-utils  
   Simple redux boilerplate reduction lib with maximum api clarity as the primary concern.
   
+- **redux-action-tools**  
+  https://github.com/kpaxqin/redux-action-tools  
+  Light-weight action tools with async and optimistic update support, inspired by redux-actions
+  
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  
@@ -156,6 +161,10 @@
 - **redux-request-utils**  
   https://github.com/rockingskier/redux-request-utils  
   Utility functions to generate network-related actions and sagas, and execute the requests
+  
+- **redux-superapi**  
+  https://github.com/kayak/redux-superapi  
+  redux-superapi generates actions and reducers for communicating with a REST backend. Its API is inspired from redux-api, and it uses axios for making the actual AJAX calls. Its goal is short, extensible and highly-readable code.
   
   
 #### Other Code Structures

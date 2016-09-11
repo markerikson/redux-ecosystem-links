@@ -111,3 +111,7 @@
   https://github.com/josepot/redux-internal-state  
   https://github.com/josepot/react-redux-internal-state  
   Manage the internal state of your components from the redux-store
+  
+- **redux-fractal**  
+  https://github.com/gcazaciuc/redux-fractal  
+  Local component state & actions in Redux.  Provides the means to hold up local component state in Redux state, to dispatch locally scoped actions and to react to global ones.  What Redux fractal offers is a Redux private store for each component with the notable difference that the component state is actually held up in your app's state atom, so all global and components ui state live together.

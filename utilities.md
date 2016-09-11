@@ -50,6 +50,10 @@
   https://github.com/homezen/redux-variants  
   Variants system for Redux (with optional React helpers)
   
+- **fetch-for-redux**  
+  https://github.com/gavacho/fetch-for-redux  
+  Fetches ajax responses suitable for dispatching in a redux action
+  
   
 #### Functional Programming
   
