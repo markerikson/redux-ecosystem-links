@@ -11,16 +11,16 @@ You may also be interested in my [React/Redux tutorials and resources collection
 
 #### Core Redux Concepts
 
-- [Reducers](reducers.md)
-- [Actions](actions.md)
-- [Store](store.md)
-- [Action/Reducer/Constant Generators](action-reducer-generators.md)
+- [Reducers](./reducers.md)
+- [Actions](./actions.md)
+- [Store](./store.md)
+- [Action/Reducer/Constant Generators](./action-reducer-generators.md)
 
 #### Advanced/Additional Redux Concepts
 
-- [Immutable Data](immutable-data.md)
-- [Middleware](middleware.md)
-- [Side Effects](side-effects.md)
+- [Immutable Data](./immutable-data.md)
+- [Middleware](./middleware.md)
+- [Side Effects](./side-effects.md)
 - [Dev Tools](devtools.md)
 - [Testing](testing.md)
 - [Prebuilt Use Cases and Integration](use-cases.md)
