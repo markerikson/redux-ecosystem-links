@@ -59,6 +59,10 @@
   https://github.com/Roilan/redux-jest  
   Write your Redux test with Jest.  Port of redux-ava.
   
+- **redux-mocha-test-generators**  
+  https://github.com/jesalerno84/redux-mocha-test-generators  
+  Utilities for generating Mocha tests for Redux code
+  
   
 #### Reducers
 

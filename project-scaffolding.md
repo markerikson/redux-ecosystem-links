@@ -43,3 +43,11 @@
 - **redux-generators**  
   https://github.com/bpxl-labs/redux-generators  
   Redux Generators is a lightweight, opinionated CLI that helps scaffold a scalable approach to Redux.
+  
+- **EOS-Redux**  
+  https://github.com/amattson21/eos-redux  
+  Redux CLI and Framework.  Can generate a starting project file tree, as well as individual action creators and reducers.
+  
+- **Racket**  
+  https://github.com/mohebifar/racket  
+  Racket is a yeoman generator for creating universal/isomorphic web applications, using React and Redux.

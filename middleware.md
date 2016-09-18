@@ -216,6 +216,10 @@
   https://github.com/ThatBean/redux-service  
   Service middleware for Redux.
   
+- **redux-seq-dispatch**  
+  https://github.com/dayzhou/redux-seq-dispatch  
+  Redux middleware for dispatching promise- or array-valued actions
+  
 
 #### Action Grouping and Interception
 

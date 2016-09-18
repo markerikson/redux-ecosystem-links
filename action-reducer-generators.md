@@ -87,6 +87,10 @@
   https://github.com/kpaxqin/redux-action-tools  
   Light-weight action tools with async and optimistic update support, inspired by redux-actions
   
+- **redux-local-scope**  
+  https://github.com/mgcrea/redux-local-scope  
+  Locally scope your redux store modules (eg. types, actions, reducers) to easily reuse them.
+  
   
 #### Network Requests and APIs
 
@@ -165,6 +169,10 @@
 - **redux-superapi**  
   https://github.com/kayak/redux-superapi  
   redux-superapi generates actions and reducers for communicating with a REST backend. Its API is inspired from redux-api, and it uses axios for making the actual AJAX calls. Its goal is short, extensible and highly-readable code.
+  
+- **redux-apist**  
+  https://github.com/exeto/redux-apist  
+  Create API-related actions for Redux-Thunk
   
   
 #### Other Code Structures

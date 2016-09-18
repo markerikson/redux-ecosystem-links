@@ -117,6 +117,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/Linode/manager  
   https://engineering.linode.com/2016/05/16/Announcing-the-new-open-source-manager.html  
   Linode's new account management application
+  
+- **Boostnote**  
+  https://github.com/BoostIO/Boostnote  
+  A cross-platform Electron-based app for Markdown note management
+  
+- **Popcode**  
+  https://github.com/popcodeorg/popcode  
+  Popcode is a simple HTML/CSS/JavaScript editing environment for use in the classroom. It's a lot like JSBin, JSFiddle, or Codepen, but it focuses on giving specific, immediate, human-friendly feedback when the code contains errors.
 
 #### Redux Usage Stories
 

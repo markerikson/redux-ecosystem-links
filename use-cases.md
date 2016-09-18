@@ -120,6 +120,15 @@
   https://github.com/gtg092x/redux-collector  
   Easy Collection Reducers for Redux.
   
+- **redux-simple-models**  
+  https://github.com/mrmagooey/redux-simple-models  
+  Prebuilt actions, reducers, and selectors to handle storing model types
+  
+- **entman**  
+  https://github.com/Drawbotics/entman  
+  A simple library to manage normalizr entities in a redux store
+  
+  
 #### Network
   
 - **redux-requests**  

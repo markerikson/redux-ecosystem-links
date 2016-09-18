@@ -113,6 +113,10 @@
   https://github.com/clarus/redux-ship  
   Redux Ship is a Redux middleware for side effects which focuses on: composition: you can duplicate and reuse sub-stores, as you would do with React components; typing: you can type check your code with 100% coverage in Flow; testing: you can run unit tests of your side effects, by taking snapshots of their execution traces.
   
+- **redux-reactor**  
+  https://github.com/eiriklv/redux-reactor  
+  Redux middleware for handling side effects by reacting to dispatched actions
+  
   
 #### Redux-Saga extensions  
 

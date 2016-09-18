@@ -108,6 +108,10 @@
   https://github.com/lifehackett/redaxt  
   An opinionated declarative set of factory functions for creating Redux actions.
   
+- **redux-action-factory**  
+  https://github.com/kwirke/redux-action-factory  
+  Simple library for creating schema-validated Redux Actions (or thunks, promises, etc.). Powered by the awesomely awesome Schema-Inspector.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

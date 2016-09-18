@@ -70,7 +70,10 @@
 - **React Redux Spinner**  
   https://github.com/Storytel/react-redux-spinner  
   A simple spinner for any "long" running tasks (such as fetching data off a server).
-
+  
+- **React Redux Essentials**  
+  https://github.com/ProAI/react-essentials  
+  React Redux UI collection with file upload/dropzone, form elements/validation and a lot more components.
 
 #### Layout
 
@@ -90,6 +93,9 @@
   https://github.com/patrik-piskay/react-tabs-redux  
   Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
 
+- **Nesting-Tiles**  
+  https://github.com/rsml/nesting-tiles  
+  A nesting tile layout with controls to create and delete tiles based on React and Redux
 
 #### Modals
 
@@ -104,6 +110,10 @@
 - **redux-modals**  
   https://github.com/barracudanetworks/redux-modals  
   redux-modals is a very simple package for handling modal state in your redux applications. It only provides a reducer and a couple of actions for setting and unsetting your modals.  The only thing this package assumes is that your modals are driven by your application state. Nothing fancy is done here and it does not actually show or hide your modals, it simply stores and provides a list of enabled modals.
+  
+- **Relocation**  
+  https://github.com/nealgranger/relocation  
+  Relocation works with React Redux to manage modals, lightboxes, alerts, and overlays.
 
 
 #### Grids and Tables
@@ -324,3 +334,7 @@
 - **redux-saga-fetcher**  
   https://github.com/ntkoso/redux-saga-fetcher  
   redux-saga-fetcher is an universal data fetching library for Redux Saga and React Router.
+  
+- **redux-lazy-props**  
+  https://github.com/markshlick/redux-lazy-props  
+  Lazy fetching of data for connected components.
