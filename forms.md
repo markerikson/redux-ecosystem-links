@@ -19,7 +19,7 @@
   
 - **redux-field**  
   https://github.com/cape-io/redux-field  
-  For when you want to control individual form fields with redux. 
+  For when you want to control individual form fields with redux. Think something like https://vitalets.github.io/x-editable/ for Redux.
 
 - **Redux Form Validation**  
   https://github.com/posabsolute/redux-form-validator  
@@ -68,10 +68,6 @@
 - **React Redux Local Form**  
   https://github.com/jschr/react-redux-local-form  
   React components for building forms with a local Redux store for managing state.
-  
-- **redux-field**  
-  https://github.com/cape-io/redux-field  
-  Redux form field reducer and actions, for when you want to control individual form fields with redux. Think something like https://vitalets.github.io/x-editable/ for Redux.
   
 - **asasalad**  
   https://github.com/contrarian/asasalad  
