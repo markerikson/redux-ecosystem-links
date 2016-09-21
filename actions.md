@@ -12,6 +12,10 @@
   https://github.com/acdlite/redux-actions  
   Flux Standard Action utilities for Redux.
 
+- **realt**  
+  https://github.com/Vnkitaev/realt  
+  Realt is a new way to work with Redux inspired by Alt.
+
 - **redux-namespaced-actions**  
   https://github.com/skleeschulte/redux-namespaced-actions  
   Wrapper for redux-actions to easily add namespaces to action types.
