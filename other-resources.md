@@ -28,6 +28,10 @@
 - **Canonical Reducer Composition**  
   https://github.com/gajus/canonical-reducer-composition  
   A spec for organizing reducers around domains.
+
+- **Black Pixel Redux Handbook**  
+  http://bpxl-labs.github.io/redux-handbook/  
+  A guideline for structuring scalable Redux applications. It encourages conventions and best practices adopted at Black Pixel.
   
 - **redux-convention**  
   https://github.com/gajus/redux-convention  
