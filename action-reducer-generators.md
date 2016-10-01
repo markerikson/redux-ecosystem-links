@@ -106,10 +106,6 @@
   https://github.com/lexich/redux-api  
   redux-api solves problem of writing client for communicating with backend. It generates actions and reducers for making ajax call to API endpoints.  Inspired by redux-rest.
   
-- **redux-rest-api**  
-  https://github.com/restlessbit/redux-rest-api    
-  Utilities for integrating a rest api with redux. 
-  
 - **redux-resource**  
   https://github.com/jfairbank/redux-resource  
   Easily create actions for managing server resources like fetching, creating, or updating. Provide action types used in your reducer function for updating your redux store based on results from the server.

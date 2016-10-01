@@ -95,3 +95,7 @@
 - **Redux.Routes.Renderer**  
   https://github.com/sequencemedia/Redux.Routes.Renderer  
   A Promise interface for rendering isomorphic React Redux components in Node.    
+  
+- **Redux Router Kit**  
+  https://github.com/zapier/redux-router-kit  
+  Redux Router Kit is a routing solution for React that leverages Redux to store routing and transition states and enable powerful middleware and connect-powered components.

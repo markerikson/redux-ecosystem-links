@@ -130,6 +130,10 @@
 - **redux-action-sync**  
   https://github.com/czak/redux-action-sync  
   redux-action-sync is an action persistence middleware for Redux applications. A simple solution for keeping state synchronised across multiple clients. It uses a single-endpoint backend as an alternative to CRUD APIs.
+  
+- **redux-electron-store**  
+  https://github.com/samiskin/redux-electron-store/  
+  A redux store enhancer that allows automatic synchronization between electron processes
 
 
 #### Store Change Subscriptions
