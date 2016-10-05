@@ -107,7 +107,7 @@
 
 - **redux-saga-test-plan**  
   https://github.com/jfairbank/redux-saga-test-plan  
-  Redux Saga Test Plan is inspired by redux-saga-test with a slightly different API.
+  Powerful test helpers for redux-saga.
 
 - **redux-saga-test-runner**  
   https://github.com/ksmithbaylor/redux-saga-test-runner  
