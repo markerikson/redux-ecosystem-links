@@ -117,6 +117,18 @@
   https://github.com/eiriklv/redux-reactor  
   Redux middleware for handling side effects by reacting to dispatched actions
   
+- **redux-funk**  
+  https://github.com/mheiber/redux-funk  
+  Enables you to declaratively specify effects in Redux reducers. You can use it to express in reducers not just what should happen, but also, what should happen next, while keeping reducers pure.  Similar to Redux Loop, but the implementation is much simpler and shorter, and it enables you to program with reducers without having to worry about lifting effects.
+  
+- **redux-most**  
+  https://github.com/joshburgess/redux-most  
+  Most.js based middleware for Redux.  Handle async actions with monadic streams & reactive programming.
+  
+- **redux-flourine**  
+  https://github.com/philpl/redux-fluorine  
+  Redux Fluorine is an enhancer to transform Observables truly into a first-class citizen in Redux. It enables you to directly dispatch observables containing actions, which is called an "agenda".
+  
   
 #### Redux-Saga extensions  
 

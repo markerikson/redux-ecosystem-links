@@ -220,6 +220,10 @@
   https://github.com/dayzhou/redux-seq-dispatch  
   Redux middleware for dispatching promise- or array-valued actions
   
+- **redux-amrc**  
+  https://github.com/lewis617/redux-amrc  
+  Redux async middleware and reducer creator for dispatching async actions with less boilerplate.
+  
 
 #### Action Grouping and Interception
 
@@ -426,6 +430,14 @@
 - **ez-redux**  
   https://github.com/dcoellarb/ez-redux  
   Library to manage parse objects and simplify integration with parse
+  
+- **meteor-redux-middleware**  
+  https://github.com/samybob1/meteor-redux-middlewares  
+  Redux middlewares that allow you to sync the store with Mongo and any reactive sources
+  
+- **Redux Swagger Client**  
+  https://github.com/noh4ck/redux-swagger-client  
+  Add asynchronous Swagger api calls to Redux
   
 #### Network Requests
 

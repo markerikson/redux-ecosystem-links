@@ -112,6 +112,14 @@
   https://github.com/kwirke/redux-action-factory  
   Simple library for creating schema-validated Redux Actions (or thunks, promises, etc.). Powered by the awesomely awesome Schema-Inspector.
   
+- **redux-create-types**  
+  https://github.com/BerkeleyTrue/redux-create-types  
+  A better way to create namespaced action types.
+  
+- **redux-thunk-actions**  
+  https://github.com/machadogj/redux-thunk-actions  
+  Easily create action creators for redux with redux-thunk.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  
@@ -138,3 +146,7 @@
 - **redux-actions-hub**  
   https://github.com/apentle/redux-actions-hub  
   Share Redux Actions between modules
+  
+- **redux-sources**  
+  https://github.com/amirmi/redux-sources  
+  Synthetic Sugar for consistently handling Ajax Calls in an async Redux Flow.

@@ -167,6 +167,26 @@
   https://github.com/brianneisler/duxtape  
   Assorted reducer utility functions
   
+- **redux-cloneable**  
+  https://github.com/eliaslfox/redux-cloneable  
+  Small library for creating prefixed key/value reducers.
+  
+- **redux-reducers**  
+  https://github.com/casparrolfe/redux-reducers  
+  Unobtrusive reusable redux reducers.  Wraps reducers and actions with prefixes for reusability.
+  
+- **redux-definer**  
+  https://github.com/vvgomes/redux-definer  
+  A tiny utility to handle lookup tables of reducers in an FP style
+  
+- **redux-ramda**  
+  https://github.com/davidgtonge/redux-ramda  
+  Construct reducers using an array of predicate/reducer pairs
+  
+- **create-reducer-map**  
+  https://github.com/stefanmirck/create-reducers  
+  A tiny utility to create reducer maps for Redux that follows the principles of Flux Standard Actions
+  
   
 #### Higher-Order Reducers
 
@@ -326,3 +346,15 @@
 - **estado**  
   https://github.com/davidkpiano/estado  
   What is it? Estado is a tiny, framework-agnostic JS library for representing finite-state machines and hierarchical state machines, or Harel statecharts. Its main use is as a pure (extended) transition function of the form (state, action) -> state.  Includes the ability to generate a Redux reducer to manage states.
+  
+- **redux-dsm**  
+  https://github.com/ericelliott/redux-dsm  
+  Declarative State Machines for Redux: An async state boilerplate reducer.
+  
+- **redux-react-dynamic-store**  
+  https://github.com/kravchenkodev/redux-react-dynamic-store  
+  Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
+  
+- **sliced-redux**  
+  https://github.com/carnesen/sliced-redux  
+  A store enhancer that adds an `addSlice` method, allowing addition of slice reducers at runtime.

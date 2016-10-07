@@ -74,6 +74,10 @@
 - **React Redux Essentials**  
   https://github.com/ProAI/react-essentials  
   React Redux UI collection with file upload/dropzone, form elements/validation and a lot more components.
+  
+- **react-html5-video-editor**  
+  https://github.com/evgenity/react-html5-video-editor  
+  React / redux video element with a crop marker. Crop markers emit Redux actions when dragged.
 
 #### Layout
 
@@ -114,6 +118,10 @@
 - **Relocation**  
   https://github.com/nealgranger/relocation  
   Relocation works with React Redux to manage modals, lightboxes, alerts, and overlays.
+  
+- **redux-modals**  
+  https://github.com/AKolodeev/redux-modals  
+  Prebuilt actions/reducer/middleware for handling a stack of modals in Redux
 
 
 #### Grids and Tables
@@ -171,6 +179,10 @@
 - **re-alert**  
   https://github.com/zesik/re-alert  
   A light-weight web page notification system for React and Redux. 
+  
+- **react-redux-notify**  
+  https://github.com/deep-c/react-redux-notify  
+  A simple and flexible notifications component built with and for React and Redux, inspired by Atom Editor's Notifications.
   
   
 #### Maps
@@ -338,3 +350,7 @@
 - **redux-lazy-props**  
   https://github.com/markshlick/redux-lazy-props  
   Lazy fetching of data for connected components.
+  
+- **async-props**  
+  https://github.com/manaflair/async-props  
+  Easy React/Redux data preload

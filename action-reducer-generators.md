@@ -91,6 +91,10 @@
   https://github.com/mgcrea/redux-local-scope  
   Locally scope your redux store modules (eg. types, actions, reducers) to easily reuse them.
   
+- **redux-rsi**  
+  https://github.com/civicsource/redux-rsi  
+  Utility & helper functions for reducing the (already pretty minimal) boilerplate necessary when creating redux reducers & actions.
+  
   
 #### Network Requests and APIs
 
@@ -169,6 +173,14 @@
 - **redux-apist**  
   https://github.com/exeto/redux-apist  
   Create API-related actions for Redux-Thunk
+  
+- **redux-jsonapi**  
+  https://github.com/andyhite/redux-jsonapi  
+  Redux JSON:API is a collection of actions and reducers for Redux that help ease the use of a JSON:API compliant API.
+  
+- **redux-api-call**  
+  https://github.com/tungv/redux-api-call  
+  Redux utilities for API calls using fetch
   
   
 #### Other Code Structures

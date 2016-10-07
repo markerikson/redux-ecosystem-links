@@ -54,6 +54,14 @@
   https://github.com/gavacho/fetch-for-redux  
   Fetches ajax responses suitable for dispatching in a redux action
   
+- **cape-select**  
+  https://github.com/cape-io/cape-select  
+  Reselect-inspired utility/selector functions
+  
+- **reselect-map**  
+  https://github.com/HeyImAlex/reselect-map  
+  Selectors for mapping over collections
+  
   
 #### Functional Programming
   

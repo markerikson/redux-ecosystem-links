@@ -134,6 +134,14 @@
 - **redux-electron-store**  
   https://github.com/samiskin/redux-electron-store/  
   A redux store enhancer that allows automatic synchronization between electron processes
+  
+- **redux-eventstore**  
+  https://github.com/camjackson/redux-eventstore  
+  Redux middleware for reading and writing actions to Event Store.  Meant for event-based persistence on the server. 
+  
+- **redux-gatorade**  
+  https://github.com/michael-iglesias/redux-gatorade  
+  Need to hydrate state from URL parameters? Redux-gatorade is a simple solution that allows you to hydrate different parts of your state tree from URL parameters.
 
 
 #### Store Change Subscriptions
@@ -205,6 +213,14 @@
 - **redux-limiter**  
   https://github.com/joaker/redux-limiter  
   Throttle the rate of change notifications from a redux store to stateless components (NOTE: not for use with stateful components)
+  
+- **redux-add-action-listener**  
+  https://github.com/carnesen/redux-add-action-listener-enhancer  
+  A store enhancer that adds a second set of subscriptions for dispatched actions
+  
+- **redux-batch**  
+  https://github.com/manaflair/redux-batch  
+  Enhance your Redux store to support batched actions.  Based on redux-batched-subscribe, but focused on batched actions instead of debouncing notifications.
   
 #### Other
 

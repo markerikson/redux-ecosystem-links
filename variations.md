@@ -204,6 +204,10 @@
   https://github.com/jumpsuit/jumpsuit  
   https://medium.com/@tannerlinsley/jumpsuit-react-redux-made-simple-e3186ba1b077  
   Jumpsuit is a powerful and extremely efficient Front-end framework & CLI. It is the fastest way to write scalable react/redux apps with the least overhead.  No boilerplate; Dedicated build system; Scaffolding tools; Minimal API; Simple and scalable state management based on Redux.
+  
+- **Jumpstate**  
+  https://github.com/jumpsuit/jumpstate  
+  Jumpstate is a dead-simple state machine for Redux and Vanilla JS that packs some serious power.  Extracted from the Jumpsuit library.
 
 - **vidom**  
   https://github.com/dfilatov/vidom-redux  
@@ -253,3 +257,11 @@
   https://github.com/dvajs/dva  
   https://medium.com/@chenchengpro/dva-1-0-a-lightweight-framework-based-on-react-redux-and-redux-saga-eeeecb7a481d  
   React and redux based, lightweight and elm-style framework. (Inspired by choo).
+  
+- **redux-config**  
+  https://github.com/qftgtr/redux-config  
+  Rapidly configure Redux or React Redux.
+  
+- **Realt**  
+  https://github.com/Vnkitaev/realt  
+  A new way to work with Redux inspired by Alt

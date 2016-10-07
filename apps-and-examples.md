@@ -22,6 +22,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   http://kuy.github.io/redux-saga-examples/  
   A set of examples demonstrating usage of redux-saga (autocomplete, throttle, start-stop, backend integration)
   
+- **Lifegame Redux**  
+  https://github.com/kuy/lifegame-redux  
+  Conway's lifegame using Redux + various middlewares. (redux-saga, redux-logic, redux-observable, redux-loop, ...)
+  
 - **Scalable Frontend with Elm or Redux**  
   https://github.com/slorber/scalable-frontend-with-elm-or-redux  
   Various user-submitted implementations of the "RandomGif" example app used to demonstrate the Elm Architecture and composable behavior, with comparisons between the different implementations.
@@ -125,6 +129,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Popcode**  
   https://github.com/popcodeorg/popcode  
   Popcode is a simple HTML/CSS/JavaScript editing environment for use in the classroom. It's a lot like JSBin, JSFiddle, or Codepen, but it focuses on giving specific, immediate, human-friendly feedback when the code contains errors.
+  
+- **key-and-pad**  
+  https://github.com/joshwcomeau/key-and-pad  
+  A Web Audio experiment, featuring a keyboard-controlled synthesizer and a mouse-controlled X/Y pad (eg. kaoss pad). Built with React and Redux.
+  
+- **Functional Asteroids**  
+  https://github.com/philpee2/Functional-Asteroids  
+  An Asteroids clone built with functional programming, React, and Redux
 
 #### Redux Usage Stories
 

@@ -115,3 +115,7 @@
 - **redux-fractal**  
   https://github.com/gcazaciuc/redux-fractal  
   Local component state & actions in Redux.  Provides the means to hold up local component state in Redux state, to dispatch locally scoped actions and to react to global ones.  What Redux fractal offers is a Redux private store for each component with the notable difference that the component state is actually held up in your app's state atom, so all global and components ui state live together.
+  
+- **modular-react-redux**  
+  https://github.com/dchambers/modular-react-redux  
+  Allows you to build your 'react-redux' application as a set of modular swappable components, but still have a single global Redux store for the entire app.

@@ -73,6 +73,10 @@
   https://github.com/pbomb/redux-devtools-profiler-monitor  
   A custom monitor for Redux DevTools to profile a given action in Chrome DevTools
   
+- **Periscope Monitor**  
+  https://github.com/shea-hawkins/periscope  
+  In-depth monitoring for Redux applications.  View actions on a timeline, group by type, and more.
+  
 
 #### Logging
   
@@ -150,7 +154,7 @@
   
 - **redux-vcr**  
   https://github.com/joshwcomeau/redux-vcr  
-  A WIP set of tools for recording and replaying Redux actions
+  A Redux devtool that lets you replay user sessions in real-time.
   
 - **redux-bugsnag-middleware**  
   https://github.com/netguru/redux-bugsnag-middleware  
@@ -197,6 +201,10 @@
 - **redux-uncaught-promise**  
   https://github.com/laat/redux-uncaught-promise  
   Handle uncaught promises returned from dispatch.
+  
+- **redux-check**  
+  https://github.com/jarredwitt/redux-check  
+  Lets you run validations against parts of your state or against the action that was dispatched.
   
 
 #### Component Update Monitoring

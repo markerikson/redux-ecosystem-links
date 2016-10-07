@@ -47,6 +47,14 @@
 - **redux-page-scope**  
   https://github.com/recruit-tech/redux-page-scope  
   Page scope state management for Redux
+  
+- **redux-undo-redo**  
+  https://github.com/welldone-software/redux-undo-redo  
+  Prebuilt undo-redo handling reducer and middleware.  Define which actions are undoable and how to revert them.
+  
+- **redux-geojson**  
+  https://github.com/tannerjt/redux-geojson  
+  A reducer that allows for the addition and removal of features features from a GeoJSON object.
 
   
 ### Internationalization
@@ -66,6 +74,19 @@
 - **redux-i18n**  
   https://github.com/APSL/redux-i18n  
   A simple and powerful package for translate your react application with react-redux.
+  
+- **redux-intl**  
+  https://github.com/danilobuerger/redux-intl  
+  Simple bindings between react-intl and redux
+  
+- **react-redux-i18n**  
+  https://github.com/zoover/react-redux-i18n  
+  A binding library for redux to react-i18nify
+  
+- **redux-nabu**  
+  https://github.com/epsitec-sa/redux-nabu  
+  i18n reducer for react-nabu tools
+  
   
 #### Pagination
   
@@ -128,6 +149,14 @@
   https://github.com/Drawbotics/entman  
   A simple library to manage normalizr entities in a redux store
   
+- **json-talk**  
+  https://github.com/manaflair/json-talk  
+  A Redux-friendly, JSON-API-compatible, ORM library
+  
+- **redux-resources**  
+  https://github.com/travisbloom/redux-resources  
+  An opinionated set of reducers, actions, and selectors to manage creating, getting, listing, updating, and deleting remote resources.
+  
   
 #### Network
   
@@ -146,6 +175,10 @@
 - **easy-redux**  
   https://github.com/welljs/easy-redux  
   Helpers to facilitate the work with redux, including network request tracking
+  
+- **redux-async-utils**  
+  https://github.com/LucaColonnello/redux-async-utils  
+  A set of utilities to track state of async actions
   
 #### Authentication
 
@@ -176,6 +209,10 @@
 - **Cred Redux**  
   https://github.com/robmclarty/cred-redux  
   A Redux middleware for managing JSON Web Tokens client-side in a Redux application. It handles storing tokens locally, refreshing access-tokens when they expire, and making API calls to cloud servers (including access-tokens in the Authorization header).
+  
+- **auth-fe-middleware**  
+  https://github.com/mikespencer/auth-fe-middleware  
+  Redux middleware for Oauth2 connection on the client side. Tokens are stored via cookie.
 
 
 #### Backbone Integration
