@@ -120,7 +120,7 @@
   Relocation works with React Redux to manage modals, lightboxes, alerts, and overlays.
   
 - **redux-modals**  
-  https://github.com/AKolodeev/redux-modals  
+  https://github.com/AKolodeev/redux-promising-modals  
   Prebuilt actions/reducer/middleware for handling a stack of modals in Redux
 
 

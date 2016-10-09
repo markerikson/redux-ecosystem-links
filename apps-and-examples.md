@@ -30,6 +30,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/slorber/scalable-frontend-with-elm-or-redux  
   Various user-submitted implementations of the "RandomGif" example app used to demonstrate the Elm Architecture and composable behavior, with comparisons between the different implementations.
   
+- **Redux Counter Example**  
+  https://ahmednuaman.github.io/redux-counter/  
+  Examples of the same Redux app with front ends in Angular 1 / 2, React, Vue, and vanilla JS
+  
 
 #### Applications
 - **MapStore2**  
@@ -137,6 +141,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Functional Asteroids**  
   https://github.com/philpee2/Functional-Asteroids  
   An Asteroids clone built with functional programming, React, and Redux
+  
+- **Rubix**  
+  https://github.com/Zacqary/rubix  
+  A Rubik's Cube built with CSS Animations, React, and Redux
 
 #### Redux Usage Stories
 
