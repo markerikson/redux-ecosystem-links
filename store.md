@@ -48,6 +48,10 @@
   https://github.com/allegro/redux-storage-decorator-engines  
   Composing decorator for redux-storage to use different storage types like redux-storage-engine-localstorage or redux-storage-engine-sessionstorage including custom engines (i.e. to load information from cookies) in a single application.
   
+- **redux-storage-engine-remoteendpoint**  
+  https://github.com/Bionexo/redux-storage-engine-remoteendpoint  
+  A remote endpoint storage engine for redux-storage.  Everytime the store changes, save it on the server.
+  
 - **redux-pouchdb**  
   https://github.com/vicentedealencar/redux-pouchdb  
   Sync store state to pouchdb
@@ -142,6 +146,10 @@
 - **redux-gatorade**  
   https://github.com/michael-iglesias/redux-gatorade  
   Need to hydrate state from URL parameters? Redux-gatorade is a simple solution that allows you to hydrate different parts of your state tree from URL parameters.
+  
+- **redux-peerjs-store-enhancer**  
+  https://github.com/jurassix/redux-peerjs-store-enhancer  
+  Use PeerJS to easily distribute Redux actions to remote peers.
 
 
 #### Store Change Subscriptions
@@ -255,3 +263,7 @@
 - **redux-mount-store**  
   https://github.com/RetailMeNotSandbox/redux-mount-store  
   Redux store enhancer that makes it possible to mount sub-stores
+  
+- **redux-online-store-enhancer**  
+  https://github.com/jurassix/redux-online-store-enhancer  
+  Automatically detect if you are online or offline.  Adds a top-level "online" attribute that will dynamically change as the browser goes online and offline.

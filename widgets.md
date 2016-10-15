@@ -39,6 +39,10 @@
   https://github.com/blueberryapps/redux-file-upload  
   There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
   
+- **redux-plupload**  
+  https://github.com/tes/redux-plupload  
+  FSA-compliant Redux bindings for Plupload.  Helps you use Redux actions for bi-directional communication with a plupload uploader instance.
+  
 - **semantic-react-redux**  
   https://github.com/insilica/semantic-react-redux  
   Just a collection of components for projects using semantic-ui, redux, and react.
@@ -150,6 +154,10 @@
   https://github.com/sematext/sematable  
   Sematable wraps a table component, and provides filtering, sorting, row selection, pagination, with the ability to persist the table state in application state with Redux, so filters, sort info, selected rows, and pagination info survives route navigations.
   
+- **redux-datatable**  
+  https://github.com/reharik/redux-datatable  
+  An in-progress Redux-based table component
+  
 #### Notifications
   
 - **re-notif**  
@@ -188,8 +196,7 @@
 #### Maps
 
 - **react-redux-leaflet**  
-  https://github.com/burmisov/react-redux-leaflet  
-  https://github.com/burmisov/redux-leaflet-layer  
+  https://github.com/geoworks/react-redux-leaflet  
   Use Leaflet seamlessly in a React + Redux based application
   
 - **redux-map-gl**  
@@ -354,3 +361,7 @@
 - **async-props**  
   https://github.com/manaflair/async-props  
   Easy React/Redux data preload
+  
+- **graphdux**  
+  https://github.com/Mobelux/graphdux  
+  A graphql/redux integration toolkit

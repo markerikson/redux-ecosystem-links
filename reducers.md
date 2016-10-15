@@ -187,6 +187,14 @@
   https://github.com/stefanmirck/create-reducers  
   A tiny utility to create reducer maps for Redux that follows the principles of Flux Standard Actions
   
+- **reducer-redux**  
+  https://github.com/b-gran/reducer-redux  
+  A utility for easily creating robust redux reducers. Applies different reducers based on the properties of an action. Its main purpose is saving you from a bunch of nested switch statements.
+  
+- **Redux Compose Reducer**  
+  https://github.com/kimrgrey/redux-compose-reducer  
+  Reducer composer for Redux. This library simplifies workflow for building namespaced actions and reducers for them in Redux.
+  
   
 #### Higher-Order Reducers
 
@@ -358,3 +366,7 @@
 - **sliced-redux**  
   https://github.com/carnesen/sliced-redux  
   A store enhancer that adds an `addSlice` method, allowing addition of slice reducers at runtime.
+  
+- **redux-property-graph**  
+  https://github.com/telepathtech/redux-property-graph  
+  Basic property graph for redux

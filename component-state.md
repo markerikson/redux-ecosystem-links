@@ -119,3 +119,11 @@
 - **modular-react-redux**  
   https://github.com/dchambers/modular-react-redux  
   Allows you to build your 'react-redux' application as a set of modular swappable components, but still have a single global Redux store for the entire app.
+  
+- **isolated-react-redux**  
+  https://github.com/neekey/isolated-react-redux  
+  Provide a isolated redux style way to handle state for components
+  
+- **Lean Redux**  
+  https://github.com/epeli/lean-redux  
+  Redux state like local component state. Basic Redux state access and updating should be simple as it is with the component local state. Redux state can be scoped to the components. Plays well with other tools in the Redux community. Lean Redux is build on top of the new connectAdvanced() primitive of React Redux 5.0 and implements the same optimizations as connect().

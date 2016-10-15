@@ -95,6 +95,15 @@
   https://github.com/civicsource/redux-rsi  
   Utility & helper functions for reducing the (already pretty minimal) boilerplate necessary when creating redux reducers & actions.
   
+- **redux-action-man**  
+  https://github.com/anubhavgupta/redux-action-man  
+  Utilities for generating scoped/hierarchical actions with reducers
+  
+- **Fredux**  
+  https://github.com/trabe/fredux  
+  https://github.com/trabe/fredux-api-utils  
+  Fredux is a utility library to make the development process of redux applications faster and easier. Fredux provides some conventions and tools to create actions which follows some standard structure, create asynchronous actions, and handle pending promise actions when the context of the application changes like in a page navigation.
+  
   
 #### Network Requests and APIs
 
@@ -182,6 +191,10 @@
   https://github.com/tungv/redux-api-call  
   Redux utilities for API calls using fetch
   
+- **redux-fetch-resource**  
+  https://github.com/StickyCube/redux-fetch-resource  
+  redux-fetch-resource is an attempt at a complete solution for making api requests in react/redux applications.
+
   
 #### Other Code Structures
 

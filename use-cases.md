@@ -87,6 +87,10 @@
   https://github.com/epsitec-sa/redux-nabu  
   i18n reducer for react-nabu tools
   
+- **redux-polyglot**  
+  https://github.com/Tiqa/redux-polyglot  
+  Toolset (actions, reducer, middleware, enhancer, selectors) to help use Polyglot with Redux.
+  
   
 #### Pagination
   
@@ -156,6 +160,10 @@
 - **redux-resources**  
   https://github.com/travisbloom/redux-resources  
   An opinionated set of reducers, actions, and selectors to manage creating, getting, listing, updating, and deleting remote resources.
+  
+- **cape-redux-collection**  
+  https://github.com/cape-io/cape-redux-collection  
+  Redux functions for managing lists of stuff.  Collections are lists of items. This module helps manage lists of items with redux and redux-graph.
   
   
 #### Network

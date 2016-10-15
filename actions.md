@@ -120,6 +120,14 @@
   https://github.com/machadogj/redux-thunk-actions  
   Easily create action creators for redux with redux-thunk.
   
+- **Actioner**  
+  https://github.com/yanick/actioner  
+  Actioner is a little utility to help define, manage and validate Redux actions, using json-schema.
+  
+- **redux-create-action-types**  
+  https://github.com/tbranyen/redux-create-action-types  
+  Helps you create Redux action types, safely & easily.  Helps define action types without duplication and provides some validation.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

@@ -265,3 +265,19 @@
 - **Realt**  
   https://github.com/Vnkitaev/realt  
   A new way to work with Redux inspired by Alt
+  
+- **redux-app-controller**  
+  https://github.com/antonpkazakov/redux-app-controller  
+  A JavaScript library based on React+Redux combination that allows you to make React-powered SPA based on controllers rather than separate action-creators, reducers and action handlers.
+  
+- **react-redux-connector**  
+  https://github.com/akuzko/react-redux-connector  
+  Object-oriented React binding for Redux
+  
+- **redux-branch**  
+  https://github.com/stephenbunch/redux-branch  
+  A library for defining "branches" - local stores whose state is merged on top of the parent.  This allows each component to have its own Redux store while still being able to interact with the parent store.
+  
+- **redux-with-selectors**  
+  https://github.com/guillaumearm/redux-with-selectors  
+  A redux store enhancer for adding selectors inside the store.  Provide a withSelectors function that take a schema of your selectors, a store and return a new enhanced store.  This will allow you to centralize all your selectors in the redux store, and call them by using getState()

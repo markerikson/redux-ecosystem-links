@@ -145,6 +145,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Rubix**  
   https://github.com/Zacqary/rubix  
   A Rubik's Cube built with CSS Animations, React, and Redux
+  
+- **Monitaure**  
+  https://github.com/Bertrand31/Monitaure  
+  Monitaure is an online service aiming to provide SysAdmins with a clean, lightweight and quick to configure monitoring dashboard. 
 
 #### Redux Usage Stories
 

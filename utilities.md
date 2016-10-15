@@ -62,6 +62,10 @@
   https://github.com/HeyImAlex/reselect-map  
   Selectors for mapping over collections
   
+- **jsonapi-normalizer**  
+  https://github.com/stevenpetryk/jsonapi-normalizer  
+  Normalizes JSONAPI for use in Redux or similar systems.
+  
   
 #### Functional Programming
   

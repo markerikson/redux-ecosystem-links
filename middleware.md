@@ -139,10 +139,6 @@
 - **redux-await**  
   https://github.com/kolodny/redux-await  
   Manage async redux actions sanely.  This module exposes a middleware, reducer, and connector to take care of async state in a redux app.
-  
-- **Redux Async Initial State**  
-  https://github.com/KELiON/redux-async-initial-state  
-  Redux middleware for async loading of initial app state.
 
 - **redux-future**  
   https://github.com/stoeffel/redux-future  
@@ -224,6 +220,10 @@
   https://github.com/lewis617/redux-amrc  
   Redux async middleware and reducer creator for dispatching async actions with less boilerplate.
   
+- **redux-middleware-async**  
+  https://github.com/robinpowered/redux-middleware-async  
+  
+  
 
 #### Action Grouping and Interception
 
@@ -295,7 +295,17 @@
   https://github.com/mkamakura/redux-validation  
   Validate action properties
   
+- **redux-action-watch**  
+  https://github.com/mrdivyansh/redux-action-watch  
+  Provides features to listen actions dispatched to Redux.
   
+- **redux-rules**  
+  https://github.com/choko-org/redux-rules  
+  Make your code more easy to reason about with a more natural language for your logic, using rules fired by actions and reacting to a given set of facts. Based on the forward-chaining rules in Clojure called Clara.
+  
+- **redux-actions-sequences**  
+  https://github.com/AndrewRevinsky/redux-actions-sequences  
+  Make sequences of redux actions trigger a new action
   
 #### Sockets and Adapters
 
@@ -439,6 +449,10 @@
   https://github.com/noh4ck/redux-swagger-client  
   Add asynchronous Swagger api calls to Redux
   
+- **redux-socket.io-middleware**  
+  https://github.com/czytelny/redux-socket.io-middleware  
+  Another dead-simple middleware which allows you to connect Redux and Socket.io. It uses meta property of your action object to recognize whether send it to backend, or not. 
+  
 #### Network Requests
 
 - **redux-request**  
@@ -536,6 +550,14 @@
 - **redux-api-promise-middleware**  
   https://github.com/restlessbit/redux-api-promise-middleware  
   Middleware that gives you a uniform way to define API actions in Redux applications.
+  
+- **redux-middleware-async**  
+  https://github.com/robinpowered/redux-middleware-async  
+  Redux middleware for performing predictable asynchronous actions and tracking request status
+  
+- **redux-generator**  
+  https://github.com/xuyuanxiang/redux-generator  
+  Middleware for redux to resolve generator function actions.  
   
 #### Analytics
 
