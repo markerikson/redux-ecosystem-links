@@ -55,6 +55,10 @@
 - **redux-geojson**  
   https://github.com/tannerjt/redux-geojson  
   A reducer that allows for the addition and removal of features features from a GeoJSON object.
+  
+- **redux-title**  
+  https://github.com/DJCordhose/redux-title  
+  This library provides synchronization of the document title and redux state. 
 
   
 ### Internationalization
@@ -164,6 +168,10 @@
 - **cape-redux-collection**  
   https://github.com/cape-io/cape-redux-collection  
   Redux functions for managing lists of stuff.  Collections are lists of items. This module helps manage lists of items with redux and redux-graph.
+  
+- **redux-entity**  
+  https://github.com/mikechabot/redux-entity  
+  redux-entity seeks to provide a scalable, predictable approach to maintaining domain entities in Redux. It's comprised of a reducer and a thunk.
   
   
 #### Network

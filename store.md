@@ -150,6 +150,14 @@
 - **redux-peerjs-store-enhancer**  
   https://github.com/jurassix/redux-peerjs-store-enhancer  
   Use PeerJS to easily distribute Redux actions to remote peers.
+  
+- **redux-simple-storage-middleware**  
+  https://github.com/BartWaardenburg/redux-simple-storage-middleware  
+  Simple redux middleware which will store the current state tree in either session- or localstorage. This helps creating an awesome developer experience when combined with hot reloading.
+  
+- **redux-pouchdb-store-enhancer**  
+  https://github.com/jurassix/redux-pouchdb-store-enhancer  
+  Redux PouchDB Enhancer to store actions locally, sync with remote CouchDB, and time travel by applying remote actions locally and then compute distributed nextState.
 
 
 #### Store Change Subscriptions
@@ -267,3 +275,7 @@
 - **redux-online-store-enhancer**  
   https://github.com/jurassix/redux-online-store-enhancer  
   Automatically detect if you are online or offline.  Adds a top-level "online" attribute that will dynamically change as the browser goes online and offline.
+  
+- **redux-webext**  
+  https://github.com/ivantsov/redux-webext  
+  Allows you to use Redux for managing the state of your WebExtension.

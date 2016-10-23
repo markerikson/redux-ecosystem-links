@@ -82,6 +82,10 @@
 - **react-html5-video-editor**  
   https://github.com/evgenity/react-html5-video-editor  
   React / redux video element with a crop marker. Crop markers emit Redux actions when dragged.
+  
+- **redux-burger-menu**  
+  https://github.com/negomi/redux-burger-menu  
+  A Redux reducer and higher-order component decorator for use with react-burger-menu.
 
 #### Layout
 

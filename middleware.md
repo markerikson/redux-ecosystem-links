@@ -63,6 +63,10 @@
   https://github.com/kallaspriit/redux-loading-promise-middleware  
   Middleware for Redux that turns promises into several dispatches of loading, success and error states, confirming to flux standard action schema.
   
+- **redux-promise-loading**  
+  https://github.com/amorphousxd/redux-promise-loading  
+  Redux middleware and reducer for handling redux promise loading indicator
+  
   
 #### Timeouts and Delays
 
@@ -222,7 +226,11 @@
   
 - **redux-middleware-async**  
   https://github.com/robinpowered/redux-middleware-async  
+  Redux middleware for performing predictable asynchronous actions.
   
+- **redux-generator**  
+  https://github.com/xuyuanxiang/redux-generator  
+  Middleware for redux to resolve generator function actions.  
   
 
 #### Action Grouping and Interception
@@ -306,6 +314,10 @@
 - **redux-actions-sequences**  
   https://github.com/AndrewRevinsky/redux-actions-sequences  
   Make sequences of redux actions trigger a new action
+  
+- **redux-action-enhancer-middleware**  
+  https://github.com/jurassix/redux-action-enhancer-middleware  
+  Middleware that provides an enhancing function to dispatched actions, with optional filtering to target only certain actions.
   
 #### Sockets and Adapters
 
@@ -555,9 +567,10 @@
   https://github.com/robinpowered/redux-middleware-async  
   Redux middleware for performing predictable asynchronous actions and tracking request status
   
-- **redux-generator**  
-  https://github.com/xuyuanxiang/redux-generator  
-  Middleware for redux to resolve generator function actions.  
+- **Data Pipeline**  
+  https://github.com/iwate/data-pipeline  
+  Fetch URLs and modify data as it returns 
+ 
   
 #### Analytics
 

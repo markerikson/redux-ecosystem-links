@@ -195,6 +195,8 @@
   https://github.com/kimrgrey/redux-compose-reducer  
   Reducer composer for Redux. This library simplifies workflow for building namespaced actions and reducers for them in Redux.
   
+
+  
   
 #### Higher-Order Reducers
 
@@ -290,6 +292,10 @@
   https://github.com/cratejoy/redux-live-undo  
   A generic, high-order reducer that allows you to transparently add undo/redo functionality on top of other redux reducers. redux-live-undo allows state to be updated as users type without creating undo steps for every state change.
   
+- **redux-composers**  
+  https://github.com/shoutem/redux-composers  
+  Utilities to combine reducers in various ways beyond `combineReducers`, including chaining, merging, and mapping.
+  
   
 #### Advanced Reducer Use Cases
 
@@ -347,18 +353,6 @@
   https://github.com/gtg092x/reducify  
   Generate redux reducers with less effort 
 
-- **redux-machine**  
-  https://github.com/mheiber/redux-machine  
-  A tiny library for creating state machines in Redux apps.  Provide an object of reducers to handle different states, and return a special key with the next state name to have the lib swap the active state reducer and include the current state name.
-  
-- **estado**  
-  https://github.com/davidkpiano/estado  
-  What is it? Estado is a tiny, framework-agnostic JS library for representing finite-state machines and hierarchical state machines, or Harel statecharts. Its main use is as a pure (extended) transition function of the form (state, action) -> state.  Includes the ability to generate a Redux reducer to manage states.
-  
-- **redux-dsm**  
-  https://github.com/ericelliott/redux-dsm  
-  Declarative State Machines for Redux: An async state boilerplate reducer.
-  
 - **redux-react-dynamic-store**  
   https://github.com/kravchenkodev/redux-react-dynamic-store  
   Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
@@ -370,3 +364,22 @@
 - **redux-property-graph**  
   https://github.com/telepathtech/redux-property-graph  
   Basic property graph for redux
+  
+  
+#### State Machines
+
+- **redux-machine**  
+  https://github.com/mheiber/redux-machine  
+  A tiny library for creating state machines in Redux apps.  Provide an object of reducers to handle different states, and return a special key with the next state name to have the lib swap the active state reducer and include the current state name.
+  
+- **estado**  
+  https://github.com/davidkpiano/estado  
+  What is it? Estado is a tiny, framework-agnostic JS library for representing finite-state machines and hierarchical state machines, or Harel statecharts. Its main use is as a pure (extended) transition function of the form (state, action) -> state.  Includes the ability to generate a Redux reducer to manage states.
+  
+- **redux-dsm**  
+  https://github.com/ericelliott/redux-dsm  
+  Declarative State Machines for Redux: An async state boilerplate reducer.
+
+- **redux-state-machine**  
+  https://github.com/realb0t/redux-state-machine  
+  Wraps the javascript-state-machine library for use as a Redux reducer.

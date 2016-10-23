@@ -281,3 +281,15 @@
 - **redux-with-selectors**  
   https://github.com/guillaumearm/redux-with-selectors  
   A redux store enhancer for adding selectors inside the store.  Provide a withSelectors function that take a schema of your selectors, a store and return a new enhanced store.  This will allow you to centralize all your selectors in the redux store, and call them by using getState()
+  
+- **Petiole**  
+  https://github.com/ilkkahanninen/petiole  
+  Petiole embraces the idea of Redux reducer bundles, better known as ducks, but takes them further with uniform construction function and throws support for selectors in. In Petiole these bundles are called leaves -- they are the leaf nodes (end-nodes) in our state tree.
+  
+- **react-redux-subscribe-while-mounted**  
+  https://github.com/arnemahl/react-redux-subscribe-while-mounted  
+  A utility method to make it easier to subscribe to a Redux store from a React component.
+  
+- **redux-retro**  
+  https://github.com/bencompton/redux-retro  
+  A Redux add-on that brings back the clean, minimal-boilerplate syntax you enjoyed with classic Flux libraries like Alt, Reflux, and Flummox, along with better TypeScript support

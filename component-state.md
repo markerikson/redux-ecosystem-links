@@ -1,4 +1,4 @@
-### Component/Local State
+### Component/Local State and Encapsulation
 
 - **redux-ui**  
   https://github.com/tonyhb/redux-ui  
@@ -127,3 +127,11 @@
 - **Lean Redux**  
   https://github.com/epeli/lean-redux  
   Redux state like local component state. Basic Redux state access and updating should be simple as it is with the component local state. Redux state can be scoped to the components. Plays well with other tools in the Redux community. Lean Redux is build on top of the new connectAdvanced() primitive of React Redux 5.0 and implements the same optimizations as connect().
+  
+- **Modux**  
+  https://github.com/PCreations/modux-js  
+  modux-js is a lightweight framework to seamlessly build modular, composable, encapsulated and fractable redux apps.  The main goal of this project is to let you write vanilla redux and let modux-js encapsulate it for you by scoping your actions, reducers, selectors and sagas. Your moduxes are only aware of their own context. 
+  
+- **redux-state-keys**  
+  https://github.com/LFDM/redux-state-keys  
+  Utility functions to scope behavior to certain state keys

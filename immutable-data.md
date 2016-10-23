@@ -150,6 +150,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-seamless-immutable**  
   https://github.com/eadmundo/redux-seamless-immutable  
   Helpers for using seamless-immutable in Redux. Provides a compatible combineReducers and routerReducer (for use with react-router-redux).
+  
+- **mori-redux**  
+  https://github.com/dynn/mori-redux  
+  createReducer and combineReducers utilities that work with Mori structures
 
 
 #### Alternate Data Management Concepts

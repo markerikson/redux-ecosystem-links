@@ -104,6 +104,10 @@
   https://github.com/trabe/fredux-api-utils  
   Fredux is a utility library to make the development process of redux applications faster and easier. Fredux provides some conventions and tools to create actions which follows some standard structure, create asynchronous actions, and handle pending promise actions when the context of the application changes like in a page navigation.
   
+- **redux-routine**  
+  https://github.com/ezhikov/redux-routine  
+  Set of small utils for creation of basic redux routines as collection reducer (uses Map for collection state), item reducer, actionCreators and basic action types (ADD, REMOVE, CHANGE)
+  
   
 #### Network Requests and APIs
 

@@ -102,7 +102,6 @@
   Utility module for ease of testing redux-thunk style action creators.
   
   
-  
 #### Sagas
 
 - **redux-saga-test**  
@@ -125,5 +124,7 @@
   https://github.com/guybenron/redux-saga-tester  
   Full redux environment testing helper for redux-saga
 
-  
+- **redux-saga-testing**  
+  https://github.com/antoinejaussoin/redux-saga-testing  
+  A no-brainer way of testing your Sagas.
 
