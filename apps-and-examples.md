@@ -74,7 +74,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   An experimental browser prototype, investigating new ideas and interactions.
   
 - **Guild Wars 2 Armory**  
-  https://github.com/madou/armory-front  
+  https://github.com/madou/armory-react  
   Allows GW2 players to share account, character, and guild information.
 
 - **Shifted Maps**  
