@@ -59,6 +59,10 @@
 - **redux-title**  
   https://github.com/DJCordhose/redux-title  
   This library provides synchronization of the document title and redux state. 
+  
+- **redux-focus**  
+  https://github.com/nearmap/redux-focus  
+  A library that tracks info on the currently focused element
 
   
 ### Internationalization

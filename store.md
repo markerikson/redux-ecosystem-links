@@ -158,6 +158,10 @@
 - **redux-pouchdb-store-enhancer**  
   https://github.com/jurassix/redux-pouchdb-store-enhancer  
   Redux PouchDB Enhancer to store actions locally, sync with remote CouchDB, and time travel by applying remote actions locally and then compute distributed nextState.
+  
+- **Redux-State-Sync**  
+  https://github.com/AOHUA/redux-state-sync  
+  A very light weight middleware to sync your redux state across browser tabs.
 
 
 #### Store Change Subscriptions
@@ -279,3 +283,7 @@
 - **redux-webext**  
   https://github.com/ivantsov/redux-webext  
   Allows you to use Redux for managing the state of your WebExtension.
+  
+- **react-chrome-redux**  
+  https://github.com/tshaddix/react-chrome-redux  
+  A set of utilities for building Redux applications in Google Chrome extensions.

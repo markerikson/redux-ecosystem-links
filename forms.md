@@ -96,3 +96,11 @@
 - **react-forms**  
   https://github.com/luvago/react-forms  
   Provides containers, helpers and reducers to work with Forms in React/Redux
+  
+- **onion-form**  
+  https://github.com/blueberryapps/onion-form  
+  React Redux form builder with great UX validations
+  
+- **react-redux-form-provider**  
+  https://github.com/jschr/react-redux-form-provider  
+  A set of React helpers to help with building forms. State is managed with a Redux store that is local to your component.

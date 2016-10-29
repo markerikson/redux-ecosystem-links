@@ -108,6 +108,10 @@
   https://github.com/ezhikov/redux-routine  
   Set of small utils for creation of basic redux routines as collection reducer (uses Map for collection state), item reducer, actionCreators and basic action types (ADD, REMOVE, CHANGE)
   
+- **f1-redux-utils**  
+  https://github.com/nicocrm/f1-redux-utils  
+  Utility functions for generating actions, creating containers that dispatch actions on mount, and creating reducers that handle prefixed actions
+  
   
 #### Network Requests and APIs
 

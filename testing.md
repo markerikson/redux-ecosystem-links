@@ -101,6 +101,14 @@
   https://github.com/playground-xyz/redux-mock-dispatcher  
   Utility module for ease of testing redux-thunk style action creators.
   
+- **redux-testkit**  
+  https://github.com/wix/redux-testkit  
+  Use this module to easily write unit tests for redux actions, including asynchronous actions using redux-thunk middleware.
+  
+- **redux-asserts**  
+  https://github.com/mitodl/redux-asserts  
+  Functions to assert dispatched actions in redux. These functions are aimed at making integration testing with redux easier by abstracting away the need to manage and listen to the store's actions.
+  
   
 #### Sagas
 
@@ -127,4 +135,8 @@
 - **redux-saga-testing**  
   https://github.com/antoinejaussoin/redux-saga-testing  
   A no-brainer way of testing your Sagas.
+  
+- **redux-saga-tester**  
+  https://github.com/wix/redux-saga-tester  
+  This tester library provides a full redux environment to run your sagas in, taking a black-box approach to testing. You can dispatch actions, observe the state of the store at any time, retrieve a history of actions, and listen for specific actions to occur.
 

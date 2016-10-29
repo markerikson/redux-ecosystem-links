@@ -319,6 +319,10 @@
   https://github.com/jurassix/redux-action-enhancer-middleware  
   Middleware that provides an enhancing function to dispatched actions, with optional filtering to target only certain actions.
   
+- **redux-listener**  
+  https://github.com/matthias-reis/redux-listener-middleware  
+  A Redux middleware that acts as a general listener on actions that are dispatched to the Redux store, with rules for handling different actions.
+  
 #### Sockets and Adapters
 
 - **redux-socket**  
@@ -465,6 +469,10 @@
   https://github.com/czytelny/redux-socket.io-middleware  
   Another dead-simple middleware which allows you to connect Redux and Socket.io. It uses meta property of your action object to recognize whether send it to backend, or not. 
   
+- **resocket**  
+  https://github.com/laumair/resocket  
+  Resocket is a socket.io wrapper and middleware for React and Redux applications.  It helps you abstract away all the socket.io implementations in your app. 
+  
 #### Network Requests
 
 - **redux-request**  
@@ -600,6 +608,10 @@
   https://github.com/ezekielchentnik/redux-newrelic  
   https://github.com/ezekielchentnik/redux-optimizely  
   Redux middleware for reporting actions to third party APIs. Extremely useful for analytics and error handling.  Author has specialized versions for Adobe DTM, NewRelic, and Optimizely.
+  
+- **redux-gtm**  
+  https://github.com/rangle/redux-gtm  
+  Synchronize Redux actions with Google Tag Manager events
   
   
 #### Data Management

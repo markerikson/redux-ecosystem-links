@@ -107,3 +107,7 @@
 - **Redux Unity Router**  
   https://github.com/TimeRaider/redux-unity-router  
   Simple routing for your redux application.  The main purpose of this router is to mirror your browser history to the redux store and help you easily declare routes.
+  
+- **i-redux-navigation**  
+  https://github.com/ebaranov/i-redux-navigation  
+  Navigation solution for redux applications

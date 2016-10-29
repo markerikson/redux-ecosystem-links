@@ -164,6 +164,10 @@
   https://github.com/AgentME/redux-action-log  
   A redux store enhancer which allows you to record the redux action history and access it. It can be configured to have a maximum number of actions to keep in the history. Early actions will be removed from the history, and the redux state of the beginning of the history will be recorded.
   
+- **redux-bugsnag**  
+  https://github.com/restorando/redux-bugsnag  
+  Redux middleware that logs to Bugsnag
+  
 #### Linting
  
 - **redux-immutable-state-invariant**  

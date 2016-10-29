@@ -86,6 +86,18 @@
 - **redux-burger-menu**  
   https://github.com/negomi/redux-burger-menu  
   A Redux reducer and higher-order component decorator for use with react-burger-menu.
+  
+- **redux-loading**  
+  https://github.com/schiehll/redux-loading  
+  Loading control with Redux
+  
+- **react-redux-secure**  
+  https://github.com/hasangilak/react-redux-secure  
+  A package which decides on displaying components based on your rules.
+  
+- **react-redux-theme-provider**  
+  https://github.com/jschr/react-redux-theme-provider  
+  React helpers for theming components. Works great with inline styles or any css-in-js library.
 
 #### Layout
 
@@ -195,6 +207,10 @@
 - **react-redux-notify**  
   https://github.com/deep-c/react-redux-notify  
   A simple and flexible notifications component built with and for React and Redux, inspired by Atom Editor's Notifications.
+  
+- **redux-notifications-middleware**  
+  https://github.com/anupvarghese/redux-notifications-middleware  
+  A simple middleware for handling notifications using redux store
   
   
 #### Maps
@@ -369,3 +385,7 @@
 - **graphdux**  
   https://github.com/Mobelux/graphdux  
   A graphql/redux integration toolkit
+  
+- **falcor-provider**  
+  https://github.com/jameslaneconkling/falcor-provider  
+  Redux provider to connect your falcor graph to your redux store
