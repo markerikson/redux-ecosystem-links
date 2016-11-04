@@ -149,6 +149,15 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Monitaure**  
   https://github.com/Bertrand31/Monitaure  
   Monitaure is an online service aiming to provide SysAdmins with a clean, lightweight and quick to configure monitoring dashboard. 
+  
+- **"Ask HN: Open source projects written in React?"**  
+  https://news.ycombinator.com/item?id=12802121  
+  An HN thread listing open-source React projects, several of which are written using Redux as well.
+  
+- **React Apps and Libraries List**  
+  https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114  
+  https://medium.com/@sAbakumoff/react-entourage-6d51e7df9944  
+  A giant list of apps that depend on React, generated using Google BigQuery searches of Github data.  A number of them use Redux.
 
 #### Redux Usage Stories
 

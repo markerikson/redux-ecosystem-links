@@ -112,6 +112,10 @@
   https://github.com/nicocrm/f1-redux-utils  
   Utility functions for generating actions, creating containers that dispatch actions on mount, and creating reducers that handle prefixed actions
   
+- **redux-state-keys**  
+  https://github.com/LFDM/redux-state-keys  
+  This library tries to deal with the problem of writing a lot of repetitive boilerplate code, when you are trying to deal with several instances of a same type. Includes functions to generate selectors, action creators, and reducers that target a specific slice of state by name.
+  
   
 #### Network Requests and APIs
 

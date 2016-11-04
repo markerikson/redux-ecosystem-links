@@ -110,7 +110,7 @@
   Functions to assert dispatched actions in redux. These functions are aimed at making integration testing with redux easier by abstracting away the need to manage and listen to the store's actions.
   
   
-#### Sagas
+#### Sagas and Side Effects
 
 - **redux-saga-test**  
   https://github.com/stoeffel/redux-saga-test  
@@ -139,4 +139,8 @@
 - **redux-saga-tester**  
   https://github.com/wix/redux-saga-tester  
   This tester library provides a full redux environment to run your sagas in, taking a black-box approach to testing. You can dispatch actions, observe the state of the store at any time, retrieve a history of actions, and listen for specific actions to occur.
+  
+- **redux-effects-test-jasmine**  
+  https://github.com/gutefrage/redux-effects-test-jasmine  
+  Helper methods to test redux-effect actions with jasmine.
 

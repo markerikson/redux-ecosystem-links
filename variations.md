@@ -293,3 +293,11 @@
 - **redux-retro**  
   https://github.com/bencompton/redux-retro  
   A Redux add-on that brings back the clean, minimal-boilerplate syntax you enjoyed with classic Flux libraries like Alt, Reflux, and Flummox, along with better TypeScript support
+  
+- **redux-quick-actions**  
+  https://github.com/cashsun/redux-quick-action  
+  Redux action/reducer wrapper that hides synchronous reducers implementation.  redux-quick-action helps abstract type strings, switch statements in reducers and many other implementation details away from you.
+  
+- **redux-model-s**  
+  https://github.com/ophite/redux-model-s  
+  Working with redux through models. Involve OOP in redux. Do it more power and add DRY.

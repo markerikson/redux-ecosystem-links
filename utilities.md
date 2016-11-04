@@ -66,6 +66,10 @@
   https://github.com/stevenpetryk/jsonapi-normalizer  
   Normalizes JSONAPI for use in Redux or similar systems.
   
+- **react-entity-getter**  
+  https://github.com/TheGnarCo/react-entity-getter  
+  A helper function to query redux state for entities
+  
   
 #### Functional Programming
   

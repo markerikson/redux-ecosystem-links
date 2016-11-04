@@ -120,6 +120,10 @@
 - **Nesting-Tiles**  
   https://github.com/rsml/nesting-tiles  
   A nesting tile layout with controls to create and delete tiles based on React and Redux
+  
+- **react-scroll-collapse**  
+  https://github.com/danhaggard/react-scroll-collapse  
+  React/redux wrappers for auto-scrolling react-collapse components
 
 #### Modals
 
@@ -211,6 +215,10 @@
 - **redux-notifications-middleware**  
   https://github.com/anupvarghese/redux-notifications-middleware  
   A simple middleware for handling notifications using redux store
+  
+- **wisp-react-redux**  
+  https://github.com/ChrisPenner/wisp-react-redux  
+  A Toast/Notification Library that integrates seamlessly with React and Redux.
   
   
 #### Maps
@@ -389,3 +397,7 @@
 - **falcor-provider**  
   https://github.com/jameslaneconkling/falcor-provider  
   Redux provider to connect your falcor graph to your redux store
+  
+- **redux-router-preload**  
+  https://github.com/babotech/redux-router-preload  
+  Universal preloading for redux-router

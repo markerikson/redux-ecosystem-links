@@ -232,6 +232,10 @@
   https://github.com/xuyuanxiang/redux-generator  
   Middleware for redux to resolve generator function actions.  
   
+- **redux-sane**  
+  https://github.com/xiaody/redux-sane  
+  A redux middleware that provides sane default behaviors for non-object actions. Dispatch whatever you like: function(thunk)/promise/generator.
+  
 
 #### Action Grouping and Interception
 

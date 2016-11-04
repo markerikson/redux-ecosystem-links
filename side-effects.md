@@ -156,6 +156,9 @@
   https://github.com/jasonHzq/redux-saga-sugar  
   Utilities for redux-saga: polling, fetching, and more.
 
+- **eslint-plugin-redux-saga**  
+  https://github.com/pke/eslint-plugin-redux-saga  
+  ESLint rules for redux-saga.
   
   
 #### Redux-Effects extensions
@@ -215,3 +218,7 @@
 - **redux-effects-http-cache**  
   https://github.com/leesiongchan/redux-effects-http-cache  
   Cache HTTP requests to fetch requests to prevent duplicated requests.
+  
+- **redux-effects-fetch-fixture**  
+  https://github.com/gutefrage/redux-effects-fetch-fixture  
+  An extension for redux-effects-fetch, which lets you define fixtures for your FETCH actions. Now you are able to develop completely without any REST backend.
