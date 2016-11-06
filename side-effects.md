@@ -129,6 +129,10 @@
   https://github.com/philpl/redux-fluorine  
   Redux Fluorine is an enhancer to transform Observables truly into a first-class citizen in Redux. It enables you to directly dispatch observables containing actions, which is called an "agenda".
   
+- **Redux Rungen**  
+  https://github.com/youknowriad/redux-rungen  
+  Generator middleware for Redux (Based on rungen).  Similar to redux-saga, but with some simplifications.
+  
   
 #### Redux-Saga extensions  
 

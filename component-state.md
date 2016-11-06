@@ -135,3 +135,7 @@
 - **redux-state-keys**  
   https://github.com/LFDM/redux-state-keys  
   Utility functions to scope behavior to certain state keys
+  
+- **redux-fly**  
+  https://github.com/MrEfrem/redux-fly  
+  A simple set of APIs to manage React component state in Redux, reuse components, and gradually register reducers at any place in the Redux tree.

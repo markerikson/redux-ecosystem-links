@@ -150,6 +150,13 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/Bertrand31/Monitaure  
   Monitaure is an online service aiming to provide SysAdmins with a clean, lightweight and quick to configure monitoring dashboard. 
   
+- **Winds**  
+  https://github.com/getstream/winds  
+  Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node 7 and Stream.
+  
+  
+#### Other Application Lists
+  
 - **"Ask HN: Open source projects written in React?"**  
   https://news.ycombinator.com/item?id=12802121  
   An HN thread listing open-source React projects, several of which are written using Redux as well.

@@ -401,3 +401,7 @@
 - **redux-router-preload**  
   https://github.com/babotech/redux-router-preload  
   Universal preloading for redux-router
+  
+- **subscription-container**  
+  https://github.com/remedux/subscription-container  
+  A React component that dispatches start and stop Redux actions to drive a meteor subscription

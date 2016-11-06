@@ -111,3 +111,7 @@
 - **i-redux-navigation**  
   https://github.com/ebaranov/i-redux-navigation  
   Navigation solution for redux applications
+  
+- **redux-antirouter**  
+  https://github.com/modernserf/redux-antirouter  
+  This is a collection of utilities for routes in a React/Redux app that treats the address bar as an input and URLs as a serialization format.

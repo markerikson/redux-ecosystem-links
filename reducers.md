@@ -195,7 +195,9 @@
   https://github.com/kimrgrey/redux-compose-reducer  
   Reducer composer for Redux. This library simplifies workflow for building namespaced actions and reducers for them in Redux.
   
-
+- **redux-state-mapper**  
+  https://github.com/HikaruYasuda/redux-state-mapper  
+  Define reducers using a builder pattern instead of switch statements.
   
   
 #### Higher-Order Reducers
@@ -364,6 +366,10 @@
 - **redux-property-graph**  
   https://github.com/telepathtech/redux-property-graph  
   Basic property graph for redux
+  
+- **redux-injector**  
+  https://github.com/randallknutson/redux-injector  
+  Allows dynamically injecting reducers into a redux store at runtime
   
   
 #### State Machines

@@ -118,6 +118,10 @@
   https://github.com/PCreations/redux-paginator  
   redux-paginator helps you deal with server-side paginated API with redux without the need to create new actions and reducers cases
   
+- **VioletPaginator**  
+  https://github.com/sslotsky/violet-paginator  
+  VioletPaginator is a react-redux package allowing users to manage arbitrarily many filtered, paginated lists of records. We provide a set of premade components including both simple and robust pagination controls, sort links, and data tables. We also make it ridiculously easy to write your own components and configure and extend VioletPaginator's default behavior by composing actions.
+  
   
 #### Collections / CRUD
 
