@@ -180,6 +180,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://medium.com/@sAbakumoff/react-entourage-6d51e7df9944  
   A giant list of apps that depend on React, generated using Google BigQuery searches of Github data.  A number of them use Redux.
 
+
 #### Redux Usage Stories
 
 - **Twitter: mobile.twitter.com**  
@@ -201,3 +202,8 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Neos CMS Goes for a Full UI Rewrite with React and Redux**  
   http://dimaip.github.io/2016/03/13/neos-react-redux-rewrite/  
   Gives an overview of the Neos CMS codebase, and the reasoning for a code rewrite.
+
+- **Reddit frontend engineering team AMA**  
+  https://www.reddit.com/r/webdev/comments/5c2vie/were_reddits_frontend_engineering_team_ask_us/  
+  https://www.reddit.com/r/webdev/comments/5c2vie/were_reddits_frontend_engineering_team_ask_us/d9tbjtt/  
+  Very informative Q&A with Reddit's frontend developers, with some very-indepth answers regarding their usage of React and Redux.

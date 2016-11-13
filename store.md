@@ -287,3 +287,7 @@
 - **react-chrome-redux**  
   https://github.com/tshaddix/react-chrome-redux  
   A set of utilities for building Redux applications in Google Chrome extensions.
+  
+- **epic-linker**  
+  https://github.com/epixode/epic-linker  
+  This package supports modular applications based on react and redux-saga, by creating generators that yield "bundles" that can be composed together to form the application.

@@ -98,6 +98,10 @@
 - **react-redux-theme-provider**  
   https://github.com/jschr/react-redux-theme-provider  
   React helpers for theming components. Works great with inline styles or any css-in-js library.
+  
+- **redux-animate**  
+  https://github.com/clari/redux-animate  
+  Synchronize animation across React components with Redux
 
 #### Layout
 
