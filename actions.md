@@ -100,10 +100,6 @@
   https://github.com/cheton/namespace-constants  
   Add namespace to Redux action type constants without name conflicts.
   
-- **redux-request-utils**  
-  https://github.com/rockingskier/redux-request-utils  
-  Generate actions and sagas for network requests
-  
 - **redaxt**  
   https://github.com/lifehackett/redaxt  
   An opinionated declarative set of factory functions for creating Redux actions.

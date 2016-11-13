@@ -115,3 +115,7 @@
 - **redux-antirouter**  
   https://github.com/modernserf/redux-antirouter  
   This is a collection of utilities for routes in a React/Redux app that treats the address bar as an input and URLs as a serialization format.
+  
+- **redux-route-controller**  
+  https://github.com/theseushu/redux-route-controller   
+  Control your react rendering outside react components. Good for loading code chunks, preloading data and so on

@@ -301,3 +301,16 @@
 - **redux-model-s**  
   https://github.com/ophite/redux-model-s  
   Working with redux through models. Involve OOP in redux. Do it more power and add DRY.
+  
+- **feathersjs-redux-model**  
+  https://github.com/Codaisseur/feathersjs-redux-model  
+  FeathersJS client that hooks into your Redux store.  Create models that emit actions whenever the socket connection to the service receives any CRUD events.
+  
+- **redux-actionize**  
+  https://github.com/anonmily/redux-actionize  
+  Easier Redux Action/Reducer creation. Create actions and reducers all at once, in one place, for less duplication and cleaner, more readable code.   
+  
+- **react-redux-custom-store**  
+  https://github.com/emmenko/react-redux-custom-store  
+  Simple wrapper around react-redux. It allows to use different nested Providers by specifying a custom store name.
+  

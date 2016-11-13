@@ -104,3 +104,11 @@
 - **react-redux-form-provider**  
   https://github.com/jschr/react-redux-form-provider  
   A set of React helpers to help with building forms. State is managed with a Redux store that is local to your component.
+  
+- **redux-form-actions**  
+  https://github.com/salsita/redux-form-actions  
+  Redux Form provides way to make asynchronous submit validation, but API can use only promises. For Redux applications, using actions is more natural. Especially when you are using asynchronous flow abstraction like sagas or observables.  Redux Form Actions is a wrapper around Redux Form with action driven submit validations.
+  
+- **focus-graph**  
+  https://github.com/get-focus/focus-graph  
+  Tools based on Redux to easily integrate forms, validate and manipulate data

@@ -16,18 +16,6 @@
   https://github.com/jfairbank/redux-binary  
   Create simple Redux actions and a reducer for managing binary state.
   
-- **redux-geolocation**  
-  https://github.com/karlguillotte/redux-geolocation  
-  Redux actions and reducer for the Geolocation API
-  
-- **redux-responsive**  
-  https://github.com/AlecAivazis/redux-responsive  
-  A redux reducer for managing the responsive state of your application
-  
-- **redux-mediaquery**  
-  https://github.com/Yaska/redux-mediaquery  
-  An ActionCreator for Redux that makes CSS mediaqueries (and more) available in the store. This allows you to declaratively make responsive layouts.
-  
 - **redux-mouse**  
   https://github.com/montemishkin/redux-mouse  
   Utilities for managing mouse state with redux.
@@ -56,6 +44,17 @@
   https://github.com/tannerjt/redux-geojson  
   A reducer that allows for the addition and removal of features features from a GeoJSON object.
   
+  
+### Page Interaction
+
+- **redux-geolocation**  
+  https://github.com/karlguillotte/redux-geolocation  
+  Redux actions and reducer for the Geolocation API
+  
+- **redux-responsive**  
+  https://github.com/AlecAivazis/redux-responsive  
+  A redux reducer for managing the responsive state of your application
+  
 - **redux-title**  
   https://github.com/DJCordhose/redux-title  
   This library provides synchronization of the document title and redux state. 
@@ -63,6 +62,14 @@
 - **redux-focus**  
   https://github.com/nearmap/redux-focus  
   A library that tracks info on the currently focused element
+  
+- **redux-mediaquery**  
+  https://github.com/Yaska/redux-mediaquery  
+  An ActionCreator for Redux that makes CSS mediaqueries (and more) available in the store. This allows you to declaratively make responsive layouts.
+
+- **redux-viewport**  
+  https://github.com/guillaumearm/redux-viewport  
+  Keep the browser viewport sync with your redux state.
 
   
 ### Internationalization
@@ -98,6 +105,10 @@
 - **redux-polyglot**  
   https://github.com/Tiqa/redux-polyglot  
   Toolset (actions, reducer, middleware, enhancer, selectors) to help use Polyglot with Redux.
+  
+- **redux-react-i18n**  
+  https://github.com/derzunov/redux-react-i18n  
+  An i18n solution for redux/react
   
   
 #### Pagination
@@ -204,6 +215,7 @@
   https://github.com/LucaColonnello/redux-async-utils  
   A set of utilities to track state of async actions
   
+  
 #### Authentication
 
 - **redux-auth**  
@@ -237,6 +249,10 @@
 - **auth-fe-middleware**  
   https://github.com/mikespencer/auth-fe-middleware  
   Redux middleware for Oauth2 connection on the client side. Tokens are stored via cookie.
+  
+- **redux-csrf**  
+  https://github.com/evenchange4/redux-csrf  
+  Keep your csrf token inside your Redux store.
 
 
 #### Backbone Integration

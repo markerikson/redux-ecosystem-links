@@ -34,6 +34,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://ahmednuaman.github.io/redux-counter/  
   Examples of the same Redux app with front ends in Angular 1 / 2, React, Vue, and vanilla JS
   
+- **Redux ORM Draft View Example**  
+  https://github.com/cjke/react-example-1-redux-orm  
+  An example of using redux-orm with form state. The ability to edit and update model instances, that upon hitting cancel, doesn't update the core model instance. The flipside being, when hitting saved, the core model instance is updated.
+  
+- **Project Mini-Mek**  
+  https://github.com/markerikson/project-minimek  
+  A sample app to demonstrate various useful Redux techniques, accompanying the blog series at http://blog.isquaredsoftware.com/series/practical-redux
+  
 
 #### Applications
 - **MapStore2**  
@@ -153,6 +161,12 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Winds**  
   https://github.com/getstream/winds  
   Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node 7 and Stream.
+  
+- **Pegs**  
+  https://github.com/roonyh/pegs  
+  Peg Solitaire for the browser
+  
+
   
   
 #### Other Application Lists

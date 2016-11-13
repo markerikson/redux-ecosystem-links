@@ -139,3 +139,11 @@
 - **redux-fly**  
   https://github.com/MrEfrem/redux-fly  
   A simple set of APIs to manage React component state in Redux, reuse components, and gradually register reducers at any place in the Redux tree.
+  
+- **redux-doghouse**  
+  https://github.com/DataDog/redux-doghouse  
+  redux-doghouse is a library that aims to make reusable components easier to build with Redux by scoping actions and reducers to a particular instance of a component.  It includes tools to help you build Scoped Actions and Scoped Reducers with minimal modifications to your code.
+  
+- **redux-dialog**  
+  https://github.com/suciuvlad/redux-dialog  
+  A Higher Order Component using react-redux to keep dialog state in a Redux store

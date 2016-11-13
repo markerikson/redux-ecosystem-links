@@ -63,10 +63,6 @@
   https://github.com/jesalerno84/redux-mocha-test-generators  
   Utilities for generating Mocha tests for Redux code
   
-- **redux-observable-test-helpers**  
-  https://github.com/cmelion/redux-observable-test-helpers  
-  Unit test helpers for redux-observable
-  
   
 #### Reducers
 
@@ -143,4 +139,9 @@
 - **redux-effects-test-jasmine**  
   https://github.com/gutefrage/redux-effects-test-jasmine  
   Helper methods to test redux-effect actions with jasmine.
+
+- **redux-observable-test-helpers**  
+  https://github.com/cmelion/redux-observable-test-helpers  
+  Unit test helpers for redux-observable
+  
 

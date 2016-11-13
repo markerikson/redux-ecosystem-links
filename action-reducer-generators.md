@@ -116,6 +116,9 @@
   https://github.com/LFDM/redux-state-keys  
   This library tries to deal with the problem of writing a lot of repetitive boilerplate code, when you are trying to deal with several instances of a same type. Includes functions to generate selectors, action creators, and reducers that target a specific slice of state by name.
   
+- **redux-seeds**  
+  https://github.com/quinnnned/redux-seeds  
+  Factories for Generating Common Redux State Trees
   
 #### Network Requests and APIs
 
