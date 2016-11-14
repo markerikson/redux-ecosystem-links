@@ -147,3 +147,7 @@
 - **redux-dialog**  
   https://github.com/suciuvlad/redux-dialog  
   A Higher Order Component using react-redux to keep dialog state in a Redux store
+  
+- **react-redux-uuid**  
+  https://github.com/eloytoro/react-redux-uuid  
+  A place to keep your disposable but application-related component state data
