@@ -314,3 +314,10 @@
   https://github.com/emmenko/react-redux-custom-store  
   Simple wrapper around react-redux. It allows to use different nested Providers by specifying a custom store name.
   
+- **redux-modules**  
+  https://github.com/procore/redux-modules  
+  redux-modules is a refinement on the Redux module concept with developer experience in mind. It provides An intuitive way to define actions and state transformations, and a modified Redux Provider that dynamically registers new reducers as connected components are mounted.
+  
+- **react-redux-model**  
+  https://github.com/jhudson8/react-redux-model  
+  Simple to use XHR fetching and model-oriented utility functions.  Most applications have common and consistent needs. Load data using XHR and know the fetch status so it can be represented with a loading indicator. This lib provides action creators, reducers and React component wrappers that work with each other to simplify and DRY up your code.

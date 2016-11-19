@@ -112,3 +112,7 @@
 - **focus-graph**  
   https://github.com/get-focus/focus-graph  
   Tools based on Redux to easily integrate forms, validate and manipulate data
+  
+- **redux-pure-form**  
+  https://github.com/max-mykhailenko/redux-pure-form  
+  Redux actions for good performance and integration with your reducers

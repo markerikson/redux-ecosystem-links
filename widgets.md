@@ -103,6 +103,7 @@
   https://github.com/clari/redux-animate  
   Synchronize animation across React components with Redux
 
+
 #### Layout
 
 - **subdivide**  
@@ -129,6 +130,7 @@
   https://github.com/danhaggard/react-scroll-collapse  
   React/redux wrappers for auto-scrolling react-collapse components
 
+
 #### Modals
 
 - **react-redux-modal**  
@@ -147,9 +149,13 @@
   https://github.com/nealgranger/relocation  
   Relocation works with React Redux to manage modals, lightboxes, alerts, and overlays.
   
-- **redux-modals**  
+- **redux-promising-modals**  
   https://github.com/AKolodeev/redux-promising-modals  
   Prebuilt actions/reducer/middleware for handling a stack of modals in Redux
+  
+- **react-redux-simple-modal**  
+  https://github.com/sebinsua/react-redux-simple-modal  
+  A simple modal switcher for React and Redux
 
 
 #### Grids and Tables
@@ -181,6 +187,10 @@
 - **redux-datatable**  
   https://github.com/reharik/redux-datatable  
   An in-progress Redux-based table component
+  
+- **react-property-grid**  
+  https://github.com/IngloriousCoderz/react-property-grid  
+  A react/redux implementation of an editable property grid.
   
 #### Notifications
   

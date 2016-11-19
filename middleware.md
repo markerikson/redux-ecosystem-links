@@ -138,6 +138,19 @@
   https://github.com/saintcrawler/redux-trigger-middleware  
   Middleware that lets you call predefined functions on certain actions.
   
+- **redux-delayed-dispatch**  
+  https://github.com/beaucollins/redux-delayed-dispatch  
+  Delayed Dispatch is setTimeout/clearTimeout but in middleware form with some small enhancements.
+  
+- **redux-timer-middleware**  
+  https://github.com/matpaul/redux-timer-middleware  
+  Simple middleware to dispatch actions periodically
+  
+- **redux-when**  
+  https://github.com/jameslnewell/redux-when  
+  Redux middleware for delaying dispatch of an action until a condition evaluates to true.
+  
+  
 #### Other Async Actions
   
 - **redux-await**  
@@ -326,6 +339,10 @@
 - **redux-listener**  
   https://github.com/matthias-reis/redux-listener-middleware  
   A Redux middleware that acts as a general listener on actions that are dispatched to the Redux store, with rules for handling different actions.
+  
+- **Redux Transform**  
+  https://github.com/contrarian/redux-transform  
+  Field transformation middleware for Redux. 
   
 #### Sockets and Adapters
 

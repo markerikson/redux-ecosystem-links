@@ -291,3 +291,7 @@
 - **epic-linker**  
   https://github.com/epixode/epic-linker  
   This package supports modular applications based on react and redux-saga, by creating generators that yield "bundles" that can be composed together to form the application.
+  
+- **redux-stack**  
+  https://github.com/jondot/redux-stack  
+  Redux Stack is a library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.

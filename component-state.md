@@ -142,6 +142,7 @@
   
 - **redux-doghouse**  
   https://github.com/DataDog/redux-doghouse  
+  http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/  
   redux-doghouse is a library that aims to make reusable components easier to build with Redux by scoping actions and reducers to a particular instance of a component.  It includes tools to help you build Scoped Actions and Scoped Reducers with minimal modifications to your code.
   
 - **redux-dialog**  
@@ -151,3 +152,7 @@
 - **react-redux-uuid**  
   https://github.com/eloytoro/react-redux-uuid  
   A place to keep your disposable but application-related component state data
+  
+- **redux-setstate**  
+  https://github.com/dustinws/redux-setstate  
+  A setState api for purely functional components.

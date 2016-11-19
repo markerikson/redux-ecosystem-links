@@ -144,4 +144,10 @@
   https://github.com/cmelion/redux-observable-test-helpers  
   Unit test helpers for redux-observable
   
-
+- **redux-middleware-test-helper**  
+  https://github.com/goldylucks/redux-middleware-test-helper  
+  Easy way to test redux middlewares base functions
+  
+- **test-saga**  
+  https://github.com/ayatkevich/test-saga  
+  A bunch of helpers to make redux-saga testing more powerful.
