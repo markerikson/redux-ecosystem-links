@@ -298,6 +298,10 @@
   https://github.com/shoutem/redux-composers  
   Utilities to combine reducers in various ways beyond `combineReducers`, including chaining, merging, and mapping.
   
+- **redux-resolver**  
+  https://github.com/sslotsky/redux-resolver  
+  Love Redux but hate switch statements? ReduxResolver provides functions that allow you to write your reducers as dictionaries.
+  
   
 #### Advanced Reducer Use Cases
 
@@ -346,10 +350,6 @@
 - **redux-register**  
   https://github.com/dexbol/redux-register  
   An Redux enhancer for registering reducer by namespace
-  
-- **remerge**  
-  https://github.com/siawyoung/remerge  
-  The sole purpose of Remerge is to provide a consistent interface for defining and manipulating state. It's extremely easy and intuitive to use once you get the hang of it. While there is a slight learning curve, hopefully our examples will ease the learning process.  Although Remerge was built for use with Redux, it can also be used standalone. It is completely framework-agnostic.
   
 - **reducify**  
   https://github.com/gtg092x/reducify  

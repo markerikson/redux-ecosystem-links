@@ -166,6 +166,9 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/roonyh/pegs  
   Peg Solitaire for the browser
   
+- **Windrift**  
+  https://github.com/lizadaly/windrift  
+  A JS framework for writing mutable stories.  Windrift was used to write Stone Harbor, an entry in the 2016 Interactive Fiction Competition. 
 
   
   

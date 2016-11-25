@@ -124,6 +124,14 @@
   https://github.com/tbranyen/redux-create-action-types  
   Helps you create Redux action types, safely & easily.  Helps define action types without duplication and provides some validation.
   
+- **redux-nested-actions**  
+  https://github.com/yangmillstheory/redux-nested-actions  
+  Namespacing utilities for redux-actions.
+  
+- **redux-define**  
+  https://github.com/smeijer/redux-define  
+  Define action constants for Redux
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

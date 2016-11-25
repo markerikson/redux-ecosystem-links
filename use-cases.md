@@ -192,6 +192,13 @@
   https://github.com/mikechabot/redux-entity  
   redux-entity seeks to provide a scalable, predictable approach to maintaining domain entities in Redux. It's comprised of a reducer and a thunk.
   
+- **redux-normalized-entities**  
+  https://github.com/mcollis/redux-normalized-entities  
+  Prewritten reducer and selectors for retrieving and updating normalized entities
+  
+- **redux-entity**  
+  https://github.com/mikechabot/redux-entity  
+  redux-entity seeks to provide a scalable, predictable approach to maintaining domain entities in Redux. It's comprised of a reducer and a thunk.
   
 #### Network
   
@@ -253,6 +260,7 @@
 - **redux-csrf**  
   https://github.com/evenchange4/redux-csrf  
   Keep your csrf token inside your Redux store.
+
 
 
 #### Backbone Integration

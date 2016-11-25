@@ -156,3 +156,7 @@
 - **redux-setstate**  
   https://github.com/dustinws/redux-setstate  
   A setState api for purely functional components.
+  
+- **redux-uuid**  
+  https://github.com/mkramb/redux-uuid  
+  A place to keep your disposable but application-related component state data

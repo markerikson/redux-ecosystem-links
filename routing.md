@@ -119,3 +119,7 @@
 - **redux-route-controller**  
   https://github.com/theseushu/redux-route-controller   
   Control your react rendering outside react components. Good for loading code chunks, preloading data and so on
+  
+- **react-redux-transition-manager**  
+  https://github.com/kellyrmilligan/react-redux-transition-manager  
+  Higher order component to enable loading states between route transitions

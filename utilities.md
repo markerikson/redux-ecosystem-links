@@ -70,6 +70,10 @@
   https://github.com/TheGnarCo/react-entity-getter  
   A helper function to query redux state for entities
   
+- **remerger**  
+  https://github.com/frankwallis/remerger  
+  Creates recursively memoized deep merge functions for use with react-redux connect
+  
   
 #### Functional Programming
   

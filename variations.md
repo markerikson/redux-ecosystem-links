@@ -321,3 +321,15 @@
 - **react-redux-model**  
   https://github.com/jhudson8/react-redux-model  
   Simple to use XHR fetching and model-oriented utility functions.  Most applications have common and consistent needs. Load data using XHR and know the fetch status so it can be represented with a loading indicator. This lib provides action creators, reducers and React component wrappers that work with each other to simplify and DRY up your code.
+  
+- **Classy-Redux**  
+  https://github.com/machineghost/Classy-Redux/  
+  An class-based system for creating Redux reducers 
+  
+- **redstate**  
+  https://github.com/eisisig/redstate  
+  Alternative redux api/usage.   Main purpose of playing around with this is to get rid of more of the "plumbings" needed when creating the "redux" part of our apps.  Easily call auto bound actions without importing or needing the dispatch method and enhanced reducer creator that has helper methods that we are always using
+  
+- **Redux-Jian**  
+  https://github.com/xareelee/redux-jian  
+  Redux-Jian is a library aiming to simplify how to use Redux. Jian means 'simple' or 'simplify'.  Declare mutators (action creators) in one singleton, and you can get a mutator by its name anywhere. It's highly decoupling and easy to use.  Bind mutators to Redux store once, and you'll no longer need to use mapDispatchToProps in the connect().

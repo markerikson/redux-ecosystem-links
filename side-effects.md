@@ -133,6 +133,10 @@
   https://github.com/youknowriad/redux-rungen  
   Generator middleware for Redux (Based on rungen).  Similar to redux-saga, but with some simplifications.
   
+- **redux-typed-saga**  
+  https://github.com/goshakkk/redux-typed-saga  
+  Redux-typed-saga is an alternative, well-typed take on the awesome redux-saga. The inspiration for typing side effects came from Redux Ship. However, Redux Ship has a totally different paradigm.  This experimental project aims to rethink redux-saga with types as first-class citizens.
+  
   
 #### Redux-Saga extensions  
 
@@ -163,6 +167,8 @@
 - **eslint-plugin-redux-saga**  
   https://github.com/pke/eslint-plugin-redux-saga  
   ESLint rules for redux-saga.
+  
+
   
   
 #### Redux-Effects extensions

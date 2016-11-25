@@ -120,6 +120,19 @@
   https://github.com/quinnnned/redux-seeds  
   Factories for Generating Common Redux State Trees
   
+- **redux-reducer**  
+  https://github.com/webdeveloperpr/redux-reducer  
+  Generates prefixed actions and reducers
+  
+- **Redeclare**  
+  https://github.com/modernserf/redeclare  
+  Redeclare is an attempt to reduce the boilerplate of Redux configuration in a form that takes advantage of Redux’s best qualities. Its focused on creating types and schemas for actions and state that serve as both documentation and configuration, replacing the need for repetititve files full of constants and complex assemblages of helper functions.
+  
+- **redux-shuttle**  
+  https://github.com/jaylone/redux-shuttle  
+  A tool for bundling reducers, action types and actions when using redux and saga
+  
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  
@@ -224,10 +237,6 @@
 - **Tiny Duck**  
   https://github.com/LockedOn/tiny-duck  
   Tiny Duck is a small library that allows you to define small, reusable collections of reducer actions and compose them together.  Tiny Duck gives you high code reuse and testabilty for your redux reducers.  Tiny Duck was inspired from the pattern of erikras/ducks-modular-redux where you bundle all of your actions, action types and reducers in the one module.
-  
-- **redux-modules**  
-  https://github.com/mboperator/redux-modules  
-  A library that takes the Redux module concept to another level with: an intuitive way define actions and state transformations; propType style typechecking for action payloads; auto generated, camelCased action creators; auto prefixed action constants; and a decorator to easily drop module capabilities in to your view
     
 - **purescript-redux-utils**  
   https://github.com/osener/purescript-redux-utils  

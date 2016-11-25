@@ -67,6 +67,10 @@
   https://github.com/amorphousxd/redux-promise-loading  
   Redux middleware and reducer for handling redux promise loading indicator
   
+- **redux-pack**  
+  https://github.com/lelandrichardson/redux-pack  
+  Sensible promise handling and middleware for redux
+  
   
 #### Timeouts and Delays
 
@@ -599,7 +603,10 @@
 - **Data Pipeline**  
   https://github.com/iwate/data-pipeline  
   Fetch URLs and modify data as it returns 
- 
+  
+- **redux-token-api-middleware**  
+  https://github.com/eadmundo/redux-token-api-middleware  
+  A redux middleware for making calls to APIs with token-based auth, automatically requesting a new token if needed. Actions can be calls to single or multiple API endpoints.
   
 #### Analytics
 
