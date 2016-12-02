@@ -419,3 +419,7 @@
 - **subscription-container**  
   https://github.com/remedux/subscription-container  
   A React component that dispatches start and stop Redux actions to drive a meteor subscription
+  
+- **hoc-data-redux**  
+  https://github.com/krzysztof4M/hoc-data-redux  
+  Higher Order Component for fetching initial data in Redux

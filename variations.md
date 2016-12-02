@@ -333,3 +333,11 @@
 - **Redux-Jian**  
   https://github.com/xareelee/redux-jian  
   Redux-Jian is a library aiming to simplify how to use Redux. Jian means 'simple' or 'simplify'.  Declare mutators (action creators) in one singleton, and you can get a mutator by its name anywhere. It's highly decoupling and easy to use.  Bind mutators to Redux store once, and you'll no longer need to use mapDispatchToProps in the connect().
+
+- **redux-scene**  
+  https://github.com/ryanwade/redux-scene  
+  React UI generated from redux state
+  
+- **duxtape**  
+  https://github.com/brianneisler/duxtape  
+  Module and util framework for redux. Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow

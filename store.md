@@ -242,6 +242,10 @@
   https://github.com/manaflair/redux-batch  
   Enhance your Redux store to support batched actions.  Based on redux-batched-subscribe, but focused on batched actions instead of debouncing notifications.
   
+- **redux-subscriber**  
+  https://github.com/ivantsov/redux-subscriber  
+  Subscribe to changes in any part of redux state
+  
 #### Other
 
 - **redux-lift**  

@@ -63,6 +63,10 @@
   https://github.com/jesalerno84/redux-mocha-test-generators  
   Utilities for generating Mocha tests for Redux code
   
+- **redux-mock-provider**  
+  https://github.com/RyanCCollins/redux-mock-provider  
+  A helper utility that makes available a mock redux store and Provider for the purposes of testing connected components.
+  
   
 #### Reducers
 
@@ -151,3 +155,7 @@
 - **test-saga**  
   https://github.com/ayatkevich/test-saga  
   A bunch of helpers to make redux-saga testing more powerful.
+
+- **redux-saga-mock**  
+  https://github.com/digitalidentitysa/redux-saga-mock  
+  Testing helper for redux-saga.

@@ -123,3 +123,7 @@
 - **react-redux-transition-manager**  
   https://github.com/kellyrmilligan/react-redux-transition-manager  
   Higher order component to enable loading states between route transitions
+  
+- **react-router-dynamic-matcher**  
+  https://github.com/sleexyz/react-router-dynamic-matcher  
+  Match routes dynamically based on your Redux state 

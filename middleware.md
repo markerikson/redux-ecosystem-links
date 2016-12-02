@@ -253,6 +253,9 @@
   https://github.com/xiaody/redux-sane  
   A redux middleware that provides sane default behaviors for non-object actions. Dispatch whatever you like: function(thunk)/promise/generator.
   
+- **redux-client-middleware**  
+  https://github.com/intactile/redux-client-middleware  
+  A redux middleware handling async client actions.  Acts like a combination of redux-thunk and a promise middleware.
 
 #### Action Grouping and Interception
 
@@ -734,3 +737,7 @@
 - **redux-cookie**  
   https://github.com/iroy2000/redux-cookie  
   Redux cookie middleware for both client and server ( universal )
+  
+- **redux-custom-middlewares**  
+  https://github.com/guillaumearm/redux-custom-middlewares  
+  Middlewares inside your FSA actions

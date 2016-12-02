@@ -137,6 +137,14 @@
   https://github.com/goshakkk/redux-typed-saga  
   Redux-typed-saga is an alternative, well-typed take on the awesome redux-saga. The inspiration for typing side effects came from Redux Ship. However, Redux Ship has a totally different paradigm.  This experimental project aims to rethink redux-saga with types as first-class citizens.
   
+- **redux-cycle-middleware**  
+  https://github.com/lmatteis/redux-cycle-middleware  
+  Handle redux async actions using Cycle.js. 
+  
+- **redux-thunk-effects**  
+  https://github.com/shakacode/redux-thunk-effects  
+  Thunk-like handling with additions.
+  
   
 #### Redux-Saga extensions  
 

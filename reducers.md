@@ -163,10 +163,6 @@
   https://github.com/somewind/redux-sword  
   Redux-Sword is a tool for Redux Reducer, which can make it automatically processed, so you can code less with it.
   
-- **duxtape**  
-  https://github.com/brianneisler/duxtape  
-  Assorted reducer utility functions
-  
 - **redux-cloneable**  
   https://github.com/eliaslfox/redux-cloneable  
   Small library for creating prefixed key/value reducers.
@@ -199,6 +195,13 @@
   https://github.com/HikaruYasuda/redux-state-mapper  
   Define reducers using a builder pattern instead of switch statements.
   
+- **redux-arg**  
+  https://github.com/TheComfyChair/redux-arg  
+  Redux automated reducer generator
+  
+- **redux-common-reducers**  
+  https://github.com/try-again-apps/redux-common-reducers  
+  Prebuilt reducers for types like booleans and strings
   
 #### Higher-Order Reducers
 
@@ -301,6 +304,10 @@
 - **redux-resolver**  
   https://github.com/sslotsky/redux-resolver  
   Love Redux but hate switch statements? ReduxResolver provides functions that allow you to write your reducers as dictionaries.
+  
+- **redux-live-undo**  
+  https://github.com/cratejoy/redux-live-undo  
+  A generic, high-order reducer that allows you to transparently add undo/redo functionality on top of other redux reducers. redux-live-undo allows state to be updated as users type without creating undo steps for every state change.
   
   
 #### Advanced Reducer Use Cases

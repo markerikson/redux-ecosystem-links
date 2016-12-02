@@ -133,6 +133,9 @@
   https://github.com/sslotsky/violet-paginator  
   VioletPaginator is a react-redux package allowing users to manage arbitrarily many filtered, paginated lists of records. We provide a set of premade components including both simple and robust pagination controls, sort links, and data tables. We also make it ridiculously easy to write your own components and configure and extend VioletPaginator's default behavior by composing actions.
   
+- **redux-normalized-paginator**  
+  https://github.com/mcollis/redux-normalized-pager  
+  Store pagination results for normalized entities
   
 #### Collections / CRUD
 
@@ -199,6 +202,11 @@
 - **redux-entity**  
   https://github.com/mikechabot/redux-entity  
   redux-entity seeks to provide a scalable, predictable approach to maintaining domain entities in Redux. It's comprised of a reducer and a thunk.
+  
+- **redux-async-collection**  
+  https://github.com/QubitProducts/redux-async-collection  
+  Creates a reducer, immutable state and actions for an async collection
+  
   
 #### Network
   
@@ -280,3 +288,7 @@
 - **backbone-redux-store**  
   https://github.com/adamterlson/backbone-redux-store  
   Redux store API for your Backbone Models and Collections. Works with or without Redux.
+  
+- **marionette-redux**  
+  https://github.com/AndrewHenderson/marionette-redux  
+  Marionette bindings for Redux.

@@ -116,3 +116,7 @@
 - **redux-pure-form**  
   https://github.com/max-mykhailenko/redux-pure-form  
   Redux actions for good performance and integration with your reducers
+  
+- **basquiat**  
+  https://github.com/contrarian/basquiat  
+  Another Redux form factory library, with handling for validation and fields

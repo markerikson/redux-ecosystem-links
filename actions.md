@@ -132,6 +132,10 @@
   https://github.com/smeijer/redux-define  
   Define action constants for Redux
   
+- **redux-action-validator**  
+  https://github.com/michael-martin-al/redux-action-validator  
+  Extensible class to validate Redux/Flux action properties and ensure consistency across large projects.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  
