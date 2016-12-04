@@ -70,6 +70,10 @@
 - **redux-viewport**  
   https://github.com/guillaumearm/redux-viewport  
   Keep the browser viewport sync with your redux state.
+  
+- **redux-windowsize**  
+  https://github.com/cape-io/redux-windowsize  
+  Save window size to a redux reducer
 
   
 ### Internationalization
@@ -207,6 +211,9 @@
   https://github.com/QubitProducts/redux-async-collection  
   Creates a reducer, immutable state and actions for an async collection
   
+- **redux-models**  
+  https://github.com/vshushkov/redux-models  
+  Models layer for Redux. 
   
 #### Network
   

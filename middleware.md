@@ -501,6 +501,10 @@
   https://github.com/laumair/resocket  
   Resocket is a socket.io wrapper and middleware for React and Redux applications.  It helps you abstract away all the socket.io implementations in your app. 
   
+- **redux-firebase-mirror**  
+  https://github.com/pcardune/redux-firebase-mirror  
+  A library to help you easily mirror firebase data inside a redux store. 
+  
 #### Network Requests
 
 - **redux-request**  
