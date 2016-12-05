@@ -88,10 +88,6 @@
   https://github.com/subuta/router-redux  
   View framework agnostic router for redux :) This is react-router-redux for your vdom-based project.
   
-- **redux-reroute**  
-  https://github.com/ArnaudRinquin/redux-reroute  
-  Location reducer and routing helpers for redux.
-    
 - **Redux.Routes.Renderer**  
   https://github.com/sequencemedia/Redux.Routes.Renderer  
   A Promise interface for rendering isomorphic React Redux components in Node.    
