@@ -341,3 +341,11 @@
 - **duxtape**  
   https://github.com/brianneisler/duxtape  
   Module and util framework for redux. Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow
+  
+- **redux-kv**  
+  https://github.com/watert/redux-kv  
+  Key-value util component for redux and redux-react usage
+  
+- **react-redux-wire**  
+  https://github.com/jide/react-redux-wire  
+  Wire components directly to redux state without using containers.

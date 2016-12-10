@@ -299,3 +299,7 @@
 - **redux-stack**  
   https://github.com/jondot/redux-stack  
   Redux Stack is a library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.
+  
+- **electron-redux**  
+  https://github.com/hardchor/electron-redux  
+  Use redux in the main and browser processes in electron 

@@ -237,6 +237,10 @@
   https://github.com/LucaColonnello/redux-async-utils  
   A set of utilities to track state of async actions
   
+- **redux-track-request**  
+  https://github.com/oconn/redux-track-request  
+  Async request state management with Redux.  Aims to make working with async data and pagination (link headers support only) a breeze.
+  
   
 #### Authentication
 

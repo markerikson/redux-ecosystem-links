@@ -120,3 +120,7 @@
 - **basquiat**  
   https://github.com/contrarian/basquiat  
   Another Redux form factory library, with handling for validation and fields
+  
+- **redux-forms**  
+  https://github.com/oreqizer/redux-forms  
+  A simple form manager for React and Redux (WIP)

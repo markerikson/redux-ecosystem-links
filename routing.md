@@ -123,3 +123,11 @@
 - **react-router-dynamic-matcher**  
   https://github.com/sleexyz/react-router-dynamic-matcher  
   Match routes dynamically based on your Redux state 
+  
+- **eleanor**  
+  https://github.com/orzechowskid/eleanor  
+  Elegant and nearly zero-config routing, for React/Redux apps
+  
+- **pure-redux-router**  
+  https://github.com/celebvidy/pure-redux-router  
+  Think of your app in states not routes (and, yes, while keeping the address bar in sync) 
