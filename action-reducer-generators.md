@@ -132,6 +132,14 @@
   https://github.com/jaylone/redux-shuttle  
   A tool for bundling reducers, action types and actions when using redux and saga
   
+- **redux-utils**  
+  https://github.com/jcoreio/redux-utils  
+  Functions for creating and composing reducers and middleware efficiently 
+  
+- **redux-duet**  
+  https://github.com/jondot/redux-duet  
+  Redux action and handlers together, alleviate boilerplate. 
+  
   
 #### Network Requests and APIs
 

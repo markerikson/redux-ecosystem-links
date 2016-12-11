@@ -159,6 +159,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **mori-redux**  
   https://github.com/dynn/mori-redux  
   createReducer and combineReducers utilities that work with Mori structures
+  
+- **redux-utils-immutable**  
+  https://github.com/jcoreio/redux-utils-immutable  
+  Utilities for working with redux and immutable.js 
 
 
 #### Alternate Data Management Concepts

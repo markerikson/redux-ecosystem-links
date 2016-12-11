@@ -42,6 +42,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/markerikson/project-minimek  
   A sample app to demonstrate various useful Redux techniques, accompanying the blog series at http://blog.isquaredsoftware.com/series/practical-redux
   
+- **Tradux**  
+  https://github.com/miloszpp/tradux  
+  A sample real-time trading application built with Redux and Angular 2.
+  
 
 #### Applications
 - **MapStore2**  
@@ -170,7 +174,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/lizadaly/windrift  
   A JS framework for writing mutable stories.  Windrift was used to write Stone Harbor, an entry in the 2016 Interactive Fiction Competition. 
 
-  
+
   
 #### Other Application Lists
   

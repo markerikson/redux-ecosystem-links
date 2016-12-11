@@ -141,6 +141,10 @@
   https://github.com/mcollis/redux-normalized-pager  
   Store pagination results for normalized entities
   
+- **redux-cache**  
+  https://github.com/damassi/redux-cache  
+  Lightweight caching for Redux (WIP)
+  
 #### Collections / CRUD
 
 - **Redux CRUD**  
