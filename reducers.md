@@ -203,12 +203,19 @@
   https://github.com/try-again-apps/redux-common-reducers  
   Prebuilt reducers for types like booleans and strings
   
+- **redux-resolver**  
+  https://github.com/sslotsky/redux-resolver  
+  Love Redux but hate switch statements? ReduxResolver provides functions that allow you to write your reducers as dictionaries.
+  
+- **reswitch**  
+  https://github.com/chiefGui/reswitch  
+  A small utility to help write reducers without switch statements.
+  
+  
 #### Higher-Order Reducers
 
-- **redux-undo**  
-  https://github.com/omnidan/redux-undo  
-  Higher order reducer to add undo/redo functionality to redux state containers
-  
+**Related topics**: [Use Cases - Undo-Redo](./use-cases.md#undo-redo
+
 - **redux-ignore**  
   https://github.com/omnidan/redux-ignore  
   Higher-order reducer to ignore redux actions
@@ -244,11 +251,7 @@
 - **Indexed List Reducer Generator**  
   https://gist.github.com/elado/95484b754f31fcd6846c7e75de4aafe4  
   A high-order-reducer that manages dynamic indexed lists (by ID)
-  
-- **Redux Undo Immutable**  
-  https://github.com/idealeric/redux-undo-immutable  
-  A higher order reducer to add undo/redo to redux state containers using immutable js.  It is conceptually identical to redx-undo and shares almost the same API.
-  
+
 - **redux-reset**  
   https://github.com/abhiaiyer91/redux-reset  
   Higher Order Reducer for resetting multiple parts of your state tree
@@ -285,29 +288,21 @@
   https://github.com/CyberInt/redux-map-state  
   Higher-order Redux reducer which helps apply your existent reducers on any format of state
   
-- **redux-undoable**  
-  https://github.com/linn/redux-undoable  
-  A reducer enhancer (or higher order reducer) that provides undo/redo functionality for Redux by replaying actions (rather than storing previous state)
-  
 - **redux-pipeline**  
   https://github.com/gtg092x/redux-pipeline  
   Redux Pipeline combines reducers into a single, manageable sequence.
-  
-- **redux-live-undo**  
-  https://github.com/cratejoy/redux-live-undo  
-  A generic, high-order reducer that allows you to transparently add undo/redo functionality on top of other redux reducers. redux-live-undo allows state to be updated as users type without creating undo steps for every state change.
   
 - **redux-composers**  
   https://github.com/shoutem/redux-composers  
   Utilities to combine reducers in various ways beyond `combineReducers`, including chaining, merging, and mapping.
   
-- **redux-resolver**  
-  https://github.com/sslotsky/redux-resolver  
-  Love Redux but hate switch statements? ReduxResolver provides functions that allow you to write your reducers as dictionaries.
-  
-- **redux-live-undo**  
-  https://github.com/cratejoy/redux-live-undo  
-  A generic, high-order reducer that allows you to transparently add undo/redo functionality on top of other redux reducers. redux-live-undo allows state to be updated as users type without creating undo steps for every state change.
+- **redux-higher-order**  
+  https://github.com/brianneisler/redux-higher-orders  
+  Redux enhancer for composing higher order reducers.  Wrap the reducer with functionality ensuring that the higher order reducers run before the primary reducer.
+
+- **redux-rereducers**  
+  https://github.com/brianneisler/redux-rereducers  
+  A higher order reducer for performing state calculations after the initial reduction has completed.
   
   
 #### Advanced Reducer Use Cases

@@ -136,6 +136,18 @@
   https://github.com/michael-martin-al/redux-action-validator  
   Extensible class to validate Redux/Flux action properties and ensure consistency across large projects.
   
+- **archetype-actions**  
+  https://github.com/bahmutov/archetype-actions  
+  Create Redux actions with run time type checks via Archetype
+  
+- **redux-create-actiontype**  
+  https://github.com/anvk/redux-create-actiontype  
+  Micro library for easy Action Types generation in Redux/React.
+  
+- **redux-actions-helper**  
+  https://github.com/ariesjia/redux-actions-helper  
+  Utilities to create plain actions, actions with payloads, and actions that reference state.
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  
@@ -145,10 +157,6 @@
 - **Redux Smart Action**  
   https://github.com/stephan83/redux-smart-action  
   SmartActions add a layer on top of actions to do things depending on whether an action would modify the state. When a SmartAction is called, it returns an object instead of dispatching immediately. The returned object tells you whether executing it would change the state, and a method to execute it.
-  
-- **Redux Undo Stack**  
-  https://github.com/stephan83/redux-undo-stack  
-  An undo stack for redux. It works by storing incremental changes instead of entire states, which is optimal when working with large data. It works in combination with SmartActions.
   
 - **redux-queue-offline**  
   https://github.com/mathieudutour/redux-queue-offline  
@@ -166,3 +174,7 @@
 - **redux-sources**  
   https://github.com/amirmi/redux-sources  
   Synthetic Sugar for consistently handling Ajax Calls in an async Redux Flow.
+  
+- **Redux Action Wrapper**  
+  https://github.com/stutrek/redux-action-wrapper  
+  A recursive version of bindActionCreators

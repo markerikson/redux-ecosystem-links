@@ -349,3 +349,16 @@
 - **react-redux-wire**  
   https://github.com/jide/react-redux-wire  
   Wire components directly to redux state without using containers.
+  
+- **Arco**  
+  https://github.com/planttheidea/arco  
+  A React+Redux framework with standards, conventions, and far less boilerplate
+  
+- **simple-react-redux**  
+  https://github.com/nstraub/simple-react-redux  
+  Connect state and actions to props declaratively 
+
+- **redaction**  
+  https://github.com/pavelivanov/redaction  
+  Redux action creator without string constants and less magic 
+  

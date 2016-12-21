@@ -164,3 +164,8 @@
 - **Redux Subspace**  
   https://github.com/ioof-holdings/redux-subspace  
   For a Redux connected React component, SubspaceProvider allows you to present a sub-view of the state to the component, allowing it to be ignorant of parent state structure. This means you can reuse these components in multiple parts of your app, or even multiple applications that have different store structures.
+  
+- **redux-features**  
+  https://github.com/jcoreio/redux-features  
+  https://github.com/jcoreio/react-redux-features  
+  A powerful feature-oriented programming framework for redux

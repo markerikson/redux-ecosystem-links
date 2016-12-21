@@ -11,7 +11,7 @@
   A simple memoize function for reselect which performs a callback everytime the result changes.
   
 - **memoize-immutable**  
-  https://github.com/louisremi/memoize-immutable  
+  https://github.com/memoize-immutable/memoize-immutable  
   An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments.  Dependency free!
   
 - **normalizr**  
@@ -29,10 +29,6 @@
 - **Redux Tree**  
   https://github.com/stefanroex/redux-tree  
   Denormalize your immutable Redux store
-  
-- **memoize-immutable**  
-  https://github.com/louisremi/memoize-immutabe  
-  An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments
   
 - **salvage**  
   https://github.com/xogeny/salvage  

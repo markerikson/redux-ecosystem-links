@@ -131,3 +131,15 @@
 - **pure-redux-router**  
   https://github.com/celebvidy/pure-redux-router  
   Think of your app in states not routes (and, yes, while keeping the address bar in sync) 
+
+- **React Redux Dynamic Router Reducer Plugin**  
+  https://github.com/madeinfree/redux-plugin-dynamic-router-reducer  
+  Redux plugin for React Router to run dynamic reducers
+  
+- **connected-react-router**  
+  https://github.com/supasate/connected-react-router  
+  A Redux binding for React Router v4.  Synchronize router state with redux store with uni-directional flow (history -> store -> router -> components).
+  
+- **redux-saga-tower**  
+  https://github.com/kuy/redux-saga-tower  
+  Saga powered routing engine for Redux apps.  redux-saga-tower provides a way to fully control client-side routing with its related side effects such as data fetching, user authentication, fancy animations.

@@ -268,10 +268,6 @@
   https://github.com/burakcan/redux-shared-worker  
   A higher order Redux store that runs the actual store in a SharedWorker or WebWorker. 
   
-- **redux-undoredo**  
-  https://github.com/ajainarayanan/redux-undoredo  
-  A generic undo-redo reducer that can be used for any redux store. Similar to omnidan/redux-undo, but written to add undo/redo capability as an addon/enhancer to an already existing Redux store.
-  
 - **redux-web-worker**  
   https://github.com/deebloo/redux-web-worker  
   Redux implementation in a web worker (experiment). The entire state is kept in a separate thread. (this also gives the added benefit of immutable objects)
@@ -303,3 +299,4 @@
 - **electron-redux**  
   https://github.com/hardchor/electron-redux  
   Use redux in the main and browser processes in electron 
+  

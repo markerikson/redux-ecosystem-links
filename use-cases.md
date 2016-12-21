@@ -44,6 +44,10 @@
   https://github.com/tannerjt/redux-geojson  
   A reducer that allows for the addition and removal of features features from a GeoJSON object.
   
+- **react-redux-feature-toggles**  
+  https://github.com/filip-ph-johansson/react-redux-feature-toggles  
+  A package for providing react-redux based feature toggles
+  
   
 ### Page Interaction
 
@@ -219,6 +223,18 @@
   https://github.com/vshushkov/redux-models  
   Models layer for Redux. 
   
+- **redux-rest-adapter**  
+  https://github.com/maksim-chekrishov/redux-rest-adapter  
+  A REST adapter for redux based on redux-api-middleware
+  
+- **redux-immutable-collections**  
+  https://github.com/jcoreio/redux-immutable-collections  
+  Reducers and actions for storing collections of documents in Immutable.js collections in Redux state. Designed for Mongo documents, but potentially useful even if you're not using Mongo.
+  
+- **redux-io**  
+  https://github.com/shoutem/redux-io  
+  Library for easy data managing between api and redux store. Library consists of middleware, reducers and action creators that enable simple handling of data in CRUD operations with API.
+  
 #### Network
   
 - **redux-requests**  
@@ -244,6 +260,37 @@
 - **redux-track-request**  
   https://github.com/oconn/redux-track-request  
   Async request state management with Redux.  Aims to make working with async data and pagination (link headers support only) a breeze.
+  
+  
+#### Undo-Redo
+
+- **redux-undo**  
+  https://github.com/omnidan/redux-undo  
+  Higher order reducer to add undo/redo functionality to redux state containers
+  
+- **Redux Undo Immutable**  
+  https://github.com/idealeric/redux-undo-immutable  
+  A higher order reducer to add undo/redo to redux state containers using immutable js.  It is conceptually identical to redx-undo and shares almost the same API.
+  
+- **redux-undoable**  
+  https://github.com/linn/redux-undoable  
+  A reducer enhancer (or higher order reducer) that provides undo/redo functionality for Redux by replaying actions (rather than storing previous state)
+  
+- **redux-live-undo**  
+  https://github.com/cratejoy/redux-live-undo  
+  A generic, high-order reducer that allows you to transparently add undo/redo functionality on top of other redux reducers. redux-live-undo allows state to be updated as users type without creating undo steps for every state change.  
+  
+- **Redux Undo Stack**  
+  https://github.com/stephan83/redux-undo-stack  
+  An undo stack for redux. It works by storing incremental changes instead of entire states, which is optimal when working with large data. It works in combination with redux-smart-action.
+  
+- **redux-undoredo**  
+  https://github.com/ajainarayanan/redux-undoredo  
+  A generic undo-redo reducer that can be used for any redux store. Similar to omnidan/redux-undo, but written to add undo/redo capability as an addon/enhancer to an already existing Redux store.
+  
+- **redux-undo-redo**  
+  https://github.com/PowToon/redux-undo-redo  
+  This package takes a different approach about implementing undo-redo functionality. Instead of setting a reducer to be undoable, we'll define which actions are undoable and define a reverting action.
   
   
 #### Authentication
@@ -284,6 +331,9 @@
   https://github.com/evenchange4/redux-csrf  
   Keep your csrf token inside your Redux store.
 
+- **redux-fetch-apptoken**  
+  https://github.com/mindiply/redux-fetch-apptoken  
+  Redux middleware that wraps fetch calls with a http header that bears and app token.
 
 
 #### Backbone Integration

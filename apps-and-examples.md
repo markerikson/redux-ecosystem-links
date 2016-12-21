@@ -176,6 +176,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 
 
   
+  
 #### Other Application Lists
   
 - **"Ask HN: Open source projects written in React?"**  
@@ -214,3 +215,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://www.reddit.com/r/webdev/comments/5c2vie/were_reddits_frontend_engineering_team_ask_us/  
   https://www.reddit.com/r/webdev/comments/5c2vie/were_reddits_frontend_engineering_team_ask_us/d9tbjtt/  
   Very informative Q&A with Reddit's frontend developers, with some very-indepth answers regarding their usage of React and Redux.
+  
+- **Redux for Realtime Gaming**  
+  https://www.youtube.com/watch?v=zo39p-30arg  
+  A presentation discussing how Redux was used to help build a competitive biking application

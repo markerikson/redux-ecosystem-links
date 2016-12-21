@@ -140,6 +140,10 @@
   https://github.com/jondot/redux-duet  
   Redux action and handlers together, alleviate boilerplate. 
   
+- **zeal-redux-utils**  
+  https://github.com/CodingZeal/zeal-redux-utils  
+  Utility functions for creating actions types, creating FSA-compatible reducers, and globalizing selectors.
+  
   
 #### Network Requests and APIs
 
@@ -257,3 +261,7 @@
 - **modular-redux-thunk**  
   https://github.com/benbeadle/modular-redux-thunk  
   A ducks-inspired package to help organize actions, reducers, and selectors together.
+  
+- **re-ducks**  
+  https://github.com/alexnm/re-ducks  
+  An attempt to extend the original proposal for redux modular architecture

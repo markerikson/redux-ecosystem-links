@@ -145,6 +145,10 @@
   https://github.com/shakacode/redux-thunk-effects  
   Thunk-like handling with additions.
   
+- **refx**  
+  https://github.com/aduth/refx  
+  Redux middleware for triggering side effects.  To perform side effects, you define effects as an object of action type keys whose values are functions which trigger additional effects.
+  
   
 #### Redux-Saga extensions  
 

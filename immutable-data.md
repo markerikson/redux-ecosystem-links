@@ -105,6 +105,9 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/engineforce/ImmutableAssign  
   Lightweight immutable helper that allows you to continue working with POJO (Plain Old JavaScript Object), and supports full TypeScript type checking
 
+- **immutable-helpers**  
+  https://github.com/zammer/immutable-helpers  
+  Set of helper functions to work with Redux reducers immutably 
 
 #### Immutable/Redux Interop
 

@@ -103,6 +103,14 @@
   https://github.com/clari/redux-animate  
   Synchronize animation across React components with Redux
 
+- **react-redux-loadmask**  
+  https://github.com/tsaiDavid/react-redux-loadmask  
+  A Redux-driven loading screen mask, with various spinner options
+  
+- **redux-menu**  
+  https://github.com/datacamp/redux-menu  
+  Package to create a React menu component, connected with your Redux state and dispatch. 
+
 
 #### Layout
 
@@ -423,3 +431,7 @@
 - **hoc-data-redux**  
   https://github.com/krzysztof4M/hoc-data-redux  
   Higher Order Component for fetching initial data in Redux
+  
+- **redux-wait-for-action**  
+  https://github.com/Chion82/redux-wait-for-action  
+  Redux middleware to make store.dispatch() return a promise which will be resolved when another specified action is dispatched, which is useful for universal(isomorphic) React Web Apps with redux and server-side rendering.
