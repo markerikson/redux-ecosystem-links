@@ -6,7 +6,7 @@
   
 - **redux-router**  
   https://github.com/acdlite/redux-router  
-  Redux bindings for React Router – keep your router state inside your Redux store
+  Redux bindings for React Router â€“ keep your router state inside your Redux store
   
 - **routex**  
   https://github.com/michalkvasnicak/routex  
@@ -140,6 +140,6 @@
   https://github.com/supasate/connected-react-router  
   A Redux binding for React Router v4.  Synchronize router state with redux store with uni-directional flow (history -> store -> router -> components).
   
-- **redux-saga-tower**  
-  https://github.com/kuy/redux-saga-tower  
+- **redux-tower**  
+  https://github.com/kuy/redux-tower  
   Saga powered routing engine for Redux apps.  redux-saga-tower provides a way to fully control client-side routing with its related side effects such as data fetching, user authentication, fancy animations.
