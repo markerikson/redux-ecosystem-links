@@ -169,3 +169,7 @@
   https://github.com/jcoreio/redux-features  
   https://github.com/jcoreio/react-redux-features  
   A powerful feature-oriented programming framework for redux
+
+- **redux-dynamix**  
+  https://github.com/jake-daniels/redux-dynamix  
+  Redux Dynamix is a store enhancer that allows you dynamically add and remove reducers (and therefore slices of application state). 

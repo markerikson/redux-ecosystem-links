@@ -6,7 +6,7 @@
   The simplest possible side effects approach: dispatch functions instead of objects, which then get access to `dispatch` and `getState`.  (Variations on the concept listed on the [Middleware](middleware.md) page.)
   
 - **redux-saga**  
-  https://github.com/yelouafi/redux-saga  
+  https://github.com/redux-saga/redux-saga  
   Generator-based side effects approach.  Create "sagas", which act like background threads or daemons that can listen for actions and dispatch objects describing side effects.
   
 - **redux-loop**  

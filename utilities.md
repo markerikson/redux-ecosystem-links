@@ -70,6 +70,14 @@
   https://github.com/frankwallis/remerger  
   Creates recursively memoized deep merge functions for use with react-redux connect
   
+- **json-api-normalizer**  
+  https://github.com/yury-dymov/json-api-normalizer  
+  Utility to normalize JSON API data for redux applications
+  
+- **redux-object**  
+  https://github.com/yury-dymov/redux-object  
+  Builds complex JS object from normalized redux store. Works best with json-api-normalizer.
+  
   
 #### Functional Programming
   

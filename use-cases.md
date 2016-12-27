@@ -149,6 +149,7 @@
   https://github.com/damassi/redux-cache  
   Lightweight caching for Redux (WIP)
   
+  
 #### Collections / CRUD
 
 - **Redux CRUD**  
@@ -234,6 +235,14 @@
 - **redux-io**  
   https://github.com/shoutem/redux-io  
   Library for easy data managing between api and redux store. Library consists of middleware, reducers and action creators that enable simple handling of data in CRUD operations with API.
+  
+- **redux-jam**  
+  https://github.com/ABASystems/redux-jam  
+  A Redux JSON API model layer
+  
+- **redux-rest-tools**  
+  https://github.com/ocolot/redux-rest-tools  
+  Prebuilt logic for querying REST APIs
   
 #### Network
   

@@ -71,6 +71,10 @@
   https://github.com/lelandrichardson/redux-pack  
   Sensible promise handling and middleware for redux
   
+- **redux-pinky**  
+  https://github.com/themostaza/redux-pinky  
+  Yet another Redux middleware for dispatching async actions.  A more "redux-vanilla" version of redux-pack.
+  
   
 #### Timeouts and Delays
 
