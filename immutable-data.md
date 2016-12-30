@@ -166,6 +166,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-utils-immutable**  
   https://github.com/jcoreio/redux-utils-immutable  
   Utilities for working with redux and immutable.js 
+  
+- **combine-reducers-immutable**  
+  https://github.com/montanonic/combine-reducers-immutable  
+  Redux's combineReducers adjusted to support ImmutableJS state. 
 
 
 #### Alternate Data Management Concepts

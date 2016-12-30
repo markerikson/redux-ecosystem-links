@@ -5,7 +5,7 @@
   One-liners for creating redux reducers and action creators for scrollable, editable lists. This module provides methods for creating reducers for ordered or key-value state to be used in redux apps.
   
 - **redux-search**  
-  https://github.com/treasure-data/redux-search  
+  https://github.com/bvaughn/redux-search  
   Higher-order Redux library for searching collections of objects.
   
 - **redux-lunr**  
@@ -47,6 +47,10 @@
 - **react-redux-feature-toggles**  
   https://github.com/filip-ph-johansson/react-redux-feature-toggles  
   A package for providing react-redux based feature toggles
+  
+- **react-redux-feature-flag**  
+  https://github.com/unbounce/react-redux-feature-flag  
+  Feature flagging made easy for React and Redux
   
   
 ### Page Interaction
@@ -117,6 +121,10 @@
 - **redux-react-i18n**  
   https://github.com/derzunov/redux-react-i18n  
   An i18n solution for redux/react
+  
+- **react-localize-redux**  
+  https://github.com/ryandrewjohnson/react-localize-redux  
+  Localization made easy for your React/Redux app
   
   
 #### Pagination

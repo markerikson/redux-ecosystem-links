@@ -143,3 +143,15 @@
 - **redux-tower**  
   https://github.com/kuy/redux-tower  
   Saga powered routing engine for Redux apps.  redux-saga-tower provides a way to fully control client-side routing with its related side effects such as data fetching, user authentication, fancy animations.
+
+- **rrrouter**  
+  https://github.com/plandem/rrrouter  
+  React/Redux/Router - simple, but powerful router for React with built-in support for redux. 
+  
+- **pure-redux-router-link**  
+  https://github.com/celebvidy/pure-redux-router-link  
+  A simple but effective <Link /> component for pure-redux-router (better for SEO rather than go or dispatch yourself)
+  
+- **redux-pages**  
+  https://github.com/ryo33/redux-pages  
+  A middleware-friendly routing engine that encapsulates raw URL paths.

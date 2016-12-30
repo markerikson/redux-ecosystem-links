@@ -362,3 +362,6 @@
   https://github.com/pavelivanov/redaction  
   Redux action creator without string constants and less magic 
   
+- **Redux-Reduced-Actions**  
+  https://github.com/PlumTreeSystems/Redux-Reduced-Actions  
+  A middleware for dispatching actions which contain string lookup paths of data to update.
