@@ -173,3 +173,7 @@
 - **redux-dynamix**  
   https://github.com/jake-daniels/redux-dynamix  
   Redux Dynamix is a store enhancer that allows you dynamically add and remove reducers (and therefore slices of application state). 
+  
+- **redux-scope**  
+  https://github.com/bsingr/redux-scope  
+  An idea for modularizing redux components using a scoped store 

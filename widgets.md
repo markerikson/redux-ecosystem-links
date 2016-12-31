@@ -35,14 +35,6 @@
   https://github.com/phpingme/react-redux-terminal
   React+Redux driven terminal component
   
-- **redux-file-upload**  
-  https://github.com/blueberryapps/redux-file-upload  
-  There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
-  
-- **redux-plupload**  
-  https://github.com/tes/redux-plupload  
-  FSA-compliant Redux bindings for Plupload.  Helps you use Redux actions for bi-directional communication with a plupload uploader instance.
-  
 - **semantic-react-redux**  
   https://github.com/insilica/semantic-react-redux  
   Just a collection of components for projects using semantic-ui, redux, and react.
@@ -256,6 +248,21 @@
 - **react-redux-mapbox-gl**  
   https://github.com/yunluyl/react-redux-mapbox-gl  
   Embed React elements in Mapbox GL with Redux state control
+  
+  
+#### File Uploads
+  
+- **redux-file-upload**  
+  https://github.com/blueberryapps/redux-file-upload  
+  There aren't any simple yet customizable file uploader packages that would work nicely with Redux. redux-file-upload is here to fill the gap!
+  
+- **redux-plupload**  
+  https://github.com/tes/redux-plupload  
+  FSA-compliant Redux bindings for Plupload.  Helps you use Redux actions for bi-directional communication with a plupload uploader instance.
+  
+- **redux-fine-uploader**  
+  https://github.com/feltnerm/redux-fine-uploader  
+  Enables FineUploader to store its all of its state with Redux 
   
   
 #### Data Fetching
