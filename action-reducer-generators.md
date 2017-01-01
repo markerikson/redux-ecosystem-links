@@ -144,8 +144,8 @@
   https://github.com/CodingZeal/zeal-redux-utils  
   Utility functions for creating actions types, creating FSA-compatible reducers, and globalizing selectors.
 
-- **redux-candy**
-  https://github.com/inuscript/redux-candy
+- **redux-candy**  
+  https://github.com/inuscript/redux-candy  
   Generate updeep based reducer and compatible action creator.
 
 #### Network Requests and APIs
