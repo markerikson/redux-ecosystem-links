@@ -126,7 +126,7 @@
   
 - **Redeclare**  
   https://github.com/modernserf/redeclare  
-  Redeclare is an attempt to reduce the boilerplate of Redux configuration in a form that takes advantage of Redux’s best qualities. Its focused on creating types and schemas for actions and state that serve as both documentation and configuration, replacing the need for repetititve files full of constants and complex assemblages of helper functions.
+  Redeclare is an attempt to reduce the boilerplate of Redux configuration in a form that takes advantage of Reduxâ€™s best qualities. Its focused on creating types and schemas for actions and state that serve as both documentation and configuration, replacing the need for repetititve files full of constants and complex assemblages of helper functions.
   
 - **redux-shuttle**  
   https://github.com/jaylone/redux-shuttle  
@@ -143,8 +143,11 @@
 - **zeal-redux-utils**  
   https://github.com/CodingZeal/zeal-redux-utils  
   Utility functions for creating actions types, creating FSA-compatible reducers, and globalizing selectors.
-  
-  
+
+- **redux-candy**
+  https://github.com/inuscript/redux-candy
+  Generate updeep based reducer and compatible action creator.
+
 #### Network Requests and APIs
 
 - **redux-act-async**  
