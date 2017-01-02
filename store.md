@@ -162,6 +162,14 @@
 - **Redux-State-Sync**  
   https://github.com/AOHUA/redux-state-sync  
   A very light weight middleware to sync your redux state across browser tabs.
+  
+- **redux-replicate**  
+  https://github.com/loggur/redux-replicate  
+  Creates a Redux store enhancer designed to replicate actions and states. Declaratively connect application state to data sources and create efficient, scalable, and reliable software with minimal effort. 
+  
+- **redux-store-sessionstorage**  
+  https://github.com/ppallesws/redux-store-sessionstorage  
+  Store enhancer that syncs (a subset) of your Redux store state to sessionstorage. 
 
 
 #### Store Change Subscriptions

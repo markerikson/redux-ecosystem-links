@@ -49,7 +49,7 @@
   Wrap your app to use it as component inside other app
   
 - **redux-state-props**  
-  https://www.npmjs.com/package/redux-state-props  
+  https://github.com/soulie/redux-state-props  
   stateProps is as a Higher-order Component to insert state as props into Stateless React Components in a declarative way (see stateProps for more info).  This package extends stateProps to use redux as a store.
   
 - **redux-ephemeral**  

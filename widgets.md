@@ -367,10 +367,6 @@
   https://github.com/Aweary/react-relay-redux  
   Redux integration for Relay.  react-relay-redux lets you listen and respond to Relay queries and mutations using Redux actions and reducers.
   
-- **redux-data**  
-  https://github.com/dmin/redux-data  
-  Redux-Data is a companion to Redux that allows you to declare the data (i.e. records from your server) that your application uses. Redux-Data helps you query and cache data as well as perform mutations on the data.
-  
 - **Roulade**  
   https://github.com/nerdgrass/roulade  
   Roulade is a library to enable React & Redux applications to easily work with GraphQL servers.
@@ -442,3 +438,15 @@
 - **redux-wait-for-action**  
   https://github.com/Chion82/redux-wait-for-action  
   Redux middleware to make store.dispatch() return a promise which will be resolved when another specified action is dispatched, which is useful for universal(isomorphic) React Web Apps with redux and server-side rendering.
+  
+- **redux-promise-wait**  
+  https://github.com/nealgranger/redux-promise-wait  
+  An indispensable tool for rendering Redux apps on the server.  Uses a store enhancer to run a callback function repeatedly until the Redux store state settles when all chains of asynchronous actions have resolved.
+  
+- **redux-universal**  
+  https://github.com/reducks/redux-universal  
+  A Redux store enhancer taking care of promise resolution for building universal apps. 
+  
+- **universal-redux-thunk**  
+  https://github.com/tom-drake/universal-redux-thunk  
+  A Redux store enhancer taking care of promise resolution for building universal apps.  (Fork of redux-universal)

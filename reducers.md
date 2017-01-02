@@ -373,6 +373,11 @@
   https://github.com/randallknutson/redux-injector  
   Allows dynamically injecting reducers into a redux store at runtime
   
+- **redux-reducer-factory**  
+  https://github.com/mclauia/redux-reducer-factory  
+  https://github.com/mclauia/redux-reducer-meld  
+  A configurable createReducer factory for adding common reducer enhancers. 
+  
   
 #### State Machines
 

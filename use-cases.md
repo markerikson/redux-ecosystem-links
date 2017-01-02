@@ -82,6 +82,10 @@
 - **redux-windowsize**  
   https://github.com/cape-io/redux-windowsize  
   Save window size to a redux reducer
+  
+- **redux-query**  
+  https://github.com/neilff/redux-query  
+  a store enhancer for persisting application state into the address bar. This is useful for creating bookmarkable states in your Redux application.
 
   
 ### Internationalization

@@ -149,6 +149,10 @@
   https://github.com/aduth/refx  
   Redux middleware for triggering side effects.  To perform side effects, you define effects as an object of action type keys whose values are functions which trigger additional effects.
   
+- **redux-reducer-effects**  
+  https://github.com/cubik-oss/redux-reducer-effects  
+  Redux enhancer which adds support for managed effects to the reducer, allowing you to return side effects as data in your reducer function.
+  
   
 #### Redux-Saga extensions  
 

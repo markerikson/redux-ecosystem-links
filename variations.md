@@ -365,3 +365,7 @@
 - **Redux-Reduced-Actions**  
   https://github.com/PlumTreeSystems/Redux-Reduced-Actions  
   A middleware for dispatching actions which contain string lookup paths of data to update.
+  
+- **redux-global-selectors**  
+  https://github.com/guillaumearm/redux-global-selectors  
+  A redux store enhancer adding selectors inside the store.
