@@ -124,3 +124,11 @@
 - **redux-forms**  
   https://github.com/oreqizer/redux-forms  
   A simple form manager for React and Redux (WIP)
+  
+- **reFormz**  
+  https://github.com/orangecoding/reFormz  
+  reFormz provides an easy way to connect your forms to your store.  It's a small easy to use library that provides all components like textfields or selectboxes ready to be used.
+  
+- **redux-inputs**  
+  https://github.com/zillow/redux-inputs  
+  redux-inputs works with redux to validate and store values from inputs and forms.  Declarative validating, parsing, formatting, and more.

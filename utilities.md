@@ -78,6 +78,10 @@
   https://github.com/yury-dymov/redux-object  
   Builds complex JS object from normalized redux store. Works best with json-api-normalizer.
   
+- **selectorator**  
+  https://github.com/planttheidea/selectorator  
+  selectorator is an abstraction API for creating selectors via reselect with less boilerplate code.
+  
   
 #### Functional Programming
   

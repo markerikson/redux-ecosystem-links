@@ -75,6 +75,10 @@
   https://github.com/themostaza/redux-pinky  
   Yet another Redux middleware for dispatching async actions.  A more "redux-vanilla" version of redux-pack.
   
+- **redux-promises-concluder**  
+  https://github.com/arashmilani/redux-promises-concluder  
+  A Redux middleware to keep track of active promises and notify when all resolved. Useful in server side rendering of single page applications. 
+  
   
 #### Timeouts and Delays
 
@@ -750,3 +754,7 @@
 - **redux-custom-middlewares**  
   https://github.com/guillaumearm/redux-custom-middlewares  
   Middlewares inside your FSA actions
+  
+- **redux-middlewares**  
+  https://github.com/ryo33/redux-middlewares  
+  Utility functions to generate new middlewares.
