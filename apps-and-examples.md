@@ -174,7 +174,9 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/lizadaly/windrift  
   A JS framework for writing mutable stories.  Windrift was used to write Stone Harbor, an entry in the 2016 Interactive Fiction Competition. 
 
-
+- **Agora**  
+  https://github.com/ryo33/Agora  
+  A platform for online communities. Built with React/Redux/Elixir. Real world usage of redux-saga, redux-logic, react-router, react-router-redux, redux-act, and redux-persist.
   
   
 #### Other Application Lists
