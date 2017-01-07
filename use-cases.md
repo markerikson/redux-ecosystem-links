@@ -256,6 +256,14 @@
   https://github.com/ocolot/redux-rest-tools  
   Prebuilt logic for querying REST APIs
   
+- **react-native-redux-rest-resource**  
+  https://github.com/Osedea/react-native-redux-rest-resource  
+  A helper to handle REST Apis with Redux in react-native
+  
+- **Redux Clerk**  
+  https://github.com/GetAmbassador/redux-clerk  
+  Redux Clerk handles the async CRUD in your Redux App.  Provides a set of action creators for both async and synchronous actions, an extendable reducers, handles derived datasets and provides selectors for computing derived data, and handles optimistic updates.
+  
 #### Network
   
 - **redux-requests**  

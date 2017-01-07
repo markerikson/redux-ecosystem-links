@@ -153,6 +153,10 @@
   https://github.com/cubik-oss/redux-reducer-effects  
   Redux enhancer which adds support for managed effects to the reducer, allowing you to return side effects as data in your reducer function.
   
+- **petux**  
+  https://github.com/tempname11/petux  
+  The Redux ecosystem still lacks a solution for side effects that (A) is easy to use, (B) is easy to reason about, (C) scales well. Petux is a humble attempt to solve this problem. It is meant to be used in real-world production applications of any complexity.
+  
   
 #### Redux-Saga extensions  
 

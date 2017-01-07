@@ -31,6 +31,10 @@
   https://github.com/reduxify/seedux  
   A Chrome developer tool that provides a new tab that actively logs and visualizes the Redux data flow, enabling easier, faster debugging of any React-Redux implementation.
   
+- **Redux DevTools Instrumentation**  
+  https://github.com/zalmoxisus/redux-devtools-instrument  
+  Redux enhancer used along with Redux DevTools or Remote Redux DevTools.
+  
   
 #### DevTools Monitors
 
@@ -176,6 +180,10 @@
 - **redux-bugsnag**  
   https://github.com/restorando/redux-bugsnag  
   Redux middleware that logs to Bugsnag
+  
+- **replicator**  
+  https://github.com/nrdobie/replicator  
+  Record and replay user actions from Redux.
   
 #### Linting
  

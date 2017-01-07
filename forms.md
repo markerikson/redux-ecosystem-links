@@ -132,3 +132,7 @@
 - **redux-inputs**  
   https://github.com/zillow/redux-inputs  
   redux-inputs works with redux to validate and store values from inputs and forms.  Declarative validating, parsing, formatting, and more.
+  
+- **redux-form-reducer**  
+  https://github.com/gigobyte/redux-form-reducer  
+  Dead simple form reducer inspired by Angular.  This library provides an easy way to setup a reducer that has built-in handling for validation on field change and other nifty things.

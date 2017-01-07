@@ -216,11 +216,7 @@
 - **reduceless-connect**  
   https://github.com/anorudes/reduceless-connect  
   Easy change redux state for ui without creating constants and actions
-  
-- **feeble**  
-  https://github.com/tianche/feeble  
-  Feeble is a framework built on top of React/Redux/redux-saga which aims to make building React/Redux applications easier and better.
-  
+
 - **redux-saga-models**  
   https://github.com/vshushkov/redux-saga-models  
   Library to build models layer backed with redux-saga

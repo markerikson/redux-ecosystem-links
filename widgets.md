@@ -450,3 +450,11 @@
 - **universal-redux-thunk**  
   https://github.com/tom-drake/universal-redux-thunk  
   A Redux store enhancer taking care of promise resolution for building universal apps.  (Fork of redux-universal)
+  
+- **react-graphql-redux**  
+  https://github.com/youknowriad/react-graphql-redux  
+  This library allows you to use GraphQL to query your Redux store
+  
+- **link-redux**  
+  https://github.com/fletcher91/link-redux  
+  Linked Data Rendering for humans, on React/Redux.  Use this to enable Link in React. It provides components to build data-independent semantic applications for the human consumption of linked data with React and Redux.

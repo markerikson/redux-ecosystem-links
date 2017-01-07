@@ -148,6 +148,15 @@
   https://github.com/inuscript/redux-candy  
   Generate updeep based reducer and compatible action creator.
 
+- **redux-act-reducer**  
+  https://github.com/hahoocn/redux-act-reducer  
+  A lib to create both sync and async actions and reducers for Redux
+  
+- **redux-scc**  
+  https://github.com/TheComfyChair/redux-scc  
+  Redux store chunk creator.  It takes a defined structure and uses a set of 'behaviors' (a small collection of ways that a reducer can be updated) to create a set of actions and reducer responses that are each linked by a unique string. A set of action generators, selectors, and reducers are then returned.
+  
+
 #### Network Requests and APIs
 
 - **redux-act-async**  

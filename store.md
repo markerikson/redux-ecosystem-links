@@ -308,3 +308,6 @@
   https://github.com/hardchor/electron-redux  
   Use redux in the main and browser processes in electron 
   
+- **redux-injectable-store**  
+  https://github.com/lelandrichardson/redux-injectable-store  
+  Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.

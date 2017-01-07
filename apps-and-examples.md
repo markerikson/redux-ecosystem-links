@@ -178,6 +178,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/ryo33/Agora  
   A platform for online communities. Built with React/Redux/Elixir. Real world usage of redux-saga, redux-logic, react-router, react-router-redux, redux-act, and redux-persist.
   
+- **Ory Editor**  
+  https://github.com/ory-am/editor  
+  A digital content editor with a plugin architecture, built with React and Redux.
+  
   
 #### Other Application Lists
   

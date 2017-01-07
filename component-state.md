@@ -177,3 +177,7 @@
 - **redux-scope**  
   https://github.com/bsingr/redux-scope  
   An idea for modularizing redux components using a scoped store 
+  
+- **redux-actuator**  
+  https://github.com/molefrog/redux-actuator  
+  Trigger events inside components by reacting on pure state changes. Actuator keeps you from writing component lifecycle hooks boilerplate code by providing declarative API.

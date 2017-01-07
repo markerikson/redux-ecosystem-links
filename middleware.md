@@ -514,6 +514,11 @@
   https://github.com/pcardune/redux-firebase-mirror  
   A library to help you easily mirror firebase data inside a redux store. 
   
+- **redux-cablecar**  
+  https://github.com/ndhays/redux-cablecar  
+  A Redux middleware to connect Redux with Rails 5 ActionCable 
+  
+  
 #### Network Requests
 
 - **redux-request**  
@@ -758,3 +763,7 @@
 - **redux-middlewares**  
   https://github.com/ryo33/redux-middlewares  
   Utility functions to generate new middlewares.
+  
+- **redux-scraper**  
+  https://github.com/therewillbecode/redux-scraper  
+  Web scraping middleware for Redux using Cheerio and Axios 
