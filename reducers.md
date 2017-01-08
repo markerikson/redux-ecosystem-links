@@ -378,6 +378,10 @@
   https://github.com/mclauia/redux-reducer-meld  
   A configurable createReducer factory for adding common reducer enhancers. 
   
+- **redux-injectable-reducer**  
+  https://github.com/jomaxx/redux-injectable-reducer  
+  Redux store reducer capable of lazily injecting parts of the state tree. Useful for large single page applications that utilize bundle splitting.
+  
   
 #### State Machines
 

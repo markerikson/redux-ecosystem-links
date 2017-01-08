@@ -60,12 +60,6 @@
   https://github.com/rt2zz/redux-owl  
   Redux One Way Linking.  This is a simple method for supporting offline sync.  The basic concept is, try to execute the action, on failure add it to a retry queue. Every so often process the retry queue until success is achieved. 
   
-- **redux-live**  
-  https://github.com/eitak/redux-live  
-  https://github.com/eitak/redux-live-localdb  
-  https://github.com/eitak/redux-live-socketio  
-  Redux Live a framework for persisting Redux actions to a database and synchronising them across multiple clients. 
-  
 - **redux-action-store**  
   https://github.com/oakfang/redux-action-store  
   Save and load actions to persist state
@@ -82,11 +76,6 @@
   https://github.com/MoombaDS/redux-simple-localstorage  
   Ridiculously simple implementation for serialising the entire Redux store to local storage and retrieving it on application restart.
 
-- **Redux Share**  
-  https://github.com/baptistemanson/redux-share-server  
-  https://github.com/baptistemanson/redux-share-client  
-  Share redux state across the network between clients and servers
-  
 - **redux-smooth-storage**  
   https://github.com/dsacramone/redux-smooth-storage  
   Small program to store your react redux store or stores in local storage or session storage
@@ -94,14 +83,6 @@
 - **redux-state-archiver**  
   https://github.com/schwers/redux-state-archiver  
   A collection of React components for serializing your redux state.  
-  
-- **redux-sync**  
-  https://github.com/Autarc/redux-sync  
-  A store enhancer for Redux which allows to mirror one store as a part of another and keeps them in sync.
-  
-- **redux-swarmlog**  
-  https://github.com/philholden/redux-swarmlog  
-  A super simple way of writing distributed Redux applications. The Redux action log is persisted in an IndexDB and synced with other peers via a WebRTC Swarm using Swarmlog.
   
 - **redux-async-initial-state**  
   https://github.com/KELiON/redux-async-initial-state  
@@ -119,25 +100,9 @@
   https://github.com/BartWaardenburg/redux-simple-storage-middleware  
   Simple redux middleware which will store the current state tree in either session- or localstorage
   
-- **redux-scuttlebutt**  
-  https://github.com/grrowl/redux-scuttlebutt  
-  Self-replicating, self-ordering log of actions shared between all clients. Using the power behind redux's hot reloading and time travel, your client dispatches actions itself and so does every other client, they share the state, and it all just works.
-  
 - **Redux-Session**  
   https://github.com/HelpfulHuman/Redux-Session  
   Redux middleware for automatic setting and hydration of state data in external storage.
-  
-- **redux-ipc**  
-  https://github.com/vutran/redux-ipc  
-  Log your Redux state and actions to a node backend via WebSockets.
-  
-- **redux-action-sync**  
-  https://github.com/czak/redux-action-sync  
-  redux-action-sync is an action persistence middleware for Redux applications. A simple solution for keeping state synchronised across multiple clients. It uses a single-endpoint backend as an alternative to CRUD APIs.
-  
-- **redux-electron-store**  
-  https://github.com/samiskin/redux-electron-store/  
-  A redux store enhancer that allows automatic synchronization between electron processes
   
 - **redux-eventstore**  
   https://github.com/camjackson/redux-eventstore  
@@ -146,10 +111,6 @@
 - **redux-gatorade**  
   https://github.com/michael-iglesias/redux-gatorade  
   Need to hydrate state from URL parameters? Redux-gatorade is a simple solution that allows you to hydrate different parts of your state tree from URL parameters.
-  
-- **redux-peerjs-store-enhancer**  
-  https://github.com/jurassix/redux-peerjs-store-enhancer  
-  Use PeerJS to easily distribute Redux actions to remote peers.
   
 - **redux-simple-storage-middleware**  
   https://github.com/BartWaardenburg/redux-simple-storage-middleware  
@@ -171,6 +132,56 @@
   https://github.com/ppallesws/redux-store-sessionstorage  
   Store enhancer that syncs (a subset) of your Redux store state to sessionstorage. 
 
+
+#### Synchronization
+
+- **redux-live**  
+  https://github.com/eitak/redux-live  
+  https://github.com/eitak/redux-live-localdb  
+  https://github.com/eitak/redux-live-socketio  
+  Redux Live a framework for persisting Redux actions to a database and synchronising them across multiple clients. 
+  
+- **Redux Share**  
+  https://github.com/baptistemanson/redux-share-server  
+  https://github.com/baptistemanson/redux-share-client  
+  Share redux state across the network between clients and servers
+  
+- **redux-sync**  
+  https://github.com/Autarc/redux-sync  
+  A store enhancer for Redux which allows to mirror one store as a part of another and keeps them in sync.
+  
+- **redux-swarmlog**  
+  https://github.com/philholden/redux-swarmlog  
+  A super simple way of writing distributed Redux applications. The Redux action log is persisted in an IndexDB and synced with other peers via a WebRTC Swarm using Swarmlog.
+  
+- **redux-scuttlebutt**  
+  https://github.com/grrowl/redux-scuttlebutt  
+  Self-replicating, self-ordering log of actions shared between all clients. Using the power behind redux's hot reloading and time travel, your client dispatches actions itself and so does every other client, they share the state, and it all just works.
+  
+- **redux-scuttlebutt-signatures**  
+  https://github.com/grrowl/redux-signatures  
+  Cryptographic signing of your redux (or flux) actions 
+  
+- **redux-ipc**  
+  https://github.com/vutran/redux-ipc  
+  Log your Redux state and actions to a node backend via WebSockets.
+  
+- **redux-action-sync**  
+  https://github.com/czak/redux-action-sync  
+  redux-action-sync is an action persistence middleware for Redux applications. A simple solution for keeping state synchronised across multiple clients. It uses a single-endpoint backend as an alternative to CRUD APIs.
+  
+- **redux-electron-store**  
+  https://github.com/samiskin/redux-electron-store/  
+  A redux store enhancer that allows automatic synchronization between electron processes
+
+- **redux-peerjs-store-enhancer**  
+  https://github.com/jurassix/redux-peerjs-store-enhancer  
+  Use PeerJS to easily distribute Redux actions to remote peers.
+  
+- **Redux Websocket Action Transfer**  
+  https://github.com/lttb/redux-wsat  
+  This package allows to create middleware that transfer redux actions between client and server via websocket.  The main point is moving redux actions to the next level of services interactions and use it like messaging protocol between different service components, not only frontend. It can be useful for realtime applications with microservice architecture.
+  
 
 #### Store Change Subscriptions
 
@@ -253,6 +264,7 @@
 - **redux-subscriber**  
   https://github.com/ivantsov/redux-subscriber  
   Subscribe to changes in any part of redux state
+  
   
 #### Other
 
