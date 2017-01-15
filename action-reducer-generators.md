@@ -156,6 +156,9 @@
   https://github.com/TheComfyChair/redux-scc  
   Redux store chunk creator.  It takes a defined structure and uses a set of 'behaviors' (a small collection of ways that a reducer can be updated) to create a set of actions and reducer responses that are each linked by a unique string. A set of action generators, selectors, and reducers are then returned.
   
+- **redux-create**  
+  https://github.com/marcelmokos/redux-create  
+  Create reducers, action types and action creators
 
 #### Network Requests and APIs
 

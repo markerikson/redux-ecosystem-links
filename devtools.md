@@ -185,6 +185,11 @@
   https://github.com/nrdobie/replicator  
   Record and replay user actions from Redux.
   
+- **redux-log-diff**  
+  https://github.com/Bebersohl/redux-log-diff  
+  A simple redux middleware that logs changes to the state after every action. 
+  
+  
 #### Linting
  
 - **redux-immutable-state-invariant**  

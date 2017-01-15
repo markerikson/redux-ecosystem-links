@@ -157,6 +157,10 @@
   https://github.com/tempname11/petux  
   The Redux ecosystem still lacks a solution for side effects that (A) is easy to use, (B) is easy to reason about, (C) scales well. Petux is a humble attempt to solve this problem. It is meant to be used in real-world production applications of any complexity.
   
+- **redux-thunktions**  
+  https://github.com/ohjames/redux-thunktions  
+  An FSA compatible redux thunk middleware ideal for use with redux-actions and/or redux-promise-middleware. 
+  
   
 #### Redux-Saga extensions  
 
@@ -188,7 +192,9 @@
   https://github.com/pke/eslint-plugin-redux-saga  
   ESLint rules for redux-saga.
   
-
+- **redux-saga-process**  
+  https://github.com/Dash-OS/redux-saga-process  
+  Redux Saga Process (RSP) introduces an opinionated pattern for building modular, clean, and powerful redux-sagas by running them within ES6 classes and providing them with an encapsulated, simple, and powerful API. 
   
   
 #### Redux-Effects extensions

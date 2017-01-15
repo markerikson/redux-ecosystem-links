@@ -156,6 +156,10 @@
 - **react-redux-simple-modal**  
   https://github.com/sebinsua/react-redux-simple-modal  
   A simple modal switcher for React and Redux
+  
+- **react-layer-stack**  
+  https://github.com/fckt/react-layer-stack  
+  Simple yet complete and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application and more.  Includes a Redux reducer that can track open layers.
 
 
 #### Grids and Tables
@@ -458,3 +462,15 @@
 - **link-redux**  
   https://github.com/fletcher91/link-redux  
   Linked Data Rendering for humans, on React/Redux.  Use this to enable Link in React. It provides components to build data-independent semantic applications for the human consumption of linked data with React and Redux.
+  
+- **fetch-data**  
+  https://github.com/unfold/fetch-data  
+  Declarative data fetching for Redux and React.
+  
+- **redux-promise-counter**  
+  https://github.com/bitgenics/redux-promise-counter  
+  Keep track of unresolved promises in Redux Actions. Useful for Server Side Rendering.
+  
+- **tectonic**  
+  https://github.com/tonyhb/tectonic  
+  A declarative REST data loader for React/Redux

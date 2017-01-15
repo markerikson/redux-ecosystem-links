@@ -159,3 +159,7 @@
 - **redux-saga-mock**  
   https://github.com/digitalidentitysa/redux-saga-mock  
   Testing helper for redux-saga.
+  
+- **Redux Saga Test Engine**  
+  https://github.com/TimBuckley/redux-saga-test-engine  
+  Collects the actions dispatched by your sagas for easy testing 

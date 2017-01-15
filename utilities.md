@@ -82,6 +82,14 @@
   https://github.com/planttheidea/selectorator  
   selectorator is an abstraction API for creating selectors via reselect with less boilerplate code.
   
+- **denormalize-with-state**  
+  https://github.com/ashleyw/denormalize-with-state  
+  denormalize-with-state takes data denormalized by denormalizr and merges in extra state.
+  
+- **react-graphql-redux**  
+  https://github.com/youknowriad/react-graphql-redux  
+  This library allows you to use GraphQL to query your Redux store
+  
   
 #### Functional Programming
   
