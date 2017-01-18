@@ -360,6 +360,11 @@
   https://github.com/contrarian/redux-transform  
   Field transformation middleware for Redux. 
   
+- **suber**  
+  https://github.com/oskarhane/suber  
+  A message bus compatible with Redux middlewares 
+  
+  
 #### Sockets and Adapters
 
 - **redux-socket**  
@@ -628,6 +633,11 @@
 - **redux-token-api-middleware**  
   https://github.com/eadmundo/redux-token-api-middleware  
   A redux middleware for making calls to APIs with token-based auth, automatically requesting a new token if needed. Actions can be calls to single or multiple API endpoints.
+  
+- **redux-routed-api-middleware**  
+  https://github.com/aliaksandr-master/redux-routed-api-middleware  
+  Redux api middleware for separate your api routes, api actions, and interceptors. provide state normalization, db reducer 
+  
   
 #### Analytics
 

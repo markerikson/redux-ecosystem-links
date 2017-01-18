@@ -52,6 +52,10 @@
   https://github.com/unbounce/react-redux-feature-flag  
   Feature flagging made easy for React and Redux
   
+- **redux-ghost**  
+  https://github.com/oliverbenns/redux-ghost  
+  Redux reducer and actions to get posts/users/tags from a Ghost Blog Public Api 
+  
   
 ### Page Interaction
 
@@ -112,6 +116,7 @@
   
 - **react-redux-i18n**  
   https://github.com/zoover/react-redux-i18n  
+  https://github.com/intpp/redux-i18n-parser  
   A binding library for redux to react-i18nify
   
 - **redux-nabu**  
@@ -264,6 +269,7 @@
   https://github.com/GetAmbassador/redux-clerk  
   Redux Clerk handles the async CRUD in your Redux App.  Provides a set of action creators for both async and synchronous actions, an extendable reducers, handles derived datasets and provides selectors for computing derived data, and handles optimistic updates.
   
+  
 #### Network
   
 - **redux-requests**  
@@ -289,6 +295,10 @@
 - **redux-track-request**  
   https://github.com/oconn/redux-track-request  
   Async request state management with Redux.  Aims to make working with async data and pagination (link headers support only) a breeze.
+  
+- **redux-request-state**  
+  https://github.com/veyo-care/redux-request-state  
+  Request state managment for redux and react. Handles "loading", "impossible to fetch data" and "already loaded" states easily.
   
   
 #### Undo-Redo

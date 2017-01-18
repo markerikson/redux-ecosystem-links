@@ -365,3 +365,7 @@
 - **redux-global-selectors**  
   https://github.com/guillaumearm/redux-global-selectors  
   A redux store enhancer adding selectors inside the store.
+  
+- **react-redux-connect-helpers**  
+  https://github.com/rongierlach/react-redux-connect-helpers  
+  A helpful set of functions for connecting redux state to react components.
