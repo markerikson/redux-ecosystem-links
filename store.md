@@ -182,6 +182,14 @@
   https://github.com/lttb/redux-wsat  
   This package allows to create middleware that transfer redux actions between client and server via websocket.  The main point is moving redux actions to the next level of services interactions and use it like messaging protocol between different service components, not only frontend. It can be useful for realtime applications with microservice architecture.
   
+- **rehub**  
+  https://github.com/oakfang/rehub  
+  A Redux middleware to share actions via WebRTC 
+  
+- **redux-peer-connection**  
+  https://github.com/jcblw/redux-peer-connection  
+  A set of redux tools that enable peer to peer connections between two browsers. It uses simple peer under the hood.
+  
 
 #### Store Change Subscriptions
 

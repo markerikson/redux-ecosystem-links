@@ -523,6 +523,10 @@
   https://github.com/ndhays/redux-cablecar  
   A Redux middleware to connect Redux with Rails 5 ActionCable 
   
+- **redux-socket.io-connect**
+  https://github.com/michaelmitchell/redux-socket.io-connect  
+  Relays Redux actions to the server, where reducer-like "handlers" can execute server code and dispatch actions back to the client.
+  
   
 #### Network Requests
 
@@ -637,6 +641,10 @@
 - **redux-routed-api-middleware**  
   https://github.com/aliaksandr-master/redux-routed-api-middleware  
   Redux api middleware for separate your api routes, api actions, and interceptors. provide state normalization, db reducer 
+  
+- **redux-callapi-middleware**  
+  https://github.com/Reaverart/redux-callapi-middleware  
+  Redux CallAPI Middleware to make API calls in generic and declarative way. 
   
   
 #### Analytics

@@ -10,6 +10,10 @@
 - **Mori**  
   https://github.com/swannodette/mori  
   ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript  
+  
+- **immutable-record**  
+  https://github.com/b-gran/immutable-record  
+  Typed immutable Records inspired by ImmutableJS, with automatic validation
 
 
 #### Immutable Data Structures (Object Freezing)
@@ -108,6 +112,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **immutable-helpers**  
   https://github.com/zammer/immutable-helpers  
   Set of helper functions to work with Redux reducers immutably 
+  
+- **plow**  
+  https://github.com/grebaldi/plow-js  
+  Functional operations on large immutable objects 
 
 #### Immutable/Redux Interop
 

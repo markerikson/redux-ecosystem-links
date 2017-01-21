@@ -136,3 +136,11 @@
 - **redux-form-reducer**  
   https://github.com/gigobyte/redux-form-reducer  
   Dead simple form reducer inspired by Angular.  This library provides an easy way to setup a reducer that has built-in handling for validation on field change and other nifty things.
+  
+- **validation-reselect**  
+  https://github.com/rdamborsky/validation-reselect  
+  Complex forms validation using reselect
+  
+- **simpler-redux-form**  
+  https://github.com/halt-hammerzeit/simpler-redux-form  
+  Just like redux-form but much simpler - aimed to be a minimal sane set of features compared to redux-form.

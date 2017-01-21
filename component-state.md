@@ -181,3 +181,7 @@
 - **redux-actuator**  
   https://github.com/molefrog/redux-actuator  
   Trigger events inside components by reacting on pure state changes. Actuator keeps you from writing component lifecycle hooks boilerplate code by providing declarative API.
+  
+- **react-redux-sub-app**  
+  https://github.com/rtkhanas/react-redux-sub-app  
+  A small component to allow defining Redux sub-apps within a component tree

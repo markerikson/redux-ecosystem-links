@@ -135,6 +135,10 @@
   https://github.com/ryandrewjohnson/react-localize-redux  
   Localization made easy for your React/Redux app
   
+- **redux-intl-connect**  
+  https://github.com/yeojz/redux-intl-connect  
+  Redux connect agnostic bindings for i18n with formatMessage-like API.
+  
   
 #### Pagination
   
@@ -268,6 +272,10 @@
 - **Redux Clerk**  
   https://github.com/GetAmbassador/redux-clerk  
   Redux Clerk handles the async CRUD in your Redux App.  Provides a set of action creators for both async and synchronous actions, an extendable reducers, handles derived datasets and provides selectors for computing derived data, and handles optimistic updates.
+  
+- **redux-supermodel**  
+  https://github.com/MrLeebo/redux-supermodel  
+  Streamline the effort it takes for you to communicate between your Redux Store and a REST-like API. This is a package of action creator functions and reducers built with axios and redux-promise-middleware that handle the resource state management for you... all you need is a URL!
   
   
 #### Network

@@ -155,3 +155,7 @@
 - **redux-pages**  
   https://github.com/ryo33/redux-pages  
   A middleware-friendly routing engine that encapsulates raw URL paths.
+  
+- **react-redux-saga-router**  
+  https://github.com/cellog/react-redux-saga-router  
+  Elegant powerful routing based on the simplicity of storing url as state

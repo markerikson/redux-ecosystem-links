@@ -160,6 +160,10 @@
 - **react-layer-stack**  
   https://github.com/fckt/react-layer-stack  
   Simple yet complete and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application and more.  Includes a Redux reducer that can track open layers.
+  
+- **react-redux-basic-modal**  
+  https://github.com/alexghenderson/react-redux-basic-modal  
+  Barebones modal framework implemented in react with redux.  You feed it a mapping of ids to React components, and when an open action is dispatched, it will display only that component.
 
 
 #### Grids and Tables
