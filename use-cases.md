@@ -233,10 +233,6 @@
   https://github.com/mcollis/redux-normalized-entities  
   Prewritten reducer and selectors for retrieving and updating normalized entities
   
-- **redux-entity**  
-  https://github.com/mikechabot/redux-entity  
-  redux-entity seeks to provide a scalable, predictable approach to maintaining domain entities in Redux. It's comprised of a reducer and a thunk.
-  
 - **redux-async-collection**  
   https://github.com/QubitProducts/redux-async-collection  
   Creates a reducer, immutable state and actions for an async collection
