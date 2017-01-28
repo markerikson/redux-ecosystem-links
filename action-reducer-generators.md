@@ -159,6 +159,11 @@
 - **redux-create**  
   https://github.com/marcelmokos/redux-create  
   Create reducers, action types and action creators
+  
+- **Edux**  
+  https://github.com/dogada/edux  
+  Edux is DRY version of Redux (no constants and switches, actions and reducers are generated from single source). Edux process actions with O(1) speed instead of Redux's O(N) where N is number of reducers. Edux and Redux works well together. Redux state is single source of truth on data level. Edux changes are single source of truth on logic level.  
+
 
 #### Network Requests and APIs
 
