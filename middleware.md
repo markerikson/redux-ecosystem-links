@@ -527,6 +527,14 @@
   https://github.com/michaelmitchell/redux-socket.io-connect  
   Relays Redux actions to the server, where reducer-like "handlers" can execute server code and dispatch actions back to the client.
   
+- **redux-socket.io-middleware**  
+  https://github.com/Vandise/redux-socket.io-middleware  
+  An implementation of a generic socket.io middleware. Implemented with the notion that the application will be utilizing mutliple sockets.
+  
+- **horizon-redux**  
+  https://github.com/shanecav/horizon-redux  
+  A small library that helps you connect Horizon.io with Redux in a flexible, non-intrusive way.
+  
   
 #### Network Requests
 

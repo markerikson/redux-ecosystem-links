@@ -273,6 +273,10 @@
   https://github.com/ivantsov/redux-subscriber  
   Subscribe to changes in any part of redux state
   
+- **redux-state-change-listener**  
+  https://github.com/sharingapples/redux-state-change-listener  
+  Simple library for listening on changes of specific parts of a redux state tree 
+  
   
 #### Other
 
@@ -331,3 +335,7 @@
 - **redux-injectable-store**  
   https://github.com/lelandrichardson/redux-injectable-store  
   Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.
+  
+- **react-chrome-redux**  
+  https://github.com/tshaddix/react-chrome-redux  
+  A set of utilities for building Redux applications in Google Chrome extensions.

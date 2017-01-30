@@ -369,3 +369,15 @@
 - **react-redux-connect-helpers**  
   https://github.com/rongierlach/react-redux-connect-helpers  
   A helpful set of functions for connecting redux state to react components.
+  
+- **react-redux-connect**  
+  https://github.com/afitiskin/react-redux-connect  
+  Connect react components to redux store using component static props 
+  
+- **redux-object-connect**  
+  https://github.com/alsiola/redux-object-connect  
+  Wraps the connect function from react-redux to enable passing an object in place of a mapStateToProps function. 
+  
+- **Redux-store-emitter**  
+  https://github.com/morulus/redux-store-emitter  
+  Decoration for redux, that gives him the ability to distribute events.

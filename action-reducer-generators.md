@@ -159,6 +159,11 @@
 - **redux-create**  
   https://github.com/marcelmokos/redux-create  
   Create reducers, action types and action creators
+  
+- **redux_helpers**  
+  https://github.com/CurtisHumphrey/redux_helpers  
+  Some small utilities to generate simple reducers and action creators
+  
 
 #### Network Requests and APIs
 
@@ -249,6 +254,10 @@
 - **redux-fetch-resource**  
   https://github.com/StickyCube/redux-fetch-resource  
   redux-fetch-resource is an attempt at a complete solution for making api requests in react/redux applications.
+  
+- **redux-restapi**  
+  https://github.com/ghalex/redux-restapi  
+  redux-restapi is an utility for integrating a REST api with Redux. It helps you, to easily integrate your calls to a REST api with your store. It generates actions and reducer for making the calls to the server and can easly be combined with your actions.
 
   
 #### Other Code Structures

@@ -139,6 +139,10 @@
   https://github.com/yeojz/redux-intl-connect  
   Redux connect agnostic bindings for i18n with formatMessage-like API.
   
+- **react-redux-multilingual**  
+  https://github.com/rmdort/react-redux-multilingual  
+  A simple and slim multi-lingual component for React with Redux without react-intl or react-i18n
+  
   
 #### Pagination
   
@@ -272,6 +276,18 @@
 - **redux-supermodel**  
   https://github.com/MrLeebo/redux-supermodel  
   Streamline the effort it takes for you to communicate between your Redux Store and a REST-like API. This is a package of action creator functions and reducers built with axios and redux-promise-middleware that handle the resource state management for you... all you need is a URL!
+  
+- **crudux**  
+  https://github.com/SpinGo/crudux  
+  Crudux is an attempt to dry up applications using Redux.  We noticed we kept rewriting the basic entity reducers/selectors. From those applications I've distilled some basic principals into crudux.  Keeps request metadata state, handles paging, doesn't mess with your entities.
+  
+- **erebus**  
+  https://github.com/lab009/erebus  
+  Dead-simple entity API actions for Redux
+  
+- **redux-patterns**  
+  https://github.com/piersadrian/redux-patterns  
+  A set of actions and reducers for CRUD REST handling
   
   
 #### Network

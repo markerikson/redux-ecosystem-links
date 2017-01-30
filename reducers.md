@@ -211,10 +211,22 @@
   https://github.com/chiefGui/reswitch  
   A small utility to help write reducers without switch statements.
   
+- **redux-unitary-reducer**  
+  https://github.com/rotaryden/redux-unitary-reducer  
+  Implements a reducers aggregator for Redux, where we have only one root reducer with additional management sugar, and simpler sub-handlers for action types.  Aimed to be faster alternative then redux.combineReducers()
+  
+- **redux-leaf**  
+  https://github.com/awayisblue/redux-leaf  
+  redux-leaf is a simple handy redux reducer util for you to generate a reducer by a state shape definition.
+  
+- **redux-merge-reducers**  
+  https://github.com/kuy/redux-merge-reducers  
+  A utility to chain reducers instead of combining them by slice.  Similar to `reduce-reducers`, but takes initial state into account.
+  
   
 #### Higher-Order Reducers
 
-**Related topics**: [Use Cases - Undo-Redo](./use-cases.md#undo-redo
+**Related topics**: [Use Cases - Undo-Redo](./use-cases.md#undo-redo)
 
 - **redux-ignore**  
   https://github.com/omnidan/redux-ignore  

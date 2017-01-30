@@ -182,6 +182,9 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/ory-am/editor  
   A digital content editor with a plugin architecture, built with React and Redux.
   
+- **SoundMoose**  
+  https://github.com/SoundMoose/SoundMoose  
+  SoundMoose is a non-commercial music platform where you can listen to and discover new music. Create an account to access saved playlists, add tracks to your favorites, and play a "Guess the song" game with your friends!  Code is based on TypeScript, Angular 2, ngrx/store, Ruby, and Django. 
   
 #### Other Application Lists
   

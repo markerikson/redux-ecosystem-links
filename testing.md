@@ -67,6 +67,10 @@
   https://github.com/RyanCCollins/redux-mock-provider  
   A helper utility that makes available a mock redux store and Provider for the purposes of testing connected components.
   
+- **redux-spec**  
+  https://github.com/frankrowe/redux-spec  
+  A library to validate a redux store against a json schema, and to generate sample data for testing purposes.
+  
   
 #### Reducers
 

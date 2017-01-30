@@ -242,6 +242,14 @@
   https://github.com/ChrisPenner/wisp-react-redux  
   A Toast/Notification Library that integrates seamlessly with React and Redux.
   
+- **react-redux-notifications**  
+  https://github.com/nicmesan/react-redux-notifications  
+  The simplest way to implement a notiffication system in your React-Redux app 
+  
+- **react-notification-system-redux**  
+  https://github.com/gor181/react-notification-system-redux  
+  Wraps react-notification-system into a component and exposes actions and reducer. 
+  
   
 #### Maps
 

@@ -180,10 +180,6 @@
   https://github.com/sebinsua/redux-saga-helpers  
   Error-handling for redux-saga.  This library provides a selection of small utilities to better handle sagas.
 
-- **redux-saga-router**  
-  https://github.com/jfairbank/redux-saga-router  
-  Handle route changes with redux-saga. Supports HTML5 `pushState` and hashes. Works with react-router too.
-  
 - **redux-saga-sugar**  
   https://github.com/jasonHzq/redux-saga-sugar  
   Utilities for redux-saga: polling, fetching, and more.

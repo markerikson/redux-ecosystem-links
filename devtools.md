@@ -232,6 +232,10 @@
   https://github.com/jarredwitt/redux-check  
   Lets you run validations against parts of your state or against the action that was dispatched.
   
+- **redux-freezer**  
+  https://github.com/tarodenberg/redux-freezer  
+  Redux middleware that freezes store state after each update.
+  
 
 #### Component Update Monitoring
 

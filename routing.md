@@ -159,3 +159,11 @@
 - **react-redux-saga-router**  
   https://github.com/cellog/react-redux-saga-router  
   Elegant powerful routing based on the simplicity of storing url as state
+  
+- **redux-saga-router**  
+  https://github.com/jfairbank/redux-saga-router  
+  Handle route changes with redux-saga. Supports HTML5 `pushState` and hashes. Works with react-router too.
+  
+- **router-redux-params**  
+  https://github.com/Darmikon/router-redux-params  
+  React router params inside redux store.
