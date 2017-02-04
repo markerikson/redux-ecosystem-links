@@ -190,6 +190,11 @@
   https://github.com/jcblw/redux-peer-connection  
   A set of redux tools that enable peer to peer connections between two browsers. It uses simple peer under the hood.
   
+- **react-redux-socket**  
+  https://github.com/trouve-antoine/react-redux-socket  
+  Lightweight library to handle redux actions at server side using sockets.  That means that: redux actions can be re-router to a server (instead of the redux reducers); a server can emit a redux action straight to the redux reducers.
+
+  
 
 #### Store Change Subscriptions
 
@@ -276,6 +281,10 @@
 - **redux-state-change-listener**  
   https://github.com/sharingapples/redux-state-change-listener  
   Simple library for listening on changes of specific parts of a redux state tree 
+  
+- **redux-detector**  
+  https://github.com/piotr-oles/redux-detector  
+  Redux Detector enhancer allows you to use state changes detectors with redux. Detector is a simple and pure function which compares two states and returns list of actions for some states configurations. It can be used for reacting on particular state transitions.
   
   
 #### Other

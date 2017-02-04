@@ -161,6 +161,10 @@
   https://github.com/ohjames/redux-thunktions  
   An FSA compatible redux thunk middleware ideal for use with redux-actions and/or redux-promise-middleware. 
   
+- **redux-cycles**  
+  https://github.com/cyclejs-community/redux-cycles  
+  Bring functional reactive programming to Redux using Cycle.js 
+  
   
 #### Redux-Saga extensions  
 

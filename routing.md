@@ -167,3 +167,7 @@
 - **router-redux-params**  
   https://github.com/Darmikon/router-redux-params  
   React router params inside redux store.
+  
+- **router-redux**  
+  https://github.com/subuta/router-redux  
+  A view-framework-agnostic router for Redux, with pushState/popState-based client side routing

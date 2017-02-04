@@ -79,6 +79,10 @@
   https://github.com/arashmilani/redux-promises-concluder  
   A Redux middleware to keep track of active promises and notify when all resolved. Useful in server side rendering of single page applications. 
   
+- **redux-p**  
+  https://github.com/fedor/redux-p  
+  redux-p middleware accepts action type in action.type and Promise in action.payload. It was made to made to replace redux-promise-middleware for React Native.
+  
   
 #### Timeouts and Delays
 
@@ -264,7 +268,10 @@
 - **redux-client-middleware**  
   https://github.com/intactile/redux-client-middleware  
   A redux middleware handling async client actions.  Acts like a combination of redux-thunk and a promise middleware.
-
+  
+- **redux-roll**  
+  https://github.com/vgabor/redux-roll  
+  Redux-roll lets you dispatch chained functions and promises, and also allow you to mix-and-match functions and promises together. 
 
 #### Action Grouping and Interception
 
@@ -534,6 +541,10 @@
 - **horizon-redux**  
   https://github.com/shanecav/horizon-redux  
   A small library that helps you connect Horizon.io with Redux in a flexible, non-intrusive way.
+  
+- **redfire**  
+  https://github.com/ThadeuLuz/redfire  
+  Microscopic Redux state + Firebase bindings 
   
   
 #### Network Requests

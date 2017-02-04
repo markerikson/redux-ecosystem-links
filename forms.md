@@ -66,7 +66,7 @@
   Redux-Autoform is an UI agnostic library for dynamically generating redux-form out of metadata.
   
 - **React Redux Local Form**  
-  https://github.com/jschr/react-redux-local-form  
+  https://github.com/jschr/react-redux-form-provider
   React components for building forms with a local Redux store for managing state.
   
 - **asasalad**  
@@ -148,3 +148,5 @@
 - **formred**  
   https://github.com/zewish/formred  
   The ergonomic React/Redux form library
+  
+  

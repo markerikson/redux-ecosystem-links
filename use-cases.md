@@ -90,6 +90,10 @@
 - **redux-query**  
   https://github.com/neilff/redux-query  
   a store enhancer for persisting application state into the address bar. This is useful for creating bookmarkable states in your Redux application.
+  
+- **redux-favicon**  
+  https://github.com/joshwcomeau/redux-favicon  
+  Redux middleware that lets you display notification badges in the favicon
 
   
 ### Internationalization
@@ -289,6 +293,18 @@
   https://github.com/piersadrian/redux-patterns  
   A set of actions and reducers for CRUD REST handling
   
+- **redux-normalizr-utils**  
+  https://github.com/andriichumak/redux-normalizr-utils  
+  A set of helpers when working with redux and normalizr.  Includes a pre-written reducer to apply updates to an "entities" slice.
+  
+- **entities-reducer**  
+  https://github.com/kwelch/entities-reducer  
+  Redux high order reducer for normalized flux-standard-actions.  Allows for updates to entities in state. Accepts custom reducers for further control.
+  
+- **redux-normalized-crud**  
+  https://github.com/sbrigham/redux-normalized-crud  
+  An attempt to standardize restful calls and responses within a growing redux application
+  
   
 #### Network
   
@@ -350,6 +366,11 @@
 - **redux-undo-redo**  
   https://github.com/PowToon/redux-undo-redo  
   This package takes a different approach about implementing undo-redo functionality. Instead of setting a reducer to be undoable, we'll define which actions are undoable and define a reverting action.
+  
+- **redux-dag-history**  
+  https://github.com/Microsoft/redux-dag-history  
+  https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
+  A redux middleware that provides an alternative take on application history. Independent threads of user exploration are tracked as separate "branches" in a state DAG (Directed Acyclic Graph) inspired roughly by Git version control.
   
   
 #### Authentication
@@ -416,3 +437,7 @@
 - **marionette-redux**  
   https://github.com/AndrewHenderson/marionette-redux  
   Marionette bindings for Redux.
+
+- **backbone-redux-migrator**  
+  https://github.com/naugtur/backbone-redux-migrator  
+  A tool for migrating from Backbone stack to react+redux without disturbing the project or putting it on hold for a rewrite.

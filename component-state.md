@@ -185,3 +185,11 @@
 - **react-redux-sub-app**  
   https://github.com/rtkhanas/react-redux-sub-app  
   A small component to allow defining Redux sub-apps within a component tree
+  
+- **react-redux-combine-components**  
+  https://github.com/simlrh/react-redux-combine-components  
+  With React Redux Combine Components you can assign components to different properties of the state tree the same way you do with reducers. This aids reusability, as components need to know nothing about global state, and improves performance as they are only rerendered on change to their substree, instead of the global state.
+  
+- **redux-fragments**  
+  https://github.com/Talamond/redux-fragments  
+  A helper library for managing and reusing redux state, actions and react components. 

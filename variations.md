@@ -381,3 +381,7 @@
 - **Redux-store-emitter**  
   https://github.com/morulus/redux-store-emitter  
   Decoration for redux, that gives him the ability to distribute events.
+  
+- **redux-synapse**  
+  https://github.com/glitch100/redux-synapse  
+  redux-synapse is a library that is heavily inspired by react-redux and acts as an alternative for the binding of react components to the store in a more explicit manner. The primary difference is the nature in which each component must declare explicity what updates should affect the component via its higher order component; a synapse.
