@@ -216,8 +216,8 @@
   Implements a reducers aggregator for Redux, where we have only one root reducer with additional management sugar, and simpler sub-handlers for action types.  Aimed to be faster alternative then redux.combineReducers()
   
 - **redux-leaf**  
-  https://github.com/awayisblue/redux-leaf  
-  redux-leaf is a simple handy redux reducer util for you to generate a reducer by a state shape definition.
+  https://github.com/awayisblue/redux-shape  
+  A simple util for generating redux action & reducer by a state shape definition. 
   
 - **redux-merge-reducers**  
   https://github.com/kuy/redux-merge-reducers  

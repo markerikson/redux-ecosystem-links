@@ -200,6 +200,7 @@
   https://github.com/IngloriousCoderz/react-property-grid  
   A react/redux implementation of an editable property grid.
   
+  
 #### Notifications
   
 - **re-notif**  
@@ -279,6 +280,10 @@
 - **redux-fine-uploader**  
   https://github.com/feltnerm/redux-fine-uploader  
   Enables FineUploader to store its all of its state with Redux 
+  
+- **redux-dropzone-component**  
+  https://github.com/cchrysostomou/redux-dropzone-component  
+  Wraps the dropzone.js element in a global store to allow for custom rendering of components and passing of dropzone component 
   
   
 #### Data Fetching
