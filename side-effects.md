@@ -91,7 +91,7 @@
   
 - **redux-haiku**  
   https://github.com/xaviervia/redux-haiku  
-  redux-haiku proposes is that any side-effect can be treated just like a DOM side-effect–that is, it can be done as the result of a state change. The state change can be identified by running a diff between the new and the old states on the segment of the state that the side-effect cares about, in the meanwhile reusing established patterns such as selectors, mapStateToProps, mapDispatchToProps, etc.
+  redux-haiku proposes is that any side-effect can be treated just like a DOM side-effectâ€“that is, it can be done as the result of a state change. The state change can be identified by running a diff between the new and the old states on the segment of the state that the side-effect cares about, in the meanwhile reusing established patterns such as selectors, mapStateToProps, mapDispatchToProps, etc.
   
 - **redux-elmish**  
   https://github.com/minedeljkovic/redux-elmish  
@@ -165,6 +165,9 @@
   https://github.com/cyclejs-community/redux-cycles  
   Bring functional reactive programming to Redux using Cycle.js 
   
+- **react-redux-controller**  
+  https://github.com/artsy/react-redux-controller  
+  Library for creating a controller layer to link React and Redux, on top of react-redux.
   
 #### Redux-Saga extensions  
 
