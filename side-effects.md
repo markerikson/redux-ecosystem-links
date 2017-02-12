@@ -165,6 +165,10 @@
   https://github.com/cyclejs-community/redux-cycles  
   Bring functional reactive programming to Redux using Cycle.js 
   
+- **redux-executor**  
+  https://github.com/piotr-oles/redux-executor  
+  Redux enhancer for handling side effects.
+  
   
 #### Redux-Saga extensions  
 

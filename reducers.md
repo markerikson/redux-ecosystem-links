@@ -223,6 +223,14 @@
   https://github.com/kuy/redux-merge-reducers  
   A utility to chain reducers instead of combining them by slice.  Similar to `reduce-reducers`, but takes initial state into account.
   
+- **rezz**  
+  https://github.com/EugeneZ/rezz  
+  Composable, chainable reducer toolkit for redux 
+  
+- **flat-combine-reducers**  
+  https://github.com/SanCoder-Q/flat-combine-reducers  
+  Turns multiple reducer functions, into a single reducer function, with the support of declaring the initial states as default parameters.
+  
   
 #### Higher-Order Reducers
 
@@ -316,6 +324,10 @@
   https://github.com/brianneisler/redux-rereducers  
   A higher order reducer for performing state calculations after the initial reduction has completed.
   
+- **higher-order-reducers**  
+  https://github.com/Nehle/higher-order-reducers  
+  A simple utility belt library for building and composing redux reducers using higher order functions.
+  
   
 #### Advanced Reducer Use Cases
 
@@ -397,6 +409,14 @@
 - **Paradux**  
   https://github.com/asteridux/paradux  
   A small library to enable dynamic registering of reducers.
+  
+- **redux-store-validator**  
+  https://github.com/alixander/redux-store-validator  
+  Wrapper to add validation to your Redux reducers.
+  
+- **redux-reducer-builder**  
+  https://github.com/anyx/redux-reducer-builder  
+  A Redux root reducer builder exactly like combineReducers, but with opportunity to create root modules who have access to other modules
   
   
 #### State Machines

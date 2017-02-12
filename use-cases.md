@@ -56,6 +56,10 @@
   https://github.com/oliverbenns/redux-ghost  
   Redux reducer and actions to get posts/users/tags from a Ghost Blog Public Api 
   
+- **redux-selections**  
+  https://github.com/zincli/redux-selections  
+  Reusable actions and reducers for tracking items selections
+  
   
 ### Page Interaction
 
@@ -146,6 +150,10 @@
 - **react-redux-multilingual**  
   https://github.com/rmdort/react-redux-multilingual  
   A simple and slim multi-lingual component for React with Redux without react-intl or react-i18n
+  
+- **redux-translations**  
+  https://github.com/kununu/redux-translations  
+  A library for managing translations with redux. It exposes a config function, one action and one reducer.
   
   
 #### Pagination
@@ -305,6 +313,14 @@
   https://github.com/sbrigham/redux-normalized-crud  
   An attempt to standardize restful calls and responses within a growing redux application
   
+- **redux-simple-resource**  
+  https://github.com/jmeas/redux-simple-resource  
+  A powerful Redux system for managing resources 
+  
+- **redux-query**  
+  https://github.com/amplitude/redux-query  
+  Library for React+Redux apps to query remote data 
+  
   
 #### Network
   
@@ -335,6 +351,10 @@
 - **redux-request-state**  
   https://github.com/veyo-care/redux-request-state  
   Request state managment for redux and react. Handles "loading", "impossible to fetch data" and "already loaded" states easily.
+  
+- **redux-api-mapper**  
+  https://github.com/gugamm/redux-api-mapper  
+  A small but powerful utility for mapping any api with a config definition and returning an object with methods for accessing your api. It will automatically dispatch actions for the store based on the state of the request.
   
   
 #### Undo-Redo

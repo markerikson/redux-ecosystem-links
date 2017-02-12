@@ -131,6 +131,10 @@
 - **redux-store-sessionstorage**  
   https://github.com/ppallesws/redux-store-sessionstorage  
   Store enhancer that syncs (a subset) of your Redux store state to sessionstorage. 
+  
+- **record-redux**  
+  https://github.com/GA-MO/record-redux  
+  Record your action to local storage 
 
 
 #### Synchronization

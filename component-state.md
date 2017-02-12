@@ -193,3 +193,7 @@
 - **redux-fragments**  
   https://github.com/Talamond/redux-fragments  
   A helper library for managing and reusing redux state, actions and react components. 
+  
+- **redux-container**  
+  https://github.com/ali322/redux-container  
+  Helps create a store for individual components

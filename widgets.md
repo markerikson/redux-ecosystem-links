@@ -251,6 +251,10 @@
   https://github.com/gor181/react-notification-system-redux  
   Wraps react-notification-system into a component and exposes actions and reducer. 
   
+- **react-redux-sweetalert**  
+  https://github.com/chentsulin/react-redux-sweetalert  
+  SweetAlert with Redux-style actions, reducers API
+  
   
 #### Maps
 

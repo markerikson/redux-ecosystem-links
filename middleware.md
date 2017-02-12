@@ -83,6 +83,10 @@
   https://github.com/fedor/redux-p  
   redux-p middleware accepts action type in action.type and Promise in action.payload. It was made to made to replace redux-promise-middleware for React Native.
   
+- **redux-submission**  
+  https://github.com/ajoslin/redux-submission  
+  Pending and error states for promises in redux.  This heavily borrows from redux-pending, with error support added.
+  
   
 #### Timeouts and Delays
 
@@ -371,6 +375,9 @@
   https://github.com/oskarhane/suber  
   A message bus compatible with Redux middlewares 
   
+- **redux-array**  
+  https://github.com/vgabor/redux-array  
+  Redux middleware to dispatch array of actions
   
 #### Sockets and Adapters
 
@@ -665,6 +672,10 @@
   https://github.com/Reaverart/redux-callapi-middleware  
   Redux CallAPI Middleware to make API calls in generic and declarative way. 
   
+- **u5-redux-fetch**  
+  https://github.com/Chris927/u5-redux-fetch  
+  Redux middleware to fetch from a GraphQL API
+  
   
 #### Analytics
 
@@ -796,6 +807,10 @@
 - **redux-custom-middlewares**  
   https://github.com/guillaumearm/redux-custom-middlewares  
   Middlewares inside your FSA actions
+  
+- **rex-cookies**  
+  https://github.com/linear-bits/rex-cookies  
+  React Redux cookie middleware 
   
 - **redux-middlewares**  
   https://github.com/ryo33/redux-middlewares  

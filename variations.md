@@ -232,11 +232,7 @@
 - **redux-fp**  
   https://github.com/rvikmanis/redux-fp  
   Functional programming helpers for Redux.  Uses curried "action-first" reducers, known as "updaters", similar to Elm.
-  
-- **redux-unitary-reducer**  
-  https://github.com/rotaryden/redux-unitary-reducer  
-  Implements a reducers aggregator for Redux, where we have only one root reducer with additional management sugar, and simpler sub-handlers for action types.  May not conform to Redux philosophy.
-  
+ 
 - **Relax**
   https://github.com/jayflaherty75/relax  
   Relax provides simple and familiar yet scalable organization of your React/Redux applications.
