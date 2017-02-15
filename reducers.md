@@ -239,6 +239,10 @@
 - **redux-ignore**  
   https://github.com/omnidan/redux-ignore  
   Higher-order reducer to ignore redux actions
+
+- **redux-store-validator**  
+  https://github.com/alixander/redux-store-validator  
+  Add validation to your Redux reducers
   
 - **redux-recycle**  
   https://github.com/omnidan/redux-recycle  
