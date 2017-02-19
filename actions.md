@@ -148,6 +148,10 @@
   https://github.com/ariesjia/redux-actions-helper  
   Utilities to create plain actions, actions with payloads, and actions that reference state.
   
+- **create-async-action**  
+  https://github.com/iamolegga/create-async-action  
+  Wrapper for redux-actions createAction function for better interaction with redux-promise-middleware
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

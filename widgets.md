@@ -495,3 +495,11 @@
 - **tectonic**  
   https://github.com/tonyhb/tectonic  
   A declarative REST data loader for React/Redux
+  
+- **redux-quest**  
+  https://github.com/djgrant/redux-quest  
+  Declarative data fetching for universal Redux apps.
+  
+- **redux-query**  
+  https://github.com/amplitude/redux-query  
+  A library for querying and managing network state in React/Redux applications.  Lets you declare your network dependencies right next to your React components.

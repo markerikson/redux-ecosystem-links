@@ -167,3 +167,7 @@
 - **Redux Saga Test Engine**  
   https://github.com/TimBuckley/redux-saga-test-engine  
   Collects the actions dispatched by your sagas for easy testing 
+  
+- **redux-logic-test**  
+  https://github.com/jeffbski/redux-logic-test  
+  redux-logic test utilities to facilitate the testing of logic

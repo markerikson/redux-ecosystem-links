@@ -87,6 +87,10 @@
   https://github.com/ajoslin/redux-submission  
   Pending and error states for promises in redux.  This heavily borrows from redux-pending, with error support added.
   
+- **redux-promise-bind**  
+  https://github.com/machnicki/redux-promise-bind  
+  A promise middleware that dispatches start/success/error actions, plus metadata
+  
   
 #### Timeouts and Delays
 
@@ -169,6 +173,10 @@
 - **redux-when**  
   https://github.com/jameslnewell/redux-when  
   Redux middleware for delaying dispatch of an action until a condition evaluates to true.
+  
+- **redux-memoize**  
+  https://github.com/kouhin/redux-memoize  
+  Memoize action creator for redux, and let you dispatch common/thunk/promise/async action whenever you want to, without worrying about duplication.  Useful for de-duplicating requests. 
   
   
 #### Other Async Actions
@@ -700,10 +708,7 @@
   Redux middleware that integrates Rollbar. If exception happens during the action, it will send information to Rollbar
   
 - **redux-reporter**  
-  https://github.com/ezekielchentnik/redux-reporter  
-  https://github.com/ezekielchentnik/redux-adobe-dtm  
-  https://github.com/ezekielchentnik/redux-newrelic  
-  https://github.com/ezekielchentnik/redux-optimizely  
+  https://github.com/northwesternmutual/redux-reporter  
   Redux middleware for reporting actions to third party APIs. Extremely useful for analytics and error handling.  Author has specialized versions for Adobe DTM, NewRelic, and Optimizely.
   
 - **redux-gtm**  

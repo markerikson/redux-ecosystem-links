@@ -418,6 +418,10 @@
   https://github.com/anyx/redux-reducer-builder  
   A Redux root reducer builder exactly like combineReducers, but with opportunity to create root modules who have access to other modules
   
+- **redux-tween**  
+  https://github.com/devgru/redux-tween  
+  Redux Tween provides a way to tween state in Redux store smoothly, interpolating states in between.
+  
   
 #### State Machines
 

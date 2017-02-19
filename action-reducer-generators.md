@@ -258,6 +258,10 @@
 - **redux-restapi**  
   https://github.com/ghalex/redux-restapi  
   redux-restapi is an utility for integrating a REST api with Redux. It helps you, to easily integrate your calls to a REST api with your store. It generates actions and reducer for making the calls to the server and can easly be combined with your actions.
+  
+- **magic-redux-generator**  
+  https://github.com/luisfuertes/magic-redux-generator  
+  Utils to generate types and action creators for various network requests
 
   
 #### Other Code Structures
@@ -289,3 +293,7 @@
 - **re-ducks**  
   https://github.com/alexnm/re-ducks  
   An attempt to extend the original proposal for redux modular architecture
+
+- **reredeux**  
+  https://github.com/MrRacoon/reredeux  
+  Generate redux state trees, selectors, and actions, using a variation on ducks

@@ -98,6 +98,10 @@
 - **redux-favicon**  
   https://github.com/joshwcomeau/redux-favicon  
   Redux middleware that lets you display notification badges in the favicon
+  
+- **buffer-redux-hover**  
+  https://github.com/bufferapp/buffer-redux-hover  
+  Keep React component hover state in redux
 
   
 ### Internationalization
@@ -355,6 +359,10 @@
 - **redux-api-mapper**  
   https://github.com/gugamm/redux-api-mapper  
   A small but powerful utility for mapping any api with a config definition and returning an object with methods for accessing your api. It will automatically dispatch actions for the store based on the state of the request.
+  
+- **redux-request-state**  
+  https://github.com/gustavohenke/redux-request-state  
+  Redux utilities to deal with HTTP request states (loading, succeeded, failed).
   
   
 #### Undo-Redo

@@ -135,6 +135,10 @@
 - **record-redux**  
   https://github.com/GA-MO/record-redux  
   Record your action to local storage 
+  
+- **redux-react-session**  
+  https://github.com/bernabe9/redux-react-session  
+  Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.
 
 
 #### Synchronization

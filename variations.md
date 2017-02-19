@@ -381,3 +381,15 @@
 - **redux-synapse**  
   https://github.com/glitch100/redux-synapse  
   redux-synapse is a library that is heavily inspired by react-redux and acts as an alternative for the binding of react components to the store in a more explicit manner. The primary difference is the nature in which each component must declare explicity what updates should affect the component via its higher order component; a synapse.
+  
+- **react-redux-propmap**  
+  https://github.com/markkup/react-redux-propmap  
+  Introduces a PropMap class to make connecting state and actions to components cleaner
+  
+- **redux-in-place**  
+  https://github.com/gartz/redux-in-place  
+  A component way to integrate Redux and React. Provides a easy way to make components depend on Redux store structure, by creating it on-the-fly. 
+  
+- **redux-ddd**  
+  https://github.com/alessiodm/redux-ddd  
+  Redux bindings inspired by Domain Driven Design principles.  Along the lines of react-redux, redux-ddd provides Redux bindings for generic domain-specific components.
