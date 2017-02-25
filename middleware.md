@@ -178,6 +178,10 @@
   https://github.com/kouhin/redux-memoize  
   Memoize action creator for redux, and let you dispatch common/thunk/promise/async action whenever you want to, without worrying about duplication.  Useful for de-duplicating requests. 
   
+- **redux-bus**  
+  https://github.com/challenger532/redux-bus  
+  A middleware for redux that makes it easy to create buffers with handlers
+  
   
 #### Other Async Actions
   
@@ -561,6 +565,14 @@
   https://github.com/ThadeuLuz/redfire  
   Microscopic Redux state + Firebase bindings 
   
+- **Redux-Firebase-Actions**  
+  https://github.com/distilagency/Redux-Firebase-Actions  
+  A set of Redux actions and accompanying reducer for Firebase
+  
+- **Django Redux**  
+  https://github.com/fcurella/django_redux  
+  A re-usable bridge between Django channels and Redux.
+  
   
 #### Network Requests
 
@@ -684,6 +696,10 @@
   https://github.com/Chris927/u5-redux-fetch  
   Redux middleware to fetch from a GraphQL API
   
+- **redux-fetch-middleware**  
+  https://github.com/travi/redux-fetch-middleware  
+  middleware to enable async data fetching as the result of a dispatched action
+
   
 #### Analytics
 
@@ -711,9 +727,9 @@
   https://github.com/northwesternmutual/redux-reporter  
   Redux middleware for reporting actions to third party APIs. Extremely useful for analytics and error handling.  Author has specialized versions for Adobe DTM, NewRelic, and Optimizely.
   
-- **redux-gtm**  
-  https://github.com/rangle/redux-gtm  
-  Synchronize Redux actions with Google Tag Manager events
+- **redux-beacon**  
+  https://github.com/rangle/redux-beacon  
+  Analytics integration for Redux and ngrx/store.  Use with React, RN, and Angular. Send analytics to Google Analytics, Google Tag Manager, Segment.io, Amplitude, and more.
   
   
 #### Data Management
@@ -824,3 +840,7 @@
 - **redux-scraper**  
   https://github.com/therewillbecode/redux-scraper  
   Web scraping middleware for Redux using Cheerio and Axios 
+  
+- **redux-dynamic-middlewares**  
+  https://github.com/pofigizm/redux-dynamic-middlewares  
+  Allows adding or removing redux middlewares dynamically

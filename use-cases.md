@@ -325,6 +325,10 @@
   https://github.com/amplitude/redux-query  
   Library for React+Redux apps to query remote data 
   
+- **restful-redux**  
+  https://github.com/jhudson8/restful-redux  
+  REST oriented action creators, reducers and model utilities to DRY up boilerplate XHR functionality.
+  
   
 #### Network
   
@@ -399,6 +403,10 @@
   https://github.com/Microsoft/redux-dag-history  
   https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
   A redux middleware that provides an alternative take on application history. Independent threads of user exploration are tracked as separate "branches" in a state DAG (Directed Acyclic Graph) inspired roughly by Git version control.
+  
+- **redux-branchable**  
+  https://github.com/morkl/redux-branchable  
+  A simple reducer enhancer for redux which enables branching time travel. All actions are saved, time travel is possible and encouraged, and any actions dispatched from a historic state result in a new branch being created.
   
   
 #### Authentication

@@ -171,3 +171,7 @@
 - **router-redux**  
   https://github.com/subuta/router-redux  
   A view-framework-agnostic router for Redux, with pushState/popState-based client side routing
+  
+- **redux-url**  
+  https://github.com/jedirandy/redux-url  
+  A redux middleware that does one simple job: matches a url pattern and dispatch an action.

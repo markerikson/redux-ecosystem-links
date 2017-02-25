@@ -231,6 +231,10 @@
   https://github.com/SanCoder-Q/flat-combine-reducers  
   Turns multiple reducer functions, into a single reducer function, with the support of declaring the initial states as default parameters.
   
+- **reducer-matching**  
+  https://github.com/IsTheJack/reducer-matching  
+  A functional redux util to replace the switch case statement.
+  
   
 #### Higher-Order Reducers
 
@@ -440,3 +444,7 @@
 - **redux-state-machine**  
   https://github.com/realb0t/redux-state-machine  
   Wraps the javascript-state-machine library for use as a Redux reducer.
+  
+- **easy-redux-fsm**  
+  https://github.com/andrewosh/easy-redux-fsm  
+  Specify action creators as a state/transition graph

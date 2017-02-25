@@ -197,3 +197,16 @@
 - **redux-container**  
   https://github.com/ali322/redux-container  
   Helps create a store for individual components
+  
+- **prism**  
+  https://github.com/salsita/prism  
+  React / Redux action composition made simple, using the action wrapping approach from Elm. (Formerly Redux-Elm)
+  
+- **redux-scope-helpers**  
+  https://github.com/georgeawwad/redux-scope-helpers  
+  Functions for generating scoped action creators and reducers
+  
+- **redux-atom**
+  https://github.com/bulicmatko/redux-atom  
+  https://github.com/bulicmatko/react-redux-atom  
+  Small utilities to generate encapsulated Redux logic and connected React components

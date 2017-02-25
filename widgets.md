@@ -164,6 +164,10 @@
 - **react-redux-basic-modal**  
   https://github.com/alexghenderson/react-redux-basic-modal  
   Barebones modal framework implemented in react with redux.  You feed it a mapping of ids to React components, and when an open action is dispatched, it will display only that component.
+  
+- **react-material-promise-dialog**  
+  https://github.com/nsuthar0914/react-material-promise-dialog  
+  Promise based alert and confirm dialogs using react, redux and material-ui 
 
 
 #### Grids and Tables
@@ -503,3 +507,15 @@
 - **redux-query**  
   https://github.com/amplitude/redux-query  
   A library for querying and managing network state in React/Redux applications.  Lets you declare your network dependencies right next to your React components.
+  
+- **react-prepare**  
+  https://github.com/elierotenberg/react-prepare  
+  react-prepare allows you to have you deeply nested components with asynchronous dependencies, and have everything just work with server-side rendering.
+  
+- **redux-async-load**  
+  https://github.com/Pop-Code/redux-async-load  
+  This module merges the logic of loading data on the client side and the server side.
+  
+- **redux-ready**  
+  https://github.com/djgrant/redux-ready  
+  Enhances your redux store with a store.ready() method, which resolves once all promises dispatched into the store are fulfilled.  Very handy for server rendering redux applications that initialise with async actions.

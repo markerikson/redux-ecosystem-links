@@ -139,6 +139,10 @@
 - **redux-react-session**  
   https://github.com/bernabe9/redux-react-session  
   Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.
+  
+- **Redux Phoenix**  
+  https://github.com/brainhub-adam/redux-phoenix  
+  Restore redux state from previous sessions like a phoenix from ashes.
 
 
 #### Synchronization
@@ -202,7 +206,9 @@
   https://github.com/trouve-antoine/react-redux-socket  
   Lightweight library to handle redux actions at server side using sockets.  That means that: redux actions can be re-router to a server (instead of the redux reducers); a server can emit a redux action straight to the redux reducers.
 
-  
+- **redbone**  
+  https://github.com/ya-kostik/redbone  
+  Library for client -> server -> client redux dispatching
 
 #### Store Change Subscriptions
 
@@ -294,6 +300,9 @@
   https://github.com/piotr-oles/redux-detector  
   Redux Detector enhancer allows you to use state changes detectors with redux. Detector is a simple and pure function which compares two states and returns list of actions for some states configurations. It can be used for reacting on particular state transitions.
   
+- **redux-subscribe-reselect**  
+  https://github.com/tswaters/redux-subscribe-reselect  
+  A tiny utility to subscribe to state changes returned from a reselect selector 
   
 #### Other
 

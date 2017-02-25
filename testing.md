@@ -71,6 +71,10 @@
   https://github.com/frankrowe/redux-spec  
   A library to validate a redux store against a json schema, and to generate sample data for testing purposes.
   
+- **fuuka**  
+  https://github.com/acrees/fuuka  
+  A mock store for testing redux applications 
+  
   
 #### Reducers
 
