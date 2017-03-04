@@ -38,4 +38,5 @@ You may also be interested in my [React/Redux tutorials and resources collection
 
 - [Applications and Examples](apps-and-examples.md)
 - [Project Scaffolding and CLIs](project-scaffolding.md)
+- [Library Integration and Bindings](./library-integration.md)
 - [Alternate Approaches and Variations](variations.md)
