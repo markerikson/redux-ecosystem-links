@@ -393,3 +393,11 @@
 - **redux-ddd**  
   https://github.com/alessiodm/redux-ddd  
   Redux bindings inspired by Domain Driven Design principles.  Along the lines of react-redux, redux-ddd provides Redux bindings for generic domain-specific components.
+  
+- **datavan**  
+  https://github.com/ericfong/datavan  
+  Define your collections layer over redux state, with mixins to fetch, submit changes to your server. Wraps Redux in a Mongo collection interface.
+  
+- **React Redux Connected**  
+  https://github.com/jimmyhmiller/react-redux-connected  
+  React Redux Connected is an opinionated layer on top of react-redux that provides a simple props driven way to connect components.

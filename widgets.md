@@ -129,6 +129,10 @@
 - **react-scroll-collapse**  
   https://github.com/danhaggard/react-scroll-collapse  
   React/redux wrappers for auto-scrolling react-collapse components
+  
+- **react-redux-layout**  
+  https://github.com/skidding/react-redux-layout  
+  Unleash your creativity with dynamic layouts!  Best suited for unconventional layouts, when the DOM is treated more like a canvas than a document. Yay for games, presentations and other full-screen experiences. Nay for articles, forums, e-commerce. YMMV.
 
 
 #### Modals
@@ -259,6 +263,10 @@
   https://github.com/chentsulin/react-redux-sweetalert  
   SweetAlert with Redux-style actions, reducers API
   
+- **redux-notice**  
+  https://github.com/navjobs/redux-notice  
+  Display iOS style notices in your redux apps 
+  
   
 #### Maps
 
@@ -292,6 +300,10 @@
 - **redux-dropzone-component**  
   https://github.com/cchrysostomou/redux-dropzone-component  
   Wraps the dropzone.js element in a global store to allow for custom rendering of components and passing of dropzone component 
+  
+- **fileup-redux**  
+  https://github.com/ExtPoint/fileup-redux  
+  Redux adapter to fileup-core
   
   
 #### Data Fetching
@@ -519,3 +531,7 @@
 - **redux-ready**  
   https://github.com/djgrant/redux-ready  
   Enhances your redux store with a store.ready() method, which resolves once all promises dispatched into the store are fulfilled.  Very handy for server rendering redux applications that initialise with async actions.
+  
+- **react-arc**  
+  https://github.com/Sunny-fr/react-arc  
+  React Abstract Redux Component: A set of components to manage collection or model from a REST service

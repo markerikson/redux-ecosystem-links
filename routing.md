@@ -175,3 +175,7 @@
 - **redux-url**  
   https://github.com/jedirandy/redux-url  
   A redux middleware that does one simple job: matches a url pattern and dispatch an action.
+
+- **i-redux-navigation**  
+  https://github.com/ebaranov/i-redux-navigation  
+  Navigation solution for redux applications 

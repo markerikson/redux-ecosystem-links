@@ -200,6 +200,14 @@
   https://github.com/Dash-OS/redux-saga-process  
   Redux Saga Process (RSP) introduces an opinionated pattern for building modular, clean, and powerful redux-sagas by running them within ES6 classes and providing them with an encapsulated, simple, and powerful API. 
   
+- **redux-saga-kit**  
+  https://github.com/wix-private/redux-saga-kit  
+  Utilities to help create and manage sagas.
+  
+- **redux-saga-watch-actions**  
+  https://github.com/heygrady/redux-saga-watch-actions  
+  Helper methods for managing sagas that respond to actions. Similar in style to redux-actions.
+  
   
 #### Redux-Effects extensions
 

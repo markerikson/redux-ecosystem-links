@@ -288,6 +288,11 @@
 - **redux-roll**  
   https://github.com/vgabor/redux-roll  
   Redux-roll lets you dispatch chained functions and promises, and also allow you to mix-and-match functions and promises together. 
+  
+- **redux-async-thunk**  
+  https://github.com/kutlugsahin/redux-async-thunk  
+  Expension for Redux thunk middleware to support AsyncFunction and GeneratorFunction types to enable async/await generator/yield syntax 
+  
 
 #### Action Grouping and Interception
 
@@ -574,6 +579,7 @@
   A re-usable bridge between Django channels and Redux.
   
   
+  
 #### Network Requests
 
 - **redux-request**  
@@ -668,8 +674,8 @@
   https://github.com/oscarekholm/redux-rest-easy  
   A simple Redux middleware for declarative data fetching - helps you REST easy
   
-- **redux-api-promise-middleware**  
-  https://github.com/restlessbit/redux-api-promise-middleware  
+- **redux-rest-api**  
+  https://github.com/restlessbit/redux-rest-api  
   Middleware that gives you a uniform way to define API actions in Redux applications.
   
 - **redux-middleware-async**  
@@ -762,6 +768,10 @@
   https://github.com/NapalmDeath/redux-schema-middleware  
   Using NormalizrJS to normalize redux action payload
   
+- **realm-redux-snapshot-middleware**  
+  https://github.com/sargant/realm-redux-snapshot-middleware  
+  Simple redux middleware that recursively converts action payloads of type Realm.Result or Realm.Object into plain objects and arrays.
+  
   
 #### Other
   
@@ -844,3 +854,7 @@
 - **redux-dynamic-middlewares**  
   https://github.com/pofigizm/redux-dynamic-middlewares  
   Allows adding or removing redux middlewares dynamically
+  
+- **redux-ipc-electron**  
+  https://github.com/Dilatorily/redux-ipc-electron  
+  This library uses Electron's IPC to synchronizes the Redux store between the main process and the renderer process(es).

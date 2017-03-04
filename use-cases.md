@@ -36,13 +36,20 @@
   https://github.com/recruit-tech/redux-page-scope  
   Page scope state management for Redux
   
-- **redux-undo-redo**  
-  https://github.com/welldone-software/redux-undo-redo  
-  Prebuilt undo-redo handling reducer and middleware.  Define which actions are undoable and how to revert them.
-  
 - **redux-geojson**  
   https://github.com/tannerjt/redux-geojson  
   A reducer that allows for the addition and removal of features features from a GeoJSON object.
+
+- **redux-ghost**  
+  https://github.com/oliverbenns/redux-ghost  
+  Redux reducer and actions to get posts/users/tags from a Ghost Blog Public Api 
+  
+- **redux-selections**  
+  https://github.com/zincli/redux-selections  
+  Reusable actions and reducers for tracking items selections
+  
+  
+#### Feature Flags
   
 - **react-redux-feature-toggles**  
   https://github.com/filip-ph-johansson/react-redux-feature-toggles  
@@ -52,13 +59,9 @@
   https://github.com/unbounce/react-redux-feature-flag  
   Feature flagging made easy for React and Redux
   
-- **redux-ghost**  
-  https://github.com/oliverbenns/redux-ghost  
-  Redux reducer and actions to get posts/users/tags from a Ghost Blog Public Api 
-  
-- **redux-selections**  
-  https://github.com/zincli/redux-selections  
-  Reusable actions and reducers for tracking items selections
+- **redux-feature-flags**  
+  https://github.com/zhewison/redux-feature-flags  
+  React/Redux Feature Flags
   
   
 ### Page Interaction
@@ -102,6 +105,10 @@
 - **buffer-redux-hover**  
   https://github.com/bufferapp/buffer-redux-hover  
   Keep React component hover state in redux
+  
+- **redux-window**  
+  https://github.com/bdmason/redux-window  
+  Responsively set browser window size in redux state.
 
   
 ### Internationalization
@@ -329,6 +336,22 @@
   https://github.com/jhudson8/restful-redux  
   REST oriented action creators, reducers and model utilities to DRY up boilerplate XHR functionality.
   
+- **enty**  
+  https://github.com/blueflag/enty  
+  Normalized Entity Management for Redux. Instead of you manually storing requested data, Enty uses schemas to describe relationships and stores the data as normalized entities.
+  
+- **redux-collect**  
+  https://github.com/cpnota/redux-collect  
+  A utility for converting Redux reducers, selectors, and action creators to handle a collection.
+  
+- **redux-retrieval**  
+  https://github.com/zincli/redux-retrieval  
+  Reusable actions, reducers, selectors and sagas for retrieval/CRUD applications
+  
+- **redux-select-entities**  
+  https://github.com/AugustinLF/redux-select-entities  
+  Simple abstraction over normalizr and reselect to handle normalized entities 
+  
   
 #### Network
   
@@ -407,6 +430,14 @@
 - **redux-branchable**  
   https://github.com/morkl/redux-branchable  
   A simple reducer enhancer for redux which enables branching time travel. All actions are saved, time travel is possible and encouraged, and any actions dispatched from a historic state result in a new branch being created.
+  
+- **redux-undo-redo**  
+  https://github.com/welldone-software/redux-undo-redo  
+  Prebuilt undo-redo handling reducer and middleware.  Define which actions are undoable and how to revert them.
+  
+- **Redux-Queue**  
+  https://github.com/JBlaak/Redux-Queue  
+  Higher order reducer so you don't have to worry about order of arrival of the results of your actions.
   
   
 #### Authentication

@@ -116,6 +116,11 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **plow**  
   https://github.com/grebaldi/plow-js  
   Functional operations on large immutable objects 
+  
+- **statesis**  
+  https://github.com/varak69/statesis  
+  A smart state constructor for redux states. Statesis does a deep compare/copy of 2 states and compiles a new state which keeps references to unchanged objects from the old state and mixes them with new objects which have altered in the new state.
+  
 
 #### Immutable/Redux Interop
 

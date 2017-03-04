@@ -75,6 +75,10 @@
   https://github.com/acrees/fuuka  
   A mock store for testing redux applications 
   
+- **jest-redux-snap**  
+  https://github.com/faceyspacey/jest-redux-snap  
+  Reactive test helpers for redux and jest. snap everything!!! 
+  
   
 #### Reducers
 

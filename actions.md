@@ -182,3 +182,11 @@
 - **Redux Action Wrapper**  
   https://github.com/stutrek/redux-action-wrapper  
   A recursive version of bindActionCreators
+  
+- **debounce-action**  
+  https://github.com/jshanson7/debounce-action  
+  Create debounced redux-thunk actions 
+  
+- **throttle-action**  
+  https://github.com/jshanson7/throttle-action  
+  Create throttled redux-thunk actions 

@@ -7,26 +7,6 @@
 - **redux-persist**  
   https://github.com/rt2zz/redux-persist  
   Persist and rehydrate a redux store.  The core idea behind redux-persist is to provide performant persistence and rehydration methods. At the same time redux-persist is designed to minimize complexity by knowing as little about your application as possible.
-  
-- **redux-persist-crosstab**  
-  https://github.com/rt2zz/redux-persist-crosstab  
-  Add cross tab syncing to your redux app with 1 line. This tiny module listens to the window for redux-persist storage events. When an event occurs it will dispatch a rehydrate action.
-  
-- **redux-persist-transform-compress**  
-  https://github.com/rt2zz/redux-persist-transform-compress  
-  Uses lz-string to compress state before storing.
-  
-- **redux-persist-migrate**  
-  https://github.com/wildlifela/redux-persist-migrate  
-  Migrate redux state between versions
-  
-- **redux-persist-transform-encrypt**  
-  https://github.com/maxdeviant/redux-persist-transform-encrypt  
-  Encrypt your Redux store.
-  
-- **redux-persist-transform-expire**  
-  https://github.com/gabceb/redux-persist-transform-expire  
-  Add expiration to your persisted store
 
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
@@ -143,6 +123,73 @@
 - **Redux Phoenix**  
   https://github.com/brainhub-adam/redux-phoenix  
   Restore redux state from previous sessions like a phoenix from ashes.
+  
+- **session-store**  
+  https://github.com/zipdrug/session-store  
+  A redux store that manages a session lifecycle 
+
+
+#### Redux-Persist Addons
+
+- **redux-persist-crosstab**  
+  https://github.com/rt2zz/redux-persist-crosstab  
+  Add cross tab syncing to your redux app with 1 line. This tiny module listens to the window for redux-persist storage events. When an event occurs it will dispatch a rehydrate action.
+  
+- **redux-persist-transform-compress**  
+  https://github.com/rt2zz/redux-persist-transform-compress  
+  Uses lz-string to compress state before storing.
+  
+- **redux-persist-migrate**  
+  https://github.com/wildlifela/redux-persist-migrate  
+  Migrate redux state between versions
+  
+- **redux-persist-transform-encrypt**  
+  https://github.com/maxdeviant/redux-persist-transform-encrypt  
+  Encrypt your Redux store.
+  
+- **redux-persist-transform-expire**  
+  https://github.com/gabceb/redux-persist-transform-expire  
+  Add expiration to your persisted store
+  
+- **redux-persist-migrate-semver**  
+  https://github.com/srtucker22/redux-persist-migrate-semver  
+  Migrate redux state between versions with redux-persist.
+
+- **redux-persist-transform-immutable**  
+  https://github.com/rt2zz/redux-persist-transform-immutable  
+  Add immutable sub-reducer support to redux-persist. 
+  
+- **redux-persist-immutable**  
+  https://github.com/rt2zz/redux-persist-immutable  
+  A wrapper around redux-persist that provides ImmutableJS support.
+  
+- **redux-persist-immutable-state**  
+  https://github.com/rufman/redux-persist-immutable-state  
+  Implements stateIterator, stateGetter, stateSetter and stateReconciler for an ImmutableJS root state.
+  
+- **redux-persist-transform-filter**  
+  https://github.com/edy/redux-persist-transform-filter  
+  Filter transformator for redux-persist
+  
+- **redux-persist-transform-expire**  
+  https://github.com/gabceb/redux-persist-transform-expire  
+  Add expiration to your persisted store 
+  
+- **redux-persist-restful-storage**  
+  https://github.com/qwe852/redux-persist-restful-storage  
+  Restful storage for redux-persist 
+  
+- **redux-persist-cookie-storage**  
+  https://github.com/abersager/redux-persist-cookie-storage  
+  Redux Persist storage adapter for cookies 
+  
+- **redux-persist-node-storage**  
+  https://github.com/pellejacobs/redux-persist-node-storage  
+  Redux persist adaptor for Node localStorage
+  
+- **redux-persist-state-manager**  
+  https://github.com/rt2zz/redux-persist-state-manager  
+  Replacement for autoRehydrate with state migrations, hard set rehydrated values, helpful log messages, and implemented as a higher order reducer
 
 
 #### Synchronization
@@ -303,6 +350,10 @@
 - **redux-subscribe-reselect**  
   https://github.com/tswaters/redux-subscribe-reselect  
   A tiny utility to subscribe to state changes returned from a reselect selector 
+  
+- **redux-wait-for-state**  
+  https://github.com/karl/redux-wait-for-state  
+  A small utility to that resolves a promise when a selector predicate returns truthy
   
 #### Other
 
