@@ -189,6 +189,10 @@
   https://github.com/Bebersohl/redux-log-diff  
   A simple redux middleware that logs changes to the state after every action. 
   
+- **redux-trace**  
+  https://github.com/hajjiTarik/redux-trace  
+  A logging middleware that shows action and state contents as console tables
+  
   
 #### Linting
  

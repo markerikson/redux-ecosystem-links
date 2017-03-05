@@ -172,6 +172,10 @@
 - **react-material-promise-dialog**  
   https://github.com/nsuthar0914/react-material-promise-dialog  
   Promise based alert and confirm dialogs using react, redux and material-ui 
+  
+- **react-redux-modal-provider**  
+  https://github.com/myaskevich/react-redux-modal-provider  
+  react-redux-modal-provider controls the state of your React modal components using Redux.
 
 
 #### Grids and Tables

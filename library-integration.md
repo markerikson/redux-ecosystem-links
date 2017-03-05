@@ -58,6 +58,10 @@
   https://github.com/naugtur/backbone-redux-migrator  
   A tool for migrating from Backbone stack to react+redux without disturbing the project or putting it on hold for a rewrite.
   
+- **backbonex**  
+  https://github.com/stvkoch/backbonex  
+  Allows use of Models and Collections by listening to actions and synchronizing changes in a redux state tree
+  
   
 #### Vue
 

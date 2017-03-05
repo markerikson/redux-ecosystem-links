@@ -416,3 +416,7 @@
 - **react-chrome-redux**  
   https://github.com/tshaddix/react-chrome-redux  
   A set of utilities for building Redux applications in Google Chrome extensions.
+  
+- **redux-external-dispatchers**  
+  https://github.com/npr/redux-external-dispatchers  
+  A Redux store enhancer to let non-Redux pieces of your application dispatch actions into Redux without also having access to Redux state.

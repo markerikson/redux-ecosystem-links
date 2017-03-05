@@ -90,6 +90,10 @@
   https://github.com/youknowriad/react-graphql-redux  
   This library allows you to use GraphQL to query your Redux store
   
+- **re-reselect**  
+  https://github.com/toomuchdesign/re-reselect  
+  Enhance Reselect selectors by wrapping createSelector function and returning a memoized collection of selectors indexed with the cache key returned by a custom resolver function.  Useful to reduce selectors recalculation when the same selector is repeatedly called with one/few different arguments.
+  
   
 #### Functional Programming
   

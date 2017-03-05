@@ -858,3 +858,7 @@
 - **redux-ipc-electron**  
   https://github.com/Dilatorily/redux-ipc-electron  
   This library uses Electron's IPC to synchronizes the Redux store between the main process and the renderer process(es).
+  
+- **redux-download-middleware**  
+  https://github.com/bzenkobogdan/redux-download-middleware  
+  A small middleware to download a file and dispatch actions on success/failure
