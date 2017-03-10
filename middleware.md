@@ -396,6 +396,11 @@
   https://github.com/vgabor/redux-array  
   Redux middleware to dispatch array of actions
   
+- **redux-action-listener**  
+  https://github.com/Dionid/redux-action-listener  
+  A middleware and component to notify components when a given action is dispatched
+  
+  
 #### Sockets and Adapters
 
 - **redux-socket**  
@@ -705,6 +710,14 @@
 - **redux-fetch-middleware**  
   https://github.com/travi/redux-fetch-middleware  
   middleware to enable async data fetching as the result of a dispatched action
+  
+- **lp-redux-api**  
+  https://github.com/LaunchPadLab/lp-redux-api  
+  Fetch-based API middleware.  Handles JSON extraction, CSRF tokens, and JWTs.
+  
+- **mappersmith-redux-middleware**  
+  https://github.com/tulios/mappersmith-redux-middleware  
+  A middleware for mappersmith which dispatches your request lifecycle to a redux store
 
   
 #### Analytics

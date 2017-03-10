@@ -352,6 +352,26 @@
   https://github.com/AugustinLF/redux-select-entities  
   Simple abstraction over normalizr and reselect to handle normalized entities 
   
+- **redux-asco**  
+  https://github.com/oligus/redux-asco  
+  Prebuilt reducers and action creators for handling of async collections
+  
+- **immutable-redux-relationships**  
+  https://github.com/l2silver/immutable-redux-relationships  
+  Actions and handlers for immutable relationships operations
+  
+- **immutable-redux-crud**  
+  https://github.com/l2silver/immutable-redux-crud  
+  Actions and handlers for immutable crud operations
+  
+- **redux-ntities**  
+  https://github.com/al-zah/redux-ntities  
+  A redux entities management library. It consists of 2 HOCs and a middleware. It allows you to persist your entities in IndexedDB/localStorage and provides common approach to save your entites in redux state.
+  
+- **redux-data-collections**  
+  https://github.com/heygrady/redux-data-collections  
+  Redux actions, reducers and selectors for managing data in JSONAPI format.
+  
   
 #### Network
   

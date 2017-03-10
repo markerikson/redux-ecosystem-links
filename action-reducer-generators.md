@@ -262,6 +262,10 @@
 - **magic-redux-generator**  
   https://github.com/luisfuertes/magic-redux-generator  
   Utils to generate types and action creators for various network requests
+  
+- **redux-thunk-rest**  
+  https://github.com/rtablada/redux-thunk-rest  
+  This package is helps remove some of the boilerplate cruft for creating RESTful actions, action creators, and reducers for Redux with Redux Thunk.
 
   
 #### Other Code Structures

@@ -332,6 +332,10 @@
   https://github.com/Nehle/higher-order-reducers  
   A simple utility belt library for building and composing redux reducers using higher order functions.
   
+- **redux-compose-hors**  
+  https://github.com/l2silver/redux-compose-hors  
+  Compose higher-order-reducers in the correct order, with nesting.
+  
   
 #### Advanced Reducer Use Cases
 

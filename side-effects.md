@@ -208,6 +208,14 @@
   https://github.com/heygrady/redux-saga-watch-actions  
   Helper methods for managing sagas that respond to actions. Similar in style to redux-actions.
   
+- **redux-saga-hoc**  
+  https://github.com/hajjiTarik/redux-saga-hoc  
+  A react HOC that can be plugged into react components and the saga middleware saga.  It allows adding, starting, and stopping saga functions within a react component.
+  
+- **redux-belt**  
+  https://github.com/store2be/redux-belt  
+  Opinionated helpers for Redux and Redux-Saga, including action creators and saga triggering
+  
   
 #### Redux-Effects extensions
 

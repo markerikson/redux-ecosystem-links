@@ -257,6 +257,7 @@
   https://github.com/ya-kostik/redbone  
   Library for client -> server -> client redux dispatching
 
+
 #### Store Change Subscriptions
 
 - **redux-watch**  
@@ -355,6 +356,42 @@
   https://github.com/karl/redux-wait-for-state  
   A small utility to that resolves a promise when a selector predicate returns truthy
   
+- **watch-redux**  
+  https://github.com/Wizcorp/watch-redux  
+  A library that makes observing changes in a Redux store using selectors very easy, and efficient. It provides watching for changes with full granularity.
+  
+  
+#### Integration and Interop
+
+- **redux-shared-worker**  
+  https://github.com/burakcan/redux-shared-worker  
+  A higher order Redux store that runs the actual store in a SharedWorker or WebWorker. 
+  
+- **redux-web-worker**  
+  https://github.com/deebloo/redux-web-worker  
+  Redux implementation in a web worker (experiment). The entire state is kept in a separate thread. (this also gives the added benefit of immutable objects)
+  
+- **redux-webext**  
+  https://github.com/ivantsov/redux-webext  
+  Allows you to use Redux for managing the state of your WebExtension.
+  
+- **react-chrome-redux**  
+  https://github.com/tshaddix/react-chrome-redux  
+  A set of utilities for building Redux applications in Google Chrome extensions.
+  
+- **electron-redux**  
+  https://github.com/hardchor/electron-redux  
+  Use redux in the main and browser processes in electron 
+  
+- **redux-external-dispatchers**  
+  https://github.com/npr/redux-external-dispatchers  
+  A Redux store enhancer to let non-Redux pieces of your application dispatch actions into Redux without also having access to Redux state.
+  
+- **react-native-redux-listener**  
+  https://github.com/line64/react-native-redux-listener  
+  A Redux store enhancer that automatically hooks to React Native event listeners and dispatches all events as primitive actions that can be handled by the reducers of your app.
+  
+  
 #### Other
 
 - **redux-lift**  
@@ -373,14 +410,6 @@
   https://github.com/jcoreio/redux-plugins-immutable-hot-loader  
   Webpack loader that hot-reloads plugins made with redux-plugins-immutable when you make changes to them.
   
-- **redux-shared-worker**  
-  https://github.com/burakcan/redux-shared-worker  
-  A higher order Redux store that runs the actual store in a SharedWorker or WebWorker. 
-  
-- **redux-web-worker**  
-  https://github.com/deebloo/redux-web-worker  
-  Redux implementation in a web worker (experiment). The entire state is kept in a separate thread. (this also gives the added benefit of immutable objects)
-  
 - **redux-mount-store**  
   https://github.com/RetailMeNotSandbox/redux-mount-store  
   Redux store enhancer that makes it possible to mount sub-stores
@@ -388,14 +417,6 @@
 - **redux-online-store-enhancer**  
   https://github.com/jurassix/redux-online-store-enhancer  
   Automatically detect if you are online or offline.  Adds a top-level "online" attribute that will dynamically change as the browser goes online and offline.
-  
-- **redux-webext**  
-  https://github.com/ivantsov/redux-webext  
-  Allows you to use Redux for managing the state of your WebExtension.
-  
-- **react-chrome-redux**  
-  https://github.com/tshaddix/react-chrome-redux  
-  A set of utilities for building Redux applications in Google Chrome extensions.
   
 - **epic-linker**  
   https://github.com/epixode/epic-linker  
@@ -405,18 +426,7 @@
   https://github.com/jondot/redux-stack  
   Redux Stack is a library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.
   
-- **electron-redux**  
-  https://github.com/hardchor/electron-redux  
-  Use redux in the main and browser processes in electron 
-  
 - **redux-injectable-store**  
   https://github.com/lelandrichardson/redux-injectable-store  
   Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.
   
-- **react-chrome-redux**  
-  https://github.com/tshaddix/react-chrome-redux  
-  A set of utilities for building Redux applications in Google Chrome extensions.
-  
-- **redux-external-dispatchers**  
-  https://github.com/npr/redux-external-dispatchers  
-  A Redux store enhancer to let non-Redux pieces of your application dispatch actions into Redux without also having access to Redux state.

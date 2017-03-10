@@ -79,6 +79,9 @@
   https://github.com/faceyspacey/jest-redux-snap  
   Reactive test helpers for redux and jest. snap everything!!! 
   
+- **react-redux-mock**  
+  https://github.com/khanghoang/react-redux-mock  
+  Mock the react-redux package for testing.
   
 #### Reducers
 

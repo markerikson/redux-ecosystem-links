@@ -193,6 +193,10 @@
   https://github.com/hajjiTarik/redux-trace  
   A logging middleware that shows action and state contents as console tables
   
+- **raven-for-redux**  
+  https://github.com/captbaritone/raven-for-redux  
+  Logs all dispatched actions to Raven as "breadcrumbs" and attaches your current Redux store as additional context.  Inspired by redux-raven-middleware but with a slightly different approach.
+  
   
 #### Linting
  
