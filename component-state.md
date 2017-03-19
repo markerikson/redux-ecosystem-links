@@ -210,3 +210,11 @@
   https://github.com/bulicmatko/redux-atom  
   https://github.com/bulicmatko/react-redux-atom  
   Small utilities to generate encapsulated Redux logic and connected React components
+  
+- **redux-plugin**  
+  https://github.com/neurosnap/redux-plugin  
+  A work-in-progress library for organizing code by feature without worrying about circular dependencies.  Redux-Plugin is a dependency injector that creates clear boundaries between plugins.
+  
+- **redux-segmentize**  
+  https://github.com/robbyemmert/redux-segmentize  
+  Organize your redux store into partitions. Automatically manage state for each instance of your components. 

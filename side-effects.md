@@ -169,6 +169,14 @@
   https://github.com/piotr-oles/redux-executor  
   Redux enhancer for handling side effects.
   
+- **redux-se**  
+  https://github.com/DJercic/redux-se  
+  Redux middleware that allows you to trigger side effects with redux actions.  It's a library that meets thunks and sagas in the middle.  Side effects are triggered by actions that flow through redux store, and complexity of your side-effects are up to you.
+  
+- **redux-background**  
+  https://github.com/monvillalon/redux-background  
+  redux-background allows you to create background tasks on redux. This package is very similar to redux-thunk or redux-promise but adds several features, like statistics, progress and rescheduling.
+
   
 #### Redux-Saga extensions  
 

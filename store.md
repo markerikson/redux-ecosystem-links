@@ -127,6 +127,14 @@
 - **session-store**  
   https://github.com/zipdrug/session-store  
   A redux store that manages a session lifecycle 
+  
+- **redux-state-save**  
+  https://github.com/bytefunc/redux-state-save  
+  A small library for saving and loading Redux state from file storage or localStorage
+  
+- **redux-recovery**  
+  https://github.com/hajjiTarik/redux-recovery  
+  A redux-middleware that allows persisting the store in local storage. 
 
 
 #### Redux-Persist Addons
@@ -391,6 +399,10 @@
   https://github.com/line64/react-native-redux-listener  
   A Redux store enhancer that automatically hooks to React Native event listeners and dispatches all events as primitive actions that can be handled by the reducers of your app.
   
+- **redux-enhancer-react-native-appstate**  
+  https://github.com/bamlab/redux-enhancer-react-native-appstate  
+  Connect your App State changes directly to your Redux store!
+  
   
 #### Other
 
@@ -429,4 +441,5 @@
 - **redux-injectable-store**  
   https://github.com/lelandrichardson/redux-injectable-store  
   Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.
+  
   

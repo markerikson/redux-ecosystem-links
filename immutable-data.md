@@ -121,6 +121,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/varak69/statesis  
   A smart state constructor for redux states. Statesis does a deep compare/copy of 2 states and compiles a new state which keeps references to unchanged objects from the old state and mixes them with new objects which have altered in the new state.
   
+- **monolite**  
+  https://github.com/kube/monolite  
+  A small immutable update library that preserves TypeScript typing and static inference when operating on plain JS objects
+  
+- **immutable-light**  
+  https://github.com/ricsv/immutable-light  
+  Light-weight immutability helpers that works great together with Redux, inspired by Immutable.js
+  
 
 #### Immutable/Redux Interop
 

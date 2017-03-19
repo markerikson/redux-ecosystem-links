@@ -164,6 +164,10 @@
   https://github.com/CurtisHumphrey/redux_helpers  
   Some small utilities to generate simple reducers and action creators
   
+- **flow-redux-action-generator**  
+  https://github.com/fc/flow-redux-action-generator  
+  A proof-of-concept tool for generating action creators and reducers based on Flow types
+  
 
 #### Network Requests and APIs
 
@@ -301,3 +305,15 @@
 - **reredeux**  
   https://github.com/MrRacoon/reredeux  
   Generate redux state trees, selectors, and actions, using a variation on ducks
+  
+- **cooldux**  
+  https://github.com/iceddev/cooldux  
+  A few very simple helpers for the redux ducks pattern
+  
+- **Duckfactory**  
+  https://github.com/espen42/duckfactory  
+  Simple creation and use of redux ducks.
+  
+- **Goosefactory**  
+  https://github.com/espen42/goosefactory  
+  Simple creation and use of 'geese' - a redux-saga analogy to redux ducks.

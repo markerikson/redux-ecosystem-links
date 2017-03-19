@@ -401,3 +401,16 @@
 - **React Redux Connected**  
   https://github.com/jimmyhmiller/react-redux-connected  
   React Redux Connected is an opinionated layer on top of react-redux that provides a simple props driven way to connect components.
+  
+- **redux-updeep**  
+  https://github.com/algolia/redux-updeep  
+  https://blog.algolia.com/how-we-reduced-boilerplate-and-handled-asynchronous-actions-with-redux/  
+  redux-updeep is a small reducer generator that uses updeep to immutably deep merge partial updates into the reducer's state. It's great for reducing boilerplate in your redux actions and reducers!
+  
+- **NPM-Redux-Interfaces**  
+  https://github.com/DaneSirois/npm-redux-interfaces  
+  A self contained Redux state management library that allows modular construction.
+  
+- **erux**
+  https://github.com/erux/erux  
+  Enhances a Redux store by adding a `store.on()` function, similar to pubsub/event-based programming.

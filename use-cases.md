@@ -372,6 +372,18 @@
   https://github.com/heygrady/redux-data-collections  
   Redux actions, reducers and selectors for managing data in JSONAPI format.
   
+- **redux-resx**  
+  https://github.com/fixate/redux-resx  
+  Yet another Redux action creators, a reducer and middleware for resource-based APIs.
+  
+- **redux-entity-box**  
+  https://github.com/haotangio/redux-entity-box  
+  Lightweight Redux reducer saving a lot of code spent for basic CRUD operation on normalized Redux entity state
+  
+- **redux-json-api-toolbox**  
+  https://github.com/rmarganti/redux-json-api-toolbox  
+  Redux middleware and helpers for working with JSON API standard server requests 
+  
   
 #### Network
   

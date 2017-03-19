@@ -539,3 +539,7 @@
 - **react-arc**  
   https://github.com/Sunny-fr/react-arc  
   React Abstract Redux Component: A set of components to manage collection or model from a REST service
+  
+- **redux-hydration**  
+  https://github.com/jessedrelick/redux-hydration  
+  A combination of a Redux Reducer, a HOC for dynamically loading components, and a declarative way to define what Redux actions are needed to resolve state prior to sending to the finally rendered view to the client.

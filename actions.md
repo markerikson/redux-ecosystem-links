@@ -152,6 +152,10 @@
   https://github.com/iamolegga/create-async-action  
   Wrapper for redux-actions createAction function for better interaction with redux-promise-middleware
   
+- **redux-actions-defined**  
+  https://github.com/mattberkowitz/redux-actions-defined  
+  Utilities for defining Redux actions with schemas
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  

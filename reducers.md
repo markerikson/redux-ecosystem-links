@@ -235,6 +235,10 @@
   https://github.com/IsTheJack/reducer-matching  
   A functional redux util to replace the switch case statement.
   
+- **redux-tree**  
+  https://github.com/shakacode/redux-tree  
+  An alternate way to combine Redux reducers, by specifying "branches" and "leaves", then declaring all updates that should apply across the tree for a given action.
+  
   
 #### Higher-Order Reducers
 

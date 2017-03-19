@@ -2,14 +2,7 @@
 
 
 #### Data Manipulation
-- **reselect**  
-  https://github.com/reactjs/reselect  
-  Simple “selector” library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
-  
-- **reselect-change-memoize**  
-  https://github.com/kbrownlees/reselect-change-memoize  
-  A simple memoize function for reselect which performs a callback everytime the result changes.
-  
+
 - **memoize-immutable**  
   https://github.com/memoize-immutable/memoize-immutable  
   An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments.  Dependency free!
@@ -34,10 +27,6 @@
   https://github.com/xogeny/salvage  
   A library for updating only those values that have changed in a Javascript value
   
-- **reduxql**  
-  https://github.com/AppHubPlatform/reduxql  
-  Proof of concept for using GraphQL to select data from a Redux store.
-  
 - **model-environment**  
   https://github.com/tomascharad/model-environment  
   Super lightweight environment that permits to define relations between objects when receiving data from normalized api's
@@ -49,14 +38,6 @@
 - **fetch-for-redux**  
   https://github.com/gavacho/fetch-for-redux  
   Fetches ajax responses suitable for dispatching in a redux action
-  
-- **cape-select**  
-  https://github.com/cape-io/cape-select  
-  Reselect-inspired utility/selector functions
-  
-- **reselect-map**  
-  https://github.com/HeyImAlex/reselect-map  
-  Selectors for mapping over collections
   
 - **jsonapi-normalizer**  
   https://github.com/stevenpetryk/jsonapi-normalizer  
@@ -78,13 +59,36 @@
   https://github.com/yury-dymov/redux-object  
   Builds complex JS object from normalized redux store. Works best with json-api-normalizer.
   
-- **selectorator**  
-  https://github.com/planttheidea/selectorator  
-  selectorator is an abstraction API for creating selectors via reselect with less boilerplate code.
-  
 - **denormalize-with-state**  
   https://github.com/ashleyw/denormalize-with-state  
   denormalize-with-state takes data denormalized by denormalizr and merges in extra state.
+  
+  
+#### Selectors
+
+- **reselect**  
+  https://github.com/reactjs/reselect  
+  Simple “selector” library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
+  
+- **reselect-change-memoize**  
+  https://github.com/kbrownlees/reselect-change-memoize  
+  A simple memoize function for reselect which performs a callback everytime the result changes.
+
+- **redux-threads**  
+  https://github.com/stonevanzuiden/redux-threads  
+  Helpers for reusable combinations of selectors, actions and reducers in redux.
+  
+- **cape-select**  
+  https://github.com/cape-io/cape-select  
+  Reselect-inspired utility/selector functions
+  
+- **reselect-map**  
+  https://github.com/HeyImAlex/reselect-map  
+  Selectors for mapping over collections
+  
+- **reduxql**  
+  https://github.com/AppHubPlatform/reduxql  
+  Proof of concept for using GraphQL to select data from a Redux store.
   
 - **react-graphql-redux**  
   https://github.com/youknowriad/react-graphql-redux  
@@ -93,6 +97,10 @@
 - **re-reselect**  
   https://github.com/toomuchdesign/re-reselect  
   Enhance Reselect selectors by wrapping createSelector function and returning a memoized collection of selectors indexed with the cache key returned by a custom resolver function.  Useful to reduce selectors recalculation when the same selector is repeatedly called with one/few different arguments.
+  
+- **selectorator**  
+  https://github.com/planttheidea/selectorator  
+  selectorator is an abstraction API for creating selectors via reselect with less boilerplate code.
   
   
 #### Functional Programming

@@ -149,4 +149,6 @@
   https://github.com/zewish/formred  
   The ergonomic React/Redux form library
   
-  
+- **react-redux-simple-validate**  
+  https://github.com/ikanedo/react-redux-simple-validate  
+  React Redux Form validator inspired by jquery validate 

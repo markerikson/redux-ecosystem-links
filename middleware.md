@@ -71,6 +71,10 @@
   https://github.com/lelandrichardson/redux-pack  
   Sensible promise handling and middleware for redux
   
+- **redux-packa**  
+  https://github.com/daniel-lundin/redux-packa  
+  Wrapper around redux-pack that adds hooks and handlers for canceled promises.
+  
 - **redux-pinky**  
   https://github.com/themostaza/redux-pinky  
   Yet another Redux middleware for dispatching async actions.  A more "redux-vanilla" version of redux-pack.
@@ -90,6 +94,14 @@
 - **redux-promise-bind**  
   https://github.com/machnicki/redux-promise-bind  
   A promise middleware that dispatches start/success/error actions, plus metadata
+  
+- **redux-track-promise**  
+  https://github.com/jedwards1211/redux-track-promise  
+  A tiny redux library with a reducer that handles setPending, resolve, and reject actions, and a trackPromise method that takes a Promise and dispatches those actions when the promise state changes.
+  
+- **redux-request-status**  
+  https://github.com/davidstevens37/redux-request-status  
+  Provides a declarative, readable, easy to implement utility for handling asyncronous status changes. Typically, this will be an http request, but could be any asyncronous action that returns a promise. Using redux-request-status we're able to respond to 3 different actions by ( onRequest, onSuccess, or onError ) for a single action type.
   
   
 #### Timeouts and Delays
@@ -181,6 +193,10 @@
 - **redux-bus**  
   https://github.com/challenger532/redux-bus  
   A middleware for redux that makes it easy to create buffers with handlers
+  
+- **redux-promise-queue**  
+  https://github.com/detrash08/redux-promise-queue-middleware  
+  A simple redux middleware to chain independent async actions calls
   
   
 #### Other Async Actions
@@ -292,6 +308,10 @@
 - **redux-async-thunk**  
   https://github.com/kutlugsahin/redux-async-thunk  
   Expension for Redux thunk middleware to support AsyncFunction and GeneratorFunction types to enable async/await generator/yield syntax 
+  
+- **redux-generator-action**  
+  https://github.com/Mrlyjoutlook/redux-generator-action  
+  A generator-based action flow control middleware
   
 
 #### Action Grouping and Interception
