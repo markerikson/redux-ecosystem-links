@@ -156,8 +156,8 @@
   https://github.com/mattberkowitz/redux-actions-defined  
   Utilities for defining Redux actions with schemas
   
-- **typescript-fsa**
-  https://github.com/aikoven/typescript-fsa
+- **typescript-fsa**  
+  https://github.com/aikoven/typescript-fsa  
   Action Creator library for TypeScript. Its goal is to provide simple yet type-safe experience with Flux actions.
   
 #### Other Action Use Cases  
