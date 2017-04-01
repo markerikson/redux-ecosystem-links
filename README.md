@@ -14,6 +14,7 @@ You may also be interested in my [React/Redux tutorials and resources collection
 - [Reducers](./reducers.md)
 - [Actions](./actions.md)
 - [Store](./store.md)
+  - [Store - Persistence](store-persistence.md)
 - [Action/Reducer/Constant Generators](./action-reducer-generators.md)
 
 #### Advanced/Additional Redux Concepts
