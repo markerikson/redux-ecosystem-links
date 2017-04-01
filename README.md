@@ -38,6 +38,7 @@ You may also be interested in my [React/Redux tutorials and resources collection
 #### Components and UI
 
 - [Component/Local State](component-state.md)
+- [Component Data Fetching and Preloading](component-data-fetching-preloading.md)
 - [Widgets](widgets.md)
 - [Forms](forms.md)
 - [Routing](routing.md)
