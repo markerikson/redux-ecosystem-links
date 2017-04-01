@@ -21,6 +21,9 @@ You may also be interested in my [React/Redux tutorials and resources collection
 
 - [Immutable Data](./immutable-data.md)
 - [Middleware](./middleware.md)
+  - [Middleware - Async Behavior](middleware-async.md)
+  - [Middleware - Network Requests](middleware-network-requests.md)
+  - [Middleware - Sockets and Adapters](middleware-sockets-adapters.md)
 - [Side Effects](./side-effects.md)
   - [Side Effects - Functions](side-effects-functions.md)
   - [Side Effects - Generators](side-effects-generators.md)
