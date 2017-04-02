@@ -31,6 +31,7 @@ You may also be interested in my [React/Redux tutorials and resources collection
   - [Side Effects - Reducers/Other](side-effects-other.md)
 - [Dev Tools](devtools.md)
 - [Testing](testing.md)
+- [Entity/Collection Management](entity-collection-management.md)
 - [Prebuilt Use Cases and Integration](use-cases.md)
 - [Utilities](utilities.md)
 - [Other Redux Resources](other-resources.md)
