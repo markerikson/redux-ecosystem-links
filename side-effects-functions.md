@@ -20,6 +20,9 @@
   https://github.com/redux-effects/redux-effects  
   Virtual DOM for effects and impurities. You write pure functions, redux-effects handles the rest.
   
+- **redux-async-action**  
+  https://github.com/kevhuang/redux-async-action  
+  Dispatches FSA actions for asynchronous Redux actions 
   
 
 #### Redux-Effects extensions

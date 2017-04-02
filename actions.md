@@ -156,6 +156,11 @@
   https://github.com/mattberkowitz/redux-actions-defined  
   Utilities for defining Redux actions with schemas
   
+- **constant-factory**  
+  https://github.com/entwicklerstube/constant-factory  
+  Stop rewriting the constant name in each entry use a factory for this job
+  
+  
 #### Other Action Use Cases  
   
 - **redux-actionemitter**  
@@ -194,3 +199,7 @@
 - **throttle-action**  
   https://github.com/jshanson7/throttle-action  
   Create throttled redux-thunk actions 
+  
+- **redux-thunk-actions**  
+  https://github.com/machadogj/redux-thunk-actions  
+  Action creator for redux-thunk that handles sync and async functions. 

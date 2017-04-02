@@ -119,6 +119,11 @@
   https://github.com/hajjiTarik/redux-recovery  
   a redux-middleware that allows to persist, purge, rehydrate the store 
   
+- **pouch-redux-middleware**  
+  https://github.com/pgte/pouch-redux-middleware  
+  Redux Middleware for syncing state and a PouchDB database.  Propagates state changes into PouchDB. Propagates PouchDB changes into the state.
+  
+  
   
 #### Redux-Persist Addons
 

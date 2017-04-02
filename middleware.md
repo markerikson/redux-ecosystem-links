@@ -176,6 +176,10 @@
   https://github.com/rangle/redux-beacon  
   Analytics integration for Redux and ngrx/store.  Use with React, RN, and Angular. Send analytics to Google Analytics, Google Tag Manager, Segment.io, Amplitude, and more.
   
+- **redux-tracking**  
+  https://github.com/Shotzoom/redux-tracking  
+  Provides tracking support for redux. Currently only support mixpanel.
+  
   
 #### Data Management
 

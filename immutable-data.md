@@ -195,10 +195,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 
 #### Alternate Data Management Concepts
 
-- **redux-orm**  
-  https://github.com/tommikaikkonen/redux-orm  
-  A small, simple and immutable ORM to manage relational data in your Redux store. Provides a Model-like interface on top of a portion of your store, allowing you to define relations between Models, store values as "tables" in your state, and make immutable updates by assigning values to Model fields.
-
 - **reduxdb**  
   https://github.com/wizawu/reduxdb  
   Redux with MongoDB-like API.  Dispatches internal Redux actions in response to API calls like `db.someCollection.insert({id : 1, name "abc"})`.

@@ -414,3 +414,31 @@
 - **erux**
   https://github.com/erux/erux  
   Enhances a Redux store by adding a `store.on()` function, similar to pubsub/event-based programming.
+  
+- **redux-lenses**  
+  https://github.com/rhythnic/redux-lenses  
+  Abstractions for interacting with Redux state by using Ramda lenses. 
+  
+- **Reduxis**  
+  https://github.com/simongfxu/reduxis  
+  More controllable management, less noise for redux actions and reducers
+  
+- **slim-redux**  
+  https://github.com/aGuyNamedJonas/slim-redux  
+  slim-redux is an alternative interface for redux which aims at making working with redux less decoupled and a lot faster while being 100% redux compatible.
+  
+- **redux-fusion**  
+  https://github.com/cif/redux-fusion  
+  React bindings for RxJS and Redux - a higher order component that serves as an alternative to react-redux connect. 
+  
+- **redux-container**  
+  https://github.com/ali322/redux-container  
+  Simple redux container for react component
+  
+- **react-redux-reliever**  
+  https://github.com/PhilipGarnero/react-redux-reliever  
+  A simple package that aims to relieve you from the pain of opening multiple different files and write a lot of boring code each time you want to add a small feature when you're using react and redux.
+  
+- **teide**  
+  https://github.com/lab009/teide/tree/master/packages/teide  
+  Toolkit for building redux/react applications.  Spend time building applications rather than wiring modules together.

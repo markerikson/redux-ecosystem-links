@@ -1,7 +1,15 @@
 ### Entity/Collection Management
 
+**Related Topics**
 
-#### Client-Only
+- [Utilities - Data Manipulation and Normalization](utilities.md#data-manipulation-and-normalization)
+
+
+#### Client-Only Collections
+
+- **redux-orm**  
+  https://github.com/tommikaikkonen/redux-orm  
+  A small, simple and immutable ORM to manage relational data in your Redux store. Provides a Model-like interface on top of a portion of your store, allowing you to define relations between Models, store values as "tables" in your state, and make immutable updates by assigning values to Model fields.
 
 - **redux-entities-reducer**  
   https://github.com/luskhq/redux-entities-reducer  
@@ -18,7 +26,6 @@
 - **entman**  
   https://github.com/Drawbotics/entman  
   A simple library to manage normalizr entities in a redux store
-  
   
 - **redux-resources**  
   https://github.com/travisbloom/redux-resources  
@@ -104,8 +111,13 @@
   https://github.com/haotangio/redux-entity-box  
   Lightweight Redux reducer saving a lot of code spent for basic CRUD operation on normalized Redux entity state
   
+- **Redux Entities**  
+  https://github.com/itsmepetrov/redux-entities  
+  Higher-order reducer for store entities received from normalizr and makes it easy to handle them.
+  
+  
 
-#### Client/Server
+#### Client/Server Collections
 
 - **redux-collection**  
   https://github.com/eladlevy/redux-collection  

@@ -81,3 +81,7 @@
 - **redux-background**  
   https://github.com/monvillalon/redux-background  
   redux-background allows you to create background tasks on redux. This package is very similar to redux-thunk or redux-promise but adds several features, like statistics, progress and rescheduling.
+  
+- **redux-free-flow**  
+  https://github.com/yiransheng/redux-free-flow  
+  Free Monad Action Creators for Redux.  Lets you write pure, composable and versatile redux store interactions (both sync and async)

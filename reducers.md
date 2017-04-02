@@ -239,6 +239,10 @@
   https://github.com/shakacode/redux-tree  
   An alternate way to combine Redux reducers, by specifying "branches" and "leaves", then declaring all updates that should apply across the tree for a given action.
   
+- **combine-nested-reducers**  
+  https://github.com/rohozhnikoff/combine-nested-reducers  
+  The original combineReducers from redux, with the ability to create deep scheme of reducers 
+  
   
 #### Higher-Order Reducers
 
@@ -259,11 +263,7 @@
 - **redux-optimistic-ui**  
   https://github.com/mattkrick/redux-optimistic-ui  
   A reducer enhancer to enable type-agnostic optimistic updates
-  
-- **Redux Entities**  
-  https://github.com/itsmepetrov/redux-entities  
-  Higher-order reducer for store entities received from gaearon's normalizr and makes it easy to handle them.
-  
+
 - **redux-cache**  
   https://github.com/simplesmiler/redux-cache  
   Higher order cache reducer
@@ -339,6 +339,14 @@
 - **redux-compose-hors**  
   https://github.com/l2silver/redux-compose-hors  
   Compose higher-order-reducers in the correct order, with nesting.
+  
+- **redux-xforms**  
+  https://github.com/mhelmer/redux-xforms  
+  redux-xforms is a collection of reducer transformers (higher-order reducers). They can be used to define reducers by direct composition of simpler transformers.  Much like the Recompose library, but for reducers instead of React components.
+  
+- **radhoc**  
+  https://github.com/kyleshevlin/radhoc  
+  Radhoc is a higher-order reducer. It listens for a particular action.type and then returns the next state (more details below). If the action.type is anything else, it simply returns the reducer it takes as an argument, passing state and action to it.
   
   
 #### Advanced Reducer Use Cases
@@ -433,6 +441,10 @@
 - **redux-tween**  
   https://github.com/devgru/redux-tween  
   Redux Tween provides a way to tween state in Redux store smoothly, interpolating states in between.
+  
+- **common-reducers**  
+  https://github.com/luispablo/common-reducers  
+  Prebuilt reducers for managing "applications", "messages", and JWT/"security"
   
   
 #### State Machines

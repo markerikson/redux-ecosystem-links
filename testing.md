@@ -83,6 +83,10 @@
   https://github.com/khanghoang/react-redux-mock  
   Mock the react-redux package for testing.
   
+- **mocha-redux-integartion**  
+  https://github.com/tomvej/mocha-redux-integration  
+  Integration testing of redux stores with mocha 
+  
 #### Reducers
 
 - **redux-promise-test**  
@@ -96,6 +100,11 @@
 - **circumstance**  
   https://github.com/dtinth/circumstance  
   circumstance lets you test your state-updating functions (including Redux reducers) using the Given-When-Then concept.
+  
+- **redux-testkit**  
+  https://github.com/wix/redux-testkit  
+  Complete and opinionated testkit for testing Redux projects (reducers, selectors, actions, thunks) 
+
 
 #### Actions
   

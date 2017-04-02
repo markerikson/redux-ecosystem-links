@@ -68,6 +68,15 @@
   https://github.com/ya-kostik/redbone  
   Library for client -> server -> client redux dispatching
   
+- **redux-sync-reducer**  
+  https://github.com/darthmaim/redux-sync-reducer  
+  High order reducer to sync states between tabs 
+  
+- **redux-via**  
+  https://github.com/rstuven/redux-via  
+  redux-via provides a basis for using Redux across boundaries with Flux Standard Actions.
+  
+
 
 #### Store Change Subscriptions
 
@@ -170,6 +179,10 @@
 - **watch-redux**  
   https://github.com/Wizcorp/watch-redux  
   A library that makes observing changes in a Redux store using selectors very easy, and efficient. It provides watching for changes with full granularity.
+  
+- **redux-whenever**  
+  https://github.com/caiogondim/redux-whenever.js  
+  Subscribe to a state subtree (or leaf) and run callbacks whenever it evaluates to a given value.
   
   
 #### Integration and Interop

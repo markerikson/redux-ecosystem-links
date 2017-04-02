@@ -1,7 +1,11 @@
 ### Utilities
 
+**Related Topics**
 
-#### Data Manipulation
+- [Entity/Collection Management](entity-collection-management.md)
+
+
+#### Data Manipulation and Normalization
 
 - **memoize-immutable**  
   https://github.com/memoize-immutable/memoize-immutable  

@@ -55,3 +55,7 @@
 - **Racket**  
   https://github.com/mohebifar/racket  
   Racket is a yeoman generator for creating universal/isomorphic web applications, using React and Redux.
+  
+- **create-redux-app**  
+  https://github.com/delvallejonatan/create-redux-app  
+  Add Redux, styled-components, and CLI generation of components and containers on top of create-react-app 

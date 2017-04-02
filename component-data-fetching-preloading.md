@@ -236,3 +236,11 @@
 - **redux-preload**  
   https://github.com/blueberryapps/redux-preload  
   Preload actions on both server & client side (allows deep nesting of components) 
+  
+- **redux-fetchers**  
+  https://github.com/LIQIDTechnology/redux-fetchers  
+  Automatic action dispatching and caching for Redux.  Let components automatically fetch their needed data.
+  
+- **redux-autoloader**  
+  https://github.com/woltapp/redux-autoloader  
+  A higher order component for declarative data loading in React and Redux. 

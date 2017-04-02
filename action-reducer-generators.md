@@ -168,6 +168,14 @@
   https://github.com/fc/flow-redux-action-generator  
   A proof-of-concept tool for generating action creators and reducers based on Flow types
   
+- **async-action-creator**  
+  https://github.com/goncy/async-action-creator  
+  Generates action types and action creators for start/success/failure states
+  
+- **redux-shape**  
+  https://github.com/awayisblue/redux-shape  
+  A simple util for generating redux action & reducer by a state shape definition. 
+  
 
 #### Network Requests and APIs
 
@@ -270,6 +278,10 @@
 - **redux-thunk-rest**  
   https://github.com/rtablada/redux-thunk-rest  
   This package is helps remove some of the boilerplate cruft for creating RESTful actions, action creators, and reducers for Redux with Redux Thunk.
+  
+- **redux-api**  
+  https://github.com/lexich/redux-api  
+  redux-api solves the problem of writing clients to communicate with backends. It generates actions and reducers for making AJAX calls to API endpoints.
 
   
 #### Other Code Structures

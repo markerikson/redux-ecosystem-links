@@ -114,3 +114,7 @@
 - **gwt-redux**  
   https://github.com/GWTReact/gwt-redux  
   GWT Java bindings for Redux and Redux related projects
+  
+- **midux**  
+  https://github.com/bmartel/midux  
+  A simple adapter for mithril and redux 

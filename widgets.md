@@ -102,6 +102,10 @@
 - **redux-menu**  
   https://github.com/datacamp/redux-menu  
   Package to create a React menu component, connected with your Redux state and dispatch. 
+  
+- **redux-infinite-list**  
+  https://github.com/KirillKayumov/redux-infinite-list  
+  An infinite list component with state tracked in Redux
 
 
 #### Layout
@@ -109,6 +113,10 @@
 - **subdivide**  
   https://github.com/philholden/subdivide  
   Split pane layout system for React. Each pane can be subdivided and any widget assigned to any pane allowing users define layout.  Uses Redux.
+  
+- **react-redux-subdivide**  
+  https://github.com/BerkeleyTrue/react-redux-subdivide  
+  Fork of subdivide, with ongoing development.
   
 - **Repanel**  
   https://github.com/StJohn3D/repanel 
@@ -270,6 +278,10 @@
 - **redux-notice**  
   https://github.com/navjobs/redux-notice  
   Display iOS style notices in your redux apps 
+  
+- **re-notifier**  
+  https://github.com/njnest/re-notifier  
+  Redux notifier with using standard web HTML5 API for browser notification 
   
   
 #### Maps

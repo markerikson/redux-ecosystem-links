@@ -218,3 +218,7 @@
 - **redux-segmentize**  
   https://github.com/robbyemmert/redux-segmentize  
   Organize your redux store into partitions. Automatically manage state for each instance of your components. 
+  
+- **with-component-state**  
+  https://github.com/chee/with-component-state  
+  Higher order component that will automatically create state for your redux components, and give you the prop componentState as well as the prop setState which works like this.setState on class components.

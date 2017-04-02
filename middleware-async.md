@@ -202,6 +202,10 @@
   https://github.com/detrash08/redux-promise-queue-middleware  
   A simple redux middleware to chain independent async actions calls
   
+- **redux-reqres**  
+  https://github.com/Shotzoom/redux-reqres  
+  Request response synchronization middleware. Syncronization should be used when multiple async actions may be dispatched to fetch data, but only the last response should be serviced such as type aheads and search filtering.
+  
   
 #### Other Async Actions
   

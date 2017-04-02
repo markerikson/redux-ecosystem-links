@@ -126,6 +126,10 @@
   https://github.com/samybob1/meteor-redux-middlewares  
   Redux middlewares that allow you to sync the store with Mongo and any reactive sources
   
+- **reactive-redux**  
+  https://github.com/vjau/reactive-redux  
+  Allow you to generate a reactive data source for Meteor/Tracker from a part of a Redux tree. 
+  
 
 #### Other Connections
 
