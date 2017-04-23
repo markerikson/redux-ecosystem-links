@@ -85,3 +85,7 @@
 - **redux-free-flow**  
   https://github.com/yiransheng/redux-free-flow  
   Free Monad Action Creators for Redux.  Lets you write pure, composable and versatile redux store interactions (both sync and async)
+  
+- **reservice**  
+  https://github.com/zordius/reservice  
+  An isomorphic/universal asynchronous tasks solution for redux. 

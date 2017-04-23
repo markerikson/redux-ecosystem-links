@@ -348,6 +348,10 @@
   https://github.com/kyleshevlin/radhoc  
   Radhoc is a higher-order reducer. It listens for a particular action.type and then returns the next state (more details below). If the action.type is anything else, it simply returns the reducer it takes as an argument, passing state and action to it.
   
+- **redux-buffered-reducer**  
+  https://github.com/bspaulding/redux-buffered-reducer  
+  A simple reducer enhancer to buffer changes
+  
   
 #### Advanced Reducer Use Cases
 

@@ -152,3 +152,7 @@
 - **react-redux-simple-validate**  
   https://github.com/ikanedo/react-redux-simple-validate  
   React Redux Form validator inspired by jquery validate 
+  
+- **redux-forms-core**  
+  https://github.com/zebulonj/redux-forms-core  
+  Prebuilt middleware, actions, and reducer for managing form data with Immutable.js state

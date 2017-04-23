@@ -118,3 +118,7 @@
 - **midux**  
   https://github.com/bmartel/midux  
   A simple adapter for mithril and redux 
+  
+- **preact-redux**  
+  https://github.com/pshev/preact-redux  
+  Uses a version of connect prior to major 5.0 updates, so no connectAdvanced API.  Uses a very simplified version of Provider that simply puts the given store on the context.

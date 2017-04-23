@@ -244,3 +244,7 @@
 - **redux-autoloader**  
   https://github.com/woltapp/redux-autoloader  
   A higher order component for declarative data loading in React and Redux. 
+  
+- **artemisajs**  
+  https://github.com/javierfernandes/artemisajs  
+  Artemisa extends React+Redux with the ability to model interaction with the backend (aka fetches) in a declarative way, reducing boilerplate code and providing a framework with (potential) functionality on the local storage and sync of the data with the back (cache).

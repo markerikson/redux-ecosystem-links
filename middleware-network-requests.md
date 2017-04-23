@@ -143,3 +143,10 @@
   https://github.com/tulios/mappersmith-redux-middleware  
   A middleware for mappersmith which dispatches your request lifecycle to a redux store
   
+- **redux-ajaxable**  
+  https://github.com/mcoetzee/redux-ajaxable  
+  Flux Standard Ajax Action compliant middleware built with RxJS
+  
+- **redux-remote-resource**  
+  https://github.com/tylerFowler/redux-remote-resource  
+  Flexible Redux middleware for making remote API calls 

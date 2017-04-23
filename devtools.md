@@ -197,6 +197,10 @@
   https://github.com/captbaritone/raven-for-redux  
   Logs all dispatched actions to Raven as "breadcrumbs" and attaches your current Redux store as additional context.  Inspired by redux-raven-middleware but with a slightly different approach.
   
+- **redux-airbrake**  
+  https://github.com/alexcastillo/redux-airbrake  
+  Redux middleware for Airbrake error logging
+  
   
 #### Linting
  
@@ -274,3 +278,7 @@
 - **React Monocle**  
   https://github.com/team-gryff/react-monocle  
   React Monocle is a developer tool for generating visual representations of your React app's component hierarchy.
+  
+- **lcHOC**  
+  https://github.com/viktorbergehall/lcHOC  
+  lcHOC is a HOC (higher order component) in React that visualize rendering and logs helpful information.  Enhance each component you want to study with lcHOC and every time that component updates, a green flash wraps the component (much like paint flashing in devtools) and debugging information is logged to the console.

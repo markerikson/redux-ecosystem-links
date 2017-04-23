@@ -91,3 +91,15 @@
 - **redux-saga-api-call**  
   https://github.com/goncy/redux-saga-api-call  
   A simple method to simplify api calls, instead of calling the api and catch the response and error to dispatch the success and failure action, this call will do that for you.
+  
+- **redux-saga-request**  
+  https://github.com/DylanVann/redux-saga-request  
+  Helper for running async functions and dispatching actions in redux saga.
+  
+- **saga-monitor**  
+  https://github.com/clarketm/saga-monitor  
+  Simple, elegant, and configurable redux-saga monitor 
+  
+- **action-sagas**  
+  https://github.com/manaflair/action-sagas  
+  Add extra capabilities to your action creators by allowing them to dispatch sagas

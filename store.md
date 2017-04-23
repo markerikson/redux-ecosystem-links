@@ -184,6 +184,10 @@
   https://github.com/caiogondim/redux-whenever.js  
   Subscribe to a state subtree (or leaf) and run callbacks whenever it evaluates to a given value.
   
+- **redux-selector-subscribe**  
+  https://github.com/apostrophest/redux-selector-subscribe  
+  Subscribe to changes in your Redux state via selector functions 
+  
   
 #### Integration and Interop
 

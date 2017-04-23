@@ -41,3 +41,6 @@
   https://github.com/erikras/ducks-modular-redux  
   A proposal for bundling reducers, action types and actions when using Redux
   
+- **re-ducks**  
+  https://github.com/alexnm/re-ducks  
+  An attempt to extend the original proposal for redux modular architecture

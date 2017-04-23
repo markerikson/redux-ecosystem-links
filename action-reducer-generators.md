@@ -176,6 +176,26 @@
   https://github.com/awayisblue/redux-shape  
   A simple util for generating redux action & reducer by a state shape definition. 
   
+- **Redux-Helpers**  
+  https://github.com/AlexRobinson-/Redux-Helpers  
+  Assorted utilities for generating action constants, single reducer, multi-reducers, and dynamic reducers
+  
+- **redux-ts-simple**  
+  https://github.com/Cooke/redux-ts-simple  
+  Yet another lib for creating typed actions and reducers. This library is FSA-compliant.
+  
+- **easy-redux**  
+  https://github.com/welljs/easy-redux  
+  Helpers to generate action creators and reducers
+  
+- **redux-candy**  
+  https://github.com/inuscript/redux-candy  
+  Generate redux updeep based reducer and actions.
+  
+- **redux-dictator**  
+  https://github.com/thekarel/redux-dictator  
+  List your required state variables by name and get a reducer, actions and dispatch-to-props automagically. 88% less Redux boilerplate!  State variables named List get extra actions to easily add and remove items.
+  
 
 #### Network Requests and APIs
 
@@ -329,3 +349,7 @@
 - **Goosefactory**  
   https://github.com/espen42/goosefactory  
   Simple creation and use of 'geese' - a redux-saga analogy to redux ducks.
+  
+- **redux-duckling**  
+  https://github.com/pghalliday/redux-duckling  
+  The redux-duckling library implements an approach that effectively manages namespacing, composing and combining reusable duck-like modules, which due to their smaller nature we refer to as ducklings.

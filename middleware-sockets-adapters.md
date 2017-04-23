@@ -67,6 +67,18 @@
   https://github.com/pafciu17/redux-action-emit-middleware  
   Middleware for emitting redux actions over socket
   
+- **redux-saga-websocket**  
+  https://github.com/wangtao0101/redux-saga-websocket  
+  Websockets for redux and redux-saga, which can integrate all websocket channels to one channel
+  
+- **monux**  
+  https://github.com/ericwpeterson/monux  
+  Marrying Redux and MonObjects to provide a structured state shape and maximize code reuse with socket.io.
+  
+- **redux-socket.io**  
+  https://github.com/itaylor/redux-socket.io  
+  An opinionated connector between socket.io and redux.
+  
 
 #### Firebase
 
@@ -106,10 +118,13 @@
   https://github.com/distilagency/Redux-Firebase-Actions  
   A set of Redux actions and accompanying reducer for Firebase
   
-  
 - **redux-firebase-mirror**  
   https://github.com/pcardune/redux-firebase-mirror  
   A library to help you easily mirror firebase data inside a redux store. 
+  
+- **reduxonfire**  
+  https://github.com/edoardolincetto/reduxonfire  
+  Just a simple, scalable implementation of Firebase with Redux for React.js 
 
 
 #### Meteor
@@ -129,6 +144,10 @@
 - **reactive-redux**  
   https://github.com/vjau/reactive-redux  
   Allow you to generate a reactive data source for Meteor/Tracker from a part of a Redux tree. 
+  
+- **ddp-connector**  
+  https://github.com/theclinician/ddp-connector  
+  DDP client bindings for react-redux
   
 
 #### Other Connections

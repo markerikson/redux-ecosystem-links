@@ -115,6 +115,9 @@
   https://github.com/itsmepetrov/redux-entities  
   Higher-order reducer for store entities received from normalizr and makes it easy to handle them.
   
+- **redux-scalable**  
+  https://github.com/p2kmgcl/redux-scalable  
+  A set of reducers, selectors, middlewares and action creators that allows managing a predictable, scalable and easy to use Redux state 
   
 
 #### Client/Server Collections
@@ -202,3 +205,15 @@
 - **redux-json-api-toolbox**  
   https://github.com/rmarganti/redux-json-api-toolbox  
   Redux middleware and helpers for working with JSON API standard server requests 
+  
+- **redux-resources**  
+  https://github.com/zebulonj/redux-resources  
+  Abstracted support for managing persistent entities in Redux. 
+  
+- **redux-api-call**  
+  https://github.com/tungv/redux-api-call  
+  Redux utilities for API calls using fetch with automatic race-conditions elimination.  One command to create reducers, action creators and selectors for JSON API calls.
+  
+- **redux-flute**  
+  https://github.com/kyleramirez/redux-flute  
+  Flute is a front-end-only Object Data-store Mapping (ODM) implementation that lets you interact with RESTful APIs. By defining models on the front end and integrating closely with the popular state container, Redux, Flute offers a Ruby-on-Rails-esque, ActiveRecord-ey syntax. Think ActiveRecord for JavaScript. Flute is agnostic to back-end architecture. It's built for APIs which respond to GET/POST/POST/DELETE requests for resources identified by predefined keys.

@@ -220,6 +220,10 @@
   https://github.com/IngloriousCoderz/react-property-grid  
   A react/redux implementation of an editable property grid.
   
+- **redux-data-table**  
+  https://github.com/a-type/redux-data-table  
+  An implementation of a generic data table with sorting and filtering for React+Redux.
+  Designed to be easy to use, but not necessarily performant or opinionated.
   
 #### Notifications
   

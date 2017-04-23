@@ -47,3 +47,15 @@
 - **redux-rxjs**  
   https://github.com/hwep/redux-rxjs  
   RxJS based middleware for Redux. Compose and cancel async actions and handle promise more. 
+  
+- **redux-observable-utils**  
+  https://github.com/sckoh/redux-observable-utils  
+  Utilities to create redux-observable epics for fetching data
+  
+- **redux-observable-stream-lite**  
+  https://github.com/pshev/redux-observable-stream-lite  
+  An alternative to redux-observable that uses the stream-lite library instead of RxJS
+  
+- **redux-driver**  
+  https://github.com/NeoJRotary/redux-driver  
+  Event-Driven Middleware for Redux with RxJS and Socket.IO

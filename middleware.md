@@ -144,7 +144,14 @@
 - **redux-middleware-oneshot**  
   https://github.com/michaelcontento/redux-middleware-oneshot  
   Create Redux actions from arbitrary sources out of middlewares.
-
+  
+- **action-validate**  
+  https://github.com/chbinghu/action-validate  
+  Validate that actions match the Flux Standard Action definition
+  
+- **redux-validate-actions**  
+  https://github.com/asn007/redux-validate-actions  
+  A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
   
 #### Analytics
 
@@ -179,6 +186,10 @@
 - **redux-tracking**  
   https://github.com/Shotzoom/redux-tracking  
   Provides tracking support for redux. Currently only support mixpanel.
+  
+- **redux-insights**  
+  https://github.com/hyperlab/redux-insights  
+  Redux middleware for analytics and tracking with an awesome API. Comes with Google Analytics support, but it's very easy to write your own adoptions!
   
   
 #### Data Management
@@ -305,3 +316,7 @@
 - **redux-download-middleware**  
   https://github.com/bzenkobogdan/redux-download-middleware  
   A small middleware to download a file and dispatch actions on success/failure
+  
+- **redux-middleware-injector**  
+  https://github.com/arojunior/redux-middleware-injector  
+  Middleware injector for Redux.  With this lib you can write your own middleware wherever you want, like in the action creators file. You don't need to import all the middlewares before create the store in applyMiddleware.

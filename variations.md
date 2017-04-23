@@ -442,3 +442,43 @@
 - **teide**  
   https://github.com/lab009/teide/tree/master/packages/teide  
   Toolkit for building redux/react applications.  Spend time building applications rather than wiring modules together.
+  
+- **redux-static**  
+  https://github.com/sandrinodimattia/redux-static  
+  Static initialization for Redux. This allows you to define your actions and state in the same static way that you define `propTypes` and `defaultProps`. 
+  
+- **rxjs-connect**  
+  https://github.com/redneckz/rxjs-connect  
+  React/Redux are going reactive with RxJS by means of this small library 
+  
+- **nova-redux**  
+  https://github.com/julesterrien/nova-redux  
+  A simple take on Redux, which generates reducers that respond to "UPDATE" and "RESET" actions
+  
+- **Redux_EM**  
+  https://github.com/leonp1991/redux_em  
+  This package exposes an api that extends the standard redux offering. redux-em provides a more opinionated and simplified style of writing redux logic.
+  
+- **dva-reducer**  
+  https://github.com/peterlevel1/dva-reducer  
+  A reducer helper, primarily intended for use with the DVA Redux-based framework, but can also be used with Redux
+  
+- **reducerless-redux**  
+  https://github.com/arthurgallo/reducerless-redux  
+  Redux without reducers.  Includes a redux middleware and store enhancer that maps url's to state, using a single "invisible" reducer.
+  
+- **redux-acb**  
+  https://github.com/archik408/redux-acb  
+  Redux Action Creator Binder - an application dispatcher service/helper for Redux infrastructure.
+  
+- **react-redux-collect**  
+  https://github.com/rongierlach/react-redux-collect  
+  Helpful function for connecting redux state and actions to React components. This function implements the same core functionality as react-redux-connect-helper's connectStateValue, but by building up mapStateToProps and mapDispatchToProps arguments to be passed to a single connect call.
+  
+- **redux-atomic-action**  
+  https://github.com/clitetailor/redux-atomic-action  
+  Allows dispatching state update functions.
+  
+- **redux-store-controller**  
+  https://github.com/mordenius/redux-store-controller  
+  Classes for wrapping up a Redux store and setting its state

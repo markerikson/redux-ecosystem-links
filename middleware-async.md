@@ -103,9 +103,13 @@
   https://github.com/davidstevens37/redux-request-status  
   Provides a declarative, readable, easy to implement utility for handling asyncronous status changes. Typically, this will be an http request, but could be any asyncronous action that returns a promise. Using redux-request-status we're able to respond to 3 different actions by ( onRequest, onSuccess, or onError ) for a single action type.
   
- - **fetch-middleware**  
-   https://github.com/arojunior/fetch-middleware  
-   Despite the name, actually just dispatches start/success/error actions based on a promise
+- **fetch-middleware**  
+  https://github.com/arojunior/fetch-middleware  
+  Despite the name, actually just dispatches start/success/error actions based on a promise
+   
+- **redux-promise-action**  
+  https://github.com/arashmilani/redux-promise-action  
+  An opinionated redux middleware to support async actions using promise 
   
   
 #### Timeouts and Delays

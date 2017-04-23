@@ -187,6 +187,10 @@
   https://github.com/rt2zz/redux-persist-state-manager  
   Replacement for autoRehydrate with state migrations, hard set rehydrated values, helpful log messages, and implemented as a higher order reducer
   
+- **redux-persist-memory-storage**  
+  https://github.com/modosc/redux-persist-memory-storage  
+  Redux Persist memory storage adapter.
+  
 
 #### Redux-Storage Addons
 

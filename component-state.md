@@ -222,3 +222,19 @@
 - **with-component-state**  
   https://github.com/chee/with-component-state  
   Higher order component that will automatically create state for your redux components, and give you the prop componentState as well as the prop setState which works like this.setState on class components.
+  
+- **redux-register-module**  
+  https://github.com/birdy-/redux-register-module  
+  Allows you to register reducer and saga handler from your module. With this, your module stays a standalone package.
+  
+- **redux-local-state**  
+  https://github.com/t-benze/redux-local-state  
+  A library for defining "local" Redux sub-stores by ID
+  
+- **redux-rubberstamp**  
+  https://github.com/thinktopography/redux-rubberstamp  
+  Pattern for hosting multiple versions of a component tree inside the main state tree
+  
+- **redux-blocks**  
+  https://github.com/alonbardavid/redux-blocks  
+  redux-blocks is a library for isolating and combining redux modules (referred to here on out as blocks). It makes writing reusable redux code easier and more flexible.

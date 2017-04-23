@@ -44,10 +44,6 @@
   https://github.com/lore/lore  
   Respectully opinionated convention-driven framework for building React applications. Built on React, Webpack, Redux, and React-Router.
 
-- **redux-generators**  
-  https://github.com/bpxl-labs/redux-generators  
-  Redux Generators is a lightweight, opinionated CLI that helps scaffold a scalable approach to Redux.
-  
 - **EOS-Redux**  
   https://github.com/amattson21/eos-redux  
   Redux CLI and Framework.  Can generate a starting project file tree, as well as individual action creators and reducers.

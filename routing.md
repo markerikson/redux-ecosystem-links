@@ -156,8 +156,8 @@
   https://github.com/ryo33/redux-pages  
   A middleware-friendly routing engine that encapsulates raw URL paths.
   
-- **react-redux-saga-router**  
-  https://github.com/cellog/react-redux-saga-router  
+- **ion-router**  
+  https://github.com/cellog/ion-router  
   Elegant powerful routing based on the simplicity of storing url as state
   
 - **redux-saga-router**  
@@ -178,8 +178,12 @@
 
 - **i-redux-navigation**  
   https://github.com/ebaranov/i-redux-navigation  
-  Navigation solution for redux applications
-
+  Navigation solution for redux applications 
+  
+- **redux-location-state**  
+  https://github.com/spotify/redux-location-state  
+  Utilities for reading & writing Redux store state to & from the URL 
+  
 - **redux-json-router**  
   https://github.com/mksarge/redux-json-router  
-  Declarative, Redux-first routing for React/Redux browser applications.
+  Declarative, Redux-first routing for React/Redux browser applications. 

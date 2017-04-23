@@ -24,6 +24,18 @@
   https://github.com/kevhuang/redux-async-action  
   Dispatches FSA actions for asynchronous Redux actions 
   
+- **redux-thunk-status**  
+  https://github.com/dieseljobs/redux-thunk-status  
+  Simple redux async action status management 
+  
+- **redux-thunk-subscribe**  
+  https://github.com/tinybike/redux-thunk-subscribe  
+  Similar to Redux Thunk, but with subscribe available to thunks (in addition to dispatch and getState) so they can add listeners to the store on-the-fly.
+  
+- **redux-optimistic-thunk**  
+  https://github.com/ecomfe/redux-optimistic-thunk  
+  redux-optimistic-thunk is a redux-thunk like middleware with optimistic UI supported.
+  
 
 #### Redux-Effects extensions
   
