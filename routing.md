@@ -178,4 +178,8 @@
 
 - **i-redux-navigation**  
   https://github.com/ebaranov/i-redux-navigation  
-  Navigation solution for redux applications 
+  Navigation solution for redux applications
+
+- **redux-json-router**  
+  https://github.com/mksarge/redux-json-router  
+  Declarative, Redux-first routing for React/Redux browser applications.
