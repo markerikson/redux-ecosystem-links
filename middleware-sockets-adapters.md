@@ -79,6 +79,10 @@
   https://github.com/itaylor/redux-socket.io  
   An opinionated connector between socket.io and redux.
   
+- **redux-socket.io-client**  
+  https://github.com/my0sot1s/redux-socket.io-client  
+  Simple Middleware for realtime with socket.io-client 
+  
 
 #### Firebase
 

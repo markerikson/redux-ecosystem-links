@@ -25,7 +25,7 @@
   Modular Redux bootstrap with asynchronous side-effects.  Minimal Framework using Redux to develop modularized universal (backend and frontend) applications, based on functional programming paradigms and friends such as Map and Reduce, Immutability and Reactive programming.
   
 - **redux-bootstrap**  
-  https://github.com/redux-bootstrap/redux-bootstrap  
+  https://github.com/FullstackTypeScript/redux-bootstrap    
   A `bootstrap()` function for initializing Redux applications. This module works by exporting a `bootstrap` function you can call in your project. It does not generate files for you – it is not a project template or project scaffolding tool. This library handles most of the common application initialization/bootstrapping that takes place every time you create a new Redux project.
   
 - **mikey**  
@@ -53,5 +53,7 @@
   Racket is a yeoman generator for creating universal/isomorphic web applications, using React and Redux.
   
 - **create-redux-app**  
-  https://github.com/delvallejonatan/create-redux-app  
+  https://github.com/delvallejonatan/generator-create-redux-app  
   Add Redux, styled-components, and CLI generation of components and containers on top of create-react-app 
+  
+ 

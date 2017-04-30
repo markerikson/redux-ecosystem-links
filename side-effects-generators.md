@@ -37,6 +37,10 @@
   https://github.com/goshakkk/redux-typed-saga  
   Redux-typed-saga is an alternative, well-typed take on the awesome redux-saga. The inspiration for typing side effects came from Redux Ship. However, Redux Ship has a totally different paradigm.  This experimental project aims to rethink redux-saga with types as first-class citizens.
   
+- **corrie**  
+  https://github.com/alex-shnayder/corrie  
+  Embrace the power of coroutines to restrain side effects 
+  
 
 #### Redux-Saga extensions  
 

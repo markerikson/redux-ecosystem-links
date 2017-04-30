@@ -248,3 +248,11 @@
 - **artemisajs**  
   https://github.com/javierfernandes/artemisajs  
   Artemisa extends React+Redux with the ability to model interaction with the backend (aka fetches) in a declarative way, reducing boilerplate code and providing a framework with (potential) functionality on the local storage and sync of the data with the back (cache).
+  
+- **motel**  
+  https://github.com/greim/motel  
+  Motel is an implementation of the data vacancy pattern, which simplifies data-fetching in Flux-style apps. It was designed with Redux in mind, but can be used in any model-view-update app.
+  
+- **redux-preload**  
+  https://github.com/BTMPL/redux-preload  
+  A small loader HoC that helps you defer the rendering of your Components until an (asynchronous) action or actions finish.

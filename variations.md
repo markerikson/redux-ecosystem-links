@@ -482,3 +482,11 @@
 - **redux-store-controller**  
   https://github.com/mordenius/redux-store-controller  
   Classes for wrapping up a Redux store and setting its state
+  
+- **react-redux-lite**  
+  https://github.com/ganemone/react-redux-lite  
+  Lightweight version of the react-redux library
+  
+- **redux-affix**  
+  https://github.com/jmeyers91/redux-affix  
+  React-redux's connect function with additional shorthand syntax

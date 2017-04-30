@@ -150,3 +150,7 @@
 - **redux-remote-resource**  
   https://github.com/tylerFowler/redux-remote-resource  
   Flexible Redux middleware for making remote API calls 
+  
+- **redux-api-request**  
+  https://github.com/thinktopography/redux-api-request  
+  Redux middleware for making API requests

@@ -123,6 +123,9 @@
   https://github.com/pgte/pouch-redux-middleware  
   Redux Middleware for syncing state and a PouchDB database.  Propagates state changes into PouchDB. Propagates PouchDB changes into the state.
   
+- **redux-local-storage**  
+  https://github.com/thinktopography/redux-local-storage  
+  Redux middleware for accessing local storage
   
   
 #### Redux-Persist Addons

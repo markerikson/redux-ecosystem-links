@@ -243,6 +243,10 @@
   https://github.com/rohozhnikoff/combine-nested-reducers  
   The original combineReducers from redux, with the ability to create deep scheme of reducers 
   
+- **action-u**  
+  https://github.com/KevinAst/action-u  
+  Several redux reducer composition utilities, which blend multiple reducers together forming a richer abstraction through functional decomposition (i.e. higher-order functions).
+  
   
 #### Higher-Order Reducers
 

@@ -111,6 +111,10 @@
   https://github.com/arashmilani/redux-promise-action  
   An opinionated redux middleware to support async actions using promise 
   
+- **redux-promise-actions**  
+  https://github.com/w33ble/redux-promise-actions  
+  Seemlessly handles actions with a Promise-based payload. Functions similar to redux-promise, but dispatches extra actions when met with a Promise as the payload. Includes a reducer helper to deal with the pending, complete, and failed states of the payload.
+  
   
 #### Timeouts and Delays
 
@@ -209,6 +213,10 @@
 - **redux-reqres**  
   https://github.com/Shotzoom/redux-reqres  
   Request response synchronization middleware. Syncronization should be used when multiple async actions may be dispatched to fetch data, but only the last response should be serviced such as type aheads and search filtering.
+  
+- **redux-action-trigger**  
+  https://github.com/Metnew/redux-action-trigger  
+  Mark action which you want to trigger after it will be dispatched, then after action has been triggered, it will be processed by your function and another action can be called.
   
   
 #### Other Async Actions

@@ -201,6 +201,10 @@
   https://github.com/alexcastillo/redux-airbrake  
   Redux middleware for Airbrake error logging
   
+- **redux-action-logger**  
+  https://github.com/hudl/redux-action-logger  
+  A simple, extensible redux middleware system to generate logs from actions. The intent of this library is to make logging and event reporting as simple and consistent as possible.
+  
   
 #### Linting
  

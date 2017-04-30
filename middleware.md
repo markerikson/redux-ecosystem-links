@@ -153,6 +153,11 @@
   https://github.com/asn007/redux-validate-actions  
   A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
   
+- **redux-prevent-repeat-dispatch**  
+  https://github.com/rgabs/redux-prevent-repeat-dispatch  
+  A redux middleware to prevent dispatching of repeat actions for a specific period of time.
+  
+  
 #### Analytics
 
 - **redux-analytics**  

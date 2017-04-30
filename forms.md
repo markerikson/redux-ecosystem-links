@@ -156,3 +156,7 @@
 - **redux-forms-core**  
   https://github.com/zebulonj/redux-forms-core  
   Prebuilt middleware, actions, and reducer for managing form data with Immutable.js state
+  
+- **light-form**  
+  https://github.com/j0nas/light-form  
+  A small library for easily making simple forms with a standard React/Redux setup. Its primary goal is to reduce the amount of boilerplate written for standard form handling without adding any magic or library lock-in.

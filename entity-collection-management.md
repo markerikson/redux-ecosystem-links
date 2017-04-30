@@ -206,8 +206,8 @@
   https://github.com/rmarganti/redux-json-api-toolbox  
   Redux middleware and helpers for working with JSON API standard server requests 
   
-- **redux-resources**  
-  https://github.com/zebulonj/redux-resources  
+- **redux-entities**  
+  https://github.com/zebulonj/redux-entities  
   Abstracted support for managing persistent entities in Redux. 
   
 - **redux-api-call**  
@@ -217,3 +217,7 @@
 - **redux-flute**  
   https://github.com/kyleramirez/redux-flute  
   Flute is a front-end-only Object Data-store Mapping (ODM) implementation that lets you interact with RESTful APIs. By defining models on the front end and integrating closely with the popular state container, Redux, Flute offers a Ruby-on-Rails-esque, ActiveRecord-ey syntax. Think ActiveRecord for JavaScript. Flute is agnostic to back-end architecture. It's built for APIs which respond to GET/POST/POST/DELETE requests for resources identified by predefined keys.
+  
+- **redux-relax**  
+  https://github.com/saltas888/redux-relax  
+  A library that will help you to integrate with Redux and manage your redux state efficiently, without need of writing Actions, types, reducers, schemas(normalizr), functions for fetching data from API .

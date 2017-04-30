@@ -87,6 +87,11 @@
   https://github.com/tomvej/mocha-redux-integration  
   Integration testing of redux stores with mocha 
   
+- **chai-redux**  
+  https://github.com/ScaCap/chai-redux  
+  An extension plugin for the Chai assertion library for testing Redux stores.
+  
+  
 #### Reducers
 
 - **redux-promise-test**  
@@ -132,6 +137,10 @@
 - **redux-asserts**  
   https://github.com/mitodl/redux-asserts  
   Functions to assert dispatched actions in redux. These functions are aimed at making integration testing with redux easier by abstracting away the need to manage and listen to the store's actions.
+  
+- **redux-pre-thunk**  
+  https://github.com/holidaycheck/redux-pre-thunk  
+  Wrap redux-thunk for greater testability with middleware and actions
   
   
 #### Sagas and Side Effects
@@ -191,3 +200,7 @@
 - **redux-logic-test**  
   https://github.com/jeffbski/redux-logic-test  
   redux-logic test utilities to facilitate the testing of logic
+  
+- **expect-gen**  
+  https://github.com/jimbol/expect-gen  
+   An assertion / snapshot library for testing iterators and generators. It was designed for, and works particularly well with, redux-saga but can be used for anything that uses generators.

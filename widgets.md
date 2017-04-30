@@ -287,6 +287,10 @@
   https://github.com/njnest/re-notifier  
   Redux notifier with using standard web HTML5 API for browser notification 
   
+- **redux-flash-messages**  
+  https://github.com/42BV/redux-flash-messages  
+  This library makes it easy to create flash messages and to store them in a Redux store.  What makes this project a little different from most flash message libraries is that it is UI agnostic. This library does not render the FlashMessages for you it only stores them!
+  
   
 #### Maps
 

@@ -109,6 +109,10 @@
 - **redux-window**  
   https://github.com/bdmason/redux-window  
   Responsively set browser window size in redux state.
+  
+- **react-redux-scroll**  
+  https://github.com/josepot/react-redux-scroll  
+  Scroll management library for react-redux apps.
 
   
 ### Internationalization
@@ -197,6 +201,9 @@
   https://github.com/damassi/redux-cache  
   Lightweight caching for Redux (WIP)
  
+- **redux-datastore**  
+  https://github.com/roastedfrost/redux-datastore  
+  Simple library to deal with common operations - pagination, sorting, filtering. 
   
   
 #### Network
@@ -236,6 +243,10 @@
 - **redux-request-state**  
   https://github.com/gustavohenke/redux-request-state  
   Redux utilities to deal with HTTP request states (loading, succeeded, failed).
+  
+- **redux-loading-reducer**  
+  https://github.com/jerryslaw/redux-loading-reducer  
+  A simple function (reducer) that changes custom state flags. The main purpose is to change a flag, such as isLoading, by given arrays of loading action names and not-loading action names. 
   
   
 #### Undo-Redo
@@ -327,3 +338,7 @@
 - **redux-fetch-apptoken**  
   https://github.com/mindiply/redux-fetch-apptoken  
   Redux middleware that wraps fetch calls with a http header that bears and app token.
+
+- **redux-simple-auth**  
+  https://github.com/jerelmiller/redux-simple-auth  
+  A library for implementing authentication and authorization for redux applications, inspired by the wonderful Ember Simple Auth library

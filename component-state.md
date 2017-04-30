@@ -1,5 +1,8 @@
 ### Component/Local State and Encapsulation
 
+
+#### Component/Local State
+
 - **redux-ui**  
   https://github.com/tonyhb/redux-ui  
   Easy UI state management for react redux.  Think of redux-ui as block-level scoping for UI state.
@@ -8,14 +11,6 @@
   https://github.com/threepointone/redux-react-local  
   Creates component wrappers with per-instance local state stored in Redux, as well as locally scoped actions and reducers
   
-- **Redux Cursor**  
-  https://github.com/Dashlane/redux-cursor  
-  Local private slices of a global store for component encapsulation in a Redux model.  Redux does not like the cursors in their general implementation, but the criticism is focused purely on the low-level ability to mutate the state at will. redux-cursor resolves that by relying on actions just as base Redux.
-  
-- **redux-brick**  
-  https://github.com/leeching/redux-brick  
-  redux-brick is a simplified building strategy of Redux apps. Redux system could be built from Redux bricks.
-  
 - **redux-component**  
   https://github.com/tomchentw/redux-component  
   Manage a component's local state using a local redux store.  A isolated redux store is created for each React component instance.
@@ -23,10 +18,6 @@
 - **redux-state**  
   https://github.com/babotech/redux-state  
   connect() style implementation of storage a local state for reusable components
-  
-- **redux-mount**  
-  https://github.com/popc0rn/redux-mount  
-  Mount data on a path and change state values on the fly. No need to create reducers, actions, or selectors to handle view-specific state yourself.
   
 - **redux-component-state**  
   https://github.com/cef62/redux-component-state  
@@ -59,22 +50,10 @@
 - **relux**  
   https://github.com/namelos/relux  
   Generate dynamic actions and reducers.
-  
-- **reduceless**  
-  https://github.com/nosovsh/reduceless  
-  Redux helpers to avoid odd reducers, actions and constants.  Specify a path into your state, get it passed in and a setter to update it.
-  
-- **Reduction Sauce**  
-  https://github.com/ericwooley/reduction-sauce  
-  Simple key value reducers without boilerplate
     
 - **react-redux-substate**  
   https://github.com/titoasty/react-redux-substate  
   Create substates to isolate your components.  This is a very simple way to add substates to the components. It does not ensure fractality of the components because substates are stored in the app state.
-  
-- **redux-values**  
-  https://github.com/alexesDev/redux-values  
-  Simple key-value storage for Redux
   
 - **react-redux-isolate**  
   https://github.com/Trimma/react-redux-isolate  
@@ -116,10 +95,6 @@
   https://github.com/gcazaciuc/redux-fractal  
   Local component state & actions in Redux.  Provides the means to hold up local component state in Redux state, to dispatch locally scoped actions and to react to global ones.  What Redux fractal offers is a Redux private store for each component with the notable difference that the component state is actually held up in your app's state atom, so all global and components ui state live together.
   
-- **modular-react-redux**  
-  https://github.com/dchambers/modular-react-redux  
-  Allows you to build your 'react-redux' application as a set of modular swappable components, but still have a single global Redux store for the entire app.
-  
 - **isolated-react-redux**  
   https://github.com/neekey/isolated-react-redux  
   Provide a isolated redux style way to handle state for components
@@ -157,18 +132,9 @@
   https://github.com/dustinws/redux-setstate  
   A setState api for purely functional components.
   
-- **redux-uuid**  
-  https://github.com/mkramb/redux-uuid  
-  A place to keep your disposable but application-related component state data
-  
 - **Redux Subspace**  
   https://github.com/ioof-holdings/redux-subspace  
   For a Redux connected React component, SubspaceProvider allows you to present a sub-view of the state to the component, allowing it to be ignorant of parent state structure. This means you can reuse these components in multiple parts of your app, or even multiple applications that have different store structures.
-  
-- **redux-features**  
-  https://github.com/jcoreio/redux-features  
-  https://github.com/jcoreio/react-redux-features  
-  A powerful feature-oriented programming framework for redux
 
 - **redux-dynamix**  
   https://github.com/jake-daniels/redux-dynamix  
@@ -211,21 +177,9 @@
   https://github.com/bulicmatko/react-redux-atom  
   Small utilities to generate encapsulated Redux logic and connected React components
   
-- **redux-plugin**  
-  https://github.com/neurosnap/redux-plugin  
-  A work-in-progress library for organizing code by feature without worrying about circular dependencies.  Redux-Plugin is a dependency injector that creates clear boundaries between plugins.
-  
-- **redux-segmentize**  
-  https://github.com/robbyemmert/redux-segmentize  
-  Organize your redux store into partitions. Automatically manage state for each instance of your components. 
-  
 - **with-component-state**  
   https://github.com/chee/with-component-state  
   Higher order component that will automatically create state for your redux components, and give you the prop componentState as well as the prop setState which works like this.setState on class components.
-  
-- **redux-register-module**  
-  https://github.com/birdy-/redux-register-module  
-  Allows you to register reducer and saga handler from your module. With this, your module stays a standalone package.
   
 - **redux-local-state**  
   https://github.com/t-benze/redux-local-state  
@@ -234,6 +188,63 @@
 - **redux-rubberstamp**  
   https://github.com/thinktopography/redux-rubberstamp  
   Pattern for hosting multiple versions of a component tree inside the main state tree
+  
+- **redux-fancy**  
+  https://github.com/DJercic/redux-fancy  
+  Manage your UI state with Redux.  Each component gets a setState prop function that behaves similar to React setState, and all the props that were passed through initial state.
+  
+#### Simplified / Key-Value State
+
+- **Redux Cursor**  
+  https://github.com/Dashlane/redux-cursor  
+  Local private slices of a global store for component encapsulation in a Redux model.  Redux does not like the cursors in their general implementation, but the criticism is focused purely on the low-level ability to mutate the state at will. redux-cursor resolves that by relying on actions just as base Redux.
+  
+- **redux-mount**  
+  https://github.com/popc0rn/redux-mount  
+  Mount data on a path and change state values on the fly. No need to create reducers, actions, or selectors to handle view-specific state yourself.
+  
+- **reduceless**  
+  https://github.com/nosovsh/reduceless  
+  Redux helpers to avoid odd reducers, actions and constants.  Specify a path into your state, get it passed in and a setter to update it.
+  
+- **Reduction Sauce**  
+  https://github.com/ericwooley/reduction-sauce  
+  Simple key value reducers without boilerplate
+  
+- **redux-values**  
+  https://github.com/alexesDev/redux-values  
+  Simple key-value storage for Redux
+  
+- **react-redux-private-props**  
+  https://github.com/dylanonelson/react-redux-private-props  
+  React/Redux add-on for managing private component state in a Redux store 
+  
+#### Modularity and Encapsulation
+
+- **redux-brick**  
+  https://github.com/leeching/redux-brick  
+  redux-brick is a simplified building strategy of Redux apps. Redux system could be built from Redux bricks.
+  
+- **modular-react-redux**  
+  https://github.com/dchambers/modular-react-redux  
+  Allows you to build your 'react-redux' application as a set of modular swappable components, but still have a single global Redux store for the entire app.
+  
+- **redux-features**  
+  https://github.com/jcoreio/redux-features  
+  https://github.com/jcoreio/react-redux-features  
+  A powerful feature-oriented programming framework for redux
+  
+- **redux-plugin**  
+  https://github.com/neurosnap/redux-plugin  
+  A work-in-progress library for organizing code by feature without worrying about circular dependencies.  Redux-Plugin is a dependency injector that creates clear boundaries between plugins.
+  
+- **redux-segmentize**  
+  https://github.com/robbyemmert/redux-segmentize  
+  Organize your redux store into partitions. Automatically manage state for each instance of your components. 
+  
+- **redux-register-module**  
+  https://github.com/birdy-/redux-register-module  
+  Allows you to register reducer and saga handler from your module. With this, your module stays a standalone package.
   
 - **redux-blocks**  
   https://github.com/alonbardavid/redux-blocks  

@@ -129,6 +129,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/ricsv/immutable-light  
   Light-weight immutability helpers that works great together with Redux, inspired by Immutable.js
   
+- **redux-create-state**  
+  https://github.com/niklasramo/redux-create-state  
+  A utility function for Redux to ease the process of creating a new state object, immutably.
+  
+- **qim**  
+  https://github.com/jdeal/qim  
+  Immutable/functional select/update queries for plain JS. 
+  
 
 #### Immutable/Redux Interop
 

@@ -188,13 +188,21 @@
   https://github.com/welljs/easy-redux  
   Helpers to generate action creators and reducers
   
-- **redux-candy**  
-  https://github.com/inuscript/redux-candy  
-  Generate redux updeep based reducer and actions.
-  
 - **redux-dictator**  
   https://github.com/thekarel/redux-dictator  
   List your required state variables by name and get a reducer, actions and dispatch-to-props automagically. 88% less Redux boilerplate!  State variables named List get extra actions to easily add and remove items.
+  
+- **redux-toolbelt**  
+  https://github.com/welldone-software/redux-toolbelt  
+  A set of tools for quicker, easier and safer redux development.  Create FSA-compliant action creators, async action creators, and compose reducers.
+  
+- **redux-factories**  
+  https://github.com/zxdong262/redux-factories  
+  A factory lib to produce redux constants and reducers of certain format.
+  
+- **redux-motive**  
+  https://github.com/loklaan/redux-motive  
+  Simplify writing action creators, reducers and effects - without breaking redux. 
   
 
 #### Network Requests and APIs

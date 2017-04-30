@@ -106,6 +106,10 @@
   https://github.com/planttheidea/selectorator  
   selectorator is an abstraction API for creating selectors via reselect with less boilerplate code.
   
+- **define-selectors**  
+  https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/define-selectors  
+  A utility to help with the ordering of selector definitions
+  
   
 #### Functional Programming
   

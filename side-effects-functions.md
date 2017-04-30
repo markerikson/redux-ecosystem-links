@@ -94,3 +94,11 @@
 - **redux-effects-fetch-fixture**  
   https://github.com/gutefrage/redux-effects-fetch-fixture  
   An extension for redux-effects-fetch, which lets you define fixtures for your FETCH actions. Now you are able to develop completely without any REST backend.
+  
+- **redux-effects-steps**  
+  https://github.com/recruit-tech/redux-effects-steps  
+  Another version of redux-effects handling error action properly.
+  
+- **redux-effects-socket.io**  
+  https://github.com/recruit-tech/redux-effects-socket-io  
+  socket.io bindings for redux-effects family 
