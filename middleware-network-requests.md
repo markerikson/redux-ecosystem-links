@@ -152,5 +152,13 @@
   Flexible Redux middleware for making remote API calls 
   
 - **redux-api-request**  
-  https://github.com/thinktopography/redux-api-request  
+  https://github.com/mahaplatform/redux-api-request  
   Redux middleware for making API requests
+  
+- **redux-simple-request**  
+  https://github.com/lmuntaner/redux-simple-request  
+  A very simple middleware for making API requests
+  
+- **redux-simple-api**  
+  https://github.com/kazagkazag/redux-simple-api  
+  A middleware that helps manage API requests by handling action suffixes, session tokens, and more
