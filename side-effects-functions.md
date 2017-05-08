@@ -36,6 +36,10 @@
   https://github.com/ecomfe/redux-optimistic-thunk  
   redux-optimistic-thunk is a redux-thunk like middleware with optimistic UI supported.
   
+- **redux-managed-thunk**  
+  https://github.com/ecomfe/redux-managed-thunk  
+  A redux-thunk compatible middleware with managed feature to help write more controllable and reusable thunks 
+  
 
 #### Redux-Effects extensions
   

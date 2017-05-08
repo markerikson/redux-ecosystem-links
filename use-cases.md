@@ -48,6 +48,10 @@
   https://github.com/zincli/redux-selections  
   Reusable actions and reducers for tracking items selections
   
+- **redux-wordpress**  
+  https://github.com/eugene-manuilov/redux-wordpress  
+  Redux helpers to generate actions and reducers for WordPress REST API endpoints. 
+  
   
 #### Feature Flags
   
@@ -113,6 +117,10 @@
 - **react-redux-scroll**  
   https://github.com/josepot/react-redux-scroll  
   Scroll management library for react-redux apps.
+  
+- **redux-keystroke-history**  
+  https://github.com/graftss/redux-keystroke-history  
+  Maintain keystroke history in a redux store 
 
   
 ### Internationalization
@@ -295,6 +303,10 @@
 - **Redux-Queue**  
   https://github.com/JBlaak/Redux-Queue  
   Higher order reducer so you don't have to worry about order of arrival of the results of your actions.
+  
+- **redux-optimistic-manager**  
+  https://github.com/ecomfe/redux-optimistic-manager  
+  redux-optimistic-manager is a lib aimed to simplify optimistic UI implement in redux environment. this lib uses a transaction based method to handle actual and optimistic actions, rolling back optimistic ones in a future point.
   
   
 #### Authentication

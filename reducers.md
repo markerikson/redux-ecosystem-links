@@ -247,6 +247,10 @@
   https://github.com/KevinAst/action-u  
   Several redux reducer composition utilities, which blend multiple reducers together forming a richer abstraction through functional decomposition (i.e. higher-order functions).
   
+- **redux-scoped-reducer**  
+  https://github.com/ganemone/redux-scoped-reducer  
+  A small library for creating reducers scoped to a certain part of state. 
+  
   
 #### Higher-Order Reducers
 

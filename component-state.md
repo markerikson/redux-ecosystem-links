@@ -186,12 +186,16 @@
   A library for defining "local" Redux sub-stores by ID
   
 - **redux-rubberstamp**  
-  https://github.com/thinktopography/redux-rubberstamp  
+  https://github.com/mahaplatform/redux-rubberstamp  
   Pattern for hosting multiple versions of a component tree inside the main state tree
   
 - **redux-fancy**  
   https://github.com/DJercic/redux-fancy  
   Manage your UI state with Redux.  Each component gets a setState prop function that behaves similar to React setState, and all the props that were passed through initial state.
+  
+- **pyradux**  
+  https://github.com/zaptree/pyradux  
+  Composable Redux state for React.  Allows for creating redux stores that are tied to a component similar to local state. This means a new redux store for each instance of a component using pyradux will be created.
   
 #### Simplified / Key-Value State
 
@@ -249,3 +253,7 @@
 - **redux-blocks**  
   https://github.com/alonbardavid/redux-blocks  
   redux-blocks is a library for isolating and combining redux modules (referred to here on out as blocks). It makes writing reusable redux code easier and more flexible.
+  
+- **duxtape**  
+  https://github.com/brianneisler/duxtape  
+  Module and util framework for redux.  Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow, with a hook system for extending the functionality of redux

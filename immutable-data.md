@@ -45,6 +45,10 @@
 - **crio**  
   https://github.com/planttheidea/crio  
   Immutable JS objects with a natural API.  Creates wrapper objects with replacements for mutating APIs that return new objects instead.
+  
+- **seamless-immutable-cursor**  
+  https://github.com/MartinSnyder/seamless-immutable-cursor  
+  Compact Cursor Library built on top of the excellent seamless-immutable. Cursors can be used to manage transitions and manipulations of immutable structures in an application.
 
 
 #### Immutable Update Utilities

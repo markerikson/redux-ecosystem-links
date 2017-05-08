@@ -5,6 +5,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 
 #### Purpose-Built Demos and Examples
 
+- **RealWorld: TodoMVC for the Real World**  
+  https://github.com/gothinkster/realworld  
+  Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.  Specifically intended to show how different server and client implementations of the same project and API spec compare with each other.
+
 - **Redux Saga Persistence Example**  
   https://github.com/jportela/redux-saga-persistence  
   This example shows how a persistence mechanism can be implemented by using Redux Sagas.
@@ -45,6 +49,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Tradux**  
   https://github.com/miloszpp/tradux  
   A sample real-time trading application built with Redux and Angular 2.
+  
+- **Angular to React-Redux**  
+  https://github.com/GoTeamEpsilon/angular-to-react-redux  
+  An educational resource for Angular v1 experts that are looking to learn React/Redux. A contrived sample application for managing basic patient information is provided using both technologies' best practices.
+  
+- **react-stage-mgmt**  
+  https://github.com/pixelingene/react-state-mgmt  
+  A repo demonstrating various ways to build a login form and signup flow, using Redux+thunks, Redux+sagas, Redux+observables, and MobX
   
 
 #### Applications

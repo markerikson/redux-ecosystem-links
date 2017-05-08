@@ -124,8 +124,20 @@
   Redux Middleware for syncing state and a PouchDB database.  Propagates state changes into PouchDB. Propagates PouchDB changes into the state.
   
 - **redux-local-storage**  
-  https://github.com/thinktopography/redux-local-storage  
+  https://github.com/mahaplatform/redux-local-storage  
   Redux middleware for accessing local storage
+  
+- **redux-localstorage-simple**  
+  https://github.com/kilkelly/redux-localstorage-simple  
+  Save and load Redux state to and from LocalStorage. Supports Immutable.js data structures. 
+  
+- **redux-localstore**  
+  https://github.com/arojunior/redux-localstore  
+  Subscribe Redux Store and replicate to localStorage, so users can refresh the page and keep the App state
+  
+- **redux-checkpoints**  
+  https://github.com/workemy/redux-checkpoints  
+  Save / Load functionality for Redux states. 
   
   
 #### Redux-Persist Addons

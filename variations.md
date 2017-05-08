@@ -451,8 +451,8 @@
   https://github.com/redneckz/rxjs-connect  
   React/Redux are going reactive with RxJS by means of this small library 
   
-- **nova-redux**  
-  https://github.com/julesterrien/nova-redux  
+- **novux**  
+  https://github.com/neednova/novux  
   A simple take on Redux, which generates reducers that respond to "UPDATE" and "RESET" actions
   
 - **Redux_EM**  
@@ -490,3 +490,19 @@
 - **redux-affix**  
   https://github.com/jmeyers91/redux-affix  
   React-redux's connect function with additional shorthand syntax
+  
+- **redux-livequery**  
+  https://github.com/jeffnian88/redux-livequery  
+  Uses RxJS to provide live queries of the Redux store to components
+  
+- **react-redux-dynamic-actions**  
+  https://github.com/rusty1s/react-redux-dynamic-actions  
+  Wraps around `connect`, and allows defining dynamic actions and components based on the context of the application
+  
+- **react-redux-infuser**  
+  https://github.com/jgnewman/react-redux-infuser  
+  A thin layer wrapping react-redux tools to simplify creating more powerful React containers.
+  
+- **react-redux-connected**  
+  https://github.com/jimmyhmiller/react-redux-connected  
+  An opinionated layer on top of react-redux that provides a simple props driven way to connect components.

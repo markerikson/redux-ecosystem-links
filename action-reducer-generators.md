@@ -204,6 +204,10 @@
   https://github.com/loklaan/redux-motive  
   Simplify writing action creators, reducers and effects - without breaking redux. 
   
+- **redux-utils**  
+  https://github.com/graftss/redux-utils  
+  A collection of utilities for generating actions, reducers, and tests
+  
 
 #### Network Requests and APIs
 

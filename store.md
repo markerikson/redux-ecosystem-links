@@ -188,6 +188,10 @@
   https://github.com/apostrophest/redux-selector-subscribe  
   Subscribe to changes in your Redux state via selector functions 
   
+- **redux-on**  
+  https://github.com/toplan/redux-on  
+  Store enhancer for Redux which support adding specific subscriptions
+  
   
 #### Integration and Interop
 

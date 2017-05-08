@@ -160,10 +160,13 @@
   https://github.com/aikoven/typescript-fsa  
   Action Creator library for TypeScript. Its goal is to provide simple yet type-safe experience with Flux actions.
 
-  
 - **constant-factory**  
   https://github.com/entwicklerstube/constant-factory  
   Stop rewriting the constant name in each entry use a factory for this job
+  
+- **redux-actioner**  
+  https://github.com/Shoptap/redux-actioner  
+  Inspired by Flux Standard Actions, this framework facilitates the implementation of Redux actions for the sake of simplicity, testing, and maintainability.
   
   
 #### Other Action Use Cases  
