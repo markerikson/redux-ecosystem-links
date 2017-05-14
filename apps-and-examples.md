@@ -58,6 +58,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/pixelingene/react-state-mgmt  
   A repo demonstrating various ways to build a login form and signup flow, using Redux+thunks, Redux+sagas, Redux+observables, and MobX
   
+- **RealWorld: React/Redux Modular**  
+  https://github.com/j-hannes/realworld-react-redux-modular  
+  Another React/Redux implementation of the RealWorld example, demonstrating a modular/feature-based structure
+  
 
 #### Applications
 - **MapStore2**  

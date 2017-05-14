@@ -208,6 +208,10 @@
   https://github.com/graftss/redux-utils  
   A collection of utilities for generating actions, reducers, and tests
   
+- **sleipnir**  
+  https://github.com/benoneal/sleipnir  
+  A convenience interface for Redux, to remove boilerplate and provide sensible asynchronous action handling.
+  
 
 #### Network Requests and APIs
 
@@ -314,6 +318,14 @@
 - **redux-api**  
   https://github.com/lexich/redux-api  
   redux-api solves the problem of writing clients to communicate with backends. It generates actions and reducers for making AJAX calls to API endpoints.
+
+- **redux-rest-factories**  
+  https://github.com/lohfu/redux-rest-factories  
+  Thunk actions and reducers for handling data from a REST API
+  
+- **redux-easy-async**  
+  https://github.com/evanhobbs/redux-easy-async#motivation  
+  Redux Easy Async makes handling asynchronous actions, such as API requests, simple, reliable, and powerful.
 
   
 #### Other Code Structures

@@ -115,6 +115,10 @@
   https://github.com/w33ble/redux-promise-actions  
   Seemlessly handles actions with a Promise-based payload. Functions similar to redux-promise, but dispatches extra actions when met with a Promise as the payload. Includes a reducer helper to deal with the pending, complete, and failed states of the payload.
   
+- **redux-pender**  
+  https://github.com/velopert/redux-pender  
+  A middleware that helps you to manage asynchronous actions based on promise. It comes with useful tools that help you to handle this even more easier.
+  
   
 #### Timeouts and Delays
 

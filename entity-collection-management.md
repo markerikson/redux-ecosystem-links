@@ -127,7 +127,7 @@
   A robust redux collection data structure that easily syncs with a RESTful API.
   
 - **redux-crud-store**  
-  https://github.com/uniqueway/redux-crud-store  
+  https://github.com/devvmh/redux-crud-store  
   A reusable API for syncing models with a backend.  Handles async using redux-saga, implements a default reducer for models, defines action creators for the reducer, and provides selectors for models.
   
 - **json-talk**  
@@ -221,3 +221,4 @@
 - **redux-relax**  
   https://github.com/saltas888/redux-relax  
   A library that will help you to integrate with Redux and manage your redux state efficiently, without need of writing Actions, types, reducers, schemas(normalizr), functions for fetching data from API .
+  

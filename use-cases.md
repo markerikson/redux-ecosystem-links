@@ -67,6 +67,10 @@
   https://github.com/zhewison/redux-feature-flags  
   React/Redux Feature Flags
   
+- **react-redux-ab**  
+  https://github.com/ytase/react-redux-ab  
+  A simple A/B testing library that stores the active variants in a reducer for easy access accross the whole application. It is universal, as it can run on the client side, browser side or any kind of application where redux can run.
+  
   
 ### Page Interaction
 

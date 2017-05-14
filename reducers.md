@@ -250,6 +250,14 @@
 - **redux-scoped-reducer**  
   https://github.com/ganemone/redux-scoped-reducer  
   A small library for creating reducers scoped to a certain part of state. 
+
+- **redux-reducer-dsl**  
+  https://github.com/ryanaghdam/redux-reducer-dsl  
+  Define Redux reducers with a doman-specific language.
+  
+- **mixn**  
+  https://github.com/jeremija/mixn  
+  Mixes reducers in order. Allows easy extension of redux reducer functions. Tries each one until the state changes
   
   
 #### Higher-Order Reducers
@@ -359,6 +367,11 @@
 - **redux-buffered-reducer**  
   https://github.com/bspaulding/redux-buffered-reducer  
   A simple reducer enhancer to buffer changes
+  
+- **initializable-reducer**  
+  https://github.com/oreshinya/initializable-reducer  
+  Initializing reducers action and associated higher order reducer for redux.
+  
   
   
 #### Advanced Reducer Use Cases

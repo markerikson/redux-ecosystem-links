@@ -256,3 +256,11 @@
 - **redux-preload**  
   https://github.com/BTMPL/redux-preload  
   A small loader HoC that helps you defer the rendering of your Components until an (asynchronous) action or actions finish.
+  
+- **react-redux-component-init**  
+  https://github.com/flut1/react-redux-component-init  
+  A library to manage react component initialization in isomorphic applications using Redux
+  
+- **redux-fetch-on-mount**  
+  https://github.com/orzarchi/redux-fetch-on-mount  
+  A higher order component that performs a redux action when the wrapped component is mounted 

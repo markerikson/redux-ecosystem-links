@@ -506,3 +506,15 @@
 - **react-redux-connected**  
   https://github.com/jimmyhmiller/react-redux-connected  
   An opinionated layer on top of react-redux that provides a simple props driven way to connect components.
+  
+- **redux-lens**  
+  https://github.com/dashed/redux-lens  
+  Apply a redux reducer and an action at the specified path of your application state tree
+  
+- **redux-container-builder**  
+  https://github.com/orzarchi/redux-container-builder  
+  A simpler interface to redux's connect with common utilities built in 
+  
+- **reduxlet**  
+  https://github.com/Rokt33r/reduxlet  
+  Create a redux store, which is context-free, for a single container component. Let's use actions and reducer instead of using this.setState!  Also, lots of sugar is inside by default. Binding actions to dispatch, composing enhancers and applying middleware become much easier

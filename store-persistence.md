@@ -139,6 +139,14 @@
   https://github.com/workemy/redux-checkpoints  
   Save / Load functionality for Redux states. 
   
+- **node-persistent-redux**  
+  https://github.com/Jense5/node-persistent-redux  
+  Provides a very straighforward way to write a redux store to disk. This can be useful in case you want to store a configuration, like for example with electron.
+  
+- **redux-persist-to-localstorage**  
+  https://github.com/purposeindustries/redux-persist-to-localstorage  
+  A dead-simple redux store enhancer for adding localStorage persistance 
+  
   
 #### Redux-Persist Addons
 
@@ -163,7 +171,7 @@
   Add expiration to your persisted store
   
 - **redux-persist-migrate-semver**  
-  https://github.com/srtucker22/redux-persist-migrate-semver  
+  https://github.com/srtucker22/redux-persist-migrate-semver   
   Migrate redux state between versions with redux-persist.
 
 - **redux-persist-transform-immutable**  

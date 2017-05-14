@@ -157,6 +157,14 @@
   https://github.com/rgabs/redux-prevent-repeat-dispatch  
   A redux middleware to prevent dispatching of repeat actions for a specific period of time.
   
+- **redux-orchestrate**  
+  https://github.com/domagojk/redux-orchestrate  
+  Middleware for coordinating actions using a simple config object. Aims to support most common operations with a config object, including intercepting/transforming actions, making network requests, debouncing, and delaying.
+  
+- **redux-chain**  
+  https://github.com/julesterrien/redux-chain  
+  Allows you to dispatch multiple actions calls using a single dispatch call.
+  
   
 #### Analytics
 

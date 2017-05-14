@@ -187,3 +187,7 @@
 - **redux-json-router**  
   https://github.com/mksarge/redux-json-router  
   Declarative, Redux-first routing for React/Redux browser applications. 
+
+- **naglfar**  
+  https://github.com/benoneal/naglfar  
+  A router that keeps all state in redux. It treats the url like a form input: it fires actions on change which update the location in your state. This is accessible from any connected component: no need for a separate RouteProvider or other such nonsense.

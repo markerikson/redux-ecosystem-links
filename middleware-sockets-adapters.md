@@ -83,6 +83,10 @@
   https://github.com/my0sot1s/redux-socket.io-client  
   Simple Middleware for realtime with socket.io-client 
   
+- **redux-sockjs-middleware**  
+  https://github.com/nelsongarym/redux-sockjs-middleware  
+  A redux middleware that manages a sockjs connection and subscriptions
+  
 
 #### Firebase
 

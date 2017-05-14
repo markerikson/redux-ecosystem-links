@@ -111,3 +111,7 @@
 - **redux-saga-routines**  
   https://github.com/afitiskin/redux-saga-routines  
   A smart action creator for Redux Saga. Useful for any kind of async actions like fetching data. Also fully compatible with Redux Form. Reworked idea of redux-saga-actions
+  
+- **redux-saga-async-action**  
+  https://github.com/diegohaz/redux-saga-async-action  
+  Dispatching an action handled by redux-saga returns promise

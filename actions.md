@@ -211,3 +211,7 @@
 - **redux-thunk-actions**  
   https://github.com/machadogj/redux-thunk-actions  
   Action creator for redux-thunk that handles sync and async functions. 
+
+- **type-stash**  
+  https://github.com/DaneSirois/type-stash  
+  Redux type-management library.  Removes the need for a dedicated "types" file.
