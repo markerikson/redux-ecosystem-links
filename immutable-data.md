@@ -141,6 +141,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/jdeal/qim  
   Immutable/functional select/update queries for plain JS. 
   
+- **mutateless**  
+  https://github.com/dennisgulich/mutateless  
+  Keep your sanity while working with immutable data structures.  A small utility module which provides a bunch of functions for working with immutable data structures. Instead of polluting or changing the way you work with your objects, we designed the functions to work on regular objects, lists and nested data structures of any kind.
+  
+- **immuter**  
+  https://github.com/zaaack/immuter  
+  An immutable react/redux state update helper, easily handle nested state with the least code. 
+  
 
 #### Immutable/Redux Interop
 

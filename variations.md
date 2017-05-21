@@ -518,3 +518,16 @@
 - **reduxlet**  
   https://github.com/Rokt33r/reduxlet  
   Create a redux store, which is context-free, for a single container component. Let's use actions and reducer instead of using this.setState!  Also, lots of sugar is inside by default. Binding actions to dispatch, composing enhancers and applying middleware become much easier
+  
+- **react-component-redux**  
+  https://github.com/pashaigood/react-component-redux  
+  A library that tries to abstract the low-level usage of Redux, without the need to write actions or action creators.
+  
+- **react-dedux**  
+  https://github.com/tiagomapmarques/react-dedux  
+  Abstractions around Redux for state management in React
+  
+- **causality-redux**  
+  https://github.com/AndrewBanks10/causality-redux  
+  https://github.com/AndrewBanks10/react-causality-redux  
+  An extension to Redux that facilitates a cause-and-effect programming paradigm, and significantly reduces redux and react-redux coding.

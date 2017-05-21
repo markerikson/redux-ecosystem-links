@@ -76,7 +76,14 @@
   https://github.com/rstuven/redux-via  
   redux-via provides a basis for using Redux across boundaries with Flux Standard Actions.
   
-
+- **cross-tab-middleware**  
+  https://github.com/stutrek/cross-tab-middleware  
+  Redux middleware for sending actions across open browser tabs 
+  
+- **redux-bolt**  
+  https://github.com/vvinhas/redux-bolt  
+  https://github.com/vvinhas/redux-bolt-server  
+  A small middleware for Redux that lets you dispatch Redux Actions to a server running SocketIO. Your actions will then be replicated to all clients listening to that socket or to a specific channel.
 
 #### Store Change Subscriptions
 
@@ -100,21 +107,9 @@
   https://github.com/jimf/redux-observer  
   Redux middleware for observing state change and taking action when changes of interest occur.
   
-- **redux-batched-subscribe**  
-  https://github.com/tappleby/redux-batched-subscribe  
-  Store enhancer for redux which allows batching of subscribe notifications that occur as a result of dispatches.  Semi-similar use case as [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions).
-  
-- **redux-batched-updates**  
-  https://github.com/acdlite/redux-batched-updates  
-  Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.
-  
 - **redux-when**  
   https://github.com/jameslnewell/redux-when  
   Delay dispatching an action until a condition is true.
-
-- **redux-skip-by-action**  
-  https://github.com/tshelburne/redux-skip-by-action  
-  Store enhancer for redux that enables skipping subscriber notifications for individual actions.
   
 - **redux-store-observer**  
   https://github.com/jonnyreeves/redux-store-observer  
@@ -123,10 +118,6 @@
 - **redux-spy**  
   https://github.com/erikras/redux-spy  
   A higher order component decorator to read from a Redux store without subscribing to all its changes
-  
-- **redux-debounce-listener**  
-  https://github.com/nakamura-to/redux-debounce-listener  
-  Redux Debounce Listener allows you to delay invoking listeners. If you use this with React, rendering cost may be reduced.
   
 - **pull-redux**  
   https://github.com/ahdinosaur/pull-redux  
@@ -140,21 +131,9 @@
   https://github.com/xaviervia/redux-subscriptions  
   Higher-level API for the Redux store.subscribe.  redux-subscriptions keeps the previous state for you and gives you the ability of running diffs in the state (using object-difference) so that you can do something when part of the state is updated, much like the React bindings for Redux work.
   
-- **redux-batch-enhancer**  
-  https://github.com/abc123s/redux-batch-enhancer  
-  Batch subscriber notification for an array of actions (including complex actions, e.g. thunks).
-  
-- **redux-limiter**  
-  https://github.com/joaker/redux-limiter  
-  Throttle the rate of change notifications from a redux store to stateless components (NOTE: not for use with stateful components)
-  
 - **redux-add-action-listener**  
   https://github.com/carnesen/redux-add-action-listener-enhancer  
   A store enhancer that adds a second set of subscriptions for dispatched actions
-  
-- **redux-batch**  
-  https://github.com/manaflair/redux-batch  
-  Enhance your Redux store to support batched actions.  Based on redux-batched-subscribe, but focused on batched actions instead of debouncing notifications.
   
 - **redux-subscriber**  
   https://github.com/ivantsov/redux-subscriber  
@@ -191,6 +170,57 @@
 - **redux-on**  
   https://github.com/toplan/redux-on  
   Store enhancer for Redux which support adding specific subscriptions
+  
+  
+#### Batching and Notifications
+
+- **redux-batched-subscribe**  
+  https://github.com/tappleby/redux-batched-subscribe  
+  Store enhancer for redux which allows batching of subscribe notifications that occur as a result of dispatches.  Semi-similar use case as redux-batched-actions.
+  
+- **redux-batch**  
+  https://github.com/manaflair/redux-batch  
+  Enhance your Redux store to support batched actions.  Based on redux-batched-subscribe, but focused on batched actions instead of debouncing notifications.
+  
+- **redux-batched-updates**  
+  https://github.com/acdlite/redux-batched-updates  
+  Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders.
+  
+- **redux-skip-by-action**  
+  https://github.com/tshelburne/redux-skip-by-action  
+  Store enhancer for redux that enables skipping subscriber notifications for individual actions.
+  
+- **redux-debounce-listener**  
+  https://github.com/nakamura-to/redux-debounce-listener  
+  Redux Debounce Listener allows you to delay invoking listeners. If you use this with React, rendering cost may be reduced.
+  
+- **redux-batch-enhancer**  
+  https://github.com/abc123s/redux-batch-enhancer  
+  Batch subscriber notification for an array of actions (including complex actions, e.g. thunks).
+  
+- **redux-limiter**  
+  https://github.com/joaker/redux-limiter  
+  Throttle the rate of change notifications from a redux store to stateless components (NOTE: not for use with stateful components)
+  
+- **redux-batched-actions**  
+  https://github.com/tshelburne/redux-batched-actions  
+  Batching action creator and associated higher order reducer for redux that enables batching subscriber notifications for an array of actions.  Semi-similar use case as redux-batched-subscribe.
+  
+- **redux-batch-middleware**  
+  https://github.com/mrydengren/redux-batch-middleware  
+  Batch middleware for Redux. Inspired by redux-batched-actions.
+  
+- **redux-multi**  
+  https://github.com/ashaffer/redux-multi  
+  Dispatch multiple actions from one action creator
+  
+- **redux-batch-actions**  
+  https://github.com/gtg092x/redux-batch-actions  
+  Batch Redux actions.
+  
+- **redux-batcher**  
+  https://github.com/tugorez/redux-batcher  
+  Higher order reducer that enables batching actions and also plays well with redux-saga
   
   
 #### Integration and Interop
@@ -266,4 +296,6 @@
   https://github.com/lelandrichardson/redux-injectable-store  
   Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.
   
-  
+- **redux-visibility**  
+  https://github.com/patch-notes/redux-visibility  
+  A store enhancer for Redux that allows to hide parts of the state 

@@ -40,6 +40,14 @@
   https://github.com/ecomfe/redux-managed-thunk  
   A redux-thunk compatible middleware with managed feature to help write more controllable and reusable thunks 
   
+- **redux-thunk-state-adapter**  
+  https://github.com/bspaulding/redux-thunk-state-adapter  
+  A utility to provide a facade of getState to an externally owned thunk. This is useful when you are sharing action creators which compose selectors that assume a certain state shape.
+  
+- **redux-ready-wrapper**  
+  https://github.com/borisding/redux-ready-wrapper  
+  A variation of redux-thunk that dispatches a READY_ACTION before your actual action, and always returns a promise for chaining
+  
 
 #### Redux-Effects extensions
   

@@ -225,6 +225,11 @@
   An implementation of a generic data table with sorting and filtering for React+Redux.
   Designed to be easy to use, but not necessarily performant or opinionated.
   
+- **redux-filterlist**  
+  https://github.com/vtaits/redux-filterlist  
+  A Higher Order Component using react-redux for creating lists with filters, sotring, paginatinon, endless scroll etc.
+  
+  
 #### Notifications
   
 - **re-notif**  

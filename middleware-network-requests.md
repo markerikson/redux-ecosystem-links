@@ -162,3 +162,11 @@
 - **redux-simple-api**  
   https://github.com/kazagkazag/redux-simple-api  
   A middleware that helps manage API requests by handling action suffixes, session tokens, and more
+  
+- **roadhog-saga**  
+  https://github.com/Trampss/roadhog-saga  
+  Library that is connected to redux, use to fetch api, and to dispatch saga event 
+  
+- **japicam**  
+  https://github.com/epiqueras/japicam  
+  JAPICAM is a tool for simplifying connections to JSON APIs. It works really well as Redux Middleware, but it's also helpful in any setting.

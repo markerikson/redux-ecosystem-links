@@ -326,6 +326,10 @@
 - **redux-easy-async**  
   https://github.com/evanhobbs/redux-easy-async#motivation  
   Redux Easy Async makes handling asynchronous actions, such as API requests, simple, reliable, and powerful.
+  
+- **redux-simple-api**  
+  https://github.com/kazagkazag/redux-simple-api  
+  A library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
 
   
 #### Other Code Structures

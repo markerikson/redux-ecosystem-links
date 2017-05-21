@@ -112,6 +112,14 @@
   https://github.com/afitiskin/redux-saga-routines  
   A smart action creator for Redux Saga. Useful for any kind of async actions like fetching data. Also fully compatible with Redux Form. Reworked idea of redux-saga-actions
   
-- **redux-saga-async-action**  
-  https://github.com/diegohaz/redux-saga-async-action  
+- **redux-saga-thunk**  
+  https://github.com/diegohaz/redux-saga-thunk  
   Dispatching an action handled by redux-saga returns promise
+  
+- **redux-saga-rn-alert**  
+  https://github.com/itinance/redux-saga-rn-alert  
+  Alert.alert()-Support for side effects with redux-saga in react-native-apps 
+  
+- **redux-saga-location**  
+  https://github.com/itinance/redux-saga-location  
+  Helps to fetch geo-location within a saga (or any other generator function) and put the result into the redux-store.

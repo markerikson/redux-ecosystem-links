@@ -197,6 +197,11 @@
   https://github.com/zaptree/pyradux  
   Composable Redux state for React.  Allows for creating redux stores that are tied to a component similar to local state. This means a new redux store for each instance of a component using pyradux will be created.
   
+- **redux-interface**  
+  https://github.com/booqable/redux-interface  
+  A reducer and HOC for tracking component state
+  
+  
 #### Simplified / Key-Value State
 
 - **Redux Cursor**  
@@ -257,3 +262,11 @@
 - **duxtape**  
   https://github.com/brianneisler/duxtape  
   Module and util framework for redux.  Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow, with a hook system for extending the functionality of redux
+  
+- **redux-segments**  
+  https://github.com/dennisgulich/redux-segments  
+  Library for writing reusable redux modules.  Writing reducers, action creators and mapping everything to the UI is tedious and time consuming, redux-segments solves this issue by breaking up the redux boilerplate into generic reusable modules.
+
+- **redux-stack**  
+  https://github.com/jondot/redux-stack  
+  A library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.

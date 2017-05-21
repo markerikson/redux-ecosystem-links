@@ -259,6 +259,14 @@
   https://github.com/jeremija/mixn  
   Mixes reducers in order. Allows easy extension of redux reducer functions. Tries each one until the state changes
   
+- **redux-cond**  
+  https://github.com/G1enY0ung/redux-cond  
+  Redux reducer with cond function, inspired by Clojure's cond
+  
+- **reducio**  
+  https://github.com/asn007/reducio  
+  Functional reducers for everybody 
+  
   
 #### Higher-Order Reducers
 

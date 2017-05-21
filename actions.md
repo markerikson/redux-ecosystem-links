@@ -23,10 +23,6 @@
 - **redux-actions-api-addon**  
   https://github.com/jkusachi/redux-actions-api-addon  
   Redux Actions add-on to support API Requests.  Reduce boilerplate by auto dispatching Request, Success, and Failure Events
-
-- **redux-batched-actions**  
-  https://github.com/tshelburne/redux-batched-actions  
-  Batching action creator and associated higher order reducer for redux that enables batching subscriber notifications for an array of actions.  Semi-similar use case as [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe).
   
 - **actions**  
   https://github.com/Legitcode/actions  

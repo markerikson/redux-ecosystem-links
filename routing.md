@@ -191,3 +191,7 @@
 - **naglfar**  
   https://github.com/benoneal/naglfar  
   A router that keeps all state in redux. It treats the url like a form input: it fires actions on change which update the location in your state. This is accessible from any connected component: no need for a separate RouteProvider or other such nonsense.
+  
+- **spark-router**  
+  https://github.com/tomzmtl/spark-router  
+  An opinionated, simple routing library for React/Redux applications 

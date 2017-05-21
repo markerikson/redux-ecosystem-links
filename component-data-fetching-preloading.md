@@ -205,9 +205,9 @@
   https://github.com/tonyhb/tectonic  
   A declarative REST data loader for React/Redux
   
-- **redux-quest**  
+- **react-quest**  
   https://github.com/djgrant/redux-quest  
-  Declarative data fetching for universal Redux apps.
+  Declarative data fetching for universal React/Redux apps.
   
 - **redux-query**  
   https://github.com/amplitude/redux-query  
@@ -264,3 +264,7 @@
 - **redux-fetch-on-mount**  
   https://github.com/orzarchi/redux-fetch-on-mount  
   A higher order component that performs a redux action when the wrapped component is mounted 
+  
+- **redux-api-react-switch**  
+  https://github.com/xurei/redux-api-react-switch  
+  A set of React components to show different content based on the state of a resource fetch.  It is meant to be used with redux-api, but it can be used with any other library. 

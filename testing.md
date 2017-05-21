@@ -204,3 +204,7 @@
 - **expect-gen**  
   https://github.com/jimbol/expect-gen  
    An assertion / snapshot library for testing iterators and generators. It was designed for, and works particularly well with, redux-saga but can be used for anything that uses generators.
+   
+ - **saganario**  
+   https://github.com/vangelov/saganario  
+   Saganario tries to provide a compact and powerful way to unit test redux sagas. It can be used with any testing framework.

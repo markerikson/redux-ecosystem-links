@@ -25,17 +25,9 @@
   https://github.com/itsmepetrov/redux-combine-actions  
   A Redux middleware that allows you to easily combine async actions and dispatch them either sequentially or in parallel.
   
-- **redux-batch-middleware**  
-  https://github.com/mrydengren/redux-batch-middleware  
-  Batch middleware for Redux. Inspired by redux-batched-actions.
-  
 - **redux-sequence-action**  
   https://github.com/jasonslyvia/redux-sequence-action  
   A middleware enabling sequential action dispatch for Redux.
-  
-- **redux-multi**  
-  https://github.com/ashaffer/redux-multi  
-  Dispatch multiple actions from one action creator
   
 - **redux-next**  
   https://github.com/RnbWd/redux-next  
@@ -80,10 +72,6 @@
 - **redux-multi-conditional**  
   https://github.com/JamesRandall/redux-multi-conditional  
   Conditionally dispatch multiple actions from one action creator
-  
-- **redux-batch-actions**  
-  https://github.com/gtg092x/redux-batch-actions  
-  Batch Redux actions.
   
 - **redux-validation**  
   https://github.com/mkamakura/redux-validation  
@@ -164,6 +152,14 @@
 - **redux-chain**  
   https://github.com/julesterrien/redux-chain  
   Allows you to dispatch multiple actions calls using a single dispatch call.
+  
+- **redux-camel**  
+  https://github.com/kenny-hibino/redux-camel  
+  Redux Camel middleware makes sure that action objects use camelCase keys before reaching reducers.
+  
+- **redux-validator**  
+  https://github.com/MaxLi1994/redux-validator  
+  Action parameter validator middleware for redux
   
   
 #### Analytics
@@ -333,3 +329,7 @@
 - **redux-middleware-injector**  
   https://github.com/arojunior/redux-middleware-injector  
   Middleware injector for Redux.  With this lib you can write your own middleware wherever you want, like in the action creators file. You don't need to import all the middlewares before create the store in applyMiddleware.
+  
+- **redux-css**  
+  https://github.com/Dash-OS/redux-css  
+  Use the redux pattern to control CSS Variables. You provide redux-style reducers that set your variable values when changed, allowing you to style your app in many new ways.
