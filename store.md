@@ -95,6 +95,9 @@
   https://github.com/ashaffer/redux-subscribe  
   Subscribe to a path in your redux state atom.  Uses a middleware shared path strings for improved performance and dynamic subscription handling.
   
+- **redux-subscriber**  
+  This package allows you to subscribe to changes in any part of your app state.
+  
 - **redux-changes**  
   https://github.com/sprightco/redux-changes  
   Process changes in redux with path matching.  Uses a higher-order reducer that does comparisons, and uses a path string with a matching syntax.
