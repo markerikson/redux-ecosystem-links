@@ -52,6 +52,10 @@
   https://github.com/eugene-manuilov/redux-wordpress  
   Redux helpers to generate actions and reducers for WordPress REST API endpoints. 
   
+- **redux-indexers**  
+  https://github.com/corps/redux-indexers  
+  A set of functions for producing and dealing with indexes in a referentially safe way! Best with redux and similar non-mutative state modeling.  Keeps data "in order", like in a database.  Combine it with your redux stores to create smart little client side databases in no time!
+  
   
 #### Feature Flags
   

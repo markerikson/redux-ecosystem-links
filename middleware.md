@@ -333,3 +333,7 @@
 - **redux-css**  
   https://github.com/Dash-OS/redux-css  
   Use the redux pattern to control CSS Variables. You provide redux-style reducers that set your variable values when changed, allowing you to style your app in many new ways.
+  
+- **redux-postmessage-raf**  
+  https://github.com/vkammerer/redux-postmessage-raf  
+  A redux middleware to use @vkammerer/postmessage-raf , allowing actions to be posted to web workers

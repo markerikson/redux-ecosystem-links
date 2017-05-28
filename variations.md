@@ -92,7 +92,7 @@
   A library that removes a lot of the boilerplate necessary to use redux.
 
 - **redux-direct**  
-  https://github.com/LiquidLabsGmbH/redux-direct  
+  https://github.com/collectai/redux-direct  
   With redux-direct you can use your action creators directly inside the reducers instead of having to define string constants for each action.
   
 - **Tango**  
@@ -531,3 +531,11 @@
   https://github.com/AndrewBanks10/causality-redux  
   https://github.com/AndrewBanks10/react-causality-redux  
   An extension to Redux that facilitates a cause-and-effect programming paradigm, and significantly reduces redux and react-redux coding.
+  
+- **Redux-Auto**  
+  https://github.com/codemeasandwich/redux-auto  
+  Automatically generate Redux stories and actions from your folder and file structure, using Webpack's context.
+  
+- **libertad**  
+  https://github.com/FullstackTypeScript/libertad  
+  Provides a context-free alternative to the connect function and the Provider component from react-redux, based on a declarative dependency injection API for Redux application powered by decorators, and the power of TypeScript and InversifyJS.

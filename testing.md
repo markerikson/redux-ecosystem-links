@@ -109,6 +109,11 @@
 - **redux-testkit**  
   https://github.com/wix/redux-testkit  
   Complete and opinionated testkit for testing Redux projects (reducers, selectors, actions, thunks) 
+  
+- **TestReducer**  
+  https://github.com/DanielKag/TestReducer  
+  A simple yet smart testing framework for your Redux reducers.  Helps you test your reducers using a Given/When/Then approach.
+
 
 
 #### Actions
@@ -208,3 +213,7 @@
  - **saganario**  
    https://github.com/vangelov/saganario  
    Saganario tries to provide a compact and powerful way to unit test redux sagas. It can be used with any testing framework.
+   
+ - **better-redux-saga-tester**  
+   https://github.com/modosc/better-redux-saga-tester  
+   Better full redux environment testing helper for redux-saga (initially forked from redux-saga-tester)

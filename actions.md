@@ -164,6 +164,19 @@
   https://github.com/Shoptap/redux-actioner  
   Inspired by Flux Standard Actions, this framework facilitates the implementation of Redux actions for the sake of simplicity, testing, and maintainability.
   
+- **namespaced-types**  
+  https://github.com/kokororin/namespaced-types  
+  Tiny utility to generated namespaced action constants
+  
+- **action-creators**  
+  https://github.com/lsentkiewicz/action-creators  
+  Action creators utilities for Redux.  Includes: parameter validation using joi, debug created actions using debug, no need to define constants, no duplicated namespaces, no duplicated action names.
+  
+- **to-redux-type**  
+  https://github.com/Dash-OS/to-redux-type  
+  Converts camelCase to SCREAMING_SNAKE_CASE with special considerations for small differences
+
+  
   
 #### Other Action Use Cases  
   

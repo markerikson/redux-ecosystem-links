@@ -160,3 +160,7 @@
 - **light-form**  
   https://github.com/j0nas/light-form  
   A small library for easily making simple forms with a standard React/Redux setup. Its primary goal is to reduce the amount of boilerplate written for standard form handling without adding any magic or library lock-in.
+  
+- **redux-form-inspector**  
+  https://github.com/marmelab/redux-form-inspector  
+  An HOC for computing dynamic props from values inside an existing redux-form component.

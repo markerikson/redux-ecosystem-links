@@ -336,3 +336,7 @@
 - **redux-generator-action**  
   https://github.com/Mrlyjoutlook/redux-generator-action  
   A generator-based action flow control middleware
+  
+- **redux-async-transitions**  
+  https://github.com/Cron-J/redux-async-transitions  
+  A middleware that combines features from redux-async and redux-history-transition

@@ -171,6 +171,10 @@
   https://github.com/toplan/redux-on  
   Store enhancer for Redux which support adding specific subscriptions
   
+- **listate**  
+  https://github.com/gamtiq/listate  
+  Library to listen/observe/watch changes of Redux store state.
+  
   
 #### Batching and Notifications
 
@@ -256,6 +260,10 @@
 - **redux-enhancer-react-native-appstate**  
   https://github.com/bamlab/redux-enhancer-react-native-appstate  
   Connect your App State changes directly to your Redux store!
+  
+- **electron-redux-connector**  
+  https://github.com/sylhero/electron-redux-connector  
+  A  bridge for electron and redux communication 
   
   
 #### Other

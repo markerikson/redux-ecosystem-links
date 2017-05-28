@@ -106,6 +106,10 @@
 - **redux-infinite-list**  
   https://github.com/KirillKayumov/redux-infinite-list  
   An infinite list component with state tracked in Redux
+  
+- **node-widgets**  
+  https://github.com/reddit/node-widgets  
+  A collection of helpful React components that can be used without much effort in a React + Redux environment.  Includes a tooltip, modal, and scroller.
 
 
 #### Layout
@@ -299,6 +303,11 @@
 - **f1-sticky**  
   https://github.com/nicocrm/f1-sticky  
   Simple sticky component for React-Redux projects. 
+  
+- **redux-flash**  
+  https://github.com/LaunchPadLab/redux-flash  
+  Redux action creators / selectors / reducer for displaying flash messages.
+
   
   
 #### Maps

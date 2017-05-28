@@ -201,6 +201,10 @@
   https://github.com/booqable/redux-interface  
   A reducer and HOC for tracking component state
   
+- **redux-transient**  
+  https://github.com/lucasconstantino/redux-transient  
+  provides a Redux store enhancer that will listen for specific action for adding and removing new reducers. It will keep an array with the store's original reducer and the temporary ones.  To facilitate usage with React, redux-transient also provides a Higher-Order component to attach a transient reducer during a React component's life cycle - meaning it will attach when mounting, and detach when unmounting.
+  
   
 #### Simplified / Key-Value State
 

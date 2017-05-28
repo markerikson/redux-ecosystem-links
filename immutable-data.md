@@ -149,6 +149,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/zaaack/immuter  
   An immutable react/redux state update helper, easily handle nested state with the least code. 
   
+- **precise-copy**  
+  https://github.com/VsevolodTrofimov/precise-copy  
+  A small keypath-based immutable update lib that's more performant than deep copying
+  
 
 #### Immutable/Redux Interop
 

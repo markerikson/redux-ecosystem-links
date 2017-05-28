@@ -175,10 +175,6 @@
 - **redux-url**  
   https://github.com/jedirandy/redux-url  
   A redux middleware that does one simple job: matches a url pattern and dispatch an action.
-
-- **i-redux-navigation**  
-  https://github.com/ebaranov/i-redux-navigation  
-  Navigation solution for redux applications 
   
 - **redux-location-state**  
   https://github.com/spotify/redux-location-state  
@@ -195,3 +191,4 @@
 - **spark-router**  
   https://github.com/tomzmtl/spark-router  
   An opinionated, simple routing library for React/Redux applications 
+  

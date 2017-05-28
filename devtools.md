@@ -90,6 +90,10 @@
   https://github.com/shea-hawkins/periscope  
   In-depth monitoring for Redux applications.  View actions on a timeline, group by type, and more.
   
+- **Upload-Download Monitor**  
+  https://github.com/Nase00/redux-devtools-upload-download-monitor  
+  A monitor for Redux DevTools to enable uploading and downloading of serialized application states. Pairs well with Redux Slider Slider Monitor!  This is a re-implementation of Redux Import Export Monitor, with the goal being to work well with very large application states.
+  
 
 #### Logging
   
@@ -286,3 +290,8 @@
 - **lcHOC**  
   https://github.com/viktorbergehall/lcHOC  
   lcHOC is a HOC (higher order component) in React that visualize rendering and logs helpful information.  Enhance each component you want to study with lcHOC and every time that component updates, a green flash wraps the component (much like paint flashing in devtools) and debugging information is logged to the console.
+  
+- **react-wastage-monitor**  
+  https://github.com/MalucoMarinero/react-wastage-monitor  
+  https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  
+  A utility that detects wasted rendering time on incorrectly developed Pure Components

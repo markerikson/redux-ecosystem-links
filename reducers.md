@@ -267,6 +267,17 @@
   https://github.com/asn007/reducio  
   Functional reducers for everybody 
   
+- **redux-dynamics**  
+  https://github.com/kettanaito/redux-dynamics  
+  A createReducer utility that simplifies declaration of initialState, helps inforce immutability, and scopes variables and logic.
+  
+- **redux-composers**  
+  https://github.com/shoutem/redux-composers
+  Introduces additional reducer composers besides combineReducers from redux, which enable to compose hierarchy in different ways. Includes 3 additional composer reducers: chainReducers, mergeReducers and mapReducers.
+  
+- **redux-pipe**  
+  https://github.com/giftofjehovah/redux-pipe  
+  Utilities for running reducers in a sequence and branching based on a predicate.
   
 #### Higher-Order Reducers
 
@@ -478,6 +489,16 @@
 - **common-reducers**  
   https://github.com/luispablo/common-reducers  
   Prebuilt reducers for managing "applications", "messages", and JWT/"security"
+  
+- **redux-rack**  
+  https://github.com/evanrs/redux-rack  
+  Treat Redux like a rack — mount reducers like components 
+  
+- **reducer-generator**  
+  https://github.com/Dash-OS/reducer-generator-array-map  
+  https://github.com/Dash-OS/reducer-generator-object-map  
+  https://github.com/Dash-OS/reducer-generator-wildcard  
+  Utilities to generate reducers based on arrays, objects, or wildcard action type matching
   
   
 #### State Machines
