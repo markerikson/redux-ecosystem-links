@@ -205,6 +205,14 @@
   https://github.com/lucasconstantino/redux-transient  
   provides a Redux store enhancer that will listen for specific action for adding and removing new reducers. It will keep an array with the store's original reducer and the temporary ones.  To facilitate usage with React, redux-transient also provides a Higher-Order component to attach a transient reducer during a React component's life cycle - meaning it will attach when mounting, and detach when unmounting.
   
+- **alveron**  
+  https://github.com/rofrischmann/alveron  
+  Alveron is a highly opinionated state architecture for React using Redux.  It is heavily inspired by The Elm Architecture and aims to simplify component-based state management.
+  
+- **redux-fractal-connect**  
+  https://github.com/typeetfunc/redux-fractal-connect  
+  Make connect to Redux store fractal 
+  
   
 #### Simplified / Key-Value State
 

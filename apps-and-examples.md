@@ -62,6 +62,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/j-hannes/realworld-react-redux-modular  
   Another React/Redux implementation of the RealWorld example, demonstrating a modular/feature-based structure
   
+- **ReForum**  
+  https://github.com/shoumma/ReForum  
+  A forum application. Built with React, Redux, Express and MongoDB
+  
 
 #### Applications
 - **MapStore2**  

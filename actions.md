@@ -175,7 +175,26 @@
 - **to-redux-type**  
   https://github.com/Dash-OS/to-redux-type  
   Converts camelCase to SCREAMING_SNAKE_CASE with special considerations for small differences
-
+  
+- **redux-actions-namespace**  
+  https://github.com/fiberthrone/redux-actions-namespace  
+  Syntax sugar for using namespaces with redux-actions.
+  
+- **redux-actions-api-addon**  
+  https://github.com/jkusachi/redux-actions-api-addon  
+  Redux Actions add-on to support API Requests. 
+  
+- **redux-helper**  
+  https://github.com/vgmr/redux-helper  
+  Action creator, promise action creator and checked promise middleware.
+  
+- **redux-api-middleware-actions**  
+  https://github.com/christensena/redux-api-middleware-actions  
+  Strongly typed action creator functions for redux-api-middleware
+  
+- **redux-action-types-creator**  
+  https://github.com/Darmody/redux-action-types-creator  
+  A simple utility to generate namespaced action types for sync and async actions
   
   
 #### Other Action Use Cases  

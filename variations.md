@@ -539,3 +539,19 @@
 - **libertad**  
   https://github.com/FullstackTypeScript/libertad  
   Provides a context-free alternative to the connect function and the Provider component from react-redux, based on a declarative dependency injection API for Redux application powered by decorators, and the power of TypeScript and InversifyJS.
+
+- **redux-class**  
+  https://github.com/Rewieer/redux-class  
+  Bringing class-style reducer factory to your redux stack.
+  
+- **redux-domain** 
+  https://github.com/aight8/redux-domain  
+  Manage your redux store, reducers, sagas in domains
+  
+- **react-dedux**  
+  https://github.com/tiagomapmarques/react-dedux  
+  Redux abstraction for state management in React 
+  
+- **redux-state-connect**  
+  https://github.com/NikolayBorisov/redux-state-connect  
+  Help to connect to native React Component State

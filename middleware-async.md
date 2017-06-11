@@ -119,6 +119,13 @@
   https://github.com/velopert/redux-pender  
   A middleware that helps you to manage asynchronous actions based on promise. It comes with useful tools that help you to handle this even more easier.
   
+- **redux-fluture**  
+  https://github.com/joshburgess/redux-fluture  
+  Fluture-js based middleware for Redux. Handle async actions with FantasyLand compliant Futures, a lazy, monadic alternative to Promises. 
+  
+- **redux-promise-track**  
+  https://github.com/kenjiru/redux-promise-track  
+  Redux promise middleware with promise status tracking 
   
 #### Timeouts and Delays
 

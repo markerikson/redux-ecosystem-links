@@ -56,6 +56,10 @@
   https://github.com/corps/redux-indexers  
   A set of functions for producing and dealing with indexes in a referentially safe way! Best with redux and similar non-mutative state modeling.  Keeps data "in order", like in a database.  Combine it with your redux stores to create smart little client side databases in no time!
   
+- **redux-webmidi**  
+  https://github.com/hyperfuse/redux-webmidi  
+  Intuitive Redux reducer/action creators for handling MIDI devices. 
+  
   
 #### Feature Flags
   
@@ -64,7 +68,7 @@
   A package for providing react-redux based feature toggles
   
 - **react-redux-feature-flag**  
-  https://github.com/unbounce/react-redux-feature-flag  
+  https://github.com/unbounce/flag  
   Feature flagging made easy for React and Redux
   
 - **redux-feature-flags**  
@@ -129,6 +133,14 @@
 - **redux-keystroke-history**  
   https://github.com/graftss/redux-keystroke-history  
   Maintain keystroke history in a redux store 
+  
+- **redux-browser-geolocation**  
+  https://github.com/IagoLast/redux-browser-geolocation  
+  HTML5 Geolocation api for redux
+  
+- **redux-breakpoint**  
+  https://github.com/bala94/redux-breakpoint  
+  A lightweight library to help your redux based application to be more responsive.  Make your component aware of breakpoint and device width just by connecting to store.
 
   
 ### Internationalization
@@ -263,6 +275,10 @@
 - **redux-loading-reducer**  
   https://github.com/jerryslaw/redux-loading-reducer  
   A simple function (reducer) that changes custom state flags. The main purpose is to change a flag, such as isLoading, by given arrays of loading action names and not-loading action names. 
+  
+- **redux-request-tracker**  
+  https://github.com/oconn/redux-track-request  
+  A package that aims to make working with async data and pagination (link headers support only) a breeze.
   
   
 #### Undo-Redo

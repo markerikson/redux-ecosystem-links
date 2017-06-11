@@ -147,6 +147,10 @@
   https://github.com/purposeindustries/redux-persist-to-localstorage  
   A dead-simple redux store enhancer for adding localStorage persistance 
   
+- **redux-replay**  
+  https://github.com/kareemf/redux-replay  
+  Transport-agnostic Redux action persistence, retrieval, and replay. Designed to work with redux-logger's persistence mechanism.
+  
   
 #### Redux-Persist Addons
 
@@ -213,6 +217,14 @@
 - **redux-persist-memory-storage**  
   https://github.com/modosc/redux-persist-memory-storage  
   Redux Persist memory storage adapter.
+  
+- **redux-persist-transform-passwords**  
+  https://github.com/CharlieHess/redux-persist-transform-passwords  
+  Store some parts of your state in the macOS Keychain, Credential Vault on Windows, or libsecret on Linux. Uses keytar. Adheres to the redux-persist transform API, but async transforms must be enabled.
+  
+- **redux-persist-storage-node**  
+  https://github.com/odensc/redux-persist-storage-node  
+  redux-persist storage for Node.js/Electron.
   
 
 #### Redux-Storage Addons

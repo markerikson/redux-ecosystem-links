@@ -209,6 +209,14 @@
   https://github.com/hudl/redux-action-logger  
   A simple, extensible redux middleware system to generate logs from actions. The intent of this library is to make logging and event reporting as simple and consistent as possible.
   
+- **redux-logging-reducer**  
+  https://github.com/tristanls/redux-logging-reducer  
+  Adds logging of dispatched actions to your reducer functionality storing dispatched actions in the reducer's store.
+  
+- **redux-heartbeat**  
+  https://github.com/alechill/redux-heartbeat  
+  A middleware for Redux providing a heartbeat that contains batched log of actions occurring between each beat.  Created for incrementally collecting usage data for driving analytics, contextual error reporting, even persisting replayable user sessions.
+  
   
 #### Linting
  

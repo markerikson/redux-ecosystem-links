@@ -89,3 +89,7 @@
 - **reservice**  
   https://github.com/zordius/reservice  
   An isomorphic/universal asynchronous tasks solution for redux. 
+  
+- **redux-tx**  
+  https://github.com/majo44/redux-tx  
+  Transactions for Redux, using zone.js

@@ -110,6 +110,10 @@
   https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/define-selectors  
   A utility to help with the ordering of selector definitions
   
+- **rememo**  
+  https://github.com/aduth/rememo  
+  Memoized selectors for Redux and other immutable object derivation.  Differs from Reselect by encouraging you to consider the derivation first-and-foremost without requiring you to build up the individual dependencies ahead of time.
+  
   
 #### Functional Programming
   

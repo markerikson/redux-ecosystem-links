@@ -87,6 +87,10 @@
   https://github.com/nelsongarym/redux-sockjs-middleware  
   A redux middleware that manages a sockjs connection and subscriptions
   
+- **redux-websocket**  
+  https://github.com/giantmachines/redux-websocket  
+  A Redux middleware for managing data over a WebSocket connection.  This middleware uses actions, dispatched with Redux to interact with a WebSocket server including connect, disconnect, message sending, and message receiving. All actions follow the Flux Standard Action model.
+  
 
 #### Firebase
 

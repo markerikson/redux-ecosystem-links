@@ -48,6 +48,10 @@
   https://github.com/borisding/redux-ready-wrapper  
   A variation of redux-thunk that dispatches a READY_ACTION before your actual action, and always returns a promise for chaining
   
+- **thunk-kickoff**  
+  https://github.com/chrisgervang/thunk-kickoff  
+  Get promises out the door and into your store!  Thunk Kickoff wraps async actions with request status (success, pending, fail), and provides essential request lifecycle functions. It builds on top of redux-thunk.
+  
 
 #### Redux-Effects extensions
   

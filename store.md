@@ -84,6 +84,10 @@
   https://github.com/vvinhas/redux-bolt  
   https://github.com/vvinhas/redux-bolt-server  
   A small middleware for Redux that lets you dispatch Redux Actions to a server running SocketIO. Your actions will then be replicated to all clients listening to that socket or to a specific channel.
+  
+- **redux-state-sync**  
+  https://github.com/AOHUA/redux-state-sync  
+  A light weight middleware to sync your redux state across browser tabs. This module will listens to the window storage event and triggers exactly the same actions triggered in other tabs to make the redux state sync.
 
 #### Store Change Subscriptions
 
@@ -175,6 +179,18 @@
   https://github.com/gamtiq/listate  
   Library to listen/observe/watch changes of Redux store state.
   
+- **redux-store-watch**  
+  https://github.com/ralusek/redux-store-watch  
+  Watches specific paths on redux's store. This is achieved by either providing a selector function whose results will be compared between current and previous state, or a string path whose value will be checked on the current and previous state.
+  
+- **redux-subscribe-ts**  
+  https://github.com/anwfr/redux-subscribe-ts  
+  Subscribe to a path in your redux state, get notified when sub-state changed with state diff 
+  
+- **redux-detector**  
+  https://github.com/piotr-oles/redux-detector  
+  Redux Detector enhancer allows you to detect state changes in redux. A detector is a simple and pure function which compares two states and returns action or list of actions for some states transitions.
+  
   
 #### Batching and Notifications
 
@@ -264,6 +280,14 @@
 - **electron-redux-connector**  
   https://github.com/sylhero/electron-redux-connector  
   A  bridge for electron and redux communication 
+  
+- **redux-electron-global-dispatch**  
+  https://github.com/kube/redux-electron-global-dispatch  
+  Redux Middleware for dispatching Actions between Electron processes
+  
+- **redux-electron-initial-state**  
+  https://github.com/kube/redux-electron-initial-state  
+  Redux Store Initial State Enhancer between Electron Processes 
   
   
 #### Other

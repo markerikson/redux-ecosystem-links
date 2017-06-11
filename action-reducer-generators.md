@@ -212,6 +212,30 @@
   https://github.com/benoneal/sleipnir  
   A convenience interface for Redux, to remove boilerplate and provide sensible asynchronous action handling.
   
+- **redux-helpers**  
+  https://github.com/sirqiao/redux-helpers  
+  Utilities to create action types, action creators, and reducers for both sync and async actions
+  
+- **redux-tiles**  
+  https://github.com/Bloomca/redux-tiles  
+  This library tries to provide minimal abstraction on top of Redux, to allow easy composability, easy async requests, and sane testability.
+  
+- **redux-ts-simple**  
+  https://github.com/Cooke/redux-ts-simple  
+  Yet another lib for creating typed actions and reducers. This library is FSA-compliant.
+  
+- **redux-helpers**  
+  https://github.com/mindbox-moscow/redux-helpers  
+  Typed factories for your reducers and actions. 
+  
+- **redux-async-action-reducer**  
+  https://github.com/neolivz/redux-async-action-reducer  
+  Simple redux action creation and reducer wrapper that makes creating and handling asynchronous and synchronous wrapper easier. It's completely written with type safety in mind, with typescript.
+  
+- **reduxec**  
+  https://github.com/Noviel/reduxec  
+  Create reusable, targeted actions and reducers for Redux
+  
 
 #### Network Requests and APIs
 
@@ -330,6 +354,10 @@
 - **redux-simple-api**  
   https://github.com/kazagkazag/redux-simple-api  
   A library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
+  
+- **redux-fetch-actions**  
+  https://github.com/deptno/redux-fetch-actions  
+  Functions for doing REST API calls and dispatching actions
 
   
 #### Other Code Structures
@@ -381,3 +409,7 @@
 - **redux-duckling**  
   https://github.com/pghalliday/redux-duckling  
   The redux-duckling library implements an approach that effectively manages namespacing, composing and combining reusable duck-like modules, which due to their smaller nature we refer to as ducklings.
+  
+- **redux-typed-ducks**  
+  https://github.com/mhoyer/redux-typed-ducks  
+  Helper for using ducks in conjunction with redux having typing support.

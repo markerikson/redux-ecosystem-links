@@ -110,6 +110,14 @@
 - **node-widgets**  
   https://github.com/reddit/node-widgets  
   A collection of helpful React components that can be used without much effort in a React + Redux environment.  Includes a tooltip, modal, and scroller.
+  
+- **redux-status**  
+  https://github.com/Vlad-Zhukov/redux-status  
+  A higher-order component decorator for painless state management with Redux and React
+  
+- **redux-typeahead**  
+  https://github.com/Anishmprasad/redux-typeahead  
+  Typeahead Component for React ES6 and Redux
 
 
 #### Layout
@@ -162,7 +170,7 @@
   redux-modals is a very simple package for handling modal state in your redux applications. It only provides a reducer and a couple of actions for setting and unsetting your modals.  The only thing this package assumes is that your modals are driven by your application state. Nothing fancy is done here and it does not actually show or hide your modals, it simply stores and provides a list of enabled modals.
   
 - **Relocation**  
-  https://github.com/nealgranger/relocation  
+  https://github.com/metalabdesign/relocation  
   Relocation works with React Redux to manage modals, lightboxes, alerts, and overlays.
   
 - **redux-promising-modals**  
@@ -188,6 +196,14 @@
 - **react-redux-modal-provider**  
   https://github.com/myaskevich/react-redux-modal-provider  
   react-redux-modal-provider controls the state of your React modal components using Redux.
+  
+- **redux-modal-container**  
+  https://github.com/ionutmilica/redux-modal-container  
+  Manage modals with ease when you're using React and Redux. 
+  
+- **redux-modal**  
+  https://github.com/kinder5566/redux-modal  
+  The Simplest way to show an alert in react-redux 
 
 
 #### Grids and Tables
@@ -232,6 +248,10 @@
 - **redux-filterlist**  
   https://github.com/vtaits/redux-filterlist  
   A Higher Order Component using react-redux for creating lists with filters, sotring, paginatinon, endless scroll etc.
+  
+- **React Redux Feed**  
+  https://github.com/airwoot/react-redux-feed  
+  An higher order component to create and maintain react-redux feeds from any data source 
   
   
 #### Notifications
@@ -308,6 +328,13 @@
   https://github.com/LaunchPadLab/redux-flash  
   Redux action creators / selectors / reducer for displaying flash messages.
 
+- **redux-messenger**  
+  https://github.com/oconn/redux-messenger  
+  Redux actions & state management for working with user messages 
+  
+- **redux-store-ancillary**  
+  https://github.com/talibasya/redux-store-ancillary  
+  Prebuilt common logic flow for popup, notification and spinner. Easy to integrate to your project based on react redux + redux-thunk. Compatible with react-native and react-vr.
   
   
 #### Maps

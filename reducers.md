@@ -279,6 +279,27 @@
   https://github.com/giftofjehovah/redux-pipe  
   Utilities for running reducers in a sequence and branching based on a predicate.
   
+- **reducer-redux**  
+  https://github.com/b-gran/reducer-redux  
+  A Ramda-based utility for reducers based on an object tree to define the shape of the state
+
+- **redux-strategic-reducer**  
+  https://github.com/davidjbeveridge/redux-strategic-reducer  
+  Another lookup-table reducer builder, with built-in "set" and "clear" handlers
+  
+- **recombine**  
+  https://github.com/aikoven/recombine  
+  Utilities for combining Redux reducers, including a combineReducers alternative with extra arguments, and reducers that manage key-value dictionaries.
+  
+- **redux-dependent-reducers**  
+  https://github.com/shura-v/redux-dependent-reducers  
+  Combine reducers dependent on evaluation order 
+  
+- **typescript-fsa-reducers**  
+  https://github.com/dphilipson/typescript-fsa-reducers  
+  Fluent syntax for defining typesafe reducers on top of typescript-fsa. 
+  
+  
 #### Higher-Order Reducers
 
 **Related topics**: [Use Cases - Undo-Redo](./use-cases.md#undo-redo)
@@ -393,6 +414,7 @@
   
   
   
+  
 #### Advanced Reducer Use Cases
 
 - **redux-operations**  
@@ -499,6 +521,22 @@
   https://github.com/Dash-OS/reducer-generator-object-map  
   https://github.com/Dash-OS/reducer-generator-wildcard  
   Utilities to generate reducers based on arrays, objects, or wildcard action type matching
+  
+- **redux-arrows**  
+  https://github.com/foxnewsnetwork/redux-arrows  
+  Extension of redux reducers from basic functions to haskell arrows 
+  
+- **nested-reducer**  
+  https://github.com/twop/nested-reducer  
+  Helper library to deal with deeply nested state in redux 
+  
+- **redux-inject-reducer**  
+  https://github.com/umidbekkarimov/redux-inject-reducer  
+  Manage dynamic reducer injection and ejection in your redux app 
+  
+- **rewpa**  
+  https://github.com/yi-bai/rewpa  
+  Redux REducers With json PAth 
   
   
 #### State Machines

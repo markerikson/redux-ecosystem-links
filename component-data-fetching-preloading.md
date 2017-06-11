@@ -268,3 +268,7 @@
 - **redux-api-react-switch**  
   https://github.com/xurei/redux-api-react-switch  
   A set of React components to show different content based on the state of a resource fetch.  It is meant to be used with redux-api, but it can be used with any other library. 
+  
+- **redux-refetch**  
+  https://github.com/scwe/redux-refetch  
+  A simple automated data refetcher for using react-redux. The basic use case is when you have some data that needs to be refetched anytime there is a change in some of the underlying properties.

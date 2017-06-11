@@ -170,3 +170,11 @@
 - **japicam**  
   https://github.com/epiqueras/japicam  
   JAPICAM is a tool for simplifying connections to JSON APIs. It works really well as Redux Middleware, but it's also helpful in any setting.
+  
+- **disfetch**  
+  https://github.com/wafflepie/disfetch  
+  Disfetch is a library for sending HTTP requests and dispatching Redux actions accordingly.
+  
+- **redux-swagger-client**  
+  https://github.com/noh4ck/redux-swagger-client  
+  An attempt to add asynchronous swagger api calls to redux. It works by dispatching an action that includes the field swagger that takes a function and passes the swagger client element to that function. If the swagger spec has not yet been parsed, the action will get queued.

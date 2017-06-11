@@ -161,6 +161,14 @@
   https://github.com/MaxLi1994/redux-validator  
   Action parameter validator middleware for redux
   
+- **redux-hook-middleware**  
+  https://github.com/kamataryo/redux-hook-middleware  
+  A Redux middleware to provide easy hooks on pre/post dispatch.
+  
+- **redux-tsa**  
+  https://github.com/contrarian/redux-tsa  
+  Async friendly validation middleware for Redux 
+  
   
 #### Analytics
 

@@ -119,6 +119,14 @@
   https://github.com/p2kmgcl/redux-scalable  
   A set of reducers, selectors, middlewares and action creators that allows managing a predictable, scalable and easy to use Redux state 
   
+- **redux-entity-config**  
+  https://github.com/TheGnarCo/redux-entity-config  
+  Redux Entity Config provides actions and reducers to help manage entities in state (ie posts, users, etc.). Most entities require the same crud methods and are stored in a similar manner in state allowing this behavior to be extracted to a common configuration class.
+  
+- **redux-entitize**  
+  https://github.com/leoselig/redux-entitize  
+  Simple actions and reducers for managing entities
+  
 
 #### Client/Server Collections
 
@@ -222,3 +230,14 @@
   https://github.com/saltas888/redux-relax  
   A library that will help you to integrate with Redux and manage your redux state efficiently, without need of writing Actions, types, reducers, schemas(normalizr), functions for fetching data from API .
   
+- **redux-bees**  
+  https://github.com/cantierecreativo/redux-bees  
+  A nice, short and declarative way to interact with JSON APIs 
+  
+- **redux-store-filler**  
+  https://github.com/geoolekom/redux-store-filler  
+  redux-store-filler will retrieve data via API, normalize it, put it in Redux store and follow foreign keys if necessary. If data is already present in store, it will call API if only it's outdated.
+  
+- **redux-crud-observable**  
+   https://github.com/FoodMeUp/redux-crud-observable  
+   Actions, reducers & epics for managing crud redux state

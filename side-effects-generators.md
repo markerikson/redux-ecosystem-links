@@ -123,3 +123,19 @@
 - **redux-saga-location**  
   https://github.com/itinance/redux-saga-location  
   Helps to fetch geo-location within a saga (or any other generator function) and put the result into the redux-store.
+  
+- **saga-task-manager**  
+  https://github.com/Dash-OS/saga-task-manager  
+  A Task Manager to help manage forked tasks from redux-saga. Tasks have a "category" and "id" which is used to identify and ensure we don't run more than one of any given task.
+  
+- **SagaObservable**  
+  https://github.com/Dash-OS/saga-observable  
+  Abstracts the PromiseQueue lib to add the redux-saga cancellation logic on top. This allows us to easily wait for future actions / events in our sagas.
+  
+- **saga-geolocation-observer**  
+  https://github.com/Dash-OS/saga-geolocation-observer  
+  Use saga-observables to provide a simple way to use the HTML5 Geolocation API with redux-saga 
+  
+- **redux-saga-rest**  
+  https://github.com/zach-waggoner/redux-saga-rest  
+  A thin wrapper around the Fetch API that integrates with redux-saga and supports request/response middleware.

@@ -183,6 +183,10 @@
 - **redux-json-router**  
   https://github.com/mksarge/redux-json-router  
   Declarative, Redux-first routing for React/Redux browser applications. 
+  
+- **redux-first-routing**  
+  https://github.com/mksarge/redux-first-routing  
+  A minimal, framework-agnostic base for accomplishing Redux-first routing. 
 
 - **naglfar**  
   https://github.com/benoneal/naglfar  
