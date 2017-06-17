@@ -128,9 +128,9 @@
   https://github.com/orzechowskid/eleanor  
   Elegant and nearly zero-config routing, for React/Redux apps
   
-- **pure-redux-router**  
-  https://github.com/faceyspacey/pure-redux-router  
-  Think of your app in states not routes (and, yes, while keeping the address bar in sync) 
+- **redux-first-router**  
+  https://github.com/faceyspacey/redux-first-router
+  seamless redux-first routing -- just dispatch actions 
 
 - **React Redux Dynamic Router Reducer Plugin**  
   https://github.com/madeinfree/redux-plugin-dynamic-router-reducer  
@@ -147,10 +147,6 @@
 - **rrrouter**  
   https://github.com/plandem/rrrouter  
   React/Redux/Router - simple, but powerful router for React with built-in support for redux. 
-  
-- **pure-redux-router-link**  
-  https://github.com/faceyspacey/pure-redux-router-link  
-  A simple but effective <Link /> component for pure-redux-router (better for SEO rather than dispatch directly)
   
 - **redux-pages**  
   https://github.com/ryo33/redux-pages  
