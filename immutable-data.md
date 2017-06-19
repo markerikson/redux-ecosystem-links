@@ -153,8 +153,8 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/VsevolodTrofimov/precise-copy  
   A small keypath-based immutable update lib that's more performant than deep copying
 
-- **partial.lenses**
-  https://github.com/calmm-js/partial.lenses/
+- **partial.lenses**  
+  https://github.com/calmm-js/partial.lenses/  
   Partial lenses is a comprehensive, high-performance optics library for JavaScript.  Optics are a highly composable means of manipulating nested data structures in an immutable fashion.
 
 #### Immutable/Redux Interop
