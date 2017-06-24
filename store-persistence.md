@@ -151,6 +151,10 @@
   https://github.com/kareemf/redux-replay  
   Transport-agnostic Redux action persistence, retrieval, and replay. Designed to work with redux-logger's persistence mechanism.
   
+- **redux-browser-storage**  
+  https://github.com/planttheidea/redux-browser-storage  
+  Use redux to manage specific data saved in either localStorage or sessionStorage
+  
   
 #### Redux-Persist Addons
 
@@ -225,6 +229,14 @@
 - **redux-persist-storage-node**  
   https://github.com/odensc/redux-persist-storage-node  
   redux-persist storage for Node.js/Electron.
+  
+- **redux-persist-sensitive-storage**  
+  https://github.com/CodingZeal/redux-persist-sensitive-storage  
+  redux-persist storage engine for react-native-sensitive-info
+  
+- **redux-persist-model**  
+  https://github.com/henrytao-me/redux-persist-model  
+  Utils for persisting model-related data
   
 
 #### Redux-Storage Addons

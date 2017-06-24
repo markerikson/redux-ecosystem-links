@@ -88,6 +88,11 @@
 - **redux-state-sync**  
   https://github.com/AOHUA/redux-state-sync  
   A light weight middleware to sync your redux state across browser tabs. This module will listens to the window storage event and triggers exactly the same actions triggered in other tabs to make the redux state sync.
+  
+- **remote-redux-five**  
+  https://github.com/ericwpeterson/remote-redux-five  
+  A simple client/server protocol that enables Get, Set, Watch, UnWatch, and Call actions on remote redux stores. 
+  
 
 #### Store Change Subscriptions
 
@@ -191,6 +196,14 @@
   https://github.com/piotr-oles/redux-detector  
   Redux Detector enhancer allows you to detect state changes in redux. A detector is a simple and pure function which compares two states and returns action or list of actions for some states transitions.
   
+- **redux-watch-immutable**  
+  https://github.com/Danetag/redux-watch-immutable  
+  Watch/observe Redux store state changes using Immutable.js.  Redux-watch is a small but helpful library that associate a callback() to a path-to-the-store. Unfortunately, it's not optimized/made to work with Immutable.js. So we took the main concept and made it work.
+  
+- **reactive-redux-state**  
+  https://github.com/Jawnkuin/reactive-redux-state  
+  Make non-UI related redux state reactive.  Uses reselect to memoize the preview sub state or some data derived from state, when state changes, corresponding listeners will be called.
+  
   
 #### Batching and Notifications
 
@@ -289,6 +302,10 @@
   https://github.com/kube/redux-electron-initial-state  
   Redux Store Initial State Enhancer between Electron Processes 
   
+- **workux**  
+  https://github.com/sammkj/workux  
+  Redux in a web worker.  Separate app business logic from the main thread, leaving only the UI and animation stuffs.
+  
   
 #### Other
 
@@ -331,3 +348,7 @@
 - **redux-visibility**  
   https://github.com/patch-notes/redux-visibility  
   A store enhancer for Redux that allows to hide parts of the state 
+  
+- **redux-dispatch-monitor**  
+  https://github.com/jBox/redux-dispatch-monitor    
+  Initialize redux state asynchronously with multiple async actions. 

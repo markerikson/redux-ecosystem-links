@@ -118,6 +118,14 @@
 - **redux-typeahead**  
   https://github.com/Anishmprasad/redux-typeahead  
   Typeahead Component for React ES6 and Redux
+  
+- **react-redux-lifecycle**  
+  https://github.com/mpeyper/react-redux-lifecycle  
+  A higher-order component to dispatch actions on react lifecycle methods 
+  
+- **redux-choreography**  
+  https://github.com/Setsun/redux-choreography  
+  Higher-order components to maintain animation state in Redux and coordinate your animations 
 
 
 #### Layout
@@ -253,6 +261,14 @@
   https://github.com/airwoot/react-redux-feed  
   An higher order component to create and maintain react-redux feeds from any data source 
   
+- **redux-listview**  
+  https://github.com/kpaxqin/redux-listview  
+  An HOC and Redux logic for creating list pages easier
+  
+- **react-redux-composeable-list**  
+  https://github.com/SmallImprovements/react-redux-composeable-list  
+  A list component with a variety of available customizations
+  
   
 #### Notifications
   
@@ -335,6 +351,10 @@
 - **redux-store-ancillary**  
   https://github.com/talibasya/redux-store-ancillary  
   Prebuilt common logic flow for popup, notification and spinner. Easy to integrate to your project based on react redux + redux-thunk. Compatible with react-native and react-vr.
+  
+- **redux-popper**  
+  https://github.com/bitstrider/redux-popper  
+  Redux state management for popup components
   
   
 #### Maps

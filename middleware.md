@@ -169,6 +169,18 @@
   https://github.com/contrarian/redux-tsa  
   Async friendly validation middleware for Redux 
   
+- **redux-action-enhancer**  
+  https://github.com/bdwain/redux-action-enhancer  
+  Dependency injection for redux actions. Enhance your actions with values from the store. Inspired by connected components in react-redux.
+  
+- **redux-subscriber**  
+  https://github.com/yoyeung/redux-subscriber-middleware  
+  A middleware to allow subscribing to specific actions and running a provided callback function
+  
+- **redux-camelizer**  
+  https://github.com/hiyamamo/redux-camelizer  
+  Camelize middleware for Redux
+  
   
 #### Analytics
 
@@ -207,6 +219,10 @@
 - **redux-insights**  
   https://github.com/hyperlab/redux-insights  
   Redux middleware for analytics and tracking with an awesome API. Comes with Google Analytics support, but it's very easy to write your own adoptions!
+  
+- **track-action-middleware**  
+  https://github.com/bspaulding/track-action-middleware  
+  A middleware for interfacing actions with some other event tracking or analytics system.
   
   
 #### Data Management

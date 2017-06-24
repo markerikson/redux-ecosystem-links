@@ -555,3 +555,27 @@
 - **redux-state-connect**  
   https://github.com/NikolayBorisov/redux-state-connect  
   Help to connect to native React Component State
+  
+- **react-redux-models**  
+  https://github.com/tz5514/react-redux-models  
+  Reducer logic and a higher-order component for managing model classes
+  
+- **react-redux-action-provider**  
+  https://github.com/dsdenes/react-redux-action-provider  
+  Automatically maps your action creators to your Redux store, and provides them to the child components through this.context.actions.  This saves you writing mapDispatchToProps boilerplate in every component.
+  
+- **redux-looking-glass**  
+  https://github.com/zachcoyle/redux-looking-glass  
+  Redux requires too much boilerplate - let's use it as a primitive!  Builds lens-based reducers and action creators using Ramda.
+  
+- **redux-redactions**  
+  https://github.com/selsamman/redux-redactions  
+  Reactions simplifies actions and reducers: actions and reducers defined right next to each other, no need for action type strings, no need to worry about not mutating the state, no need to wire togethe a reducer hierarchy, and in fact you don't define reducers - you just define functions that return a state slice.
+  
+- **redux-modules**  
+  https://github.com/wtgtybhertgeghgtwtg/redux-modules  
+  A simplistic alternate approach to https://github.com/procore/redux-modules.
+  
+- **disprux**  
+  https://github.com/xaviercobain88/disprux  
+  Command/Event Proxy for Redux 

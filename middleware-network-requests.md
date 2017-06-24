@@ -147,10 +147,6 @@
   https://github.com/mcoetzee/redux-ajaxable  
   Flux Standard Ajax Action compliant middleware built with RxJS
   
-- **redux-remote-resource**  
-  https://github.com/tylerFowler/redux-remote-resource  
-  Flexible Redux middleware for making remote API calls 
-  
 - **redux-api-request**  
   https://github.com/mahaplatform/redux-api-request  
   Redux middleware for making API requests
@@ -178,3 +174,7 @@
 - **redux-swagger-client**  
   https://github.com/noh4ck/redux-swagger-client  
   An attempt to add asynchronous swagger api calls to redux. It works by dispatching an action that includes the field swagger that takes a function and passes the swagger client element to that function. If the swagger spec has not yet been parsed, the action will get queued.
+  
+- **redux-jwt-protected-middleware**  
+  https://github.com/jimjeffers/redux-jwt-protected-middleware  
+  This middleware injects a JWT access token onto part of a qualifying action's payload. If the current access token exists but is not valid, you will be able to refresh the user's current access token prior to the action getting passed on to your API middleware.

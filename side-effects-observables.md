@@ -59,3 +59,7 @@
 - **redux-driver**  
   https://github.com/NeoJRotary/redux-driver  
   Event-Driven Middleware for Redux with RxJS and Socket.IO
+  
+- **redux-rx-http**  
+  https://github.com/radiosilence/redux-rx-http  
+  Uses react-observable to provide a nice HTTP layer. 

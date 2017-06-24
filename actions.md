@@ -243,3 +243,7 @@
 - **type-stash**  
   https://github.com/DaneSirois/type-stash  
   Redux type-management library.  Removes the need for a dedicated "types" file.
+  
+- **seashell-redux**  
+  https://github.com/heineiuo/seashell-redux  
+  A simple way to write functions with context dependencies without context parameter

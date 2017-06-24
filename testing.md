@@ -91,6 +91,10 @@
   https://github.com/ScaCap/chai-redux  
   An extension plugin for the Chai assertion library for testing Redux stores.
   
+- **redux-test-belt**  
+  https://github.com/Workable/redux-test-belt  
+  Redux-test-belt is a JavaScript testing utility for Redux that makes it easier to assert, isolate, manipulate, and traverse your store's output.  Redux-test-belt's API is meant to be flexible by mimicking / extending Redux's store functionality. Furthermore, Redux-test-belt is unopinionated regarding which test runner, assertion library or how your application is constructed.
+  
   
 #### Reducers
 

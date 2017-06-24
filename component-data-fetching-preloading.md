@@ -272,3 +272,7 @@
 - **redux-refetch**  
   https://github.com/scwe/redux-refetch  
   A simple automated data refetcher for using react-redux. The basic use case is when you have some data that needs to be refetched anytime there is a change in some of the underlying properties.
+  
+- **redux-collect-promises**  
+  https://github.com/zumb/redux-collect-promises  
+  Collect redux promises and wait for resolution for server side rendering

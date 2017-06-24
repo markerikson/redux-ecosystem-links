@@ -127,6 +127,14 @@
   https://github.com/leoselig/redux-entitize  
   Simple actions and reducers for managing entities
   
+- **normalizr-utils**  
+  https://github.com/ascension/normalizr-utils  
+  A set of util/helper functions to reduce the amount of boilerplate code when working with Normalizr.
+
+- **redux-db**  
+  https://github.com/msolvaag/redux-db  
+  redux-db provides a normalized redux store and easy object management. Inspired by libraries such as normalizr and redux-orm, redux-db will give a similiar workflow with a smaller footprint and no dependencies.
+  
 
 #### Client/Server Collections
 
@@ -182,9 +190,9 @@
   https://github.com/sbrigham/redux-normalized-crud  
   An attempt to standardize restful calls and responses within a growing redux application
   
-- **redux-simple-resource**  
-  https://github.com/jmeas/redux-simple-resource  
-  A powerful Redux system for managing resources 
+- **resourceful-redux**  
+  https://github.com/jmeas/resourceful-redux  
+  A system for managing 'resources' – data that is persisted to remote servers.
   
 - **redux-query**  
   https://github.com/amplitude/redux-query  

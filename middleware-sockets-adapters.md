@@ -137,6 +137,10 @@
 - **reduxonfire**  
   https://github.com/edoardolincetto/reduxonfire  
   Just a simple, scalable implementation of Firebase with Redux for React.js 
+  
+- **redux-saga-firebase**  
+  https://github.com/n6g7/redux-saga-firebase  
+  A redux saga integration for firebase
 
 
 #### Meteor

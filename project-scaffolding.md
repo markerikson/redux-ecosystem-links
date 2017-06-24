@@ -56,4 +56,14 @@
   https://github.com/delvallejonatan/generator-create-redux-app  
   Add Redux, styled-components, and CLI generation of components and containers on top of create-react-app 
   
- 
+ - **redux-boilerplate-helpers**  
+   https://github.com/alxlu/redux-boilerplate-helpers  
+   A commandline tool and small helper library that helps you cut down on the amount of typing you need to do while writing Redux boilerplate.  redux-boilerplate-helpers's tool parses your code into an AST (Abstract Syntax Tree) to automate adding Redux boilerplate code into your existing files. If you already have existing* action creators, constants, or a reducer in a file, it will ensure the code you want to add is put in the correct place. And if you are missing any of the files, the tool will create new ones for you.
+   
+ - **hmr-redux-mapper**  
+   https://github.com/paulbrom/hmr-redux-mapper  
+   A build tool whose purpose is to eliminate the need to manually specify the Redux components which are needed for hot swapping upon route change. The tool is designed to recursively walk each component in your project, starting at each route container, looking for all the Redux modules that are imported either directly by the route container or by any of its child components. That information is written in a mapping file (reducerMap.js).  You can then use the reduxMapperLoader integration module to automatically hot-swap all the Redux modules needed for a new route without the need to write any boilerplate code in your routing handlers to manually load the necessary modules.
+   
+- **redux-context**  
+  https://github.com/zhengcan/redux-context  
+  A redux delegate object used to create store, render page, and integrate React-Router and more.  Has functions that encapsulate setting up a Redux store, React-Router, and the Redux DevTools, and rendering them.

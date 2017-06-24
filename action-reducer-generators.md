@@ -236,6 +236,22 @@
   https://github.com/Noviel/reduxec  
   Create reusable, targeted actions and reducers for Redux
   
+- **redux-namespaces**  
+  https://github.com/9technology/redux-namespaces  
+  Utilities for generating namespaced actions, reducers, and state.
+  
+- **simr**  
+  https://github.com/dalexj/simr  
+  A library for reducing common functionality in Redux reducers, with pre-generated reducers and action creators that take arguments.
+  
+- **redux-enjoy-helpers**  
+  https://github.com/ya-kostik/redux-enjoy-helpers  
+  Utilities for action type creation, creating reducers with reset abilities, and updating arrays
+  
+- **redux-thunk-action-reducer**  
+  https://github.com/neolivz/redux-async-action-reducer  
+  Simple redux action creation and reducer wrapper that makes creating and handling asynchronous and synchronous actions easier.
+  
 
 #### Network Requests and APIs
 
@@ -358,6 +374,10 @@
 - **redux-fetch-actions**  
   https://github.com/deptno/redux-fetch-actions  
   Functions for doing REST API calls and dispatching actions
+  
+- **redux-hammock**  
+  https://github.com/mitodl/redux-hammock  
+  Hammock is a library which allows you to abstract away some details and boilerplate when using redux and fetch with REST endpoints. You just write a little configuration object and hammock generates actions and a reducer for you!
 
   
 #### Other Code Structures
@@ -413,3 +433,15 @@
 - **redux-typed-ducks**  
   https://github.com/mhoyer/redux-typed-ducks  
   Helper for using ducks in conjunction with redux having typing support.
+  
+- **moducks**  
+  https://github.com/moducks/moducks  
+  Extremely simple Ducks module provider for the stack of Redux + Redux-Saga. 
+  
+- **extensible-duck**  
+  https://github.com/investtools/extensible-duck  
+  An implementation of the Ducks proposal. With this library you can create reusable and extensible ducks.
+  
+- **saga-duck**  
+  https://github.com/cyrilluce/saga-duck  
+  Extensible and composable duck for redux-saga

@@ -22,10 +22,15 @@
 - **redux-funk**  
   https://github.com/mheiber/redux-funk  
   Enables you to declaratively specify effects in Redux reducers. You can use it to express in reducers not just what should happen, but also, what should happen next, while keeping reducers pure.  Similar to Redux Loop, but the implementation is much simpler and shorter, and it enables you to program with reducers without having to worry about lifting effects.
+
+- **redux-funk-immutable**  
+  https://github.com/srikanthkyatham/redux-funk-immutable  
+  A tiny lib for creating Redux Funk that operate on Immutable JS maps
   
 - **redux-reducer-effects**  
   https://github.com/cubik-oss/redux-reducer-effects  
   Redux enhancer which adds support for managed effects to the reducer, allowing you to return side effects as data in your reducer function.
+
 
 
 #### Other
@@ -93,3 +98,11 @@
 - **redux-tx**  
   https://github.com/majo44/redux-tx  
   Transactions for Redux, using zone.js
+  
+- **redux-heat**  
+  https://github.com/batata-frita/redux-heat  
+  Redux side-effects as a function of state.
+  
+- **redux-saga-promise**  
+  https://github.com/Vlemert/redux-saga-promise  
+  Generator-less implementation of Redux-Saga

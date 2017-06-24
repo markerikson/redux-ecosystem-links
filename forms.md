@@ -164,3 +164,7 @@
 - **redux-form-inspector**  
   https://github.com/marmelab/redux-form-inspector  
   An HOC for computing dynamic props from values inside an existing redux-form component.
+  
+- **react-controlled-form**  
+  https://github.com/rofrischmann/react-controlled-form  
+  react-controlled-form aims to simplify form management with React and Redux.  It ships functional APIs to create your very own form fields and is built with flexibility and customization in mind.

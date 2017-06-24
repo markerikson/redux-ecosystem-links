@@ -217,6 +217,10 @@
   https://github.com/alechill/redux-heartbeat  
   A middleware for Redux providing a heartbeat that contains batched log of actions occurring between each beat.  Created for incrementally collecting usage data for driving analytics, contextual error reporting, even persisting replayable user sessions.
   
+- **redux-request-manager**  
+  https://github.com/sashafklein/redux-request-manager  
+  Attaches a lightweight object to window which tracks request history as a tree and provides a simple interface for tracking actions going out through redux-api-middleware or internally.
+  
   
 #### Linting
  

@@ -80,7 +80,10 @@
 - **redux-vue**  
   https://github.com/nadimtuhin/redux-vue  
   Vue redux binding 
-
+  
+- **revux**  
+  https://github.com/edvincandon/revux  
+  Inspired by Revue, use Redux with Vue.js seamlessly
 
 #### Vanilla JS
 
@@ -122,3 +125,7 @@
 - **preact-redux**  
   https://github.com/pshev/preact-redux  
   Uses a version of connect prior to major 5.0 updates, so no connectAdvanced API.  Uses a very simplified version of Provider that simply puts the given store on the context.
+  
+- **redux-view-binder**  
+  https://github.com/mycomosi/redux-view-binder  
+  Bind your web-component views easily with Redux (no React, no Polymer) 
