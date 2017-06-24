@@ -95,7 +95,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Firefox DevTools - Memory Tool and Debugger**  
   https://dxr.mozilla.org/mozilla-central/source/devtools/client/memory  
   https://dxr.mozilla.org/mozilla-central/source/devtools/client/debugger  
-  Parts of the current Firefox DevTools debugger were rewritten using Redux
+  Parts of the current Firefox DevTools debugger were rewritten using React and Redux
+  
+- **Firefox DevTools - Network Monitor**  
+  https://github.com/mozilla/gecko-dev/tree/master/devtools/client/netmonitor  
+  The new Firefox DevTools network monitor tab, also rewritten using React and Redux
   
 - **Debugger.html**  
   https://github.com/jlongster/debugger.html  
@@ -104,6 +108,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Project Tofino**  
   https://github.com/mozilla/tofino  
   An experimental browser prototype, investigating new ideas and interactions.
+  
   
 - **Guild Wars 2 Armory**  
   https://github.com/madou/armory-react  
@@ -209,6 +214,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Sound-Redux**  
   https://github.com/andrewngu/sound-redux  
   A Soundcloud client built with React / Redux
+  
+- **madClones**  
+  https://github.com/Madmous/madClones  
+  A mono repo that contains the latest and the hottest frameworks with a strong focus on clean code, testing, software architecture/design and devops.  The Trello clone client is written using React + Redux.
+  
+- **Gitter Mobile**  
+  https://github.com/JSSolutions/GitterMobile  
+  An unofficial Gitter.im client for iOS and Android, built with React Native and Redux
   
   
 #### Other Application Lists

@@ -44,3 +44,7 @@
 - **re-ducks**  
   https://github.com/alexnm/re-ducks  
   An attempt to extend the original proposal for redux modular architecture
+  
+- **duck-stack**  
+  https://github.com/liamross/duck-stack  
+  A proposal for a simple, reusable and compartmentalized file structure for Redux projects. 

@@ -198,6 +198,9 @@
   https://github.com/kununu/redux-translations  
   A library for managing translations with redux. It exposes a config function, one action and one reducer.
   
+- **redux-i18n-utilities**  
+  https://github.com/m1trandir/redux-i18n-utilities  
+  Component and utilities for working with translations with data from Redux
   
 #### Pagination
   
