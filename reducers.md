@@ -307,6 +307,10 @@
   https://github.com/kudorori/redux-ramda-reducer  
   Assorted utilities for creating reducer functions using Ramda
   
+- **redux-reducer-async**  
+  https://github.com/AndersDJohnson/redux-reducer-async  
+  Create redux reducers for async behaviors of multiple actions.  
+  
   
 #### Higher-Order Reducers
 
