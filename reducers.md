@@ -310,6 +310,15 @@
 - **redux-reducer-async**  
   https://github.com/AndersDJohnson/redux-reducer-async  
   Create redux reducers for async behaviors of multiple actions.  
+
+- **redeuceur**  
+  https://github.com/maxhallinan/redeuceur  
+  A utility for creating terse Redux reducers.
+  
+- **redux-autoreducers**  
+  https://github.com/oxyno-zeta/redux-autoreducers  
+  Utilities for generating reducers that handle async progress actions.
+  
   
   
 #### Higher-Order Reducers

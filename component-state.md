@@ -213,6 +213,14 @@
   https://github.com/typeetfunc/redux-fractal-connect  
   Make connect to Redux store fractal 
   
+- **react-attach**  
+  https://github.com/NikolayBorisov/react-attach  
+  Attach Redux Store to a React Original Component State
+  
+- **redux-copier**  
+  https://github.com/DreamAndDead/redux-copier  
+  redux-copier helps to make High Order Component reusable again, by allowing multiple instances of components with separate behavior.
+  
   
 #### Simplified / Key-Value State
 

@@ -52,6 +52,10 @@
   https://github.com/chrisgervang/thunk-kickoff  
   Get promises out the door and into your store!  Thunk Kickoff wraps async actions with request status (success, pending, fail), and provides essential request lifecycle functions. It builds on top of redux-thunk.
   
+- **selector-action**  
+  https://github.com/sibnerian/selector-action  
+  A small abstraction over redux-thunk which allows you to pass in selectors and an action creator function that receives the extracted data, similar to how Reselect's `createSelector` API works.
+  
 
 #### Redux-Effects extensions
   

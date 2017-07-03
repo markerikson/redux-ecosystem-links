@@ -181,6 +181,14 @@
   https://github.com/hiyamamo/redux-camelizer  
   Camelize middleware for Redux
   
+- **redux-intercept-action**  
+  https://github.com/jasonmorita/redux-intercept-action  
+  Redux middleware to intercept and redirect FSA actions before they hit reducers.  Useful for handling actions coming in asyncronously from outside your app.
+  
+- **redux-actionkit**  
+  https://github.com/WA9ACE/redux-actionkit  
+  A simple redux side-effect library that lets you add callbacks to be run when requested actions are dispatched
+  
   
 #### Analytics
 

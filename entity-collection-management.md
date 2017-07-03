@@ -135,6 +135,10 @@
   https://github.com/msolvaag/redux-db  
   redux-db provides a normalized redux store and easy object management. Inspired by libraries such as normalizr and redux-orm, redux-db will give a similiar workflow with a smaller footprint and no dependencies.
   
+- **redux-modular-models**  
+  https://github.com/bobwei/redux-modular-models  
+  Manage models state for CRUD with ease.   
+  
 
 #### Client/Server Collections
 

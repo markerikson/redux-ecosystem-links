@@ -579,3 +579,11 @@
 - **disprux**  
   https://github.com/xaviercobain88/disprux  
   Command/Event Proxy for Redux 
+  
+- **duxen**  
+  https://github.com/applitopia/duxen  
+  High performance data engine maintaining complex immutable state for reactive applications. Fully integrated with Immutable.js, Redux, and Meteor.  Define a schema for your entire app state, and Duxen compiles the schema to generate reducers and action creators and handles the state using Immutable.js.
+  
+- **redux-o-actions**  
+  https://github.com/grundiss/redux-o-actions  
+  Another library for dispatching class instances as actions

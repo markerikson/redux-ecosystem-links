@@ -178,3 +178,11 @@
 - **redux-jwt-protected-middleware**  
   https://github.com/jimjeffers/redux-jwt-protected-middleware  
   This middleware injects a JWT access token onto part of a qualifying action's payload. If the current access token exists but is not valid, you will be able to refresh the user's current access token prior to the action getting passed on to your API middleware.
+
+- **redux-req-middleware**  
+  https://github.com/pmagaz/redux-req-middleware  
+  redux-req-middleware is a Redux store middleware for fetching data using HTTP action request and chain actions.
+  
+- **rest-redux**  
+  https://github.com/nachiket-p/rest-redux  
+  Provides actions, reducers, and middleware to communicate with REST API Backend.

@@ -192,3 +192,10 @@
   https://github.com/tomzmtl/spark-router  
   An opinionated, simple routing library for React/Redux applications 
   
+- **redux-ui-router**  
+  https://github.com/neilff/redux-ui-router  
+  ngRedux bindings for Angular UI Router - Keep your router state inside your ngRedux store.
+  
+- **redux-query-sync**  
+  https://github.com/Treora/redux-query-sync  
+  Treat the URL query parameters as exposed variables of your Redux state. For example, /mypage.html?p=14 could correspond to a state object containing {pageNumber: 14}.  Any changes to the store state are reflected in the URL. Vice versa, if the URL is changed using the history module, the changed parameters are updated in the store state.

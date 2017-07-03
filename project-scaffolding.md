@@ -67,3 +67,7 @@
 - **redux-context**  
   https://github.com/zhengcan/redux-context  
   A redux delegate object used to create store, render page, and integrate React-Router and more.  Has functions that encapsulate setting up a Redux store, React-Router, and the Redux DevTools, and rendering them.
+  
+- **redux-tool**  
+  https://github.com/danielstern/redux-tool  
+  Redux-Tool, an unopinionated helper to create your Redux files for you, handling all the boilerplate. Redux apps are great, but often creating just one new user interaction requires touching 8, 9, even 10 or more files. This tool lets you automate that process easily.

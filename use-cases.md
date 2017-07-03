@@ -381,3 +381,7 @@
 - **redux-simple-auth**  
   https://github.com/jerelmiller/redux-simple-auth  
   A library for implementing authentication and authorization for redux applications, inspired by the wonderful Ember Simple Auth library
+  
+- **redux-react-native-session**  
+  https://github.com/bernabe9/redux-react-native-session  
+  Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.

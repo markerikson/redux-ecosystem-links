@@ -66,6 +66,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/shoumma/ReForum  
   A forum application. Built with React, Redux, Express and MongoDB
   
+- **react-redux-complete-example**  
+  https://github.com/FortechRomania/react-redux-complete-example  
+  An example project based on the "re-ducks" folder structure proposal
+  
 
 #### Applications
 - **MapStore2**  
@@ -223,6 +227,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/JSSolutions/GitterMobile  
   An unofficial Gitter.im client for iOS and Android, built with React Native and Redux
   
+- **Vataxia**  
+  https://github.com/buckyroberts/Vataxia-Frontend  
+  Vataxia is an open source Reddit-like social network written in React and Redux.
+  
   
 #### Other Application Lists
   
@@ -234,6 +242,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114  
   https://medium.com/@sAbakumoff/react-entourage-6d51e7df9944  
   A giant list of apps that depend on React, generated using Google BigQuery searches of Github data.  A number of them use Redux.
+  
+- **Real World React Apps**  
+  https://github.com/jeromedalbert/real-world-react  
+  A repo that rounds up a variety of real-world React apps as git submodules, so you can learn from the codebases:
 
 
 #### Redux Usage Stories

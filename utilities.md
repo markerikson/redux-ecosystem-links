@@ -67,6 +67,10 @@
   https://github.com/ashleyw/denormalize-with-state  
   denormalize-with-state takes data denormalized by denormalizr and merges in extra state.
   
+- **json-api-denormalizr**  
+  https://github.com/willsoto/json-api-denormalizr  
+  Denormalize JSON API responses for Redux applications 
+  
   
 #### Selectors
 

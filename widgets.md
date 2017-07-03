@@ -126,6 +126,14 @@
 - **redux-choreography**  
   https://github.com/Setsun/redux-choreography  
   Higher-order components to maintain animation state in Redux and coordinate your animations 
+  
+- **react-permissions**  
+  https://github.com/IkoroVictor/react-permissions  
+  Permissioned component rendering in React, connectable to Redux
+  
+- **redux-breadcrumb-trail**  
+  https://github.com/MrLeebo/redux-breadcrumb-trail  
+  A stack-based breadcrumb component for react, react-redux, and react-router v3 
 
 
 #### Layout
@@ -355,6 +363,10 @@
 - **redux-popper**  
   https://github.com/bitstrider/redux-popper  
   Redux state management for popup components
+  
+- **React Redux Popup**  
+  https://github.com/ryank109/react-redux-popup  
+  A set of higher order components that enable popup behavior using react and redux, featuring a portal design, auto positioning based on resize and scroll events, and smart positioning based on content size and available space.
   
   
 #### Maps
