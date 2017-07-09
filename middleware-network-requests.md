@@ -33,6 +33,10 @@
 - **redux-fetch-middleware**  
   https://github.com/travi/redux-fetch-middleware  
   middleware to enable async data fetching as the result of a dispatched action
+  
+- **redux-api-call**
+  https://github.com/tungv/redux-api-call
+  One declarative API to create reducers, action creators and selectors for ~~JSON~~ any API calls
 
 #### Axios
 
