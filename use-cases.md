@@ -60,6 +60,10 @@
   https://github.com/hyperfuse/redux-webmidi  
   Intuitive Redux reducer/action creators for handling MIDI devices. 
   
+- **redux-time**  
+  https://github.com/Monadical-SAS/redux-time  
+  Redux-Time is a library that allows you to compute your state tree as a function of time. It's primarily used for animations, but it can also be used for generically changing any redux state as time progresses.
+  
   
 #### Feature Flags
   
@@ -78,6 +82,10 @@
 - **react-redux-ab**  
   https://github.com/ytase/react-redux-ab  
   A simple A/B testing library that stores the active variants in a reducer for easy access accross the whole application. It is universal, as it can run on the client side, browser side or any kind of application where redux can run.
+  
+- **react-redux-restriction**  
+  https://github.com/AaronBurmeister/react-redux-restriction  
+  react-redux-restriction provides React components which allow redux dependent conditional rendering.
   
   
 ### Page Interaction

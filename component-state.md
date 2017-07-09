@@ -221,6 +221,10 @@
   https://github.com/DreamAndDead/redux-copier  
   redux-copier helps to make High Order Component reusable again, by allowing multiple instances of components with separate behavior.
   
+- **react-redux-set-local**  
+  https://github.com/fongandrew/react-redux-set-local  
+  Local Redux state in React without writing your own reducers.  Like react-redux, we use a higher-order component to connect a presentational component with a specific portion of our Redux state. Unlike react-redux (and some other prior attempts to create "local" Redux state), rather than passing down a dispatch function, we pass down a setLocal function that we can use to replace existing state.
+  
   
 #### Simplified / Key-Value State
 

@@ -319,6 +319,14 @@
   https://github.com/oxyno-zeta/redux-autoreducers  
   Utilities for generating reducers that handle async progress actions.
   
+- **redux-dependent-reducers**  
+  https://github.com/shura-v/redux-dependent-reducers  
+  Combine reducers dependent on evaluation order 
+  
+- **redux-reducers**  
+  https://github.com/zimmed/redux-reducers  
+  Utility library for modular redux reducers.
+  
   
   
 #### Higher-Order Reducers

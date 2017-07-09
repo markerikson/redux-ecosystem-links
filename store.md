@@ -204,6 +204,10 @@
   https://github.com/Jawnkuin/reactive-redux-state  
   Make non-UI related redux state reactive.  Uses reselect to memoize the preview sub state or some data derived from state, when state changes, corresponding listeners will be called.
   
+- **redux-actors**  
+  https://github.com/lronhoj/redux-actors  
+  This module provides ability to define actors with Redux. Actors are functions that handle changes in state and perform actions, including dispatching another Action.
+  
   
 #### Batching and Notifications
 

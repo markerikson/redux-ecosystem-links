@@ -253,3 +253,7 @@
 - **redux-crud-observable**  
    https://github.com/FoodMeUp/redux-crud-observable  
    Actions, reducers & epics for managing crud redux state
+   
+ - **redux-restful-resource**  
+   https://github.com/buhichan/redux-restful-resource  
+   A restful resource wrapper for typescript that auto syncs your data with redux.

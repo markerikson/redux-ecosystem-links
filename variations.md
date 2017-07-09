@@ -587,3 +587,7 @@
 - **redux-o-actions**  
   https://github.com/grundiss/redux-o-actions  
   Another library for dispatching class instances as actions
+  
+- **Reduxable**  
+  https://github.com/underscopeio/reduxable  
+  Reusable Redux without boilerplate, by defining "state classes" for reducers.

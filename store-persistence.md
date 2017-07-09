@@ -155,6 +155,10 @@
   https://github.com/planttheidea/redux-browser-storage  
   Use redux to manage specific data saved in either localStorage or sessionStorage
   
+- **redux-pouchdb-sync-models**  
+  https://github.com/TobiasBales/redux-pouchdb-sync-models  
+  A middleware to sync models between redux state and a pouchdb with efficient storage and conflict resolution 
+  
   
 #### Redux-Persist Addons
 

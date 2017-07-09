@@ -189,6 +189,10 @@
   https://github.com/WA9ACE/redux-actionkit  
   A simple redux side-effect library that lets you add callbacks to be run when requested actions are dispatched
   
+- **redux-pre-post-action-middleware**  
+  https://github.com/slivcode/redux-pre-post-action-middleware  
+  A middleware for executing user-provided callbacks before or after actions are passed onward.
+  
   
 #### Analytics
 

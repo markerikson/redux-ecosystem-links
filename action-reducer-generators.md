@@ -252,6 +252,14 @@
   https://github.com/neolivz/redux-async-action-reducer  
   Simple redux action creation and reducer wrapper that makes creating and handling asynchronous and synchronous actions easier.
   
+- **redux-typed-action-reducer**  
+  https://github.com/slivcode/redux-typed-action-reducer  
+  A utility for generated TypeScript-typed actions and reducers
+  
+- **redux-belt**  
+  https://github.com/store2be/redux-belt  
+  Provides opinionated utilities for generating consistent action creators, as well as action creators and reducers for CRUD operations.
+  
 
 #### Network Requests and APIs
 
@@ -382,6 +390,10 @@
 - **reduxwork**  
   https://github.com/michalkow/reduxwork  
   A small Redux framework for creating actions and reducers that work with AJAX or WebSocket functions and create real-time apps.
+  
+- **redux-arc**  
+  https://github.com/viniciusdacal/redux-arc  
+  A dependency free, 2kb lib to handle async request actions and reducers in redux.
 
   
 #### Other Code Structures

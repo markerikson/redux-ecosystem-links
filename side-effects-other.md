@@ -30,6 +30,10 @@
 - **redux-reducer-effects**  
   https://github.com/cubik-oss/redux-reducer-effects  
   Redux enhancer which adds support for managed effects to the reducer, allowing you to return side effects as data in your reducer function.
+  
+- **side-effects**  
+  https://github.com/stewartml/side-effects  
+  Adds side-effects to redux, heavily inspired by redux-loop. I rewrote it because of the lack of documentation, the lack of typescript definitions, and the fact that testability has been dropped.  The only reason why you'd want to return a side effect from your reducer rather than just making a side effect happen is so that you can test them. This library also decouples the effect result from the description of the effect.
 
 
 
