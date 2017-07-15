@@ -193,6 +193,14 @@
   https://github.com/slivcode/redux-pre-post-action-middleware  
   A middleware for executing user-provided callbacks before or after actions are passed onward.
   
+- **redux-provider**  
+  https://github.com/logaritmdev/redux-provider  
+  A middleware that abstract (mostly) async operations in its own layer. An action that is registered as a provider will be invoked first and the original action will be executed only when the provider dispatches the same action.
+  
+- **redux-iterator**  
+  https://github.com/benjmac/redux-iterator  
+  Redux Iterator middleware is capable of receiving Sets, Maps, Arrays, Objects and Generators. Once the middleware is reached, they’re iterated over and the nested actions are dispatched to the Redux store.
+  
   
 #### Analytics
 
@@ -235,6 +243,10 @@
 - **track-action-middleware**  
   https://github.com/bspaulding/track-action-middleware  
   A middleware for interfacing actions with some other event tracking or analytics system.
+  
+- **redux-ga-middleware**  
+  https://github.com/ohwhen/redux-ga-middleware  
+  Redux middleware to track redux actions as GA events.
   
   
 #### Data Management

@@ -71,3 +71,7 @@
 - **redux-tool**  
   https://github.com/danielstern/redux-tool  
   Redux-Tool, an unopinionated helper to create your Redux files for you, handling all the boilerplate. Redux apps are great, but often creating just one new user interaction requires touching 8, 9, even 10 or more files. This tool lets you automate that process easily.
+  
+- **crud-foyer**  
+  https://github.com/croscon/crud-foyer  
+  Lightly opinionated mostly configurable cli tool to generate redux files for new models

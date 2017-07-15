@@ -231,6 +231,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/buckyroberts/Vataxia-Frontend  
   Vataxia is an open source Reddit-like social network written in React and Redux.
   
+- **Easy Workout Log**  
+  https://github.com/victorparmar/easy-workout-log  
+  The front-end for the fitness tracking application https://ewolo.fitness .
+  
   
 #### Other Application Lists
   

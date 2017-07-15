@@ -310,6 +310,10 @@
   https://github.com/sammkj/workux  
   Redux in a web worker.  Separate app business logic from the main thread, leaving only the UI and animation stuffs.
   
+- **redux-bridge**  
+  https://github.com/barodeur/redux-bridge  
+  Experimentation to share redux state between ReactNative and WebView inside an app 
+  
   
 #### Other
 

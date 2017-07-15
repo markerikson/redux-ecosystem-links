@@ -220,6 +220,10 @@
 - **redux-modal**  
   https://github.com/kinder5566/redux-modal  
   The Simplest way to show an alert in react-redux 
+  
+- **redux-modal**  
+  https://github.com/raff-r/redux-modal  
+  A React modal popup using Redux 
 
 
 #### Grids and Tables

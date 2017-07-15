@@ -139,6 +139,10 @@
   https://github.com/bobwei/redux-modular-models  
   Manage models state for CRUD with ease.   
   
+- **redux-entity-helpers**  
+  https://github.com/inkOfPixel/redux-entity-helpers  
+  Helpers for managing normalized redux entities 
+  
 
 #### Client/Server Collections
 
@@ -257,3 +261,4 @@
  - **redux-restful-resource**  
    https://github.com/buhichan/redux-restful-resource  
    A restful resource wrapper for typescript that auto syncs your data with redux.
+   

@@ -591,3 +591,11 @@
 - **Reduxable**  
   https://github.com/underscopeio/reduxable  
   Reusable Redux without boilerplate, by defining "state classes" for reducers.
+  
+- **remodule**  
+  https://github.com/otissv/remodule  
+  Taming Redux with modules.  Remodule works the same as Redux but removes the tedious tasks of organizing, splitting and collating files. Also does away with the need for constants.
+  
+- **selectem**  
+  https://github.com/sibnerian/selectem  
+  Shorthand for react-redux’s mapStateToProps. Need some props? Just select 'em!

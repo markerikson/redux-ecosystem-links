@@ -260,6 +260,10 @@
   https://github.com/store2be/redux-belt  
   Provides opinionated utilities for generating consistent action creators, as well as action creators and reducers for CRUD operations.
   
+- **trampss-redux-factory**  
+  https://github.com/Trampss/trampss-redux-factory  
+  Factory of Redux reducers and their associated actions and selectors - creates generic reducers, actions and selectors in two lines.
+  
 
 #### Network Requests and APIs
 
