@@ -56,6 +56,10 @@
   https://github.com/sibnerian/selector-action  
   A small abstraction over redux-thunk which allows you to pass in selectors and an action creator function that receives the extracted data, similar to how Reselect's `createSelector` API works.
   
+- **redux-thunks**  
+  https://github.com/w33ble/redux-thunks  
+  Simple thunk creator for redux.  This is meant to smooth over the use of redux-thunk mixed with the use of redux-actions.
+  
 
 #### Redux-Effects extensions
   

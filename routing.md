@@ -203,3 +203,7 @@
 - **fans-router**  
   https://github.com/fansapp/fans-router  
   An opinionated react-redux router library.
+  
+- **redux-hist**  
+  https://github.com/minodisk/redux-hist  
+  This library provides methods for manipulating history and reflecting the state of history on store along Redux data flow.

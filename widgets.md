@@ -134,6 +134,10 @@
 - **redux-breadcrumb-trail**  
   https://github.com/MrLeebo/redux-breadcrumb-trail  
   A stack-based breadcrumb component for react, react-redux, and react-router v3 
+  
+- **react-redux-transition-manager**  
+  https://github.com/chuch0805/react-redux-transition-manager  
+  Higher order component to enable loading states between route transitions and fetch data for the new route
 
 
 #### Layout

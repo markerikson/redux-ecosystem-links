@@ -225,3 +225,7 @@
  - **trampss-redux-saga-tester**  
    https://github.com/Trampss/trampss-redux-saga-tester  
    Test your sagas (redux-saga) with ease, compatible with Jest snapshots !
+   
+ - **jest-saga**  
+   https://github.com/a-type/jest-saga  
+   A Jest expect extension to quickly test a redux-saga generator.

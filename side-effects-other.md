@@ -34,6 +34,10 @@
 - **side-effects**  
   https://github.com/stewartml/side-effects  
   Adds side-effects to redux, heavily inspired by redux-loop. I rewrote it because of the lack of documentation, the lack of typescript definitions, and the fact that testability has been dropped.  The only reason why you'd want to return a side effect from your reducer rather than just making a side effect happen is so that you can test them. This library also decouples the effect result from the description of the effect.
+  
+- **redux-reducer-side-effects**  
+  https://github.com/danrigsby/redux-reducer-side-effects  
+  Easy to follow side effect library for redux reducers.  Primary goal of this library is to introduce safe side effects in a powerful way, but be simple to read, understand, and implement.
 
 
 

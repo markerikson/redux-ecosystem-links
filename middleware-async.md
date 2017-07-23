@@ -127,6 +127,11 @@
   https://github.com/kenjiru/redux-promise-track  
   Redux promise middleware with promise status tracking 
   
+- **redux-better-promise**  
+  https://github.com/Lukasz-pluszczewski/redux-better-promise  
+  Simple and powerful redux middleware that supports async side-effects (and much more).  Handles promises and adds hooks to async actions,
+  
+  
 #### Timeouts and Delays
 
 - **redux-timeout**  

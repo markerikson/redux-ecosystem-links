@@ -196,6 +196,10 @@
   https://github.com/Darmody/redux-action-types-creator  
   A simple utility to generate namespaced action types for sync and async actions
   
+- **redux-types-creator**  
+  https://github.com/shadowwzw/redux-types-creator  
+  A utility to generate type constants based on prefixes, suffixes, and main types.
+  
   
 #### Other Action Use Cases  
   

@@ -229,6 +229,14 @@
   https://github.com/Noviel/redaim  
   Redaim - reusable actions and reducers for redux. Aim domain's target - add additional dimension for actions and reducers to specify where exactly on the state tree action should be applied.
   
+- **redux-plugin**  
+  https://github.com/samuelchvez/redux-plugin  
+  Redux sub-architecture for 'plugin' React components.  Helps define and manage reducers and state for components that are managed by Redux.
+  
+- **react-redux-ui-state**  
+  https://github.com/jasonmorita/react-redux-ui-state  
+  React higher order component to provide UI state for components.  Reduce the need to reach for setState to save time for simple flags, reduce reducer boilerplate for properties like UI flags, Reduce tediousness of instances of the same component needing the same flags.
+  
   
 #### Simplified / Key-Value State
 

@@ -599,3 +599,19 @@
 - **selectem**  
   https://github.com/sibnerian/selectem  
   Shorthand for react-redux’s mapStateToProps. Need some props? Just select 'em!
+  
+- **globalProvider**  
+  https://github.com/mbssantos/globalProvider  
+  Global store for partial Redux apps.
+  
+- **redux-mobx-connect**  
+  https://github.com/ds300/redux-mobx-connect  
+  react-redux is a remarkable piece of battle-tested engineering with a work-of-art API. This... is not that.  This is a so-simple-it's-almost-dumb connector for redux stores which uses MobX to hook stuff together.
+  
+- **redux-shared-store**  
+  https://github.com/zachary-sierakowski/redux-shared-store  
+  A store setup wrapper that includes the ability to dynamically add middleware and reducers.
+  
+- **redux-event-stream**  
+  https://github.com/ajhyndman/redux-event-stream  
+  A thin wrapper around Redux that exposes an API inspired by Event Sourcing.

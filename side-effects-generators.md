@@ -41,6 +41,14 @@
   https://github.com/alex-shnayder/corrie  
   Embrace the power of coroutines to restrain side effects 
   
+- **edge-effects**  
+  https://github.com/eiriklv/edge-effects  
+  Pluggable runtime effects engine (think redux-saga, except entirely pluggable) 
+  
+- **redux-fibers**  
+  https://github.com/elierotenberg/redux-fibers  
+  Managed async coroutines/fibers for Redux 
+  
 
 #### Redux-Saga extensions  
 

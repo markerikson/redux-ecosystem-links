@@ -210,6 +210,11 @@
   https://github.com/m1trandir/redux-i18n-utilities  
   Component and utilities for working with translations with data from Redux
   
+- **redux-translations**  
+  https://github.com/iamolegga/redux-translations  
+  Translations utils for react-redux apps
+  
+  
 #### Pagination
   
 - **redux-pagination**  
@@ -290,6 +295,10 @@
 - **redux-request-tracker**  
   https://github.com/oconn/redux-track-request  
   A package that aims to make working with async data and pagination (link headers support only) a breeze.
+  
+- **redux-async-request**  
+  https://github.com/danrigsby/redux-async-request  
+  Sanely handle async requests in redux
   
   
 #### Undo-Redo

@@ -93,6 +93,10 @@
   https://github.com/ericwpeterson/remote-redux-five  
   A simple client/server protocol that enables Get, Set, Watch, UnWatch, and Call actions on remote redux stores. 
   
+- **redux-local-storage-action**  
+  https://github.com/khell/redux-local-storage-action  
+  Dispatch actions using localStorage to multiple Redux stores on the same domain. 
+  
 
 #### Store Change Subscriptions
 

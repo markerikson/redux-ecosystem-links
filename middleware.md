@@ -201,6 +201,14 @@
   https://github.com/benjmac/redux-iterator  
   Redux Iterator middleware is capable of receiving Sets, Maps, Arrays, Objects and Generators. Once the middleware is reached, they’re iterated over and the nested actions are dispatched to the Redux store.
   
+- **redux-aop**  
+  https://github.com/modernserf/redux-aop  
+  Aspect-Oriented Programming helpers for Redux middleware.  This is a collection of helper functions (or "combinators") for common patterns in redux middleware. It borrows ideas and terminology from Aspect-Oriented programming, and may remind you of alias_method_chain or before_action in Ruby on Rails.
+  
+- **redux-entry**  
+  https://github.com/ThatBean/redux-entry  
+  A Redux middleware to process dispatched actions.  Provide callbacks that listen for specific actions, can block the current action, and have access to the store.
+  
   
 #### Analytics
 

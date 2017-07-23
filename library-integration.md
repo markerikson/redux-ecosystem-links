@@ -129,3 +129,7 @@
 - **redux-view-binder**  
   https://github.com/mycomosi/redux-view-binder  
   Bind your web-component views easily with Redux (no React, no Polymer) 
+  
+- **newton-redux**  
+  https://github.com/cleegle/newton-redux  
+  Inspired by react-redux, Newton Redux allows you to connect plain JavaScript classes to a redux store. It will feel similar to writing a React component but without rendering a UI.
