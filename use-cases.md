@@ -214,6 +214,10 @@
   https://github.com/iamolegga/redux-translations  
   Translations utils for react-redux apps
   
+- **redux-multilanguage**  
+  https://github.com/stssoftware/redux-multilanguage  
+  A higher-order component used with Redux to support multilanguage.
+  
   
 #### Pagination
   

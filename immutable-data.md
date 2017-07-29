@@ -156,6 +156,12 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **partial.lenses**  
   https://github.com/calmm-js/partial.lenses/  
   Partial lenses is a comprehensive, high-performance optics library for JavaScript.  Optics are a highly composable means of manipulating nested data structures in an immutable fashion.
+  
+- **mewt**  
+  https://github.com/sdgluck/mewt  
+  Immutability in under one kilobyte.  Makes all native array methods immutable operations.  Two simple methods $set and $unset for objects and arrays.
+  
+  
 
 #### Immutable/Redux Interop
 

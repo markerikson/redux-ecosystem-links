@@ -212,6 +212,10 @@
   https://github.com/lronhoj/redux-actors  
   This module provides ability to define actors with Redux. Actors are functions that handle changes in state and perform actions, including dispatching another Action.
   
+- **redux-pure-subscribe**  
+  https://github.com/tsirlucas/redux-pure-subscribe  
+  A store subscribe function that checks if state has changed before trigger. 
+  
   
 #### Batching and Notifications
 

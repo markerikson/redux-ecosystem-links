@@ -147,3 +147,15 @@
 - **redux-saga-rest**  
   https://github.com/zach-waggoner/redux-saga-rest  
   A thin wrapper around the Fetch API that integrates with redux-saga and supports request/response middleware.
+  
+- **redux-saga-compose**  
+  https://github.com/sdd/redux-saga-compose  
+  Small utility for redux-saga to allow composing of middleware sagas, in the style of koa-compose.  This module is intended for use when redux-saga is used in order to orchestrate a very complex data pipeline.
+  
+- **resaga**  
+  https://github.com/QuanDhz/resaga  
+  A reusable Reducer and Saga HOC library.  Resaga helps handle fetching data and dispatching actions when the data is fetched.
+  
+- **react-redux-toolbox**  
+  https://github.com/bamlab/react-redux-toolbox  
+  Set of utils for React and Redux development.  Saga decorators to handle loading status and API exceptions, plus a component and reducer for loading status.

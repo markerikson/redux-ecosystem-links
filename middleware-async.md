@@ -131,6 +131,10 @@
   https://github.com/Lukasz-pluszczewski/redux-better-promise  
   Simple and powerful redux middleware that supports async side-effects (and much more).  Handles promises and adds hooks to async actions,
   
+- **redux-promise-await-middleware**  
+  https://github.com/michaldudek/redux-promise-await-middleware  
+  Combination of Redux middlewares and reducers that help in dealing with async actions and server side rendering.  The middleware and the reducer work in tandem to make server side rendering with React easy when you have to prefetch data.
+  
   
 #### Timeouts and Delays
 

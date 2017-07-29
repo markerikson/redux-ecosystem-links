@@ -262,3 +262,10 @@
    https://github.com/buhichan/redux-restful-resource  
    A restful resource wrapper for typescript that auto syncs your data with redux.
    
+- **redux-endpoints**  
+  https://github.com/dylanonelson/redux-endpoints  
+  Define Redux modules for fetching data from API endpoints.  
+  
+- **Hyperduce**  
+  https://github.com/jondot/hyperduce  
+  A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.

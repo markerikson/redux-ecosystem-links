@@ -264,6 +264,10 @@
   https://github.com/Trampss/trampss-redux-factory  
   Factory of Redux reducers and their associated actions and selectors - creates generic reducers, actions and selectors in two lines.
   
+- **redux-composable**  
+  https://github.com/aakashns/redux-composable  
+  Utilities and higher order functions for reducer composition and reuse
+  
 
 #### Network Requests and APIs
 
@@ -465,3 +469,11 @@
 - **saga-duck**  
   https://github.com/cyrilluce/saga-duck  
   Extensible and composable duck for redux-saga
+  
+- **redux-structure-factory**  
+  https://github.com/liebsoer/redux-structure-factory  
+  Factory module to create a redux structure
+  
+- **redux-parts**  
+  https://github.com/andreevWork/redux-parts  
+  A tool to help recursively generate reducers and actions out of simpler "parts"

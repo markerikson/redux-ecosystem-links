@@ -133,3 +133,7 @@
 - **newton-redux**  
   https://github.com/cleegle/newton-redux  
   Inspired by react-redux, Newton Redux allows you to connect plain JavaScript classes to a redux store. It will feel similar to writing a React component but without rendering a UI.
+  
+- **redux-clazz**  
+  https://github.com/TriPSs/redux-clazz  
+  Redux Clazz lets you connect any normal class to redux

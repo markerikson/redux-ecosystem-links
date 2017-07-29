@@ -276,3 +276,7 @@
 - **redux-collect-promises**  
   https://github.com/zumb/redux-collect-promises  
   Collect redux promises and wait for resolution for server side rendering
+
+- **redux-async-fetcher**  
+  https://github.com/wing-eu/redux-async-fetcher  
+  ReduxAsyncFetcher is used to extract data fetching logic from your component lifecycle.

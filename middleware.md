@@ -209,6 +209,10 @@
   https://github.com/ThatBean/redux-entry  
   A Redux middleware to process dispatched actions.  Provide callbacks that listen for specific actions, can block the current action, and have access to the store.
   
+- **redux-delayed**  
+  https://github.com/n4bcak3/redux-delayed  
+  Redux middleware for accepting actions with delayed dispatch
+  
   
 #### Analytics
 
@@ -255,6 +259,10 @@
 - **redux-ga-middleware**  
   https://github.com/ohwhen/redux-ga-middleware  
   Redux middleware to track redux actions as GA events.
+  
+- **redux-metrics**  
+  https://github.com/Liftitapp/redux-metrics  
+  Transform your actions to metrics. use Segment, Mixpanel or custom lib to report your events power by Liftit
   
   
 #### Data Management

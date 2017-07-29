@@ -247,6 +247,7 @@
   
 - **dva**
   https://github.com/dvajs/dva  
+  https://github.com/dvajs/dva-core  
   https://medium.com/@chenchengpro/dva-1-0-a-lightweight-framework-based-on-react-redux-and-redux-saga-eeeecb7a481d  
   React and redux based, lightweight and elm-style framework. (Inspired by choo).
   
@@ -615,3 +616,15 @@
 - **redux-event-stream**  
   https://github.com/ajhyndman/redux-event-stream  
   A thin wrapper around Redux that exposes an API inspired by Event Sourcing.
+  
+- **react-redux-controllers**  
+  https://github.com/FactorialComplexity/react-redux-controllers  
+  Microframework for structuring code of React/Redux applications, by adding a Controller class and Containers to connect them to the view. 
+  
+- **yax**  
+  https://github.com/d-band/yax  
+  Yet another store using redux. (Inspired by vuex and dva) 
+  
+- **redux-registry**  
+  https://github.com/kwhitley/redux-registry  
+  Redux, minus the boilerplate.  Redux is amazing, but the verbosity (const definitions, switch statements in primary reducers, etc) and fragmentation of the redux definitions can be painful to implement. This module adds a heap of magic with just enough flexibility to be useful. It basically just removes the repetitive parts and simplifies the cutting and pasting.
