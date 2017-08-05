@@ -49,6 +49,10 @@
   https://github.com/elierotenberg/redux-fibers  
   Managed async coroutines/fibers for Redux 
   
+- **effects-as-data-redux**  
+  https://github.com/orourkedd/effects-as-data-redux  
+  Connects Redux and the author's "effects-as-data" library for declarative side effects.
+  
 
 #### Redux-Saga extensions  
 

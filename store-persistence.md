@@ -10,7 +10,11 @@
 - **redux-localstorage**  
   https://github.com/elgerlambert/redux-localstorage  
   Store enhancer that syncs (a subset) of your Redux store state to localstorage.
-
+  
+- **redux-offline**  
+  https://github.com/jevakallio/redux-offline  
+  Persistent Redux store for Reasonaboutable™? Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
+  
 - **redux-storage**  
   https://github.com/react-stack/redux-storage  
   Persistence layer for redux with flexible backends.  Save and load the Redux state with ease.
@@ -158,6 +162,10 @@
 - **redux-pouchdb-sync-models**  
   https://github.com/TobiasBales/redux-pouchdb-sync-models  
   A middleware to sync models between redux state and a pouchdb with efficient storage and conflict resolution 
+  
+- **redux-cookies-middleware**  
+  https://github.com/grofers/redux-cookies-middleware  
+  redux-cookies-middleware is a Redux middleware which watches for changes in Redux state & stores them in browser cookie.
   
   
 #### Redux-Persist Addons

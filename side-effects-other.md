@@ -114,3 +114,7 @@
 - **redux-saga-promise**  
   https://github.com/Vlemert/redux-saga-promise  
   Generator-less implementation of Redux-Saga
+  
+- **redux-effects-promise**  
+  https://github.com/apoterenko/redux-effects-promise  
+  An implementation of declarative promises effects for redux. The solution is based on inversify library.

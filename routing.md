@@ -207,3 +207,7 @@
 - **redux-hist**  
   https://github.com/minodisk/redux-hist  
   This library provides methods for manipulating history and reflecting the state of history on store along Redux data flow.
+  
+- **redux-arena**  
+  https://github.com/hapood/redux-arena  
+  Auto-switch the context of the Redux logic based on the URL, useful for management consoles.

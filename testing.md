@@ -83,7 +83,7 @@
   https://github.com/khanghoang/react-redux-mock  
   Mock the react-redux package for testing.
   
-- **mocha-redux-integartion**  
+- **mocha-redux-integration**  
   https://github.com/tomvej/mocha-redux-integration  
   Integration testing of redux stores with mocha 
   

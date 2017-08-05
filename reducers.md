@@ -327,6 +327,14 @@
   https://github.com/zimmed/redux-reducers  
   Utility library for modular redux reducers.
   
+- **redux-reducer-toolkit**  
+  https://github.com/RocketPuppy/redux-reducer-toolkit  
+  This library implements several functions that are useful for combining, composing, and altering reducers. Each of this functions returns a memoized reducer, similar to reselect, so data isn't re-computed unnecessarily. The inspiration for this library was fantasyland-redux, only instead of basing it off of the fantasyland specification it is based off of the static-land specification. This made it simple to build this as a library instead of pinning it to a specific redux version.
+  
+- **vitruvius**  
+  https://github.com/americanexpress/vitruvius  
+  Vitruvius extends redux's combineReducers to allow developers to include a buildInitialState method on their reducer. This allows for the passing of locals to build the initial state that wouldn't normally be available to a reducer when setting its initial state. For instance, one could pass some data from the request object.
+  
   
   
 #### Higher-Order Reducers
@@ -592,3 +600,7 @@
 - **easy-redux-fsm**  
   https://github.com/andrewosh/easy-redux-fsm  
   Specify action creators as a state/transition graph
+
+- **redux-automata**  
+  https://github.com/mocoding-software/redux-automata  
+  redux-automata - is a finite state machine based on Redux store. It allows developer to generate reducer automatically based on current state. The library was developed to support the following scenarios:  Provide different behavoiur for the same action and avoid massive if-then-else; Ignore specific actions while in specific states (or better saying - process actions only in specific states).

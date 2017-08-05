@@ -211,11 +211,6 @@
   https://github.com/stephan83/redux-smart-action  
   SmartActions add a layer on top of actions to do things depending on whether an action would modify the state. When a SmartAction is called, it returns an object instead of dispatching immediately. The returned object tells you whether executing it would change the state, and a method to execute it.
   
-- **redux-queue-offline**  
-  https://github.com/mathieudutour/redux-queue-offline  
-  https://github.com/mathieudutour/redux-queue-offline-listener  
-  Queue actions when offline and dispatch them when getting back online.  You can use the NetworkListener high order component to wrap the redux Provider and automatically dispatch the ONLINE and OFFLINE action when listening to window.on('online') and window.on('online').
-  
 - **redux-bind-action-groups**  
   https://github.com/eyasliu/redux-bind-action-groups  
   A small utility to bind dispatch to nested objects full of action creators.

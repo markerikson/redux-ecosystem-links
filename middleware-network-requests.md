@@ -190,3 +190,7 @@
 - **rest-redux**  
   https://github.com/nachiket-p/rest-redux  
   Provides actions, reducers, and middleware to communicate with REST API Backend.
+  
+- **redux-insistent-requests**  
+  https://github.com/wacii/redux-insistent-requests  
+  Serializable requests with retries 

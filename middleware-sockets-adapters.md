@@ -95,6 +95,10 @@
   https://github.com/notgiorgi/redux-websocket-middleware  
   Native WebSocket integration in redux 
   
+- **redux-sockets**  
+  https://github.com/SharonGrossman/redux-sockets  
+  A simple module to help simplify the integration of socket.io with your redux application. Emits client actions to the server if a socket payload is presented, initializes socketio connection and handles connection actions to the server and client.
+  
 
 #### Firebase
 
@@ -145,6 +149,10 @@
 - **redux-saga-firebase**  
   https://github.com/n6g7/redux-saga-firebase  
   A redux saga integration for firebase
+  
+- **duckbase**  
+  https://github.com/WadePeterson/duckbase  
+  React + Redux Wrapper for Firebase
 
 
 #### Meteor
@@ -215,3 +223,7 @@
 - **redux-loopback**  
   https://github.com/TimPerry/redux-loopback  
   Loopback middleware for redux
+  
+- **feathers-redux-immutable**  
+  https://github.com/collegepulse/feathers-redux-immutable  
+  An immutable, redux data store for FeathersJS services.

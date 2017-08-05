@@ -269,3 +269,7 @@
 - **Hyperduce**  
   https://github.com/jondot/hyperduce  
   A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.
+  
+- **active-redux**  
+  https://github.com/coverhound/active-redux  
+  The goal of this project is to stop bikeshedding API interactions on the frontend. We want an Active Record for Redux that works nicely with other reducers and doesn't require its own store.

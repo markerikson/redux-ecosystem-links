@@ -213,6 +213,14 @@
   https://github.com/n4bcak3/redux-delayed  
   Redux middleware for accepting actions with delayed dispatch
   
+- **redux-fries**  
+  https://github.com/nicolasdelfino/redux-fries  
+  Greasy™ middleware for subscribing to actions and creating tasty side-effects in your code 
+  
+- **redux-lifesaver**  
+  https://github.com/americanexpress/redux-lifesaver  
+  lifesaver is a middleware that keeps track of how many times actions of the same type are dispatched within a given period. If a single action type is dispatched more times than the allowed amount within a given period, subsequent dispatches of that action type will be blocked from the reducer for the same period. At the end of the period, the most recently attempted dispatch of that action type will go through.
+  
   
 #### Analytics
 

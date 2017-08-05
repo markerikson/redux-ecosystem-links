@@ -296,10 +296,6 @@
   https://github.com/jerryslaw/redux-loading-reducer  
   A simple function (reducer) that changes custom state flags. The main purpose is to change a flag, such as isLoading, by given arrays of loading action names and not-loading action names. 
   
-- **redux-request-tracker**  
-  https://github.com/oconn/redux-track-request  
-  A package that aims to make working with async data and pagination (link headers support only) a breeze.
-  
 - **redux-async-request**  
   https://github.com/danrigsby/redux-async-request  
   Sanely handle async requests in redux
@@ -406,3 +402,7 @@
 - **redux-react-native-session**  
   https://github.com/bernabe9/redux-react-native-session  
   Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.
+  
+- **redux-cancan**  
+  https://github.com/knocknock-team/redux-cancan  
+  An authorization utility for Redux, inspired by cancancan gem for Ruby on Rails. It restricts what routes a given user is allowed to access.

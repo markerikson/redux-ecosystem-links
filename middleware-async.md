@@ -135,6 +135,10 @@
   https://github.com/michaldudek/redux-promise-await-middleware  
   Combination of Redux middlewares and reducers that help in dealing with async actions and server side rendering.  The middleware and the reducer work in tandem to make server side rendering with React easy when you have to prefetch data.
   
+- **redux-actions-promise**  
+  https://github.com/dwqs/redux-actions-promise  
+  FSA-compliant promise middleware for Redux, supports referencing dispatcher/state in action.
+  
   
 #### Timeouts and Delays
 
@@ -184,7 +188,8 @@
   
 - **redux-queue-offline**  
   https://github.com/mathieudutour/redux-queue-offline  
-  Queue actions when offline and dispatch them when getting back online.
+  https://github.com/mathieudutour/redux-queue-offline-listener  
+  Queue actions when offline and dispatch them when getting back online.  You can use the NetworkListener high order component to wrap the redux Provider and automatically dispatch the ONLINE and OFFLINE action when listening to window.on('online') and window.on('online').
   
 - **redux-q**  
   https://github.com/ConciergeAuctions/redux-q  
@@ -237,6 +242,10 @@
 - **redux-action-trigger**  
   https://github.com/Metnew/redux-action-trigger  
   Mark action which you want to trigger after it will be dispatched, then after action has been triggered, it will be processed by your function and another action can be called.
+  
+- **redux-offline-chain**  
+  https://github.com/birgernass/redux-offline-chain  
+  A redux-middleware for redux-offline, inspired by redux-thunk.  redux-offline-chain allows you to chain offline actions. It looks for action.meta.then functions and invokes them in a redux-thunk like manner. The then callback gets the payload from the effect reconciler and optionally redux's dispatch and getState functions.
   
   
 #### Other Async Actions

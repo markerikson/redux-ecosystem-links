@@ -280,3 +280,7 @@
 - **redux-async-fetcher**  
   https://github.com/wing-eu/redux-async-fetcher  
   ReduxAsyncFetcher is used to extract data fetching logic from your component lifecycle.
+  
+- **redux-anity**  
+  https://github.com/sseppola/redux-anity  
+  Handle data dependencies declaratively.  The idea is to stop writing data fetching in your components, and instead make the middleware do the work.

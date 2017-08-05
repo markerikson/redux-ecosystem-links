@@ -402,6 +402,10 @@
 - **redux-arc**  
   https://github.com/viniciusdacal/redux-arc  
   A dependency free, 2kb lib to handle async request actions and reducers in redux.
+  
+- **r3-library**  
+  https://github.com/cassaram09/r3-library  
+  r3-library (short for React-Redux-Resource) is a small library to handle remote API resources in a CRUD React-Redux application more efficiently. This library creates a new resource predefined with a set of RESTful CRUD actions, but also offers flexibility for custom actions.
 
   
 #### Other Code Structures

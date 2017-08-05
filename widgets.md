@@ -138,6 +138,10 @@
 - **react-redux-transition-manager**  
   https://github.com/chuch0805/react-redux-transition-manager  
   Higher order component to enable loading states between route transitions and fetch data for the new route
+  
+- **react-block-ui**   
+  https://github.com/Availity/react-block-ui  
+  This library contains easy to use components to prevent the user from interacting with the user interface based on some conditions.  There is also a separate component which works with redux to help block and unblock automatically based on redux action types. See the ReduxBlockUi component for more details.
 
 
 #### Layout
@@ -228,6 +232,10 @@
 - **redux-modal**  
   https://github.com/raff-r/redux-modal  
   A React modal popup using Redux 
+  
+- **react-redux-modal-flex**  
+  https://github.com/tronghiep92/react-redux-modal-flex  
+  Accessible modal dialog component for React Redux, Easy to install and use with Redux.
 
 
 #### Grids and Tables

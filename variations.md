@@ -628,3 +628,19 @@
 - **redux-registry**  
   https://github.com/kwhitley/redux-registry  
   Redux, minus the boilerplate.  Redux is amazing, but the verbosity (const definitions, switch statements in primary reducers, etc) and fragmentation of the redux definitions can be painful to implement. This module adds a heap of magic with just enough flexibility to be useful. It basically just removes the repetitive parts and simplifies the cutting and pasting.
+  
+- **fast-redux**  
+  https://github.com/dogada/fast-redux  
+  Redux extension with O(1) speed and dynamic importing of reducers/actions.
+  
+- **Mirror**  
+  https://github.com/mirrorjs/mirror  
+  A simple and powerful React framework with minimal API and zero boilerplate. (Inspired by dva and jumpstate). Mirror is a front-end framework based on React, Redux and react-router. It encapsulates state management, routing and other essential things to build web apps together in very few methods, and makes it much easier to use:
+  
+- **fantasyland-redux**  
+  https://github.com/philipnilsson/fantasyland-redux  
+  Fantasyland-redux is a fork of Redux.  This library is based on the observation that it is possible to add state selectors to reducers while maintaining all the same operations we're used to from Redux.  We add map and other operations from the fantasyland spec to reducers, while remaining backwards compatible with react-redux, redux-thunk and other middlewares, as well as with automatically adapting Redux style reducers.
+  
+- **react-redux-boilerout**  
+  https://github.com/ulisesbocchio/react-redux-boilerout  
+  Boilerplate eliminator for React projects using Redux.  Skip action creators, and create reducers with classes.

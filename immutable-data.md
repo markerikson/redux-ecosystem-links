@@ -161,6 +161,9 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/sdgluck/mewt  
   Immutability in under one kilobyte.  Makes all native array methods immutable operations.  Two simple methods $set and $unset for objects and arrays.
   
+- **immutable-update**  
+  https://github.com/TodayTix/immutable-update  
+  A utility function for efficiently applying updates to objects that are being treated as immutable data.
   
 
 #### Immutable/Redux Interop

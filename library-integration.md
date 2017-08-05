@@ -137,3 +137,7 @@
 - **redux-clazz**  
   https://github.com/TriPSs/redux-clazz  
   Redux Clazz lets you connect any normal class to redux
+  
+- **drishti**  
+  https://github.com/aarongodin/drishti  
+  Drishti is a focused, minimal view for Redux meant for teeny tiny front-end applications.
