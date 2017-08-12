@@ -644,3 +644,15 @@
 - **react-redux-boilerout**  
   https://github.com/ulisesbocchio/react-redux-boilerout  
   Boilerplate eliminator for React projects using Redux.  Skip action creators, and create reducers with classes.
+  
+- **recon**  
+  https://github.com/ascension/recon  
+  Redux Controller Pattern.  Reduces boilerplate by introducing a Controller to manage specific slices of the store, actions, reducers, and selectors.
+  
+- **redux-store-events**  
+  https://github.com/akuzko/redux-store-events  
+  Simple, minimalistic and flexible way to organize redux logic 
+  
+- **silhouette**  
+  https://github.com/DuncanWalter/silhouette  
+  Atomic state management inspired by redux, observables, and optics. 

@@ -352,6 +352,10 @@
   https://github.com/ecomfe/redux-optimistic-manager  
   redux-optimistic-manager is a lib aimed to simplify optimistic UI implement in redux environment. this lib uses a transaction based method to handle actual and optimistic actions, rolling back optimistic ones in a future point.
   
+- **fast-undo**  
+  https://github.com/gamb/fast-undo  
+  Efficient data structure for handling undo states.
+  
   
 #### Authentication
 
@@ -406,3 +410,7 @@
 - **redux-cancan**  
   https://github.com/knocknock-team/redux-cancan  
   An authorization utility for Redux, inspired by cancancan gem for Ruby on Rails. It restricts what routes a given user is allowed to access.
+  
+- **redux-implicit-oauth2**  
+  https://github.com/danilobuerger/redux-implicit-oauth2  
+  OAuth 2.0 Implicit Grant Flow with Redux 

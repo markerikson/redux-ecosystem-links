@@ -200,6 +200,14 @@
   https://github.com/shadowwzw/redux-types-creator  
   A utility to generate type constants based on prefixes, suffixes, and main types.
   
+- **async-action-creator**  
+  https://github.com/goncy/async-action-creator  
+  Action creator is a library that helps with handling async actions on redux or similar implementations, giving a couple of methods for dispatching async actions and handling actions status, errors, and responses in a separated reducer
+  
+- **kreighter**  
+  https://github.com/maxhallinan/kreighter  
+  A utility for generating Redux action creators. 
+  
   
 #### Other Action Use Cases  
   

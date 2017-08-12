@@ -165,6 +165,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/TodayTix/immutable-update  
   A utility function for efficiently applying updates to objects that are being treated as immutable data.
   
+- **immutable-functions**  
+  https://github.com/jkbailey/immutable-functions  
+  A simple, easy, straight forward approach to update immutable data.
+  
 
 #### Immutable/Redux Interop
 

@@ -92,7 +92,7 @@
   A utility for converting Redux reducers, selectors, and action creators to handle a collection.
   
 - **redux-select-entities**  
-  https://github.com/AugustinLF/redux-select-entities  
+  https://github.com/Kilix/redux-select-entities  
   Simple abstraction over normalizr and reselect to handle normalized entities 
   
 - **immutable-redux-relationships**  
@@ -142,6 +142,10 @@
 - **redux-entity-helpers**  
   https://github.com/inkOfPixel/redux-entity-helpers  
   Helpers for managing normalized redux entities 
+  
+- **redux-crud-resources**  
+  https://github.com/zpfled/redux-crud-resources  
+  Programmatically generate actions, action creators, and reducers for a given list of resources
   
 
 #### Client/Server Collections
@@ -273,3 +277,11 @@
 - **active-redux**  
   https://github.com/coverhound/active-redux  
   The goal of this project is to stop bikeshedding API interactions on the frontend. We want an Active Record for Redux that works nicely with other reducers and doesn't require its own store.
+  
+- **multi-routing-api**  
+  https://github.com/aliaksandr-master/multi-routing-api  
+  Redux api middleware for separate your api routes, api actions, and interceptors. Provides state normalization, db reducer, and uses Normalizr.
+  
+- **redux-chunk**  
+  https://github.com/onlicar/redux-chunk  
+  A library to declaratively interact with any API.  Redux Chunk allows you to define your API endpoints across chunks in webpack chunked application. For large APIs, it makes sense to dynamically add paths to your SDK-style endpoints list and it improves the separation of concerns, with each action file defining it's own endpoints and request structure.  Based off of redux-bees.
