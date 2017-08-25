@@ -449,8 +449,8 @@
   https://github.com/oreshinya/initializable-reducer  
   Initializing reducers action and associated higher order reducer for redux.
   
-- **redux-data-structure**  
-  https://redux-data-structures.js.org/  
+- **redux-data-structures**  
+  https://github.com/adrienjt/redux-data-structures  
   Redux Data Structures is a library of higher-order functions ("reducer makers").  Reducer makers help create common reducers like counters, maps, lists (queues, stacks), sets, etc. Most application states can be built by combining a handful of these standardized building blocks.
   
 - **common-reducers**  
