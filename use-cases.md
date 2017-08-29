@@ -64,6 +64,10 @@
   https://github.com/Monadical-SAS/redux-time  
   Redux-Time is a library that allows you to compute your state tree as a function of time. It's primarily used for animations, but it can also be used for generically changing any redux state as time progresses.
   
+- **redux-dirty**  
+  https://github.com/satahippy/redux-dirty  
+  A higher-order reducer and component for tracking "dirty" status and dispatching an action when the dirty status is detected by the component.
+  
   
 #### Feature Flags
   
@@ -300,6 +304,10 @@
   https://github.com/danrigsby/redux-async-request  
   Sanely handle async requests in redux
   
+- **Redux Global Loader**  
+  https://github.com/guilouro/redux-global-loader  
+  A redux middleware with redux-promise-middleware's integration that shows the Loading component while there is one or more than one pending promises in the current page. The loading state will be hidden as soon as all Promises gets completed.
+  
   
 #### Undo-Redo
 
@@ -355,6 +363,10 @@
 - **fast-undo**  
   https://github.com/gamb/fast-undo  
   Efficient data structure for handling undo states.
+  
+- **redux-incremental-history**  
+  https://github.com/peterkhayes/redux-incremental-history  
+  Given an 'inverter' function that maps actions to their opposites, allows for undo/redo in redux-based apps.
   
   
 #### Authentication

@@ -118,6 +118,10 @@
   https://github.com/aduth/rememo  
   Memoized selectors for Redux and other immutable object derivation.  Differs from Reselect by encouraging you to consider the derivation first-and-foremost without requiring you to build up the individual dependencies ahead of time.
   
+- **reselectie**  
+  https://github.com/ralusek/reselectie  
+  Memoized selector library for any immutable data structure (such as a redux immutable store). This library serves as a smaller, faster alternative to reselect AND re-reselect.
+  
   
 #### Functional Programming
   

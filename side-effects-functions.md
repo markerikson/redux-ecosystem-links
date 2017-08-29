@@ -60,6 +60,14 @@
   https://github.com/w33ble/redux-thunks  
   Simple thunk creator for redux.  This is meant to smooth over the use of redux-thunk mixed with the use of redux-actions.
   
+- **redux-serial-effects**  
+  https://github.com/wix/redux-serial-effects  
+  A middleware library for managing side-effects based on state changes, following an actual vs. expected philosophy, and supporting composability.
+  
+- **redux-thunk-ajax**  
+  https://github.com/mividtim/redux-thunk-ajax  
+  Make JSON REST AJAX requests with redux-thunk 
+  
 
 #### Redux-Effects extensions
   

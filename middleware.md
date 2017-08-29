@@ -409,3 +409,7 @@
 - **redux-postmessage-raf**  
   https://github.com/vkammerer/redux-postmessage-raf  
   A redux middleware to use @vkammerer/postmessage-raf , allowing actions to be posted to web workers
+  
+- **hydrate-dummy**  
+  https://github.com/johnlukeG/hydrate-dummy  
+  A Redux Middleware that hydrates the store with dummy data 

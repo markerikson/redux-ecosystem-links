@@ -229,3 +229,7 @@
  - **jest-saga**  
    https://github.com/a-type/jest-saga  
    A Jest expect extension to quickly test a redux-saga generator.
+ 
+- **proofread**  
+  https://github.com/streamich/proofread  
+  A convenience method to decrease boilerplate when testing you Redux sagas with Jest.

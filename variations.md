@@ -656,3 +656,23 @@
 - **silhouette**  
   https://github.com/DuncanWalter/silhouette  
   Atomic state management inspired by redux, observables, and optics. 
+  
+- **lucio**  
+  https://github.com/Marswang92/lucio  
+  Simple, intuitive, composable state management for React apps.  Inspired by dva, based on redux, redux-loop.
+  
+- **redux-needs**  
+  https://github.com/LUKKIEN/redux-needs  
+  Bind actions to changes in your Redux state based on the needs of your active Redux components.
+  
+- **redux-echos**  
+  https://github.com/NirlStudio/redux-echos  
+  A lightweight redux middleware to decouple and serialise state dependencies.
+  
+- **redux-bind-selectors**  
+  https://github.com/blgm/redux-bind-selectors  
+  A Redux store enhancer for computing derived state by binding selectors to a Redux store, so that getState() incorporates derived data.
+  
+- **native-redux-component**  
+  https://github.com/ricardo-ch/native-redux-component  
+  Want to use redux without using react ? Redux Component is a native implementation of react component which permits to watch your state and trigger render() method of your child component whenever it changes.  It also has the ability to render only when parts of the state change.

@@ -267,6 +267,10 @@
   https://github.com/tugorez/redux-batcher  
   Higher order reducer that enables batching actions and also plays well with redux-saga
   
+- **redux-action-batcher**  
+  https://github.com/ostap0207/redux-action-batcher  
+  Reducer, middleware and action creator that enables to batch own as well as custom middleware actions such as redux-react-router push actions.
+  
   
 #### Integration and Interop
 
@@ -368,3 +372,7 @@
 - **redux-dispatch-monitor**  
   https://github.com/jBox/redux-dispatch-monitor    
   Initialize redux state asynchronously with multiple async actions. 
+  
+- **redux-online-status**  
+  https://github.com/sugarshin/redux-online-status  
+  Online status enhancer for Redux

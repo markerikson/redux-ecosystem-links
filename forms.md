@@ -157,6 +157,10 @@
   https://github.com/stewartml/formux  
   Makes constructing forms in a React/Redux application easier.  
   
+- **redux-formalize**  
+  https://github.com/andy-shea/redux-formalize  
+  Seamless management of stateless forms in your React/Redux app.
+  
   
   
 #### Redux-Form Addons

@@ -284,3 +284,7 @@
 - **redux-anity**  
   https://github.com/sseppola/redux-anity  
   Handle data dependencies declaratively.  The idea is to stop writing data fetching in your components, and instead make the middleware do the work.
+  
+- **fetch-hoc-redux**  
+  https://github.com/rvlewerissa/fetch-hoc-redux  
+  Simple Fetching Higher Order Component with Redux integration. It will cache your fetch automatically.

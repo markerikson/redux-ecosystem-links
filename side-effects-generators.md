@@ -163,3 +163,7 @@
 - **react-redux-toolbox**  
   https://github.com/bamlab/react-redux-toolbox  
   Set of utils for React and Redux development.  Saga decorators to handle loading status and API exceptions, plus a component and reducer for loading status.
+  
+- **redux-saga-api**  
+  https://github.com/shengnian/redux-saga-api  
+  A REST style API fetch for redux-saga 

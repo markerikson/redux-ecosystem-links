@@ -139,6 +139,10 @@
   https://github.com/dwqs/redux-actions-promise  
   FSA-compliant promise middleware for Redux, supports referencing dispatcher/state in action.
   
+- **redux-promise-action-middleware**  
+  https://github.com/FrancescoSaverioZuppichini/redux-promise-action-middleware  
+  A generic Flux/Redux midleware to generate actions based on the promise status
+  
   
 #### Timeouts and Delays
 

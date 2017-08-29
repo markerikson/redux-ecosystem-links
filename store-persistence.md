@@ -167,6 +167,10 @@
   https://github.com/grofers/redux-cookies-middleware  
   redux-cookies-middleware is a Redux middleware which watches for changes in Redux state & stores them in browser cookie.
   
+- **redux-session-manager-middleware**  
+  https://github.com/ssilve1989/redux-session-manager-middleware  
+  Manage your client-side redux application state 
+  
   
 #### Redux-Persist Addons
 

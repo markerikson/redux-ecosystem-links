@@ -236,6 +236,10 @@
 - **react-redux-modal-flex**  
   https://github.com/tronghiep92/react-redux-modal-flex  
   Accessible modal dialog component for React Redux, Easy to install and use with Redux.
+  
+- **redux-modal**  
+  https://github.com/pcs2112/redux-modal  
+  Higher order component to connect modals to the redux state
 
 
 #### Grids and Tables

@@ -169,6 +169,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/jkbailey/immutable-functions  
   A simple, easy, straight forward approach to update immutable data.
   
+- **transmutable**  
+  https://github.com/hex13/enter-ghost/tree/master/packages/transmutable  
+  Immutable objects that pretend to be mutable, using ES6 proxies.
+  
 
 #### Immutable/Redux Interop
 

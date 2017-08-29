@@ -194,3 +194,7 @@
 - **redux-insistent-requests**  
   https://github.com/wacii/redux-insistent-requests  
   Serializable requests with retries 
+  
+- **redux-graphql-subscriptions**  
+  https://github.com/hally9k/redux-graphql-subscriptions  
+  A Redux middleware for handling GraphQL subscriptions.

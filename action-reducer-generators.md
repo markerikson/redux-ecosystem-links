@@ -268,6 +268,14 @@
   https://github.com/aakashns/redux-composable  
   Utilities and higher order functions for reducer composition and reuse
   
+- **redux-less**  
+  https://github.com/lovetingyuan/redux-less  
+  Write action creators and reducers with less boilerplate, inspired by Mirror
+  
+- **redux-enhancer**  
+  https://github.com/bamlab/redux-enhancer  
+  Utilities to generate action types, action creators, and reducers for async loading states (start, success, failed, reset)
+  
 
 #### Network Requests and APIs
 
@@ -407,6 +415,14 @@
   https://github.com/cassaram09/r3-library  
   r3-library (short for React-Redux-Resource) is a small library to handle remote API resources in a CRUD React-Redux application more efficiently. This library creates a new resource predefined with a set of RESTful CRUD actions, but also offers flexibility for custom actions.
 
+- **redux-from-to**  
+  https://github.com/bratushka/redux-from-to  
+  redux-from-to carries resources from APIs to your redux store.  Stop writing the same old action and reducer logic and DRY up your redux application.
+  
+- **redux-simple-api**  
+  https://github.com/kazagkazag/redux-simple-api  
+  Redux Simple Api (RSA) is a library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
+
   
 #### Other Code Structures
 
@@ -481,3 +497,7 @@
 - **redux-parts**  
   https://github.com/andreevWork/redux-parts  
   A tool to help recursively generate reducers and actions out of simpler "parts"
+  
+- **duxx**  
+  https://github.com/enriquecaballero/duxx  
+  Create simple fetch-and-set reducer duck bundles without the boilerplating 
