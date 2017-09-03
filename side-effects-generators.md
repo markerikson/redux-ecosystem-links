@@ -167,3 +167,7 @@
 - **redux-saga-api**  
   https://github.com/shengnian/redux-saga-api  
   A REST style API fetch for redux-saga 
+  
+- **redux-saga-timeout**  
+  https://github.com/itinance/redux-saga-timeout  
+  setTimeout-Support within redux-saga 

@@ -173,6 +173,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/hex13/enter-ghost/tree/master/packages/transmutable  
   Immutable objects that pretend to be mutable, using ES6 proxies.
   
+- **redux-toolbelt-immutable-helpers**  
+  https://github.com/welldone-software/redux-toolbelt/tree/master/packages/redux-toolbelt-immutable-helpers  
+  A set of helper functions to reduce verbosity inside Redux reducers.  Includes a variety of utilities for common use cases like appending to an array, reordering items in an array, removing items by ID, updating object properties, and more.
+  
 
 #### Immutable/Redux Interop
 

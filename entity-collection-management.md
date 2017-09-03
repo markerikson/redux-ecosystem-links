@@ -147,6 +147,10 @@
   https://github.com/zpfled/redux-crud-resources  
   Programmatically generate actions, action creators, and reducers for a given list of resources
   
+- **redux-crud-model**  
+  https://github.com/bamlab/redux-crud-model  
+  Generate reducer, actions creators and selectors to easily handle entity crud operation 
+  
 
 #### Client/Server Collections
 
@@ -285,3 +289,7 @@
 - **redux-chunk**  
   https://github.com/onlicar/redux-chunk  
   A library to declaratively interact with any API.  Redux Chunk allows you to define your API endpoints across chunks in webpack chunked application. For large APIs, it makes sense to dynamically add paths to your SDK-style endpoints list and it improves the separation of concerns, with each action file defining it's own endpoints and request structure.  Based off of redux-bees.
+  
+- **modelresource**  
+  https://github.com/mbenadda/modelresource  
+  Easy-to-use model interaction methods for the client side. Uses a redux store and exposes rxjs-based methods to consumers.

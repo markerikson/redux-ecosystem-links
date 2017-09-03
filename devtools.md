@@ -221,6 +221,14 @@
   https://github.com/sashafklein/redux-request-manager  
   Attaches a lightweight object to window which tracks request history as a tree and provides a simple interface for tracking actions going out through redux-api-middleware or internally.
   
+- **redux-promise-middleware-times**  
+  https://github.com/lemonleon/redux-promise-middleware-times  
+  Record the time consumed by each asynchronous action, asynchronous solutions that rely on redux-promise-middleware.
+  
+- **reselect-devtools**  
+  https://github.com/ajwhite/reselect-devtools  
+  A set of devtools to help debug reselect selectors by logging changes.
+  
   
 #### Linting
  
@@ -307,3 +315,7 @@
   https://github.com/MalucoMarinero/react-wastage-monitor  
   https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  
   A utility that detects wasted rendering time on incorrectly developed Pure Components
+  
+- **fuego**  
+  https://github.com/apiv/fuego  
+  A component render time benchmarking suite for React 

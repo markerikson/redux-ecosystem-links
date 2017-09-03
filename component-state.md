@@ -134,7 +134,7 @@
   
 - **Redux Subspace**  
   https://github.com/ioof-holdings/redux-subspace  
-  For a Redux connected React component, SubspaceProvider allows you to present a sub-view of the state to the component, allowing it to be ignorant of parent state structure. This means you can reuse these components in multiple parts of your app, or even multiple applications that have different store structures.
+  A library to create subspaces for Redux stores, which present encapsulated views for a portion of the global Redux store.  Each subspace automatically handles namespacing actions to ensure they're only handled by that subspace.  Includes binding packages for use with React-Redux, Redux-Loop, Redux-Saga, and Redux-Observable.
 
 - **redux-dynamix**  
   https://github.com/jake-daniels/redux-dynamix  

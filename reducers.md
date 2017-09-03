@@ -335,6 +335,18 @@
   https://github.com/americanexpress/vitruvius  
   Vitruvius extends redux's combineReducers to allow developers to include a buildInitialState method on their reducer. This allows for the passing of locals to build the initial state that wouldn't normally be available to a reducer when setting its initial state. For instance, one could pass some data from the request object.
   
+- **redux-chains**  
+  https://github.com/hector-del-rio/redux-chains  
+  Nested reducers made easy.  A small helper function that allows you to call several reducers in chain and keep the state object reference intact if the state is not modified by any of them.
+  
+- **Redux-standard-reducer**  
+  https://github.com/magicdawn/redux-standard-reducer  
+  A redux reducer for standard actions that just need to merge data to state
+  
+- **combineMultiKeyReducers**  
+  https://gist.github.com/Heisenberg815/82ad6bd8dbf88b16df9af71d98b0b4db  
+  A custom reducer utility that will pass along specified slices of state to a reducer.
+  
   
   
 #### Higher-Order Reducers
@@ -449,6 +461,13 @@
   https://github.com/oreshinya/initializable-reducer  
   Initializing reducers action and associated higher order reducer for redux.
   
+- **horux**  
+  https://github.com/Nehle/horux  
+  A simple utility belt library for building and composing redux reducers using higher order functions.
+  
+  
+#### Prebuilt Use Case Reducers
+  
 - **redux-data-structures**  
   https://github.com/adrienjt/redux-data-structures  
   Redux Data Structures is a library of higher-order functions ("reducer makers").  Reducer makers help create common reducers like counters, maps, lists (queues, stacks), sets, etc. Most application states can be built by combining a handful of these standardized building blocks.
@@ -456,6 +475,10 @@
 - **common-reducers**  
   https://github.com/luispablo/common-reducers  
   Prebuilt reducers for managing "applications", "messages", and JWT/"security"
+  
+- **redux-reducer-maker**  
+  https://github.com/grifo/redux-reducer-maker  
+  Prebuilt reducers for toggle values and request status
   
   
 #### Advanced Reducer Use Cases

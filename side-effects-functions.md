@@ -29,7 +29,7 @@
   Simple redux async action status management 
   
 - **redux-thunk-subscribe**  
-  https://github.com/tinybike/redux-thunk-subscribe  
+  https://github.com/AugurProject/redux-thunk-subscribe  
   Similar to Redux Thunk, but with subscribe available to thunks (in addition to dispatch and getState) so they can add listeners to the store on-the-fly.
   
 - **redux-optimistic-thunk**  

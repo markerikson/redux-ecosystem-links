@@ -210,4 +210,4 @@
   
 - **redux-arena**  
   https://github.com/hapood/redux-arena  
-  Auto-switch the context of the Redux logic based on the URL, useful for management consoles.
+  Redux-arena is a tool for modularizing redux/redux-saga with react components. Scope redux/redux-saga within bundle, and auto clear redux/redux-saga in bundle after react component unmounted based on URL switches.

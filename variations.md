@@ -676,3 +676,11 @@
 - **native-redux-component**  
   https://github.com/ricardo-ch/native-redux-component  
   Want to use redux without using react ? Redux Component is a native implementation of react component which permits to watch your state and trigger render() method of your child component whenever it changes.  It also has the ability to render only when parts of the state change.
+  
+- **react-redux-presenters**  
+  https://github.com/joefiorini/react-redux-presenters  
+  Functional library for separating state & behavior from react components.  This library aims to help keep your React components clean by providing a consistent pattern for managing redux mapStateToProps/mapDispatchToProps boilerplate.
+  
+- **redoodle**  
+  https://github.com/palantir/redoodle  
+  An addon library for Redux that enhances its integration with TypeScript. Redoodle includes a few major categories of addons that can be used individually and play well with each other: Typed Actions, or "finally my reducers will stop breaking when I refactor"; Compound Actions, or "my action creators are finally sane";  Immutable typesafe state manipulation functions; Some opinions on state management.

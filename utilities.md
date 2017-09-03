@@ -122,6 +122,10 @@
   https://github.com/ralusek/reselectie  
   Memoized selector library for any immutable data structure (such as a redux immutable store). This library serves as a smaller, faster alternative to reselect AND re-reselect.
   
+- **bo-selecta**  
+  https://github.com/hnrysmth/bo-selecta  
+  Syntactic sugar for redux selectors: `select('users').from(state).byId(userId)`
+  
   
 #### Functional Programming
   
@@ -145,5 +149,7 @@
   https://github.com/UniversalAvenue/react-compose  
   Compose React components with a functional api.  
   
-  
+- **Redux Consumer Toolkit**  
+  https://github.com/RocketPuppy/redux-consumer-toolkit  
+  Implements several functions that are useful for combining, composing, and altering reducers and selectors (consumers). Each of this functions returns a memoized consumer, similar to reselect, so data isn't re-computed unnecessarily. The inspiration for this library was fantasyland-redux, only instead of basing it off of the fantasyland specification it is based off of the static-land specification. 
   

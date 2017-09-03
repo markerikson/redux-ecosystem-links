@@ -188,3 +188,7 @@
 - **redux-schema-form**  
   https://github.com/buhichan/redux-schema-form  
   A json configured component on top of redux-form, so yuo don't have to write a separate component for every form - just change the "schema" prop.
+  
+- **redux-form-validate-rules**  
+  https://github.com/muitsfriday/redux-form-validate-rules  
+  A rule set of redux-form validation with custom message. Works with redux-form validation v7.

@@ -99,6 +99,10 @@
   https://github.com/SharonGrossman/redux-sockets  
   A simple module to help simplify the integration of socket.io with your redux application. Emits client actions to the server if a socket payload is presented, initializes socketio connection and handles connection actions to the server and client.
   
+- **redux-autobahn-js**  
+  https://github.com/brycedarling/redux-autobahn-js  
+  Autobahn-js middleware for Redux 
+  
 
 #### Firebase
 

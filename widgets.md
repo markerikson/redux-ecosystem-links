@@ -240,6 +240,10 @@
 - **redux-modal**  
   https://github.com/pcs2112/redux-modal  
   Higher order component to connect modals to the redux state
+  
+- **redux-modal**  
+  https://github.com/khanghoang/redux-modal  
+  A convenient way to connect your modal with a Redux store.
 
 
 #### Grids and Tables

@@ -276,6 +276,10 @@
   https://github.com/bamlab/redux-enhancer  
   Utilities to generate action types, action creators, and reducers for async loading states (start, success, failed, reset)
   
+- **redux-sketch**  
+  https://github.com/NirlStudio/redux-sketch  
+  A redux state sketcher to generate a state definition with initial state, action types, action creators and reducer.
+  
 
 #### Network Requests and APIs
 
@@ -358,10 +362,6 @@
 - **redux-jsonapi**  
   https://github.com/andyhite/redux-jsonapi  
   Redux JSON:API is a collection of actions and reducers for Redux that help ease the use of a JSON:API compliant API.
-  
-- **redux-api-call**  
-  https://github.com/tungv/redux-api-call  
-  Redux utilities for API calls using fetch
   
 - **redux-fetch-resource**  
   https://github.com/StickyCube/redux-fetch-resource  

@@ -271,6 +271,10 @@
   https://github.com/ostap0207/redux-action-batcher  
   Reducer, middleware and action creator that enables to batch own as well as custom middleware actions such as redux-react-router push actions.
   
+- **redux-batch-actions-enhancer**  
+  https://github.com/laysent/redux-batch-actions-enhancer  
+  Store enhancer for Redux, which allows single trigger of subscriptions after a bunch of actions.
+  
   
 #### Integration and Interop
 

@@ -208,6 +208,10 @@
   https://github.com/maxhallinan/kreighter  
   A utility for generating Redux action creators. 
   
+- **redux-create-actions**  
+  https://github.com/adrianObel/redux-create-actions  
+  redux-create-actions is a library that helps construct FSA compliant action creators and massively decreasing the amount of boilerplate necessary to generate constants and action creators.
+  
   
 #### Other Action Use Cases  
   
