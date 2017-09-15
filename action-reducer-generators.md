@@ -7,6 +7,10 @@
 
 #### Boilerplate Reduction and Simplification
 
+- **actionware**  
+  https://github.com/wellguimaraes/actionware  
+  Redux with a lot less boilerplate, actions statuses (busy and error) and controlled side-effects in a single shot. No more action creators and action types, just "actions" (functions which execution generate events) and reducers.
+
 - **redux-act**  
   https://github.com/pauldijou/redux-act  
   An opinionated lib to create actions and reducers for Redux. The main goal is to use actions themselves as references inside the reducers rather than string constants.
