@@ -97,6 +97,10 @@
   https://github.com/khell/redux-local-storage-action  
   Dispatch actions using localStorage to multiple Redux stores on the same domain. 
   
+- **sync3k**  
+  https://github.com/google/sync3k-client  
+  An offline-first event-sourcing synchronization engine with optional end-to-end encryption.  Provides a Redux store enhancer.
+  
 
 #### Store Change Subscriptions
 
@@ -329,6 +333,10 @@
 - **redux-bridge**  
   https://github.com/barodeur/redux-bridge  
   Experimentation to share redux state between ReactNative and WebView inside an app 
+  
+- **redux-ext**  
+  https://github.com/Anissoft/redux-ext  
+  Allows use of a Redux store across the WebExtensions API.
   
   
 #### Other

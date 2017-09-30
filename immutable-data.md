@@ -177,6 +177,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/welldone-software/redux-toolbelt/tree/master/packages/redux-toolbelt-immutable-helpers  
   A set of helper functions to reduce verbosity inside Redux reducers.  Includes a variety of utilities for common use cases like appending to an array, reordering items in an array, removing items by ID, updating object properties, and more.
   
+- **stateware**  
+  https://github.com/wellguimaraes/stateware  
+  A fast, dependency-free state container with easy copy and automagically memoized getters, designed for immutability.  Can be used as the state object in Redux reducers.
+  
+- **with-mutations**  
+  https://github.com/jharris4/with-mutations  
+   Provides a getWithMutations(oldValue, newValue) function that returns the oldValue when the values are equal, or returns the newValue when the values are different.  It operates recursively on objects or arrays, preserving nested value equality whenever possible.
+  
 
 #### Immutable/Redux Interop
 
@@ -239,6 +247,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **combine-reducers-immutable**  
   https://github.com/montanonic/combine-reducers-immutable  
   Redux's combineReducers adjusted to support ImmutableJS state. 
+  
+- **redux-loop-immutable**  
+  https://github.com/redux-loop/redux-loop-immutable  
+  ImmutableJS Helpers for Redux Loop 
 
 
 #### Alternate Data Management Concepts

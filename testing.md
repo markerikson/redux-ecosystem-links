@@ -95,6 +95,10 @@
   https://github.com/Workable/redux-test-belt  
   Redux-test-belt is a JavaScript testing utility for Redux that makes it easier to assert, isolate, manipulate, and traverse your store's output.  Redux-test-belt's API is meant to be flexible by mimicking / extending Redux's store functionality. Furthermore, Redux-test-belt is unopinionated regarding which test runner, assertion library or how your application is constructed.
   
+- **enzyme-redux**  
+  https://github.com/knegusen/enzyme-redux  
+  Test utils to simplify testing of containers in redux with enzyme.
+  
   
 #### Reducers
 
@@ -233,3 +237,15 @@
 - **proofread**  
   https://github.com/streamich/proofread  
   A convenience method to decrease boilerplate when testing you Redux sagas with Jest.
+  
+- **redux-apollo-mock-store**  
+  https://github.com/jdachtera/redux-observable-apollo-mock  
+  Helper for tests to mock data in redux store and apollo-client
+  
+- **redux-observable-test-helper**  
+  https://github.com/Jerry-Hong/redux-observable-test-helper  
+  Utilities to help unit test redux-observable epics.
+  
+- **redux-observable-expect**  
+  https://github.com/srounce/redux-observable-expect  
+  Straightforward testing for redux-observable epics. 

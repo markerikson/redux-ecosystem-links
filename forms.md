@@ -161,6 +161,9 @@
   https://github.com/andy-shea/redux-formalize  
   Seamless management of stateless forms in your React/Redux app.
   
+- **redux-form-helper**  
+  https://github.com/hindmost/redux-form-helper  
+  ES6 class that helps build controlled form components with React/Redux and simplifies form validation and handling.  It has no dependencies and supposed to be used as a member of React component.
   
   
 #### Redux-Form Addons

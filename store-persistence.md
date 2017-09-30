@@ -13,7 +13,9 @@
   
 - **redux-offline**  
   https://github.com/jevakallio/redux-offline  
+  https://github.com/redux-offline/redux-offline/issues
   Persistent Redux store for Reasonaboutable™? Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
+  Note: the original "jevakallio" repo has become inactive, so the repo was forked to a "redux-offline" organization.
   
 - **redux-storage**  
   https://github.com/react-stack/redux-storage  
@@ -170,6 +172,10 @@
 - **redux-session-manager-middleware**  
   https://github.com/ssilve1989/redux-session-manager-middleware  
   Manage your client-side redux application state 
+  
+- **redux-session-manager**  
+  https://github.com/ssilve1989/redux-session-manager  
+  Redux Store Enhancer that serializes state to sessionStorage 
   
   
 #### Redux-Persist Addons

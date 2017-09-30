@@ -198,3 +198,11 @@
 - **redux-graphql-subscriptions**  
   https://github.com/hally9k/redux-graphql-subscriptions  
   A Redux middleware for handling GraphQL subscriptions.
+  
+- **redux-api-petitioner**  
+  https://github.com/teologov/redux-api-petitioner  
+  Simple client-agnostic Redux API middleware, and allows you to create AJAX requests to your API in a declarative way. It accepts your client instance and works with it through the redux actions. I.e. you create requests via redux actions.
+  
+- **multi-routing-api**  
+  https://github.com/aliaksandr-master/multi-routing-api  
+  A R edux api middleware to separate your api routes, api actions, and interceptors. Provides state normalization and a DB reducer.

@@ -212,6 +212,26 @@
   https://github.com/adrianObel/redux-create-actions  
   redux-create-actions is a library that helps construct FSA compliant action creators and massively decreasing the amount of boilerplate necessary to generate constants and action creators.
   
+- **redux-actions-helper**  
+  https://github.com/ariesjia/redux-actions-helper  
+  Assorted helper utilities for redux-actions.
+  
+- **fsa-meta-extender**  
+  https://github.com/tomoyuki-tanaka/fsa-meta-extender  
+  A utility for Flux Standard Actions that adds meta fields to actions.
+  
+- **redux-feline-actions**  
+  https://github.com/parakhod/redux-feline-actions  
+  An easy way to define Redux FSA action creators.
+  
+- **magic-action-types**  
+  https://github.com/markalfred/magic-action-types  
+  Uses an ES6 Proxy to return action constants
+  
+- **awral**  
+  https://github.com/Metnew/awral  
+  An "Awesome Wrapper for Redux Action's Lifecycle". Simplifies working with dispatching multiple actions for an async request.
+  
   
 #### Other Action Use Cases  
   

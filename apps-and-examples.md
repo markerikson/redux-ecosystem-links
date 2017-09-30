@@ -235,6 +235,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/victorparmar/easy-workout-log  
   The front-end for the fitness tracking application https://ewolo.fitness .
   
+- **Asteredux**  
+  https://github.com/funkjunky/reduxgame  
+  An Asteroids game with friction and terminal velocity. Built with Redux and a canvas.
+  
   
 #### Other Application Lists
   

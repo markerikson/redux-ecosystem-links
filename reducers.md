@@ -183,10 +183,6 @@
   https://github.com/stefanmirck/create-reducers  
   A tiny utility to create reducer maps for Redux that follows the principles of Flux Standard Actions
   
-- **reducer-redux**  
-  https://github.com/b-gran/reducer-redux  
-  A utility for easily creating robust redux reducers. Applies different reducers based on the properties of an action. Its main purpose is saving you from a bunch of nested switch statements.
-  
 - **Redux Compose Reducer**  
   https://github.com/kimrgrey/redux-compose-reducer  
   Reducer composer for Redux. This library simplifies workflow for building namespaced actions and reducers for them in Redux.
@@ -347,6 +343,13 @@
   https://gist.github.com/Heisenberg815/82ad6bd8dbf88b16df9af71d98b0b4db  
   A custom reducer utility that will pass along specified slices of state to a reducer.
   
+- **redux-keto**  
+  https://github.com/Airbitz/redux-keto  
+  A tool for building "fat reducers", which take an extra props argument in addition to the normal state and action arguments. Fat reducers use this extra parameter to pass values between each other in a fully-reactive, auto-updating way.
+  
+- **redux-creators**  
+  https://github.com/MattHsiung/redux-creators  
+  An opinionated set of helpers for defining reducers via lookup tables
   
   
 #### Higher-Order Reducers
@@ -464,6 +467,14 @@
 - **horux**  
   https://github.com/Nehle/horux  
   A simple utility belt library for building and composing redux reducers using higher order functions.
+  
+- **reducer-redux**  
+  https://github.com/b-gran/reducer-redux  
+  Create functional, reusable redux reducers. Liberate yourself from switch. Composable: reducers are just plain functions. Nest and compose them with other reducers and libraries. Reusable: designed for redux but flexible enough to use elsewhere. Create building blocks and reuse them. Powerful: comes with a utility belt for working with redux actions.
+  
+- **dextrous**  
+  https://github.com/aakashns/dextrous  
+  A tiny library with utilities for Redux reducer composition.
   
   
 #### Prebuilt Use Case Reducers
@@ -601,6 +612,15 @@
   https://github.com/yi-bai/rewpa  
   Redux REducers With json PAth 
   
+- **redux-inject-reducer-and-saga**  
+  https://github.com/marcelmokos/redux-inject-reducer-and-saga  
+  Inject reducer and saga anywhere in the application after store initialization, inspired by react-boilerplate.
+  
+- **redux-reducers-injector**  
+  https://github.com/GuillaumeCisco/redux-reducers-injector  
+  https://github.com/GuillaumeCisco/redux-sagas-injector  
+  Allows dynamically injecting reducers into a redux store at runtime. Compatible with HMR and SSR.
+  
   
 #### State Machines
 
@@ -608,9 +628,9 @@
   https://github.com/mheiber/redux-machine  
   A tiny library for creating state machines in Redux apps.  Provide an object of reducers to handle different states, and return a special key with the next state name to have the lib swap the active state reducer and include the current state name.
   
-- **estado**  
-  https://github.com/davidkpiano/estado  
-  What is it? Estado is a tiny, framework-agnostic JS library for representing finite-state machines and hierarchical state machines, or Harel statecharts. Its main use is as a pure (extended) transition function of the form (state, action) -> state.  Includes the ability to generate a Redux reducer to manage states.
+- **xstate**  
+  https://github.com/davidkpiano/xstate  
+  Simple, stateless JavaScript finite state machines and statecharts.  Like reducers on steroids, and can be integrated into Redux.
   
 - **redux-dsm**  
   https://github.com/ericelliott/redux-dsm  
@@ -627,3 +647,7 @@
 - **redux-automata**  
   https://github.com/mocoding-software/redux-automata  
   redux-automata - is a finite state machine based on Redux store. It allows developer to generate reducer automatically based on current state. The library was developed to support the following scenarios:  Provide different behavoiur for the same action and avoid massive if-then-else; Ignore specific actions while in specific states (or better saying - process actions only in specific states).
+
+- **redux-fsm**  
+  https://github.com/quadreex/fsm-redux  
+  Lightweight library for Finite State Machine support in Redux applications. This library implements FSM pattern as swappable redux reducers. In a configuration object you specify which reducer should be used for each state of FSM and actions which trigger state change.

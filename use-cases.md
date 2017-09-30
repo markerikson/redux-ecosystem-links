@@ -68,6 +68,10 @@
   https://github.com/satahippy/redux-dirty  
   A higher-order reducer and component for tracking "dirty" status and dispatching an action when the dirty status is detected by the component.
   
+- **redux-force**  
+  https://github.com/reviz/redux-force  
+  Force-directed graph layout implemented for Redux.  Provides specialized actions and reducers that apply forces to a simulation (no graphical representation included).
+  
   
 #### Feature Flags
   
@@ -153,6 +157,14 @@
 - **redux-breakpoint**  
   https://github.com/bala94/redux-breakpoint  
   A lightweight library to help your redux based application to be more responsive.  Make your component aware of breakpoint and device width just by connecting to store.
+  
+- **redux-device-type**  
+  https://github.com/matthiasklan/redux-device-type  
+  A reducer to keep track of your current device size in order to react to the changes (e.g. rendering certain components only on some device sizes).
+  
+- **react-responsive-redux**  
+  https://github.com/modosc/react-responsive-redux  
+  Redux integration for react-responsive 
 
   
 ### Internationalization
@@ -221,6 +233,14 @@
 - **redux-multilanguage**  
   https://github.com/stssoftware/redux-multilanguage  
   A higher-order component used with Redux to support multilanguage.
+  
+- **redux-lexicon**  
+  https://github.com/me6iaton/redux-lexicon  
+  React / Redux localization tools.  Adds lexicon data to the Redux store, and includes a HOC to make that data available to components.
+  
+- **intlized-components**  
+  https://github.com/ProAI/intlized-components  
+  React.js Redux components for internationalization (i18n) 
   
   
 #### Pagination
@@ -368,6 +388,10 @@
   https://github.com/peterkhayes/redux-incremental-history  
   Given an 'inverter' function that maps actions to their opposites, allows for undo/redo in redux-based apps.
   
+- **redux-deep-diff**  
+  https://github.com/wwilsman/redux-deep-diff  
+  Higher order reducer to deep diff redux states 
+  
   
 #### Authentication
 
@@ -426,3 +450,7 @@
 - **redux-implicit-oauth2**  
   https://github.com/danilobuerger/redux-implicit-oauth2  
   OAuth 2.0 Implicit Grant Flow with Redux 
+  
+- **redux-token-auth**  
+  https://github.com/smoliji/redux-token-auth  
+  Actions, reducer, and sagas for managing token auth behavior

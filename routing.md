@@ -211,3 +211,15 @@
 - **redux-arena**  
   https://github.com/hapood/redux-arena  
   Redux-arena is a tool for modularizing redux/redux-saga with react components. Scope redux/redux-saga within bundle, and auto clear redux/redux-saga in bundle after react component unmounted based on URL switches.
+  
+- **chronik**  
+  https://github.com/honmanyau/chronik  
+  A simple, no-context React-Redux client-side router based on the History Web API. 
+  
+- **Conduit**  
+  https://github.com/DensityCo/conduit  
+  A small router for redux-backed applications. 
+  
+- **routedux**  
+  https://github.com/cjdev/routedux  
+  A router that maps urls to redux actions and vice-versa 

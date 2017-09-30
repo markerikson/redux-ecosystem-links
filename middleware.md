@@ -78,7 +78,7 @@
   Validate action properties
   
 - **redux-action-watch**  
-  https://github.com/mrdivyansh/redux-action-watch  
+  https://github.com/Codebrahma/redux-action-watch  
   Provides features to listen actions dispatched to Redux.
   
 - **redux-rules**  
@@ -221,6 +221,21 @@
   https://github.com/americanexpress/redux-lifesaver  
   lifesaver is a middleware that keeps track of how many times actions of the same type are dispatched within a given period. If a single action type is dispatched more times than the allowed amount within a given period, subsequent dispatches of that action type will be blocked from the reducer for the same period. At the end of the period, the most recently attempted dispatch of that action type will go through.
   
+- **signalbox**  
+  https://github.com/hnrysmth/signalbox  
+  Syntactical sugar for redux middlewares.  Define callbacks to run before or after specific actions.
+  
+- **redux-payload-validator**  
+  https://github.com/tomoyuki-tanaka/redux-payload-validator  
+  Redux middleware for FSA payload validation.
+  
+- **redux-mediator**  
+  https://github.com/quadreex/redux-mediator  
+  Redux middleware to support mediator pattern. Helps you to reduce complexity of large redux applications by separating your codebase into independent modules which know nothing about each other. Communication between modules is encapsulated within a mediator middleware. Modules no longer use actions of each other directly, but instead communicate through the mediator. Mediator maps output actions of one module to input actions of another.
+  
+- **redux-ittt**  
+  https://github.com/khanghoang/redux-ittt  
+  "Redux If This Then That" - Separate business logics outside of your components and thunks. 
   
 #### Analytics
 
@@ -271,6 +286,10 @@
 - **redux-metrics**  
   https://github.com/Liftitapp/redux-metrics  
   Transform your actions to metrics. use Segment, Mixpanel or custom lib to report your events power by Liftit
+  
+- **remimi**  
+  https://github.com/BrandwatchLtd/remimi  
+  Advanced Redux Mixpanel middleware 
   
   
 #### Data Management
@@ -413,3 +432,11 @@
 - **hydrate-dummy**  
   https://github.com/johnlukeG/hydrate-dummy  
   A Redux Middleware that hydrates the store with dummy data 
+  
+- **redux-elm-plugin**  
+  https://github.com/ulisses-alves/redux-elm-plugin  
+  Utility package for wrapping Elm application ports into Redux actions and reducers.
+  
+- **redux-script-loader**  
+  https://github.com/eliascodes/redux-script-loader  
+  Redux middleware to handle dynamically loading scripts 

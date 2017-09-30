@@ -153,3 +153,6 @@
   https://github.com/RocketPuppy/redux-consumer-toolkit  
   Implements several functions that are useful for combining, composing, and altering reducers and selectors (consumers). Each of this functions returns a memoized consumer, similar to reselect, so data isn't re-computed unnecessarily. The inspiration for this library was fantasyland-redux, only instead of basing it off of the fantasyland specification it is based off of the static-land specification. 
   
+- **compound**  
+  https://github.com/pdme/compound  
+  Like compose, but with rest params also being passed in. This is particularly useful in redux reducers, for example, when you want to apply multiple modifiers to the state, using the same action object.

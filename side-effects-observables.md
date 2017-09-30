@@ -63,3 +63,11 @@
 - **redux-rx-http**  
   https://github.com/radiosilence/redux-rx-http  
   Uses react-observable to provide a nice HTTP layer. 
+  
+- **redux-observable-crud**  
+  https://github.com/AlexHenkel/redux-observable-crud  
+  Provides a redux-observer CRUD functions generator, to have a nice DRY code on observer files. This will increase scalability and maintainability as there's only one file to maintain.
+  
+- **xstream-redux-observable**  
+  https://github.com/adz5a/xstream-redux-observable  
+  Provides a factory function to create redux middleware, inspired by redux-observable, but using xtream instead of RxJS

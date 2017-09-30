@@ -171,3 +171,11 @@
 - **redux-saga-timeout**  
   https://github.com/itinance/redux-saga-timeout  
   setTimeout-Support within redux-saga 
+  
+- **redux-saga-api-call-routines**  
+  https://github.com/alvelig/redux-saga-api-call-routines  
+  Adds authentication header to any "*_REQUEST" action, and refreshes tokens if a 403 error is returned.
+  
+- **recompose-saga**  
+  https://github.com/robinpowered/recompose-saga  
+  A recompose-like library for redux-saga

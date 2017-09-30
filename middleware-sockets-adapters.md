@@ -157,7 +157,14 @@
 - **duckbase**  
   https://github.com/WadePeterson/duckbase  
   React + Redux Wrapper for Firebase
+  
+- **firebase-sync**  
+  https://github.com/tasking/firebase-sync  
+  Bind your firebase backend to your redux state with a dead simple component based approach.
 
+- **reduxfire**  
+  https://github.com/ThadeuLuz/reduxfire  
+  Redux is a predictable state container for JavaScript apps. Firebase complements it perfectly by providing an easy-to-use, realtime data source for populating redux's state by dispatching actions. With ReduxFire, it only takes a few lines of JavaScript to integrate Firebase data into your (pure|React|Angular|Vue|*) Redux application.
 
 #### Meteor
 
@@ -231,3 +238,7 @@
 - **feathers-redux-immutable**  
   https://github.com/collegepulse/feathers-redux-immutable  
   An immutable, redux data store for FeathersJS services.
+  
+- **deepstream-redux**  
+  https://github.com/bunchtogether/deepstream-redux  
+  Tools for connecting Redux to a Deepstream server.

@@ -369,3 +369,7 @@
 - **redux-async-transitions**  
   https://github.com/Cron-J/redux-async-transitions  
   A middleware that combines features from redux-async and redux-history-transition
+  
+- **redux-saga-promise**  
+  https://github.com/wallaroo/redux-saga-promise  
+  A redux middleware to handle dispatch for "trigger" actions, by creating a Promise, attaching the resolve/reject functions to the action, and returning the Promise from dispatch.

@@ -75,3 +75,7 @@
 - **crud-foyer**  
   https://github.com/croscon/crud-foyer  
   Lightly opinionated mostly configurable cli tool to generate redux files for new models
+  
+- **rrmw**  
+  https://github.com/sedoyjan/rrmw  
+  A CLI tool to help generate React-Redux modules from templates

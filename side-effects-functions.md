@@ -68,6 +68,10 @@
   https://github.com/mividtim/redux-thunk-ajax  
   Make JSON REST AJAX requests with redux-thunk 
   
+- **redux-thunk-catch**  
+  https://github.com/shoaibkalsekar/redux-thunk-catch  
+  A redux thunk alternative with error handling support.
+  
 
 #### Redux-Effects extensions
   

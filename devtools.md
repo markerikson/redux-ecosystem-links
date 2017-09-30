@@ -276,6 +276,10 @@
   https://github.com/tarodenberg/redux-freezer  
   Redux middleware that freezes store state after each update.
   
+- **purityWarningReduxConnect**  
+  https://gist.github.com/lelandrichardson/ff2392199b62c26759f2bf235676758b  
+  A shallow-equality comparison function and wrapper for `connect` that will warn if a `mapState` function accidentally mutates values.  Used by AirBnB internally.
+  
 
 #### Component Update Monitoring
 

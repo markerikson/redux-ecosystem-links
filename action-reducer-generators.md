@@ -280,6 +280,18 @@
   https://github.com/NirlStudio/redux-sketch  
   A redux state sketcher to generate a state definition with initial state, action types, action creators and reducer.
   
+- **redux-defmap**  
+  https://github.com/loehx/redux-defmap  
+  Bring structure to your redux actions and reducers.  Accepts lookup tables, simplifies action creators, and validates payloads.
+  
+- **redux-declare**  
+  https://github.com/zhujinxuan/redux-declare  
+  Create declarative actions and reducers for synchronous operations, and simplify async actions.
+  
+- **@articulate/ducks**  
+  https://github.com/articulate/ducks  
+  A collection of Redux helper functions.  Curried action creator utils, middleware to dispatch functors, reducer lookup table utils, and more.
+  
 
 #### Network Requests and APIs
 

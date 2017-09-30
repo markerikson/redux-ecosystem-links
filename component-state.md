@@ -237,6 +237,14 @@
   https://github.com/jasonmorita/react-redux-ui-state  
   React higher order component to provide UI state for components.  Reduce the need to reach for setState to save time for simple flags, reduce reducer boilerplate for properties like UI flags, Reduce tediousness of instances of the same component needing the same flags.
   
+- **redux-instance**  
+  https://github.com/levu48/redux-instance  
+  Provide redux management for multiple instances of the same React component. This package allows developers to code React components with their own state, unconcerned with others in the redux store by applying redux-instance high-order components and functions withInstance, instanceState, instanceReducer, and instanceAction appropriately in react-redux 'connect'.
+  
+- **react-local-reducer**  
+  https://github.com/troch/react-local-reducer  
+  A tiny library to use redux-style reducers locally in your React components. No external dependency, it can be used with or without a redux store.
+  
   
 #### Simplified / Key-Value State
 
@@ -263,6 +271,11 @@
 - **react-redux-private-props**  
   https://github.com/dylanonelson/react-redux-private-props  
   React/Redux add-on for managing private component state in a Redux store 
+  
+- **redux-lenses**  
+  https://github.com/kofile/redux-lenses  
+  A set of utility functions for dealing with redux state via Ramda lenses 
+  
   
 #### Modularity and Encapsulation
 
@@ -306,3 +319,20 @@
 - **redux-stack**  
   https://github.com/jondot/redux-stack  
   A library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.
+  
+- **redux-modular**  
+  https://github.com/thomasdashney/redux-modular  
+  Helpers for scaling and abstracting redux by co-locating actions, reducers and selectors.
+  
+- **react-redux-subapp**  
+  https://github.com/shhaumb/react-redux-subapp  
+  A package to create pluggable React/Redux sub applications. 
+
+- **redux-modules-enhancer**  
+  https://github.com/BEllis/redux-modules-enhancer  
+  https://github.com/BEllis/react-redux-module  
+  A Redux store enhancer and React component to allow dynamically adding new modules to the store at runtime.
+  
+- **react-redux-namespacer**  
+  https://github.com/SphereSoftware/react-redux-namespacer  
+  Utilities for defining namespaced action dispatching and reducers

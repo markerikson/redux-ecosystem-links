@@ -244,6 +244,14 @@
 - **redux-modal**  
   https://github.com/khanghoang/redux-modal  
   A convenient way to connect your modal with a Redux store.
+  
+- **Modalo**  
+  https://github.com/xclix/modalo  
+  Component, actions, and reducer for displaying a modal in React-Redux apps
+  
+- **react-redux-easy-modal**  
+  https://github.com/alexander-usolcev/react-redux-easy-modal  
+  Basic react-redux modal implementation (reducer, store, components and actions)
 
 
 #### Grids and Tables
@@ -392,6 +400,14 @@
   https://github.com/ryank109/react-redux-popup  
   A set of higher order components that enable popup behavior using react and redux, featuring a portal design, auto positioning based on resize and scroll events, and smart positioning based on content size and available space.
   
+- **redux-flash-message**  
+  https://github.com/pcs2112/redux-flash-message  
+  Unobtrusive way to display success and Error flash messages in your single page app. 
+  
+- **notifications**  
+  https://github.com/xclix/notifications  
+  Component, actions, and reducer for displaying notifications in a React-Redux app
+  
   
 #### Maps
 
@@ -430,3 +446,6 @@
   https://github.com/ExtPoint/fileup-redux  
   Redux adapter to fileup-core
   
+- **redux-ajax-uploader**  
+  https://github.com/pcs2112/redux-ajax-uploader  
+  Simple HOC for ajax uploads in Redux.

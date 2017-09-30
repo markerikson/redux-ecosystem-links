@@ -684,3 +684,66 @@
 - **redoodle**  
   https://github.com/palantir/redoodle  
   An addon library for Redux that enhances its integration with TypeScript. Redoodle includes a few major categories of addons that can be used individually and play well with each other: Typed Actions, or "finally my reducers will stop breaking when I refactor"; Compound Actions, or "my action creators are finally sane";  Immutable typesafe state manipulation functions; Some opinions on state management.
+
+- **focus-redux-reducer**  
+  https://github.com/tavantzo/focus-redux-reducer  
+  A class-based Redux reducer.
+  
+- **reduxModuleCreator**  
+  https://github.com/Mtnt/reduxModuleCreator  
+  Class-based controller logic linked to a Redux store
+  
+- **actionware**  
+  https://github.com/wellguimaraes/actionware  
+  Redux with less boilerplate, actions statuses and controlled side-effects in a single shot.  No more action creators and action types, just actions and reducers; actions dispatch their result automatically; error status for every action with no extra code; busy status for every async action; cancellable actions.
+  
+- **vuact**  
+  https://github.com/breachofmind/vuact  
+  Wraps up React components and Redux stores with a Vue/VueX inspired API.
+  
+- **redux-needs**  
+  https://github.com/LUKKIEN/redux-needs  
+  Bind actions to changes in your Redux state based on the needs of your active Redux components.
+  
+- **reduxBreeze**  
+  https://github.com/Lukasz-pluszczewski/reduxBreeze  
+  Powerful redux wrapper to make handling redux actions and reducers a breeze! 
+  
+- **redux-wrapper-extended**  
+  https://github.com/anjarpw/redux-wrapper-extended  
+  Shortcuts for Redux.  Provides classes to wrap reducers and stores.
+  
+- **redux-channels**  
+  https://github.com/kubischj/redux-channels  
+  Creates a wrapper for Redux stores to handle action types both when dispatching actions, and in the reducer functions instead of the user.  The name of the channel would be the type passed along to the store on a dispatch, and the manager would select and call the matching channels subscribers to handle state change.
+  
+- **Mickey**  
+  https://github.com/mickeyjsx/mickey  
+  Lightweight front-end framework for creating React and Redux based app painlessly.  Based on Redux, Redux-Saga, and React-Router, inspired by dva.  
+  
+- **react-redux-simple-autoconnect**  
+  https://github.com/oxyno-zeta/react-redux-simple-autoconnect  
+  Uses propTypes declared in the Component to link state properties or actions (dispatch is automatically added) to Component.  The library will bind properties by listing state and actions object keys.
+  
+  
+#### Redux-Inspired Libraries
+
+- **statty**  
+  https://github.com/vesparny/statty  
+  A tiny and unobtrusive state management library for React and Preact apps 
+  
+- **refunk**  
+  https://github.com/jxnblk/refunk/  
+  Simple React functional setState
+  
+- **reducere**  
+  https://github.com/DaleJefferson/reducere  
+  Redux without the actions and reducers 
+  
+- **reless-js**  
+  https://github.com/Alber70g/reless-js  
+  Relessjs = Redux - Actions. Call the reducer directly. Redux without the maintenance. No more need to update Actions, Names, Constants, and Reducers' switch-cases in multiple places. 
+  
+- **Repatch**  
+  https://github.com/jaystack/repatch  
+  Repatch is just a simplified Redux, that let you create actions more briefly by dispatching reducers directly.

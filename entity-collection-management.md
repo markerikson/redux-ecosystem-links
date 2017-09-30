@@ -151,6 +151,18 @@
   https://github.com/bamlab/redux-crud-model  
   Generate reducer, actions creators and selectors to easily handle entity crud operation 
   
+- **redux-majic**  
+  https://github.com/mduleone/redux-majic  
+  Module Architecture for JsonAPI Ingesting Consumers.  Provides functions to parse JSON-API responses, and actions/reducers/selectors to interact with those entities.
+  
+- **reduxsauce-crud**  
+  https://github.com/AlexHenkel/reduxsauce-crud  
+  Adaptation of the reduxsauce utils to add CRUD functionality
+  
+- **collectionReducer**  
+  https://github.com/volodymyrl/collectionReducer  
+  A small action/reducer creator for CRUD ops by ID
+  
 
 #### Client/Server Collections
 
@@ -293,3 +305,11 @@
 - **modelresource**  
   https://github.com/mbenadda/modelresource  
   Easy-to-use model interaction methods for the client side. Uses a redux store and exposes rxjs-based methods to consumers.
+  
+- **Redest**  
+  https://github.com/momentechnologies/redest  
+  Rest API integration made easy - tries to solve the boilerplate that comes with communicating to a REST API.
+
+- **redux-data-entity**  
+  https://github.com/iamawebgeek/redux-data-entity  
+  Helps manage Redux data easier.  No action/reducer/constant declaration; caches request and prevents repetitive requests; provides optimistic creates, updates, and deletes; and has zero-config integration with no store modification.
