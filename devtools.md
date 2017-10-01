@@ -230,11 +230,37 @@
   A set of devtools to help debug reselect selectors by logging changes.
   
   
-#### Linting
- 
+#### Mutation Detection
+
 - **redux-immutable-state-invariant**  
   https://github.com/leoasis/redux-immutable-state-invariant  
   Redux middleware that detects mutations between and outside redux dispatches. For development use only.
+  
+- **redux-freeze-state**  
+  https://github.com/jfpalacios/redux-freeze-state  
+  Use freezeState with your reducer to find spots in your app where you are mutating state. It is not recommended to use this in production as it recursively freezes objects and could affect performance.
+  
+- **redux-freeze**  
+  https://github.com/buunguyen/redux-freeze  
+  Redux middleware that prevents state from being mutated anywhere in the app. When mutation occurs, an error will be thrown by the runtime. This is useful during development mode to ensure that no part of the app accidentally mutates the state.
+  
+- **redux-freezer**  
+  https://github.com/tarodenberg/redux-freezer  
+  Redux middleware that freezes store state after each update.
+  
+- **purityWarningReduxConnect**  
+  https://gist.github.com/lelandrichardson/ff2392199b62c26759f2bf235676758b  
+  A shallow-equality comparison function and wrapper for `connect` that will warn if a `mapState` function accidentally mutates values.  Used by AirBnB internally.
+
+- **mutation-sentinel**  
+  https://github.com/flexport/mutation-sentinel  
+  https://flexport.engineering/optimizing-react-rendering-part-2-7b2e9a9ea21f  
+  A library that uses ES6 Proxies to help detect accidental mutations
+  
+  
+#### Linting
+
+Also see the [Mutation Detection](#mutation-detection) section just above.
   
 - **redux-ensure-fsa**  
   https://github.com/meadow/redux-ensure-fsa  
@@ -252,14 +278,6 @@
   https://github.com/itaylor/redux-action-propcheck  
   A Redux middleware that can check your redux action's property types against a provided specification of expected property types.
   
-- **redux-freeze-state**  
-  https://github.com/jfpalacios/redux-freeze-state  
-  Use freezeState with your reducer to find spots in your app where you are mutating state. It is not recommended to use this in production as it recursively freezes objects and could affect performance.
-  
-- **redux-freeze**  
-  https://github.com/buunguyen/redux-freeze  
-  Redux middleware that prevents state from being mutated anywhere in the app. When mutation occurs, an error will be thrown by the runtime. This is useful during development mode to ensure that no part of the app accidentally mutates the state.
-  
 - **redux-validator**  
   https://github.com/MaxLee1994/redux-validator  
   Action parameter validator middleware for redux
@@ -271,14 +289,7 @@
 - **redux-check**  
   https://github.com/jarredwitt/redux-check  
   Lets you run validations against parts of your state or against the action that was dispatched.
-  
-- **redux-freezer**  
-  https://github.com/tarodenberg/redux-freezer  
-  Redux middleware that freezes store state after each update.
-  
-- **purityWarningReduxConnect**  
-  https://gist.github.com/lelandrichardson/ff2392199b62c26759f2bf235676758b  
-  A shallow-equality comparison function and wrapper for `connect` that will warn if a `mapState` function accidentally mutates values.  Used by AirBnB internally.
+
   
 
 #### Component Update Monitoring

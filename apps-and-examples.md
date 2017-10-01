@@ -239,6 +239,15 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/funkjunky/reduxgame  
   An Asteroids game with friction and terminal velocity. Built with Redux and a canvas.
   
+- **Builify**  
+  https://github.com/builify/builify  
+  A visual, block-based, static website creator
+  
+- **Winamp2-js**  
+  https://jordaneldredge.com/projects/winamp2-js/  
+  https://github.com/captbaritone/winamp2-js  
+  An in-browser recreation of Winamp2, built with React and Redux. Actually plays MP3s, and lets you load in local MP3 files.
+  
   
 #### Other Application Lists
   

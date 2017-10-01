@@ -184,6 +184,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **with-mutations**  
   https://github.com/jharris4/with-mutations  
    Provides a getWithMutations(oldValue, newValue) function that returns the oldValue when the values are equal, or returns the newValue when the values are different.  It operates recursively on objects or arrays, preserving nested value equality whenever possible.
+   
+ - **redux-create-state**  
+   https://github.com/niklasramo/redux-create-state  
+   A utility function for Redux to ease the process of creating a new state object, immutably.  Works by first creating a shallow clone of the current state (object or array) and then cloning all the nested arrays and objects between the root object/array and the inserted values. 
   
 
 #### Immutable/Redux Interop
