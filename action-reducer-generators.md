@@ -513,3 +513,7 @@
 - **duxx**  
   https://github.com/enriquecaballero/duxx  
   Create simple fetch-and-set reducer duck bundles without the boilerplating 
+
+- **redux-declare**  
+  https://github.com/zhujinxuan/redux-declare
+  Declarative action and reducer creators. Provide async support by `action.status` and nested object.  Organize your async code more easily.
