@@ -475,6 +475,10 @@
 - **dextrous**  
   https://github.com/aakashns/dextrous  
   A tiny library with utilities for Redux reducer composition.
+
+- **redux-reorder**  
+  https://github.com/nonnontrivial/redux-reorder  
+  Higher-order reducer that tracks order fluctuation within iterable state.  Appends a given reducer with a representation of how its new order has changed from a previous order.
   
   
 #### Prebuilt Use Case Reducers
@@ -621,6 +625,17 @@
   https://github.com/GuillaumeCisco/redux-sagas-injector  
   Allows dynamically injecting reducers into a redux store at runtime. Compatible with HMR and SSR.
   
+- **redux-async-injector**  
+  https://github.com/webliving/redux-async-injector  
+  A store creation wrapper function that makes an `injectReducer` function available.
+  
+- **redux-cake**  
+  https://github.com/jmar777/redux-cake  
+  A store enhancer and small set of related APIs that facilitate the adding and removing of slices of state on the fly.
+  
+- **redux-dynamic-reducer**  
+  https://github.com/ioof-holdings/redux-dynamic-reducer  
+  Allows you to attach new reducer functions after the store is initialised. This is helpful if you want to use a single global store across a lazily loaded application where not all reducers are available at store creation. It also provides a convenience functionality that pairs with redux-subspace and allows combining a React component with a reducer that automatically attaches to the store when the component is mounted.
   
 #### State Machines
 

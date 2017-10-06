@@ -232,6 +232,14 @@
   https://github.com/Metnew/awral  
   An "Awesome Wrapper for Redux Action's Lifecycle". Simplifies working with dispatching multiple actions for an async request.
   
+- **redux-pirate-actions**  
+  https://github.com/pirateminds/redux-pirate-actions  
+  Avoids generating action constants by using function names for the types.
+  
+- **redux-actionz**  
+  https://github.com/goldenlynx/redux-actionz  
+  Similar to redux-actions, but with improvements and a new API.
+  
   
 #### Other Action Use Cases  
   

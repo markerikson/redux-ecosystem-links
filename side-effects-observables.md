@@ -71,3 +71,11 @@
 - **xstream-redux-observable**  
   https://github.com/adz5a/xstream-redux-observable  
   Provides a factory function to create redux middleware, inspired by redux-observable, but using xtream instead of RxJS
+  
+- **redux-observable-source**  
+  https://github.com/OlympusatDevelopment/redux-observable-source  
+  A Redux Middleware and data flow architecture for passing an Observable stream through an adapter to populate the branches on a state tree with data. How you get data to the observable is up to you, making it highly adaptable to your data sources, ie. websocket or ajax response as providers.
+  
+- **redux-promise-observable**  
+  https://github.com/AyWa/redux-promise-observable  
+  A plugin for redux-observable. It allows to return a promise after an action as been dispatch, and resolve/reject the promise depending of others action. It can be use for redux-form 

@@ -279,7 +279,7 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   A Redux middleware that can check your redux action's property types against a provided specification of expected property types.
   
 - **redux-validator**  
-  https://github.com/MaxLee1994/redux-validator  
+  https://github.com/MaxLi1994/redux-validator  
   Action parameter validator middleware for redux
   
 - **redux-uncaught-promise**  
@@ -289,6 +289,10 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **redux-check**  
   https://github.com/jarredwitt/redux-check  
   Lets you run validations against parts of your state or against the action that was dispatched.
+  
+- **redux-duplicate-actions**  
+  https://github.com/daviemakz/redux-duplicate-actions  
+  A redux middleware that detects duplicate actions & shows this in the console
 
   
 

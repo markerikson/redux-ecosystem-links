@@ -84,6 +84,10 @@
 - **revux**  
   https://github.com/edvincandon/revux  
   Inspired by Revue, use Redux with Vue.js seamlessly
+  
+- **redux-store-mixin**  
+  https://github.com/kolesoffac/redux-store-mixin  
+  Mixin to integrate action creators in methods of vue component
 
 #### Vanilla JS
 

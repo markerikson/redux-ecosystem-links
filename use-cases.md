@@ -328,6 +328,18 @@
   https://github.com/guilouro/redux-global-loader  
   A redux middleware with redux-promise-middleware's integration that shows the Loading component while there is one or more than one pending promises in the current page. The loading state will be hidden as soon as all Promises gets completed.
   
+- **redux-error-snapshot**  
+  https://github.com/jkomyno/redux-error-snapshot  
+  Redux thunk utility that aims to ease the process of retrying last failed action.
+  
+- **react-redux-internet-connection**  
+  https://github.com/alirezavalizade/react-redux-internet-connection  
+  Check internet connection from your redux's state 
+  
+- **react-native-redux-connectivity**  
+  https://github.com/calvium/react-native-redux-connectivity  
+  Monitor network connectivity and store the result in Redux 
+  
   
 #### Undo-Redo
 

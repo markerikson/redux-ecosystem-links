@@ -725,6 +725,14 @@
   https://github.com/oxyno-zeta/react-redux-simple-autoconnect  
   Uses propTypes declared in the Component to link state properties or actions (dispatch is automatically added) to Component.  The library will bind properties by listing state and actions object keys.
   
+- **fluxuate**  
+  https://github.com/bowheart/fluxuate  
+  A suite of opt-in, high-level abstractions on top of Redux, using annotations on classes to reduce boilerplate.
+  
+- **React Redux Props Helper**  
+  https://github.com/baron816/react-redux-props-helper  
+  Simple module for mapping state and dispatch to React props by name
+  
   
 #### Redux-Inspired Libraries
 

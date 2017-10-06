@@ -99,6 +99,10 @@
   https://github.com/knegusen/enzyme-redux  
   Test utils to simplify testing of containers in redux with enzyme.
   
+- **redux-tdd**  
+  https://github.com/lmatteis/redux-tdd  
+  Dot-chaining syntax for doing TDD with redux by composing unit tests as if they were integration tests 
+  
   
 #### Reducers
 

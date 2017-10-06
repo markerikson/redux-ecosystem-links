@@ -143,6 +143,14 @@
   https://github.com/FrancescoSaverioZuppichini/redux-promise-action-middleware  
   A generic Flux/Redux midleware to generate actions based on the promise status
   
+- **redux-promise-memo**  
+  https://github.com/saltycrane/redux-promise-memo  
+  Lets you "memoize" asynchronous, promise-based, Redux action creators. If the promise has completed successfully, it will not be dispatched again unless the action creator arguments change.
+  
+- **redux-pirate-promise**  
+  https://github.com/pirateminds/redux-pirate-promise  
+  A promise middleware that lets you define hooks for handling response/request/error cases.
+  
   
 #### Timeouts and Delays
 
@@ -250,6 +258,10 @@
 - **redux-offline-chain**  
   https://github.com/birgernass/redux-offline-chain  
   A redux-middleware for redux-offline, inspired by redux-thunk.  redux-offline-chain allows you to chain offline actions. It looks for action.meta.then functions and invokes them in a redux-thunk like manner. The then callback gets the payload from the effect reconciler and optionally redux's dispatch and getState functions.
+  
+- **redux-delayed**  
+  https://github.com/n4bcak3/redux-delayed  
+  Redux middleware for accepting actions with delayed dispatch 
   
   
 #### Other Async Actions

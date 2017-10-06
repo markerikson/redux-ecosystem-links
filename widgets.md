@@ -252,6 +252,10 @@
 - **react-redux-easy-modal**  
   https://github.com/alexander-usolcev/react-redux-easy-modal  
   Basic react-redux modal implementation (reducer, store, components and actions)
+  
+- **react-redux-promising-modals**  
+  https://github.com/tkvw/react-redux-promising-modals  
+  Adds a Modal component and withModal HOC on top of the redux-promising-modals library.
 
 
 #### Grids and Tables

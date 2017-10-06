@@ -288,3 +288,7 @@
 - **fetch-hoc-redux**  
   https://github.com/rvlewerissa/fetch-hoc-redux  
   Simple Fetching Higher Order Component with Redux integration. It will cache your fetch automatically.
+
+- **react-redux-fetch-if-necessary**  
+  https://github.com/carpeliam/react-redux-fetch-if-necessary  
+  Higher order component for managing the concern of making sure your dependencies are loaded before you render 

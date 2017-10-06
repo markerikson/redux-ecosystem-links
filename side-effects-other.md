@@ -118,3 +118,11 @@
 - **redux-effects-promise**  
   https://github.com/apoterenko/redux-effects-promise  
   An implementation of declarative promises effects for redux. The solution is based on inversify library.
+  
+- **redux-pixies**  
+  https://github.com/Airbitz/redux-pixies  
+  Pixies are little processes that run in the background, monitoring your Redux store and handling asynchronous side-effects. Pixies are a lot like React components, but instead of managing the DOM, pixies manage everything else.  Pixies are state-based, rather than action-based. A pixie's job is to compare the state of the Redux store with the real world and fix anything that is out of sync. 
+  
+- **redux-serial-effects**  
+  https://github.com/wix/redux-serial-effects  
+  A middleware library for managing side-effects based on state changes, following an actual vs. expected philosophy, and supporting composability.

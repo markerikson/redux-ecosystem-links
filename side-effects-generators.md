@@ -179,3 +179,11 @@
 - **recompose-saga**  
   https://github.com/robinpowered/recompose-saga  
   A recompose-like library for redux-saga
+  
+- **reduxSagaOneLiners**  
+  https://github.com/kjr247/reduxSagaOneLiners  
+  Reusable generic sagas for making CRUD API calls
+  
+- **redux-saga-queue**  
+  https://github.com/gleb-smagliy/redux-saga-queue  
+  High level effect to handle actions sequentially 

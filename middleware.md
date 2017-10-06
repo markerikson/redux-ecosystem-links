@@ -440,3 +440,7 @@
 - **redux-script-loader**  
   https://github.com/eliascodes/redux-script-loader  
   Redux middleware to handle dynamically loading scripts 
+  
+- **redux-elm-plugin**  
+  https://github.com/ulisses-alves/redux-elm-plugin  
+  Utility package for wrapping Elm application ports into Redux actions and reducers.

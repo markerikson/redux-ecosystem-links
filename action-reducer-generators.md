@@ -292,6 +292,10 @@
   https://github.com/articulate/ducks  
   A collection of Redux helper functions.  Curried action creator utils, middleware to dispatch functors, reducer lookup table utils, and more.
   
+- **redux-msg**  
+  https://github.com/argshook/redux-msg  
+  Utility functions to help DRY up your Redux code.  Create reducers, selectors, state, and more.
+  
 
 #### Network Requests and APIs
 
@@ -513,3 +517,7 @@
 - **duxx**  
   https://github.com/enriquecaballero/duxx  
   Create simple fetch-and-set reducer duck bundles without the boilerplating 
+  
+- **redux-ducklings**  
+  https://github.com/sammysaglam/redux-ducklings  
+  Provides a helper function (createReduxDuckling) to spawn Redux Ducks as unique child instances called Ducklings.

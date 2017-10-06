@@ -163,6 +163,14 @@
   https://github.com/volodymyrl/collectionReducer  
   A small action/reducer creator for CRUD ops by ID
   
+- **standard-redux-shape**  
+  https://github.com/ecomfe/standard-redux-shape  
+  A tiny utility library to help you manage an optimized redux store shape.
+  
+- **erschema-redux-immutable**  
+  https://github.com/l2silver/erschema-redux-immutable  
+  Provides standardized actions, reducers, and state shape for storing Entities and Relationships using Immutable.js
+  
 
 #### Client/Server Collections
 
@@ -313,3 +321,7 @@
 - **redux-data-entity**  
   https://github.com/iamawebgeek/redux-data-entity  
   Helps manage Redux data easier.  No action/reducer/constant declaration; caches request and prevents repetitive requests; provides optimistic creates, updates, and deletes; and has zero-config integration with no store modification.
+  
+- **redux-thunk-crud**  
+  https://github.com/gogoair/redux-thunk-crud  
+  A library that seeks to eliminate the boilerplate of writing highly repetitive reducers and action creators for simple RESTful API CRUD actions, using redux-thunk to handle asynchronous API calls.
