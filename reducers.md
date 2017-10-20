@@ -111,10 +111,6 @@
   https://github.com/pcarden/fine-combine  
   Combines reducer collections, even when they have duplicate keys.
   
-- **redux-merge-reducers**  
-  https://github.com/kuy/redux-merge-reducers  
-  A decorator to make your Redux's reducers mergeable.
-  
 - **stack-feature-store-redux**  
   https://github.com/gp-technical/stack-feature-store-redux  
   An alternative redux combineReducers function for use with feature package oriented applications
@@ -547,35 +543,15 @@
 - **reducify**  
   https://github.com/gtg092x/reducify  
   Generate redux reducers with less effort 
-
-- **redux-react-dynamic-store**  
-  https://github.com/kravchenkodev/redux-react-dynamic-store  
-  Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
-  
-- **sliced-redux**  
-  https://github.com/carnesen/sliced-redux  
-  A store enhancer that adds an `addSlice` method, allowing addition of slice reducers at runtime.
   
 - **redux-property-graph**  
   https://github.com/telepathtech/redux-property-graph  
   Basic property graph for redux
   
-- **redux-injector**  
-  https://github.com/randallknutson/redux-injector  
-  Allows dynamically injecting reducers into a redux store at runtime
-  
 - **redux-reducer-factory**  
   https://github.com/mclauia/redux-reducer-factory  
   https://github.com/mclauia/redux-reducer-meld  
   A configurable createReducer factory for adding common reducer enhancers. 
-  
-- **redux-injectable-reducer**  
-  https://github.com/jomaxx/redux-injectable-reducer  
-  Redux store reducer capable of lazily injecting parts of the state tree. Useful for large single page applications that utilize bundle splitting.
-  
-- **Paradux**  
-  https://github.com/asteridux/paradux  
-  A small library to enable dynamic registering of reducers.
   
 - **redux-store-validator**  
   https://github.com/alixander/redux-store-validator  
@@ -588,11 +564,6 @@
 - **redux-tween**  
   https://github.com/devgru/redux-tween  
   Redux Tween provides a way to tween state in Redux store smoothly, interpolating states in between.
-  
-  
-- **redux-rack**  
-  https://github.com/evanrs/redux-rack  
-  Treat Redux like a rack  mount reducers like components 
   
 - **reducer-generator**  
   https://github.com/Dash-OS/reducer-generator-array-map  
@@ -608,13 +579,40 @@
   https://github.com/twop/nested-reducer  
   Helper library to deal with deeply nested state in redux 
   
-- **redux-inject-reducer**  
-  https://github.com/umidbekkarimov/redux-inject-reducer  
-  Manage dynamic reducer injection and ejection in your redux app 
-  
 - **rewpa**  
   https://github.com/yi-bai/rewpa  
   Redux REducers With json PAth 
+  
+
+#### Dynamic Reducer Injection
+
+- **redux-react-dynamic-store**  
+  https://github.com/kravchenkodev/redux-react-dynamic-store  
+  Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
+  
+- **sliced-redux**  
+  https://github.com/carnesen/sliced-redux  
+  A store enhancer that adds an `addSlice` method, allowing addition of slice reducers at runtime.
+  
+- **redux-injector**  
+  https://github.com/randallknutson/redux-injector  
+  Allows dynamically injecting reducers into a redux store at runtime
+  
+- **redux-injectable-reducer**  
+  https://github.com/jomaxx/redux-injectable-reducer  
+  Redux store reducer capable of lazily injecting parts of the state tree. Useful for large single page applications that utilize bundle splitting.
+  
+- **Paradux**  
+  https://github.com/asteridux/paradux  
+  A small library to enable dynamic registering of reducers.
+  
+- **redux-rack**  
+  https://github.com/evanrs/redux-rack  
+  Treat Redux like a rack  mount reducers like components 
+  
+- **redux-inject-reducer**  
+  https://github.com/umidbekkarimov/redux-inject-reducer  
+  Manage dynamic reducer injection and ejection in your redux app 
   
 - **redux-inject-reducer-and-saga**  
   https://github.com/marcelmokos/redux-inject-reducer-and-saga  
@@ -636,6 +634,15 @@
 - **redux-dynamic-reducer**  
   https://github.com/ioof-holdings/redux-dynamic-reducer  
   Allows you to attach new reducer functions after the store is initialised. This is helpful if you want to use a single global store across a lazily loaded application where not all reducers are available at store creation. It also provides a convenience functionality that pairs with redux-subspace and allows combining a React component with a reducer that automatically attaches to the store when the component is mounted.
+  
+- **redux-contexts**  
+  https://github.com/Vinnovera/redux-contexts  
+  A utility for adding redux reducers with separated states during runtime. The library is forked from redux-injector and built upon multireducer.
+  
+- **reedux**  
+  https://github.com/Silviu-Marian/reedux  
+  Another implementation of dynamic reducer loading. Arguably the simplest solution, supports HMR, and only 70 lines of code.
+  
   
 #### State Machines
 

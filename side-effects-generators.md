@@ -187,3 +187,7 @@
 - **redux-saga-queue**  
   https://github.com/gleb-smagliy/redux-saga-queue  
   High level effect to handle actions sequentially 
+  
+- **redux-saga-catch**  
+  https://github.com/cyrilluce/redux-saga-catch  
+  Helpers for redux-saga that auto-wrap sagas with try-catch to prevent a thrown error from stopping all sagas.

@@ -72,6 +72,10 @@
   https://github.com/reviz/redux-force  
   Force-directed graph layout implemented for Redux.  Provides specialized actions and reducers that apply forces to a simulation (no graphical representation included).
   
+- **redux-filterx**  
+  https://github.com/Abdallatif/redux-filters  
+  Fast Redux filters using bit operations and reselect memoization
+  
   
 #### Feature Flags
   
@@ -339,6 +343,10 @@
 - **react-native-redux-connectivity**  
   https://github.com/calvium/react-native-redux-connectivity  
   Monitor network connectivity and store the result in Redux 
+  
+- **redux-enhancer-react-native-network**  
+  https://github.com/bamlab/redux-enhancer-react-native-network  
+  A store enhancer that connects Redux to network changes
   
   
 #### Undo-Redo

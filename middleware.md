@@ -444,3 +444,7 @@
 - **redux-elm-plugin**  
   https://github.com/ulisses-alves/redux-elm-plugin  
   Utility package for wrapping Elm application ports into Redux actions and reducers.
+  
+- **redux-middleware-workers**  
+  https://github.com/Natasha08/redux-middleware-workers  
+  A middleware to forward actions to webworkers.

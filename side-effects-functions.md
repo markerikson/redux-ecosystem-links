@@ -73,6 +73,8 @@
   A redux thunk alternative with error handling support.
   
 
+  
+
 #### Redux-Effects extensions
   
 - **bind-effect**  

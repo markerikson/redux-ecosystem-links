@@ -38,6 +38,10 @@
 - **redux-reducer-side-effects**  
   https://github.com/danrigsby/redux-reducer-side-effects  
   Easy to follow side effect library for redux reducers.  Primary goal of this library is to introduce safe side effects in a powerful way, but be simple to read, understand, and implement.
+  
+- **redux-data-fx**  
+  https://github.com/matthieu-beteille/redux-data-fx  
+  Declarative Side Effects for Redux.  Similar to redux-loop, mostly inspired by the elm architecture, with an implementation based on re-frame in cljs and its effectful handlers.
 
 
 

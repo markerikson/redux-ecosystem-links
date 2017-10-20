@@ -165,6 +165,10 @@
   https://github.com/hindmost/redux-form-helper  
   ES6 class that helps build controlled form components with React/Redux and simplifies form validation and handling.  It has no dependencies and supposed to be used as a member of React component.
   
+- **redux-reselect-validation**  
+  https://github.com/ffossum/redux-reselect-validation  
+  Actions, selectors, and reducers for helping manage form input validation.
+  
   
 #### Redux-Form Addons
 

@@ -733,6 +733,34 @@
   https://github.com/baron816/react-redux-props-helper  
   Simple module for mapping state and dispatch to React props by name
   
+- **redux-jive**  
+  https://github.com/robbymurphy/redux-jive  
+  Class-based action creators and reducers to help with Redux wiring
+  
+- **redux-jedi**  
+  https://github.com/loehx/redux-jedi  
+  Brings structure to a Redux application.  Actions, reducers and middleware in one file, action consts defined only once, clear structure, payload validation.
+  
+- **redux-extra**  
+  https://github.com/emr550m/redux-extra  
+  A Redux wrapper that provides state path subscriptions, a reducer registry, and more.
+  
+- **resolve**  
+  https://github.com/reimagined/resolve  
+  reSolve is a framework for developing apps based on CQRS and Event Sourcing, with React + Redux on the client. It can help you easily overcome the differences between your domain and technical languages, and focus on your application code.
+  
+- **redux-connect-standalone**  
+  https://github.com/viniciusdacal/redux-connect-standalone  
+  Higher Order Component to allow you to use Redux without the need of a single root provider 
+  
+- **treact-tredux**  
+  https://github.com/ykforerlang/treact-tredux  
+  A tiny React-Redux
+
+- **zelektree**  
+  https://github.com/maxhallinan/zelektree  
+  Embed selectors in a Redux state tree.  This is a convenient way for components to share selectors that are used widely throughout an app.
+  
   
 #### Redux-Inspired Libraries
 
@@ -755,3 +783,7 @@
 - **Repatch**  
   https://github.com/jaystack/repatch  
   Repatch is just a simplified Redux, that let you create actions more briefly by dispatching reducers directly.
+  
+- **redux-zero**  
+  https://github.com/concretesolutions/redux-zero  
+  Redux without reducers

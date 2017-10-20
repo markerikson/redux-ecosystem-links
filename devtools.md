@@ -35,6 +35,10 @@
   https://github.com/zalmoxisus/redux-devtools-instrument  
   Redux enhancer used along with Redux DevTools or Remote Redux DevTools.
   
+- **React-Sight**  
+  https://github.com/React-Sight/React-Sight  
+  Visualization tool for React component trees, with support for Fiber, React-Router v4, and Redux
+  
   
 #### DevTools Monitors
 
@@ -228,6 +232,14 @@
 - **reselect-devtools**  
   https://github.com/ajwhite/reselect-devtools  
   A set of devtools to help debug reselect selectors by logging changes.
+  
+- **redux-action-replay**  
+  https://github.com/recruit-tech/redux-action-replay  
+  Replay your redux actions in your application through Puppeteer.  Useful for renderer metrics and screenshots.
+  
+- **redux-logdown**  
+  https://github.com/caiogondim/redux-logdown.js  
+  redux-logdown is a tiny logger library for Redux written with logdown that supports localStorage.debug for enabling/disabling store logging.
   
   
 #### Mutation Detection

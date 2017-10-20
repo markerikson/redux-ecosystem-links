@@ -438,6 +438,10 @@
 - **redux-simple-api**  
   https://github.com/kazagkazag/redux-simple-api  
   Redux Simple Api (RSA) is a library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
+  
+- **redux-httprequest**  
+  https://github.com/henit/redux-httprequest  
+  Redux actions & reducer for making http requests
 
   
 #### Other Code Structures

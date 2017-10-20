@@ -171,6 +171,10 @@
   https://github.com/l2silver/erschema-redux-immutable  
   Provides standardized actions, reducers, and state shape for storing Entities and Relationships using Immutable.js
   
+- **redux-entities-reducer**  
+  https://github.com/jgkinnear/redux-entities-reducer  
+  A pre-built entities reducer that handles merging and update actions.
+  
 
 #### Client/Server Collections
 

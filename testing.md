@@ -159,6 +159,14 @@
   https://github.com/holidaycheck/redux-pre-thunk  
   Wrap redux-thunk for greater testability with middleware and actions
   
+- **redux-mock-store-await-actions**  
+  https://github.com/moxystudio/redux-mock-store-await-actions  
+  An addition to redux-mock-store that waits for specific actions to be dispatched or a timeout expires.
+  
+- **mock-promise-thunk**  
+  https://github.com/kunal-mandalia/mock-promise-thunk  
+  Test your Redux thunk promises
+  
   
 #### Sagas and Side Effects
 

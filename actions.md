@@ -240,6 +240,10 @@
   https://github.com/goldenlynx/redux-actionz  
   Similar to redux-actions, but with improvements and a new API.
   
+- **redux-act-dispatch-free**  
+  https://github.com/artalar/redux-act-dispatch-free  
+  Extends redux-act so that you can call async actions without dispatch.
+  
   
 #### Other Action Use Cases  
   

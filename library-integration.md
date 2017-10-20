@@ -31,6 +31,10 @@
 - **ember-redux-orm**  
   https://github.com/foxnewsnetwork/ember-redux-orm  
   ember-cli shim and blueprints for using redux-orm in your ember app 
+  
+- **glimmer-redux**  
+  https://github.com/glimmer-redux/glimmer-redux  
+  Predictable state management for glimmer apps 
 
 #### Backbone
 
@@ -149,3 +153,11 @@
 - **isymtope**  
   https://github.com/tmzt/isymtope  
   Experimental hybrid redux+IncrementalDOM client and server-side rendering in Rust.
+  
+- **choo-redux**  
+  https://github.com/soyuka/choo-redux  
+  Redux bridge for choojs.
+  
+- **aurelia-redux-plugin**  
+  https://github.com/steelsojka/aurelia-redux-plugin  
+  A Redux plugin for the Aurelia framework 

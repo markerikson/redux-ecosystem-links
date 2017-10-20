@@ -70,6 +70,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/FortechRomania/react-redux-complete-example  
   An example project based on the "re-ducks" folder structure proposal
   
+- **react-redux-yelp-clone**  
+  https://github.com/mohamed-ismat/react-redux-yelp-clone  
+  An adaptation of the "Yelp Clone" app by FullStackReact.  It extends the original by using Redux and Redux Saga instead of local state, as well as React Router v4, styled-components, and other modern standards.  Based on the React-Boilerplate starter kit.
+  
 
 #### Applications
 - **MapStore2**  
@@ -247,6 +251,18 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://jordaneldredge.com/projects/winamp2-js/  
   https://github.com/captbaritone/winamp2-js  
   An in-browser recreation of Winamp2, built with React and Redux. Actually plays MP3s, and lets you load in local MP3 files.
+  
+- **pandemic**  
+  https://github.com/alexzherdev/pandemic  
+  A Redux-based implementation of the board game Pandemic.
+  
+- **Lepton**  
+  https://github.com/hackjutsu/Lepton  
+  A lean Electron-based snippet manager for Github gists.
+  
+- **Tello**  
+  https://github.com/joshwcomeau/Tello  
+  A simple and delightful way to track and manage TV shows
   
   
 #### Other Application Lists

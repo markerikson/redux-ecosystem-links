@@ -245,6 +245,14 @@
   https://github.com/troch/react-local-reducer  
   A tiny library to use redux-style reducers locally in your React components. No external dependency, it can be used with or without a redux store.
   
+- **conventional-component**  
+  https://github.com/sebinsua/conventional-component  
+  A proposal to build components out of reducers and actions and a library to help do so. The intention is to make it easy to write standardised components which (1) can be quickly installed into an app, and (2) can have their state hoisted into Redux if the rest of the app needs to consume it.
+  
+- **redux-facet**  
+  https://github.com/Bandwidth/redux-facet  
+  Scale redux applications more easily. Reuse behaviors, channel actions, and associate activity with component origins. 
+  
   
 #### Simplified / Key-Value State
 
