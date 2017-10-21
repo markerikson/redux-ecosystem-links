@@ -329,3 +329,7 @@
 - **redux-thunk-crud**  
   https://github.com/gogoair/redux-thunk-crud  
   A library that seeks to eliminate the boilerplate of writing highly repetitive reducers and action creators for simple RESTful API CRUD actions, using redux-thunk to handle asynchronous API calls.
+  
+- **Redux-crud-sync**  
+  https://github.com/GuillaumeJasmin/redux-crud-sync  
+  Keep your redux store synced with your server 
