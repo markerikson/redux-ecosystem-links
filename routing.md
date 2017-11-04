@@ -227,3 +227,7 @@
 - **redux-saga-first-router**  
   https://github.com/ChaosGroup/redux-saga-first-router  
   "Saga First" Router for React/Redux/Saga Projects, inspired by the best parts of redux-saga-router and redux-first-router. 
+  
+- **bind-redux-router**  
+  https://github.com/loispostula/bind-redux-react-router  
+  Tiny lib to bind redux and react-router.  The goal of this lib is to make the interaction between redux and react router as simple as possible.

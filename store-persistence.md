@@ -177,6 +177,10 @@
   https://github.com/ssilve1989/redux-session-manager  
   Redux Store Enhancer that serializes state to sessionStorage 
   
+- **redux-dev-state-persist**  
+  https://github.com/abradley2/redux-dev-state-persist  
+  Redux Dev State Persist (RDSP) provides hot-reloading without having to use any sort of Browserify or Webpack plugin- and no mucking about with specific hot-reloading integrations API. Just persist your state!
+  
   
 #### Redux-Persist Addons
 
@@ -259,6 +263,10 @@
 - **redux-persist-model**  
   https://github.com/henrytao-me/redux-persist-model  
   Utils for persisting model-related data
+  
+- **redux-persist-electron-storage**  
+  https://github.com/psperber/redux-persist-electron-storage  
+  Redux persist adaptor for electron-store 
   
 
 #### Redux-Storage Addons

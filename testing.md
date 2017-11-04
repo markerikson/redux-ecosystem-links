@@ -103,6 +103,10 @@
   https://github.com/lmatteis/redux-tdd  
   Dot-chaining syntax for doing TDD with redux by composing unit tests as if they were integration tests 
   
+- **redux-mock-store-middleware**  
+  https://github.com/rstudio/redux-mock-store-middleware  
+  Middleware that allows you to use a fully-working store in tests
+  
   
 #### Reducers
 

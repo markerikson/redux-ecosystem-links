@@ -103,6 +103,10 @@
   https://github.com/brycedarling/redux-autobahn-js  
   Autobahn-js middleware for Redux 
   
+- **redux-autobahn**  
+  https://github.com/saadtazi/redux-autobahn  
+  A redux middleware for WAMP protocol using autobahn.
+  
 
 #### Firebase
 

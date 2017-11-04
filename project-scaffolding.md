@@ -79,3 +79,7 @@
 - **rrmw**  
   https://github.com/sedoyjan/rrmw  
   A CLI tool to help generate React-Redux modules from templates
+  
+- **reax-helpers**  
+  https://github.com/damianobarbati/reax-helpers  
+  Helper functions to set up a ready-to-use React+Redux app.  Creates a Redux store with support for thunks, promises, logging, and the Redux DevTools extension, plus store persistence.

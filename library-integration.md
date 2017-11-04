@@ -103,6 +103,18 @@
   https://github.com/davej/js-redux  
   Redux bindings for vanilla javascript functions and classes 
   
+- **newton-redux**  
+  https://github.com/cleegle/newton-redux  
+  Inspired by react-redux, Newton Redux allows you to connect plain JavaScript classes to a redux store. It will feel similar to writing a React component but without rendering a UI.
+  
+- **redux-clazz**  
+  https://github.com/TriPSs/redux-clazz  
+  Redux Clazz lets you connect any normal class to redux
+  
+- **bindreduxstoretodom**  
+  https://github.com/soleiluwedu/bindreduxstoretodom  
+  A tiny utility to stringify a Redux store's contents and write it to a div
+  
 
 #### Other
 
@@ -137,15 +149,7 @@
 - **redux-view-binder**  
   https://github.com/mycomosi/redux-view-binder  
   Bind your web-component views easily with Redux (no React, no Polymer) 
-  
-- **newton-redux**  
-  https://github.com/cleegle/newton-redux  
-  Inspired by react-redux, Newton Redux allows you to connect plain JavaScript classes to a redux store. It will feel similar to writing a React component but without rendering a UI.
-  
-- **redux-clazz**  
-  https://github.com/TriPSs/redux-clazz  
-  Redux Clazz lets you connect any normal class to redux
-  
+
 - **drishti**  
   https://github.com/aarongodin/drishti  
   Drishti is a focused, minimal view for Redux meant for teeny tiny front-end applications.

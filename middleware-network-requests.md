@@ -79,10 +79,6 @@
   https://github.com/defact/rictus  
   Redux middleware for promise-based resource requests
   
-- **redux-autobahn**  
-  https://github.com/saadtazi/redux-autobahn  
-  A redux middleware for WAMP protocol using autobahn.
-  
 - **redux-track-async**  
   https://github.com/lronhoj/redux-track-async  
   A lib for tracking pending async requests. Exposes middleware & a reducer
@@ -206,3 +202,7 @@
 - **multi-routing-api**  
   https://github.com/aliaksandr-master/multi-routing-api  
   A R edux api middleware to separate your api routes, api actions, and interceptors. Provides state normalization and a DB reducer.
+  
+- **redux-shapeshifter-middleware**  
+  https://github.com/dawaa/redux-shapeshifter-middleware  
+  Redux middleware for empowering your actions using axios and qs libraries combined 

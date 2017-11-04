@@ -347,6 +347,10 @@
   https://github.com/MattHsiung/redux-creators  
   An opinionated set of helpers for defining reducers via lookup tables
   
+- **redux-describe**  
+  https://github.com/jspengeman/redux-describe  
+  A boilerplate free way to build self documenting reducers with a simple API, using the builder pattern
+  
   
 #### Higher-Order Reducers
 
@@ -642,6 +646,10 @@
 - **reedux**  
   https://github.com/Silviu-Marian/reedux  
   Another implementation of dynamic reducer loading. Arguably the simplest solution, supports HMR, and only 70 lines of code.
+  
+- **inducer**  
+  https://github.com/tanhauhau/inducer  
+  Injects Redux reducers using a React Higher-Order Component
   
   
 #### State Machines

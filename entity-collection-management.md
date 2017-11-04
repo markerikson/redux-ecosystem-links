@@ -175,6 +175,10 @@
   https://github.com/jgkinnear/redux-entities-reducer  
   A pre-built entities reducer that handles merging and update actions.
   
+- **redux-struct**  
+  https://github.com/Qlean/redux-struct  
+  Set of tools providing a solid structure to keep and update domain entities in Redux store, including fetch status
+  
 
 #### Client/Server Collections
 

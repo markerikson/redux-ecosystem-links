@@ -296,6 +296,10 @@
   https://github.com/argshook/redux-msg  
   Utility functions to help DRY up your Redux code.  Create reducers, selectors, state, and more.
   
+- **redux-act-array-async**  
+  https://github.com/jiang-12196/redux-act-array-async  
+  Create async multi actions and reducers based on redux-act
+  
 
 #### Network Requests and APIs
 
@@ -525,3 +529,7 @@
 - **redux-ducklings**  
   https://github.com/sammysaglam/redux-ducklings  
   Provides a helper function (createReduxDuckling) to spawn Redux Ducks as unique child instances called Ducklings.
+  
+- **super-duck**  
+  https://github.com/artzhookov/super-duck  
+  Yet another library for generating Redux ducks

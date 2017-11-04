@@ -76,6 +76,10 @@
   https://github.com/Abdallatif/redux-filters  
   Fast Redux filters using bit operations and reselect memoization
   
+- **redux-waiter**  
+  https://github.com/hixme/redux-waiter  
+  A HOC, actions, and reducer for responding to the lifecycle of a promise
+  
   
 #### Feature Flags
   
@@ -98,6 +102,10 @@
 - **react-redux-restriction**  
   https://github.com/AaronBurmeister/react-redux-restriction  
   react-redux-restriction provides React components which allow redux dependent conditional rendering.
+  
+- **flopflip**  
+  https://github.com/tdeekens/flopflip  
+  Flip or flop a feature in with real-time updates through a Redux store by directly using React's context.
   
   
 ### Page Interaction
@@ -280,6 +288,10 @@
 - **redux-datastore**  
   https://github.com/roastedfrost/redux-datastore  
   Simple library to deal with common operations - pagination, sorting, filtering. 
+  
+- **redux-filtered-pagination**  
+  https://github.com/tiendv89/redux-filtered-pagination  
+  Simple module based on redux/redux-saga which supports call to paginated api, and filter feature 
   
   
 #### Network

@@ -761,6 +761,22 @@
   https://github.com/maxhallinan/zelektree  
   Embed selectors in a Redux state tree.  This is a convenient way for components to share selectors that are used widely throughout an app.
   
+- **redux-reactors**  
+  https://github.com/ganemone/redux-reactors  
+  A small library (~20 loc) for creating action/reducer combinations, also known as reactors, which are reducers inside of actions.
+  
+- **rematch**  
+  https://github.com/rematch/rematch  
+  Rematch makes Redux both easier to work with and more scalable. Helpful for both small and large applications. View agnostic - works with React, Vue, etc.
+  
+- **reslice**  
+  https://github.com/mike-es6/reslice  
+  Reslice is a library that wraps a more object-oriented interface around Redux, without removing the underlying state-as-Javascript-object approach.  The motivation for Reslice is a large system where, except at the lowest level, the unit of reusability is a combination of React component + action creators/reducers + selectors, and where we want to be able to place the data associated with such a component at any point in the Redux state tree in each SPA.
+  
+- **no-redux**  
+  https://github.com/ln613/no-redux  
+  A react/redux library which automates all redux flows.
+  
   
 #### Redux-Inspired Libraries
 
@@ -787,3 +803,15 @@
 - **redux-zero**  
   https://github.com/concretesolutions/redux-zero  
   Redux without reducers
+  
+- **babydux**  
+  https://github.com/bcherny/babydux  
+  A paper-thin, 100% typesafe Redux for babies 
+  
+- **stent**  
+  https://github.com/krasimir/stent  
+  Stent is combining the ideas of redux with the concept of state machines 
+
+- **svelte-state**  
+  https://github.com/Conduitry/svelte-state  
+  A very small, simple library for managing state in a Svelte app. Steals the most useful bits from redux and react-redux and presents them as a single library with no dependencies.

@@ -253,6 +253,14 @@
   https://github.com/Bandwidth/redux-facet  
   Scale redux applications more easily. Reuse behaviors, channel actions, and associate activity with component origins. 
   
+- **redux-call**  
+  https://github.com/Kontsedal/redux-call  
+  A simple util to add the ability to execute React component methods via Redux. It can be useful when you need to be able to conrtol components from any part of your app.
+  
+- **redux-pagestate**  
+  https://github.com/etalisoft/redux-pagestate  
+  redux-pagestate works with React Redux to enable a 'page' component in React to use Redux to store all of its state.
+  
   
 #### Simplified / Key-Value State
 
@@ -283,6 +291,10 @@
 - **redux-lenses**  
   https://github.com/kofile/redux-lenses  
   A set of utility functions for dealing with redux state via Ramda lenses 
+  
+- **Redux-Reduced-Actions**  
+  https://github.com/PlumTreeSystems/Redux-Reduced-Actions  
+  Reduced actions are enhanced redux actions which carry information on how to change store's state. Instead of writing custom reducers for each action, reduced actions can return reduced state themselves. This is achieved by passing state object's new property value and location of that property using special path notation. 
   
   
 #### Modularity and Encapsulation
@@ -344,3 +356,7 @@
 - **react-redux-namespacer**  
   https://github.com/SphereSoftware/react-redux-namespacer  
   Utilities for defining namespaced action dispatching and reducers
+  
+- **redux-register-module**  
+  https://github.com/birdy-/redux-register-module  
+  This package allows you to register reducer and saga handler from your module. With this, your module stay a standalone package.

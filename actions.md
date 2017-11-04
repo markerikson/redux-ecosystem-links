@@ -244,6 +244,14 @@
   https://github.com/artalar/redux-act-dispatch-free  
   Extends redux-act so that you can call async actions without dispatch.
   
+- **action-creator-mirror**  
+  https://github.com/TreekiCloud/action-creator-mirror  
+  A more effective way to organise Redux action creator codes, inspired by keymirror
+  
+- **redan**  
+  https://github.com/danbahrami/redan  
+  Small utilities to simplify creating action creators for basic actions, errors, and thunks that dispatch start/success/failure actions.
+  
   
 #### Other Action Use Cases  
   

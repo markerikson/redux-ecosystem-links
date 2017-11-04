@@ -14,7 +14,10 @@
 - **immutable-record**  
   https://github.com/b-gran/immutable-record  
   Typed immutable Records inspired by ImmutableJS, with automatic validation
-
+  
+- **Immutable Data Structures**  
+  https://github.com/nathanfaucett/js-immutable-playground  
+  Immutable persistent data structures based on Clojure.  Separate libraries for Vectors, Lists, HashMaps, Sets, and Records.
 
 #### Immutable Data Structures (Object Freezing)
   
@@ -185,9 +188,18 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/jharris4/with-mutations  
    Provides a getWithMutations(oldValue, newValue) function that returns the oldValue when the values are equal, or returns the newValue when the values are different.  It operates recursively on objects or arrays, preserving nested value equality whenever possible.
    
- - **redux-create-state**  
-   https://github.com/niklasramo/redux-create-state  
-   A utility function for Redux to ease the process of creating a new state object, immutably.  Works by first creating a shallow clone of the current state (object or array) and then cloning all the nested arrays and objects between the root object/array and the inserted values. 
+- **redux-create-state**  
+  https://github.com/niklasramo/redux-create-state  
+  A utility function for Redux to ease the process of creating a new state object, immutably.  Works by first creating a shallow clone of the current state (object or array) and then cloning all the nested arrays and objects between the root object/array and the inserted values. 
+   
+- **collection-deep-merge**  
+  https://github.com/a-x-/collection-deep-merge  
+  Deep merge array of objects by passed key. Objects with same key vals will merge together
+   
+-  **blazing-edge/update**  
+  https://github.com/blazing-edge-labs/update  
+  https://blog.blazingedge.io/immutable-update/  
+  An immutable update utility with handling for patching items, updating all items in an array, or removing some of them. 
   
 
 #### Immutable/Redux Interop

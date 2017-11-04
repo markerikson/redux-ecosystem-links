@@ -74,6 +74,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/mohamed-ismat/react-redux-yelp-clone  
   An adaptation of the "Yelp Clone" app by FullStackReact.  It extends the original by using Redux and Redux Saga instead of local state, as well as React Router v4, styled-components, and other modern standards.  Based on the React-Boilerplate starter kit.
   
+- **hacker-news-resolve**  
+  https://github.com/reimagined/hacker-news-resolve  
+  A Hacker News clone, built using the Resolve library that abstracts over React and Redux
+  
 
 #### Applications
 - **MapStore2**  

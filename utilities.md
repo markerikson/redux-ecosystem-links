@@ -71,6 +71,10 @@
   https://github.com/willsoto/json-api-denormalizr  
   Denormalize JSON API responses for Redux applications 
   
+- **normal-it**  
+  https://github.com/jdrouet/normal-it  
+  Normalizes and denormalizes JSON according to relational schema, inspired by Normalizr
+  
   
 #### Selectors
 
@@ -125,6 +129,14 @@
 - **bo-selecta**  
   https://github.com/hnrysmth/bo-selecta  
   Syntactic sugar for redux selectors: `select('users').from(state).byId(userId)`
+  
+- **red-ux**  
+  https://github.com/codemeasandwich/red-ux  
+  Provides a genSelectState utility to improve selector caching behavior, and a shouldUpdate function for simple `shouldComponentUpdate` implementation
+  
+- **combine-section-selectors**  
+  https://github.com/iofjuupasli/combine-section-selectors  
+  Combine selectors from state to one set of selectors. Useful with redux and combineReducer or combine-section-reducer 
   
   
 #### Functional Programming
