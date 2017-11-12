@@ -165,3 +165,15 @@
 - **aurelia-redux-plugin**  
   https://github.com/steelsojka/aurelia-redux-plugin  
   A Redux plugin for the Aurelia framework 
+  
+- **lit-redux**  
+  https://github.com/jmas/lit-redux  
+  An implementation of the React-Redux API for the lit-html library
+  
+- **d3-redux**  
+  https://github.com/couchand/d3-redux  
+  Idiomatic D3.js bindings for Redux.
+  
+- **marko-redux**  
+  https://github.com/charlieduong94/marko-redux  
+  Simple redux bindings for marko, inspired by react-redux

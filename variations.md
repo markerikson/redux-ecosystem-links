@@ -777,6 +777,13 @@
   https://github.com/ln613/no-redux  
   A react/redux library which automates all redux flows.
   
+- **resa**  
+  https://github.com/wangtao0101/resa  
+  A simple framework based on redux, redux-saga, redux-action. 
+  
+- **mccree**  
+  https://github.com/xughv/mccree  
+  Based on the redux, redux-saga, and react-redux packages, McCree provides an easy way to organize state, reducer and effect as Model .
   
 #### Redux-Inspired Libraries
 
@@ -815,3 +822,11 @@
 - **svelte-state**  
   https://github.com/Conduitry/svelte-state  
   A very small, simple library for managing state in a Svelte app. Steals the most useful bits from redux and react-redux and presents them as a single library with no dependencies.
+  
+- **reduxion**  
+  https://github.com/msindwan/reduxion  
+  Another take on redux that combines elements of flux for clarity and convenience including a global dispatcher for actions. It also makes use of ES6 features including inheritence and class notation for reducers.
+  
+- **relite**  
+  https://github.com/Lucifier129/relite  
+  a redux-like library for managing state with simpler api (1kb)

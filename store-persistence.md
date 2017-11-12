@@ -181,6 +181,14 @@
   https://github.com/abradley2/redux-dev-state-persist  
   Redux Dev State Persist (RDSP) provides hot-reloading without having to use any sort of Browserify or Webpack plugin- and no mucking about with specific hot-reloading integrations API. Just persist your state!
   
+- **panmnesia**  
+  https://github.com/EternalDeiwos/panmnesia  
+  A command registry and redux-based aggregate store for a PouchDB-based event stream. 
+  
+- **redux-persistable**  
+  https://github.com/actra-development-oss/redux-persistable  
+  State persistance for redux stores supporting immutable.js, lazy reducers, versioned states, migrations and merged storage
+  
   
 #### Redux-Persist Addons
 

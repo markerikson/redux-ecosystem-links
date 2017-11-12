@@ -533,3 +533,7 @@
 - **super-duck**  
   https://github.com/artzhookov/super-duck  
   Yet another library for generating Redux ducks
+  
+- **redux-lumbergh**  
+  https://github.com/ImmoweltGroup/redux-lumbergh  
+  Embrace best practices for Redux encapsulation.  Provides utilities for generating action constant / action creators / reducers, and combining ducks into a root reducer and root saga.

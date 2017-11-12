@@ -107,6 +107,10 @@
   https://github.com/rstudio/redux-mock-store-middleware  
   Middleware that allows you to use a fully-working store in tests
   
+- **jest-react-redux**  
+  https://github.com/ImmoweltGroup/jest-react-redux  
+  Makes snapshot testing of react-redux (e.g. mapStateToProps or mapDispatchToProps) glue-code easy as pie. 
+  
   
 #### Reducers
 
@@ -170,6 +174,10 @@
 - **mock-promise-thunk**  
   https://github.com/kunal-mandalia/mock-promise-thunk  
   Test your Redux thunk promises
+  
+- **jest-mock-action-creators**  
+  https://github.com/asvetliakov/jest-mock-action-creators  
+  Simplify testing of redux dispatch() with action creators in React components 
   
   
 #### Sagas and Side Effects
@@ -265,3 +273,11 @@
 - **redux-observable-expect**  
   https://github.com/srounce/redux-observable-expect  
   Straightforward testing for redux-observable epics. 
+  
+- **redux-saga-integration-test**  
+  https://github.com/en-japan-air/redux-saga-integration-test  
+  Utilities to test sagas, reducers and selectors in integration
+  
+- **k-redux-saga-tester**  
+  https://github.com/alakarteio/k-redux-saga-tester  
+  Test your sagas (redux-saga) with ease, compatible with Jest snapshots!

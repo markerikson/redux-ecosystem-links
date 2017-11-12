@@ -351,6 +351,14 @@
   https://github.com/jspengeman/redux-describe  
   A boilerplate free way to build self documenting reducers with a simple API, using the builder pattern
   
+- **redux-create-fsa-reducer**  
+  https://github.com/jurca/redux-create-fsa-reducer  
+  Redux reducer factory that is designed for use with Flux Standard Actions (FSA)
+  
+- **composite-tree-reducer**  
+  https://github.com/wdjunaidi/composite-tree-reducer  
+  Simple composite tree reducer which allow custom root level reducer along with regular combinedReducers from redux. 
+
   
 #### Higher-Order Reducers
 
@@ -586,6 +594,10 @@
 - **rewpa**  
   https://github.com/yi-bai/rewpa  
   Redux REducers With json PAth 
+  
+- **redux-runtypes-schema**  
+  https://github.com/mobify/redux-runtypes-schema  
+  Provides a reducer that enables full Redux store validation against a known schema defined using the runtypes library.
   
 
 #### Dynamic Reducer Injection

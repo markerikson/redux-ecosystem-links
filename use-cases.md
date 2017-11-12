@@ -177,6 +177,10 @@
 - **react-responsive-redux**  
   https://github.com/modosc/react-responsive-redux  
   Redux integration for react-responsive 
+  
+- **redux-responsive-component**  
+  https://github.com/pcs2112/redux-responsive-component  
+  A higher-order component and reducer to provide props for responsive behavior.
 
   
 ### Internationalization
@@ -292,6 +296,10 @@
 - **redux-filtered-pagination**  
   https://github.com/tiendv89/redux-filtered-pagination  
   Simple module based on redux/redux-saga which supports call to paginated api, and filter feature 
+  
+- **redux-paging**  
+  https://github.com/vivid-planet/redux-paging  
+  A higher order component decorator for paging using Redux and React 
   
   
 #### Network

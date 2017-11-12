@@ -256,6 +256,14 @@
 - **react-redux-promising-modals**  
   https://github.com/tkvw/react-redux-promising-modals  
   Adds a Modal component and withModal HOC on top of the redux-promising-modals library.
+  
+- **redux-dialog**  
+  https://github.com/suciuvlad/redux-dialog  
+  A Higher Order Component using react-redux to keep dialog state in a Redux store 
+  
+- **redux-reactstrap-modal**  
+  https://github.com/anis-campos/redux-reactstrap-modal  
+  A Higher Order Component using react-redux to keep dialog state in a Redux store, inspired from suciuvlad/redux-dialog
 
 
 #### Grids and Tables

@@ -449,3 +449,11 @@
 - **redux-middleware-workers**  
   https://github.com/Natasha08/redux-middleware-workers  
   A middleware to forward actions to webworkers.
+  
+- **redux-reset-middleware**  
+  https://github.com/cadleo/redux-reset-middleware  
+  A redux plugin to reset the redux store
+
+- **redux-clipboard-copy**  
+  https://github.com/weslleyaraujo/redux-clipboard-copy  
+  Clipboard copy middleware for Redux using document.execCommand.

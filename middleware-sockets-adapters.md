@@ -107,6 +107,10 @@
   https://github.com/saadtazi/redux-autobahn  
   A redux middleware for WAMP protocol using autobahn.
   
+- **redux-socket-middleware**  
+  https://github.com/AlexChittock/redux-socket-middleware  
+  Passes redux actions to a web sockets server for server-side processing. 
+  
 
 #### Firebase
 

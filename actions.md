@@ -252,6 +252,10 @@
   https://github.com/danbahrami/redan  
   Small utilities to simplify creating action creators for basic actions, errors, and thunks that dispatch start/success/failure actions.
   
+- **redux-promise-dispatch**  
+  https://github.com/kjrocker/redux-promise-dispatch  
+  Utilities to create thunk action creators that dispatch based on promise lifecycle.
+  
   
 #### Other Action Use Cases  
   

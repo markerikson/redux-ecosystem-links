@@ -179,6 +179,14 @@
   https://github.com/Qlean/redux-struct  
   Set of tools providing a solid structure to keep and update domain entities in Redux store, including fetch status
   
+- **redux-entities**  
+  https://github.com/fakundo/redux-entities  
+  Actions, reducers, and selectors for managing a collection of entities.
+  
+- **redux-json-api-handlers**  
+  https://github.com/StartupCraft/redux-json-api-handlers  
+  Utilities and reducers for managing JSON-API relation responses.
+  
 
 #### Client/Server Collections
 
@@ -337,3 +345,7 @@
 - **Redux-crud-sync**  
   https://github.com/GuillaumeJasmin/redux-crud-sync  
   Keep your redux store synced with your server 
+  
+- **hyperdux**  
+  https://github.com/jondot/hyperdux  
+  A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.

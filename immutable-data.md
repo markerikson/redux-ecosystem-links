@@ -201,6 +201,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://blog.blazingedge.io/immutable-update/  
   An immutable update utility with handling for patching items, updating all items in an array, or removing some of them. 
   
+- **typescript-immutable-helper**  
+  https://github.com/maimArt/typescript-immutable-helper  
+  Helpers for handling immutable objects with typescript 
+  
 
 #### Immutable/Redux Interop
 

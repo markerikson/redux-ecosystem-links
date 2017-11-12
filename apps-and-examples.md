@@ -268,6 +268,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/joshwcomeau/Tello  
   A simple and delightful way to track and manage TV shows
   
+- **tycho2**  
+  https://github.com/jshor/tycho2  
+  A real-time, WebGL-based, 3D visualization of our Solar System.  Built with React, Redux, THREE.js, and the react-three-renderer.
+  
   
 #### Other Application Lists
   

@@ -296,6 +296,10 @@
   https://github.com/PlumTreeSystems/Redux-Reduced-Actions  
   Reduced actions are enhanced redux actions which carry information on how to change store's state. Instead of writing custom reducers for each action, reduced actions can return reduced state themselves. This is achieved by passing state object's new property value and location of that property using special path notation. 
   
+- **k-redux-factory**  
+  https://github.com/alakarteio/k-redux-factory  
+  Factory of Redux reducers and their associated actions and selectors for treating your Redux state as a key/value store.
+  
   
 #### Modularity and Encapsulation
 
@@ -360,3 +364,7 @@
 - **redux-register-module**  
   https://github.com/birdy-/redux-register-module  
   This package allows you to register reducer and saga handler from your module. With this, your module stay a standalone package.
+  
+- **redux-export**  
+  https://github.com/luiz-simples/redux-export  
+  A utility for bootstrapping Redux modules that export {reducer, middleware, initialState}.
