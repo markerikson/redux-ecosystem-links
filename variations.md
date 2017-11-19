@@ -785,6 +785,11 @@
   https://github.com/xughv/mccree  
   Based on the redux, redux-saga, and react-redux packages, McCree provides an easy way to organize state, reducer and effect as Model .
   
+- **react-redux-procedures**  
+  https://github.com/remhume/react-redux-procedures  
+  A wrapper for react-redux's connect to allow execution of multiple actions in a single procedure 
+  
+  
 #### Redux-Inspired Libraries
 
 - **statty**  

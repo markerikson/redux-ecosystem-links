@@ -261,6 +261,10 @@
   https://github.com/etalisoft/redux-pagestate  
   redux-pagestate works with React Redux to enable a 'page' component in React to use Redux to store all of its state.
   
+- **with-view-state**  
+  https://github.com/lawrsp/with-view-state  
+  A HOC to store view state in Redux
+  
   
 #### Simplified / Key-Value State
 
@@ -299,6 +303,10 @@
 - **k-redux-factory**  
   https://github.com/alakarteio/k-redux-factory  
   Factory of Redux reducers and their associated actions and selectors for treating your Redux state as a key/value store.
+  
+- **react-redux-values**  
+  https://github.com/ramitos/react-redux-values  
+  Get and Set values from a redux store in a declarative way
   
   
 #### Modularity and Encapsulation

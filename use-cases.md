@@ -301,6 +301,10 @@
   https://github.com/vivid-planet/redux-paging  
   A higher order component decorator for paging using Redux and React 
   
+- **redux-paginator-immutable**  
+  https://github.com/cristian-sima/redux-paginator-immutable  
+  Helps you deal with paginated API with Redux without the need to create new actions and reducers cases
+  
   
 #### Network
   
@@ -367,6 +371,10 @@
 - **redux-enhancer-react-native-network**  
   https://github.com/bamlab/redux-enhancer-react-native-network  
   A store enhancer that connects Redux to network changes
+  
+- **redux-reqseq**  
+  https://github.com/openlattice/redux-reqseq  
+  Generates action creators and reducers to help track the progress of outstanding requests.
   
   
 #### Undo-Redo
@@ -494,3 +502,11 @@
 - **redux-token-auth**  
   https://github.com/smoliji/redux-token-auth  
   Actions, reducer, and sagas for managing token auth behavior
+  
+- **authoc**  
+  https://github.com/Babazon/authoc  
+  Higher order component for React Redux Router authentication and redirection 
+  
+- **react-redux-permissions**  
+  https://github.com/shizpi/react-redux-permissions  
+  A simple library to handle your react application permissions using redux.

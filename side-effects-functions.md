@@ -72,7 +72,17 @@
   https://github.com/shoaibkalsekar/redux-thunk-catch  
   A redux thunk alternative with error handling support.
   
-
+- **redux-thunkx**  
+  https://github.com/Bhoos/redux-thunkx  
+  A redux thunk middleware with extendable arguments.  It works exactly like redux-thunk with an additional feature of extendable arguments.
+  
+- **redux-thunkx-timer**  
+  https://github.com/Bhoos/redux-thunkx-timer  
+  A controlled timer for running future actions
+  
+- **redux-thunk-timeout**  
+  https://github.com/Bhoos/redux-thunk-timeout  
+  A redux-thunk based timeout manager for redux actions
   
 
 #### Redux-Effects extensions

@@ -39,6 +39,19 @@
   https://github.com/React-Sight/React-Sight  
   Visualization tool for React component trees, with support for Fiber, React-Router v4, and Redux
   
+- **remotedev-react-state**  
+  https://github.com/jhen0409/remotedev-react-state  
+  Inspecting / time travelling state changes of a React component on the Redux DevTools Extension or React Native Debugger 
+  
+- **redux-viewer**  
+  https://github.com/AmitMY/redux-viewer  
+  A simple CLI tool to view the graph of events and actions based on parsing specific documentation comments.
+  
+- **reselect-tools**  
+  https://github.com/skortchmark9/reselect-tools  
+  https://github.com/skortchmark9/reselect-devtools-extension  
+  Debugging tools for Reselect.  Check selector dependencies, inputs, outputs, and recomputations at any time.  Output a JSON representation of your selector graph.  Tools include a library and a Chrome browser extension.
+  
   
 #### DevTools Monitors
 
@@ -305,6 +318,10 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **redux-duplicate-actions**  
   https://github.com/daviemakz/redux-duplicate-actions  
   A redux middleware that detects duplicate actions & shows this in the console
+  
+- **validstate**  
+  https://github.com/lifechurch/validstate  
+  Validstate is a javascript plugin for React+Redux applications to quickly validate state.
 
   
 
@@ -350,3 +367,7 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **fuego**  
   https://github.com/apiv/fuego  
   A component render time benchmarking suite for React 
+
+- **react-component-benchmark**  
+  https://github.com/paularmstrong/react-component-benchmark  
+  A component to help benchmark React components and their trees. This project aims to provide a method for gathering benchmarks of component tree mount, update, and unmount timings.

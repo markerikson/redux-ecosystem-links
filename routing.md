@@ -231,3 +231,7 @@
 - **bind-redux-router**  
   https://github.com/loispostula/bind-redux-react-router  
   Tiny lib to bind redux and react-router.  The goal of this lib is to make the interaction between redux and react router as simple as possible.
+  
+- **react-redux-router**  
+  https://github.com/micahblu/react-redux-router  
+  An incredibly simple and easy to use router for react redux apps.  All that is required is a routes config object to be set, then import the Router component and routerReducer and pass the store and routes to the Router component.

@@ -64,7 +64,7 @@
   Utilities for generating Mocha tests for Redux code
   
 - **redux-mock-provider**  
-  https://github.com/RyanCCollins/redux-mock-provider  
+  https://github.com/scalable-react/redux-mock-provider  
   A helper utility that makes available a mock redux store and Provider for the purposes of testing connected components.
   
 - **redux-spec**  

@@ -457,3 +457,7 @@
 - **redux-clipboard-copy**  
   https://github.com/weslleyaraujo/redux-clipboard-copy  
   Clipboard copy middleware for Redux using document.execCommand.
+  
+- **redux-back**  
+  https://github.com/shamas/redux-back  
+  A lightweight middleware for enabling Back and Forward browser controls for a Single/Multi-page Web Application 

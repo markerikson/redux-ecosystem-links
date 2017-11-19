@@ -256,6 +256,10 @@
   https://github.com/kjrocker/redux-promise-dispatch  
   Utilities to create thunk action creators that dispatch based on promise lifecycle.
   
+- **redux-ize**  
+  https://github.com/Meeshkan/redux-ize  
+  An implementation of the Redux Action Creator Creator pattern 
+  
   
 #### Other Action Use Cases  
   
