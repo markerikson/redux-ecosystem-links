@@ -80,6 +80,10 @@
   https://github.com/hixme/redux-waiter  
   A HOC, actions, and reducer for responding to the lifecycle of a promise
   
+- **redux-active**  
+  https://github.com/codepunkt/redux-active  
+  Redux middleware & reducer to easily manage your users active/idle state
+  
   
 #### Feature Flags
   
@@ -181,6 +185,10 @@
 - **redux-responsive-component**  
   https://github.com/pcs2112/redux-responsive-component  
   A higher-order component and reducer to provide props for responsive behavior.
+  
+- **redux-router-scroll-restoration**  
+  https://github.com/dimalolzet/redux-router-scroll-restoration  
+  Simple middleware for scroll restoration.
 
   
 ### Internationalization
@@ -375,6 +383,10 @@
 - **redux-reqseq**  
   https://github.com/openlattice/redux-reqseq  
   Generates action creators and reducers to help track the progress of outstanding requests.
+  
+- **redux-thunk-status**  
+  https://github.com/dieseljobs/redux-thunk-status  
+  Action creators, reducer, and a loading component to track request status.
   
   
 #### Undo-Redo

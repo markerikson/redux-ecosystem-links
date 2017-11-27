@@ -599,6 +599,10 @@
   https://github.com/mobify/redux-runtypes-schema  
   Provides a reducer that enables full Redux store validation against a known schema defined using the runtypes library.
   
+- **redux-regeneration**  
+  https://github.com/Phationmationion/redux-regeneration  
+  Utility to allow just returning the object structure representing a new state, rather than doing all the nested copying in your own code.
+  
 
 #### Dynamic Reducer Injection
 

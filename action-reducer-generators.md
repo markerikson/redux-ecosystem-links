@@ -531,7 +531,7 @@
   Provides a helper function (createReduxDuckling) to spawn Redux Ducks as unique child instances called Ducklings.
   
 - **super-duck**  
-  https://github.com/artzhookov/super-duck  
+  https://github.com/2do2go/super-duck  
   Yet another library for generating Redux ducks
   
 - **redux-lumbergh**  

@@ -272,6 +272,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/jshor/tycho2  
   A real-time, WebGL-based, 3D visualization of our Solar System.  Built with React, Redux, THREE.js, and the react-three-renderer.
   
+ - **DM Tools**  
+   https://github.com/fersot100/DM_Tools  
+   A cross-platform electron application that runs as a window locally on your machine and helps you the Dungeon Master, manage your role playing sessions by removing a lot of the encumberments that come with pen traditional pen and paper approaches.
+  
   
 #### Other Application Lists
   

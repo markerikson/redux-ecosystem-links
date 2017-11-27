@@ -199,3 +199,7 @@
 - **redux-form-validate-rules**  
   https://github.com/muitsfriday/redux-form-validate-rules  
   A rule set of redux-form validation with custom message. Works with redux-form validation v7.
+  
+- **redux-form-gen**  
+  https://github.com/isobar-us/redux-form-gen  
+  A pluggable form generator for redux-form 

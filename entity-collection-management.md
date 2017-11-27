@@ -187,6 +187,10 @@
   https://github.com/StartupCraft/redux-json-api-handlers  
   Utilities and reducers for managing JSON-API relation responses.
   
+- **redux-tide**  
+  https://github.com/edtoken/redux-tide  
+  Simple library to deal with Redux normalized state, including actions and selectors
+  
 
 #### Client/Server Collections
 
@@ -349,3 +353,7 @@
 - **hyperdux**  
   https://github.com/jondot/hyperdux  
   A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.
+  
+- **Reactive Record**  
+  https://github.com/rentalutions/reactiverecord  
+  A front-end-only Object Data-store Mapping (ODM) implementation that lets you interact with RESTful APIs. By defining models on the front end and integrating closely with the popular state container, Redux, Reactive Record offers a Ruby-on-Rails-esque, Active Record-ey syntax

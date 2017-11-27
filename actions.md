@@ -260,6 +260,10 @@
   https://github.com/Meeshkan/redux-ize  
   An implementation of the Redux Action Creator Creator pattern 
   
+- **redux-promise-dispatch**  
+  https://github.com/kjrocker/redux-promise-dispatch  
+  Simplifies the process of dispatching specific actions when a promise resolves or rejects.
+  
   
 #### Other Action Use Cases  
   
@@ -306,3 +310,7 @@
 - **seashell-redux**  
   https://github.com/heineiuo/seashell-redux  
   A simple way to write functions with context dependencies without context parameter
+  
+- **redux-nested-bind-actions**  
+  https://github.com/Jc160/redux-nested-bind-actions  
+  Based on Redux bindActionCreator.  Turns an object whose values are action creators, into an object with the same keys, but with every function wrapped into a dispatch call so they may be invoked directly.

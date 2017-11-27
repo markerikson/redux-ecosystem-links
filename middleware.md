@@ -237,6 +237,10 @@
   https://github.com/khanghoang/redux-ittt  
   "Redux If This Then That" - Separate business logics outside of your components and thunks. 
   
+- **redux-subs**  
+  https://github.com/lsunsi/redux-subs  
+  Implements the declarative Subscriptions pattern seen in the Elm architecture to be used in Redux.
+  
   
 #### Analytics
 
