@@ -276,6 +276,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
    https://github.com/fersot100/DM_Tools  
    A cross-platform electron application that runs as a window locally on your machine and helps you the Dungeon Master, manage your role playing sessions by removing a lot of the encumberments that come with pen traditional pen and paper approaches.
   
+- **React-Spotify**  
+  https://github.com/Pau1fitz/react-spotify  
+  A Spotify client built with React / Redux
+  
   
 #### Other Application Lists
   
