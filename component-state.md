@@ -265,6 +265,10 @@
   https://github.com/lawrsp/with-view-state  
   A HOC to store view state in Redux
   
+- **react-redux-local**  
+  https://github.com/imflavio/react-redux-local  
+  Add a local reducer to your application with ease.  Creates components that have a local Redux store.
+  
   
 #### Simplified / Key-Value State
 
@@ -307,6 +311,10 @@
 - **react-redux-values**  
   https://github.com/ramitos/react-redux-values  
   Get and Set values from a redux store in a declarative way
+  
+- **redux-pathspace**  
+  https://github.com/jpstone/redux-pathspace  
+  Create path-based namespaces to contain action/reducer pairs using Ramda lenses under the hood 
   
   
 #### Modularity and Encapsulation

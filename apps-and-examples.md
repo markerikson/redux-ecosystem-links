@@ -92,6 +92,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/Automattic/wp-calypso  
   The new JavaScript- and API-powered WordPress.com
   
+- **Gutenberg**  
+  https://github.com/WordPress/gutenberg  
+  A new "block editor"-based approach to creating Wordpress content.
+  
 - **Panther**  
   https://github.com/joshwcomeau/panther  
   Panther is a full-stack React/Redux/Node web app that uses the Spotify API to make suggestions based on an initial user-specified artist.
@@ -275,6 +279,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
  - **DM Tools**  
    https://github.com/fersot100/DM_Tools  
    A cross-platform electron application that runs as a window locally on your machine and helps you the Dungeon Master, manage your role playing sessions by removing a lot of the encumberments that come with pen traditional pen and paper approaches.
+   
+- **Joplin**  
+  https://github.com/laurent22/joplin  
+  A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. 
   
   
 #### Other Application Lists

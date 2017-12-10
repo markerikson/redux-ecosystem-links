@@ -358,6 +358,10 @@
 - **composite-tree-reducer**  
   https://github.com/wdjunaidi/composite-tree-reducer  
   Simple composite tree reducer which allow custom root level reducer along with regular combinedReducers from redux. 
+  
+- **redux-nestprops-reducer**  
+  https://github.com/sndyuk/redux-nestprops-reducer  
+  Simplifies reducer logic by allowing you to specify a reducer to handle an individual piece of nested state, and callbacks to look up which piece of the state it should apply to.
 
   
 #### Higher-Order Reducers
@@ -502,6 +506,14 @@
 - **redux-reducer-maker**  
   https://github.com/grifo/redux-reducer-maker  
   Prebuilt reducers for toggle values and request status
+  
+- **atomic-redux**  
+  https://github.com/brietsparks/atomic-redux  
+  Building blocks for composing normalized collection-based state.  This library cuts down on boilerplate of writing reducers and action-creators for collection-based state. The goal is to make it easier to create and work with normalized state trees.
+  
+- **redux-flag-reducer**  
+  https://github.com/DannyDelott/redux-flag-reducer  
+  Create a reducer that returns true or false, "on" or "off", "loaded" or "loading", etc.  Makes it convenient to implement flags as reducers in your redux state tree. This can be handy for tracking all kinds of things from toggle-based UIs to the loading/loaded state of an external resource.
   
   
 #### Advanced Reducer Use Cases

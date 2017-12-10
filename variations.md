@@ -789,6 +789,19 @@
   https://github.com/remhume/react-redux-procedures  
   A wrapper for react-redux's connect to allow execution of multiple actions in a single procedure 
   
+- **redux-easy**  
+  https://github.com/mvolkmann/redux-easy  
+  A set of utility functions to make it easier to use Redux.  No string constants, no reducers with switch statements, no nested reducers.
+  
+- **redux-modules**  
+  https://github.com/procore/redux-modules  
+  https://github.com/mboperator/redux-modules-middleware  
+  A refinement on the Redux module concept with developer experience in mind. It provides: a concise, intuitive way to define actions and state transformations; action creator middleware for transforming actions before they're dispatched; a decorator that handles mapping state and actions to components; a modified Redux Provider that dynamically registers new reducers as connected components mount;
+
+- **redux-setstate-reducer**  
+  https://github.com/romellogoodman/redux-setstate-reducer  
+  Allows dispatching a `setState` action that either contains an object to merge in, or a reducer function that updates the state.
+  
   
 #### Redux-Inspired Libraries
 
@@ -835,3 +848,11 @@
 - **relite**  
   https://github.com/Lucifier129/relite  
   a redux-like library for managing state with simpler api (1kb)
+  
+- **hydux**  
+  https://github.com/hydux/hydux  
+  An Elm-like redux alternative inspired by Hyperapp, Elmish, Elm, Redux, etc.
+  
+- **unistore**  
+  https://github.com/developit/unistore  
+  A tiny ~650b centralized state container with component bindings for Preact.

@@ -420,6 +420,10 @@
   https://github.com/xclix/notifications  
   Component, actions, and reducer for displaying notifications in a React-Redux app
   
+- **redux-sweetalert**  
+  https://github.com/mrstebo/redux-sweetalert  
+  Actions, reducers, and component for using SweetAlert with React and Redux
+  
   
 #### Maps
 

@@ -189,6 +189,10 @@
   https://github.com/actra-development-oss/redux-persistable  
   State persistance for redux stores supporting immutable.js, lazy reducers, versioned states, migrations and merged storage
   
+- **persist-reducer**  
+  https://github.com/nicocrm/persist-reducer  
+  Simple helper functions to persist a Redux reducer state to local storage 
+  
   
 #### Redux-Persist Addons
 
@@ -275,6 +279,10 @@
 - **redux-persist-electron-storage**  
   https://github.com/psperber/redux-persist-electron-storage  
   Redux persist adaptor for electron-store 
+  
+- **redux-persist-realm**  
+  https://github.com/Osedea/redux-persist-realm  
+  A Realmjs interface for redux-persist 
   
 
 #### Redux-Storage Addons

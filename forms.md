@@ -126,7 +126,7 @@
   Complex forms validation using reselect
   
 - **simpler-redux-form**  
-  https://github.com/halt-hammerzeit/simpler-redux-form  
+  https://github.com/catamphetamine/simpler-redux-form  
   Just like redux-form but much simpler - aimed to be a minimal sane set of features compared to redux-form.
   
 - **formred**  

@@ -189,6 +189,10 @@
 - **redux-router-scroll-restoration**  
   https://github.com/dimalolzet/redux-router-scroll-restoration  
   Simple middleware for scroll restoration.
+  
+- **react-redux-dimensions**  
+  https://github.com/mcabs3/react-redux-dimensions  
+  A simple redux integration to collect browser dimension data with some sugar to make access to dimensions "sweeter"
 
   
 ### Internationalization
@@ -388,6 +392,14 @@
   https://github.com/dieseljobs/redux-thunk-status  
   Action creators, reducer, and a loading component to track request status.
   
+- **redux-http-status**  
+  https://github.com/Kozea/redux-http-status  
+  Redux reducer and action to set http status in the store for use server side. Comes with bundled react components 
+  
+- **react-redux-clarity**  
+  https://github.com/clarityhub/react-redux-clarity  
+  Provides helper utilities to standardize your reducers so that every action automatically has loading states and error handling.
+  
   
 #### Undo-Redo
 
@@ -451,6 +463,10 @@
 - **redux-deep-diff**  
   https://github.com/wwilsman/redux-deep-diff  
   Higher order reducer to deep diff redux states 
+  
+- **redux-rewind**  
+  https://github.com/Serexx/redux-rewind  
+  Redux-Rewind provides scalable, single-command rollback of an arbitrary series of normal Redux Actions, where the series must complete fully, or be cancelled entirely ('Atomicity').
   
   
 #### Authentication
@@ -522,3 +538,7 @@
 - **react-redux-permissions**  
   https://github.com/shizpi/react-redux-permissions  
   A simple library to handle your react application permissions using redux.
+
+- **redux-auth0**  
+  https://github.com/flo-pereira/redux-auth0  
+  Auth0 redux middleware 

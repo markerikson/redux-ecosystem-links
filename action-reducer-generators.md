@@ -300,6 +300,14 @@
   https://github.com/jiang-12196/redux-act-array-async  
   Create async multi actions and reducers based on redux-act
   
+- **cruducer**  
+  https://github.com/brietsparks/cruducer  
+  A utility function/higher-order-reducer for creating flat list reducers and CRUD-actions to operate on their state 
+  
+- **catalyst-redux**  
+  https://github.com/friendsoftheweb/catalyst-redux  
+  Allows generating action creators/reducers as "operations" for sync and async behavior, and composition of operations into larger "modules".  Also provides "resource modules" for interacting with a JSON API.
+  
 
 #### Network Requests and APIs
 
@@ -446,6 +454,14 @@
 - **redux-httprequest**  
   https://github.com/henit/redux-httprequest  
   Redux actions & reducer for making http requests
+  
+- **redux-store-api-helpers**  
+   https://github.com/martynovs/redux-store-api-helpers  
+   Action creators and middleware for making API calls with Axios
+   
+- **reduxwork**  
+  https://github.com/michalkow/reduxwork  
+  A small Redux framework for creating actions and reducers that work with AJAX or WebSocket functions and create real-time apps.
 
   
 #### Other Code Structures

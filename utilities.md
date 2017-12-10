@@ -138,6 +138,10 @@
   https://github.com/iofjuupasli/combine-section-selectors  
   Combine selectors from state to one set of selectors. Useful with redux and combineReducer or combine-section-reducer 
   
+- **combine-selectors-redux**  
+  https://github.com/tapayne88/combine-selectors-redux  
+  Utility function for combining selectors when working with redux. Much like combineReducers it helps for defining selector functions within the reducers. 
+  
   
 #### Functional Programming
   

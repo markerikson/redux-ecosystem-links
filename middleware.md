@@ -241,6 +241,18 @@
   https://github.com/lsunsi/redux-subs  
   Implements the declarative Subscriptions pattern seen in the Elm architecture to be used in Redux.
   
+- **redux-action-middleware**  
+  https://github.com/Gaya/redux-action-middleware  
+  Redux middleware which allows the user to acts upon fired action types to the store.
+  
+- **redux-provider**  
+  https://github.com/logaritmdev/redux-provider  
+  A middleware that abstract (mostly) async operations in its own layer. An action that is registered as a provider will be invoked first and the original action will be executed only when the provider dispatches the same action.
+  
+- **redux-listener**  
+  https://github.com/kouhin/redux-listener  
+  Dispatch async action listener at any time and do side effect for Redux.
+  
   
 #### Analytics
 

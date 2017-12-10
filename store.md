@@ -101,6 +101,14 @@
   https://github.com/google/sync3k-client  
   An offline-first event-sourcing synchronization engine with optional end-to-end encryption.  Provides a Redux store enhancer.
   
+- **redux-remote-actions**  
+  https://github.com/ddanilets/redux-remote-actions  
+  Small client and server pieces to send Redux actions over websockets
+  
+- **redux-blabber**  
+  https://github.com/garblovians/redux-blabber  
+  Redux store enhancer for synchronizing states and actions across store instances.  Blabber is designed to make stores talk to each other. The idea is to synchronize the full state once and then sync individual actions afterwards
+  
 
 #### Store Change Subscriptions
 

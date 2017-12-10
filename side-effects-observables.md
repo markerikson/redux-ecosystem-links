@@ -79,3 +79,7 @@
 - **redux-promise-observable**  
   https://github.com/AyWa/redux-promise-observable  
   A plugin for redux-observable. It allows to return a promise after an action as been dispatch, and resolve/reject the promise depending of others action. It can be use for redux-form 
+  
+- **redux-fetch-epic-builder**  
+  https://github.com/pcmnac/redux-fetch-epic-builder  
+  An utility lib to build "fetch actions" and generic EPICs handled by redux-observable. 

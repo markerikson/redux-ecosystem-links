@@ -264,6 +264,10 @@
   https://github.com/kjrocker/redux-promise-dispatch  
   Simplifies the process of dispatching specific actions when a promise resolves or rejects.
   
+- **actiontypes**  
+  https://github.com/crvst/actiontypes  
+  Generate namespaced strings for Flux standard actions 
+  
   
 #### Other Action Use Cases  
   

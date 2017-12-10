@@ -18,6 +18,10 @@
   https://github.com/bcarroll22/ng-component-redux  
   Angular 1.5 component bindings for Redux. Inspired by ng-redux and react-redux. A great way to manage application state in component-based applications.
   
+- **ng-app-state**  
+  https://github.com/simontonsoftware/ng-app-state  
+  ng-app-state is built on top of ngrx/store, bringing you the same help writing performant, consistent applications for Angular in a format more familiar for those not accustomed to functional programming.  Compatible with the Redux DevTools and ngrx/effects.
+  
 #### Ember
 
 - **ember-redux**  
@@ -92,6 +96,10 @@
 - **redux-store-mixin**  
   https://github.com/kolesoffac/redux-store-mixin  
   Mixin to integrate action creators in methods of vue component
+  
+- **vuejs-redux**  
+  https://github.com/titouancreach/vuejs-redux  
+  High order component facilities for Vue and Redux 
 
 #### Vanilla JS
 
@@ -177,3 +185,11 @@
 - **marko-redux**  
   https://github.com/charlieduong94/marko-redux  
   Simple redux bindings for marko, inspired by react-redux
+  
+- **aurelia-redux-connect**  
+  https://github.com/istrau2/aurelia-redux-connect  
+  Provides dependency injection and decorators for using Redux with Aurelia.
+  
+- **riot-redux-router**  
+  https://github.com/collingreen/riot-redux-router  
+  Dead simple integration between the riot js router and redux.  Combine Riot's router and redux so you can easily dispatch route actions to simultaneously update your store and the browser url. 

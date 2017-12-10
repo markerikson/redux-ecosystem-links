@@ -14,7 +14,7 @@
   Redux toolset for keeping all the side effects inside your reducers while maintaining their purity, using generators.
   
 - **redux-yield-effect**  
-  https://github.com/wizardzloy/redux-yield-effect  
+  https://github.com/wzrdzl/redux-yield-effect  
   Declarative side effects for redux with generators
   
 - **Redux Rungen**  
@@ -195,3 +195,11 @@
 - **redux-saga-requests**  
   https://github.com/klis87/redux-saga-requests  
   Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API, in the future additional integrations will be added, as they can be implemented in a plugin fashion.
+  
+- **redux-saga-crud-service**  
+  https://github.com/eakarpov/redux-saga-crud-service  
+  Generates crud methods for services using saga middleware 
+  
+- **redux-saga-injector**  
+  https://github.com/isychev/redux-saga-injector  
+  A lightweight library for dynamic connections of sagas. The library provides service for quick and easy connection/disconnection of sagas anytime and anywhere in your code

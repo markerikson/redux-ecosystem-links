@@ -111,6 +111,10 @@
   https://github.com/ImmoweltGroup/jest-react-redux  
   Makes snapshot testing of react-redux (e.g. mapStateToProps or mapDispatchToProps) glue-code easy as pie. 
   
+- **mocha-redux-integration**  
+  https://github.com/tomvej/mocha-redux-integration  
+  Integration testing of redux stores with mocha.  The aim of this project is to offer a custom mocha UI to facilitate these tests. The test structure seems to be best represented by given-when-then syntax with given being initial state, when applied actions and then assertions on selector results.
+  
   
 #### Reducers
 

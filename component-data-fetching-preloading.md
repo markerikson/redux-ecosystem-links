@@ -292,3 +292,7 @@
 - **react-redux-fetch-if-necessary**  
   https://github.com/carpeliam/react-redux-fetch-if-necessary  
   Higher order component for managing the concern of making sure your dependencies are loaded before you render 
+  
+- **redux-universal-render**  
+  https://github.com/StefanoPastore/redux-universal-render  
+  Redux module for universal render with async fetching data.

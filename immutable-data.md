@@ -205,6 +205,14 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/maimArt/typescript-immutable-helper  
   Helpers for handling immutable objects with typescript 
   
+- **redux-immutable-ops**  
+  https://github.com/nitishkr88/redux-immutable-ops  
+  A collection of helper functions to perform immutable operations on plain JavaScript objects and arrays. Works on the immutable update patterns as defined by Redux.
+  
+- **Redecorate**  
+  https://github.com/Wildhoney/Redecorate  
+  Simple module for reducing immutable nested properties in Redux applications. 
+  
 
 #### Immutable/Redux Interop
 

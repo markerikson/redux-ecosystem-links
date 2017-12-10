@@ -111,6 +111,14 @@
   https://github.com/AlexChittock/redux-socket-middleware  
   Passes redux actions to a web sockets server for server-side processing. 
   
+- **redux-socketio**  
+  https://github.com/pak11273/redux-socketio  
+  A redux/socketIO middleware implementation 
+  
+- **sockjs-middleware**  
+  https://github.com/rodique/sockjs-middleware  
+  Redux middleware for SockJS 
+  
 
 #### Firebase
 

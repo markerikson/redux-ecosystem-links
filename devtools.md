@@ -254,6 +254,10 @@
   https://github.com/caiogondim/redux-logdown.js  
   redux-logdown is a tiny logger library for Redux written with logdown that supports localStorage.debug for enabling/disabling store logging.
   
+- **redux-action-logger**  
+  https://github.com/hudl/redux-action-logger  
+  A simple, extensible redux middleware system to generate logs from actions. The intent of this library is to make logging and event reporting as simple and consistent as possible.
+  
   
 #### Mutation Detection
 
@@ -281,6 +285,10 @@
   https://github.com/flexport/mutation-sentinel  
   https://flexport.engineering/optimizing-react-rendering-part-2-7b2e9a9ea21f  
   A library that uses ES6 Proxies to help detect accidental mutations
+  
+- **redux-pure-connect**  
+  https://github.com/mmahalwy/redux-pure-connect  
+  Check and log whether react-redux's connect method is passed methods that create impure props.   Built on top of lelandrichardson's gist for ensuring purity on mapStateToProps and other methods passed to connect.
   
   
 #### Linting
@@ -371,3 +379,7 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **react-component-benchmark**  
   https://github.com/paularmstrong/react-component-benchmark  
   A component to help benchmark React components and their trees. This project aims to provide a method for gathering benchmarks of component tree mount, update, and unmount timings.
+  
+- **reactopt**  
+  https://github.com/reactopt/reactopt  
+  A CLI React performance optimization tool that identifies potential unnecessary re-rendering.

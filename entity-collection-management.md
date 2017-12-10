@@ -191,6 +191,10 @@
   https://github.com/edtoken/redux-tide  
   Simple library to deal with Redux normalized state, including actions and selectors
   
+- **standard-redux-shape**  
+  https://github.com/ecomfe/standard-redux-shape  
+  standard-redux-shape is a tiny utility library to help you manage an optimized redux store shape, containing normalized entities and query responses with params.
+  
 
 #### Client/Server Collections
 
