@@ -214,7 +214,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Simple module for reducing immutable nested properties in Redux applications. 
   
 - **hydux-mutator**  
-  https://github.com/hydux/hydux-mutator
+  https://github.com/hydux/hydux-mutator  
   Yet another statically-typed immutable data update helper library inspired by monolite with better performance and browser compatibility, and support class state.
 
 #### Immutable/Redux Interop
