@@ -216,6 +216,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **hydux-mutator**  
   https://github.com/hydux/hydux-mutator  
   Yet another statically-typed immutable data update helper library inspired by monolite with better performance and browser compatibility, and support class state.
+  
+- **immer**  
+  https://github.com/mweststrate/immer  
+  Create the next state by modifying a proxied version of the current immutable state. Immer will track your changes in the background and construct the next immutable state for you.
 
 #### Immutable/Redux Interop
 
