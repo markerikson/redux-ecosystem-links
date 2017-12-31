@@ -16,7 +16,7 @@
   - [Sockets and Adapters - Firebase](middleware-sockets-adapters.md#firebase)
   - [Sockets and Adapters - Meteor](middleware-sockets-adapters.md#meteor)
   - [Sockets and Adapters - Other Connections](middleware-sockets-adapters.md#other-connections)
-  
+- [DevTools - Linting and Validation](devtools.md#linting-and-validation)
   
 
 #### Action Grouping and Interception
@@ -72,10 +72,6 @@
 - **redux-multi-conditional**  
   https://github.com/JamesRandall/redux-multi-conditional  
   Conditionally dispatch multiple actions from one action creator
-  
-- **redux-validation**  
-  https://github.com/mkamakura/redux-validation  
-  Validate action properties
   
 - **redux-action-watch**  
   https://github.com/Codebrahma/redux-action-watch  
@@ -133,14 +129,6 @@
   https://github.com/michaelcontento/redux-middleware-oneshot  
   Create Redux actions from arbitrary sources out of middlewares.
   
-- **action-validate**  
-  https://github.com/chbinghu/action-validate  
-  Validate that actions match the Flux Standard Action definition
-  
-- **redux-validate-actions**  
-  https://github.com/asn007/redux-validate-actions  
-  A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
-  
 - **redux-prevent-repeat-dispatch**  
   https://github.com/rgabs/redux-prevent-repeat-dispatch  
   A redux middleware to prevent dispatching of repeat actions for a specific period of time.
@@ -157,17 +145,9 @@
   https://github.com/kenny-hibino/redux-camel  
   Redux Camel middleware makes sure that action objects use camelCase keys before reaching reducers.
   
-- **redux-validator**  
-  https://github.com/MaxLi1994/redux-validator  
-  Action parameter validator middleware for redux
-  
 - **redux-hook-middleware**  
   https://github.com/kamataryo/redux-hook-middleware  
   A Redux middleware to provide easy hooks on pre/post dispatch.
-  
-- **redux-tsa**  
-  https://github.com/contrarian/redux-tsa  
-  Async friendly validation middleware for Redux 
   
 - **redux-action-enhancer**  
   https://github.com/bdwain/redux-action-enhancer  
@@ -225,10 +205,6 @@
   https://github.com/hnrysmth/signalbox  
   Syntactical sugar for redux middlewares.  Define callbacks to run before or after specific actions.
   
-- **redux-payload-validator**  
-  https://github.com/tomoyuki-tanaka/redux-payload-validator  
-  Redux middleware for FSA payload validation.
-  
 - **redux-mediator**  
   https://github.com/quadreex/redux-mediator  
   Redux middleware to support mediator pattern. Helps you to reduce complexity of large redux applications by separating your codebase into independent modules which know nothing about each other. Communication between modules is encapsulated within a mediator middleware. Modules no longer use actions of each other directly, but instead communicate through the mediator. Mediator maps output actions of one module to input actions of another.
@@ -252,7 +228,10 @@
 - **redux-listener**  
   https://github.com/kouhin/redux-listener  
   Dispatch async action listener at any time and do side effect for Redux.
-  
+
+- **redux-listen**  
+  https://github.com/heiskr/redux-listen  
+  Use the listener pattern with Redux middleware. 
   
 #### Analytics
 
@@ -477,3 +456,11 @@
 - **redux-back**  
   https://github.com/shamas/redux-back  
   A lightweight middleware for enabling Back and Forward browser controls for a Single/Multi-page Web Application 
+  
+- **redux-push**  
+  https://github.com/nialloc9/redux-push  
+  Redux middleware for push notifications.
+  
+- **redux-meta-selector**  
+  https://github.com/funkjunky/redux-meta-selector  
+  Middleware for redux that enables an action to return data from the store via a selector. 

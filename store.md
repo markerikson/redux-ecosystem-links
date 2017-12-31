@@ -109,6 +109,10 @@
   https://github.com/garblovians/redux-blabber  
   Redux store enhancer for synchronizing states and actions across store instances.  Blabber is designed to make stores talk to each other. The idea is to synchronize the full state once and then sync individual actions afterwards
   
+- **remote-redux**  
+  https://github.com/seveibar/remote-redux  
+  Remote redux eliminates the need for complex server-side apis and api bindings by combining the redux state machine on the client with the server.
+  
 
 #### Store Change Subscriptions
 
@@ -228,6 +232,10 @@
   https://github.com/tsirlucas/redux-pure-subscribe  
   A store subscribe function that checks if state has changed before trigger. 
   
+- **redux-eagle**  
+  https://github.com/luwes/redux-eagle  
+  Redux middleware to watch state changes using transformable selectors. 
+  
   
 #### Batching and Notifications
 
@@ -286,6 +294,10 @@
 - **redux-batch-actions-enhancer**  
   https://github.com/laysent/redux-batch-actions-enhancer  
   Store enhancer for Redux, which allows single trigger of subscriptions after a bunch of actions.
+  
+- **redux-batch-buffer**  
+  https://github.com/DScheglov/redux-batch-buffer  
+  A modular way to implement batching and buffering of redux actions.
   
   
 #### Integration and Interop

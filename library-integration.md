@@ -1,5 +1,11 @@
 ### Library Integration and Bindings
 
+#### React
+
+- **React-Redux**  
+  https://github.com/reactjs/react-redux
+  The official React bindings for Redux, maintained by the Redux team
+
 #### Angular
 
 - **Angular 2: @angular-redux/store**  

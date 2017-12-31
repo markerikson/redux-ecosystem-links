@@ -195,6 +195,14 @@
   https://github.com/ecomfe/standard-redux-shape  
   standard-redux-shape is a tiny utility library to help you manage an optimized redux store shape, containing normalized entities and query responses with params.
   
+- **redux-schemad**  
+  https://github.com/heiskr/redux-schemad  
+  Create automatic reducers, actions, and default state from a state schema.  This module intentionally only supports what's necessary to follow the spirit of Avoiding Accidental Complexity When Structuring Your App State by Tal Kol.
+  
+- **redux-eloquent**  
+  https://github.com/SevenOutman/redux-eloquent  
+  Allows you to query and mutate your redux store in ORM style.
+  
 
 #### Client/Server Collections
 
@@ -361,3 +369,11 @@
 - **Reactive Record**  
   https://github.com/rentalutions/reactiverecord  
   A front-end-only Object Data-store Mapping (ODM) implementation that lets you interact with RESTful APIs. By defining models on the front end and integrating closely with the popular state container, Redux, Reactive Record offers a Ruby-on-Rails-esque, Active Record-ey syntax
+  
+- **redux-capacitor**  
+  https://github.com/contactually/redux-capacitor  
+  An easy-to-use and powerful caching REST API client for React. 
+  
+- **r3-library**  
+  https://github.com/cassaram09/r3-library  
+  r3-library (short for React-Redux-Resource) is a small library to handle resources in a React-Redux application more efficiently. This library allows users to create a Resource handles remote and promise based actions. It dynamically generates the reducer for use by the store.  This project was inspired by AngularJS $Resource functionality for making HTTP requests. 

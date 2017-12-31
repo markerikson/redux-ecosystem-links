@@ -115,6 +115,10 @@
   https://github.com/tomvej/mocha-redux-integration  
   Integration testing of redux stores with mocha.  The aim of this project is to offer a custom mocha UI to facilitate these tests. The test structure seems to be best represented by given-when-then syntax with given being initial state, when applied actions and then assertions on selector results.
   
+- **test-redux-store**  
+  https://github.com/rtragle/test-redux-store  
+  This library is made to take up where redux-mock-store left off. You can execute actions that run reducers and see the raw action objects as well as the result state. It works nice with middleware like redux-thunk as well. Unlike redux-mock-store, you can incorporate reducers as well.
+  
   
 #### Reducers
 
@@ -285,3 +289,7 @@
 - **k-redux-saga-tester**  
   https://github.com/alakarteio/k-redux-saga-tester  
   Test your sagas (redux-saga) with ease, compatible with Jest snapshots!
+  
+- **redux-mock-saga**  
+  https://github.com/giespaepen/redux-mock-saga  
+  Elegant testing strategy to check what your sagas really do, i.e. testing the result of the side effects.

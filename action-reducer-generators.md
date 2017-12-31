@@ -308,6 +308,9 @@
   https://github.com/friendsoftheweb/catalyst-redux  
   Allows generating action creators/reducers as "operations" for sync and async behavior, and composition of operations into larger "modules".  Also provides "resource modules" for interacting with a JSON API.
   
+- **redux-processor**  
+  https://github.com/nicholasrq/redux-processor  
+  A tool to help generate actions, reducers, and initial state all together.
 
 #### Network Requests and APIs
 
@@ -406,10 +409,6 @@
 - **redux-thunk-rest**  
   https://github.com/rtablada/redux-thunk-rest  
   This package is helps remove some of the boilerplate cruft for creating RESTful actions, action creators, and reducers for Redux with Redux Thunk.
-  
-- **redux-api**  
-  https://github.com/lexich/redux-api  
-  redux-api solves the problem of writing clients to communicate with backends. It generates actions and reducers for making AJAX calls to API endpoints.
 
 - **redux-rest-factories**  
   https://github.com/lohfu/redux-rest-factories  
@@ -458,10 +457,10 @@
 - **redux-store-api-helpers**  
    https://github.com/martynovs/redux-store-api-helpers  
    Action creators and middleware for making API calls with Axios
-   
-- **reduxwork**  
-  https://github.com/michalkow/reduxwork  
-  A small Redux framework for creating actions and reducers that work with AJAX or WebSocket functions and create real-time apps.
+  
+- **redux-fetch-duck**  
+  https://github.com/ivanwolf15/redux-fetch-duck  
+  Simple and flexible API for creating a redux duck to manage a single fetch request, features loading and error states.
 
   
 #### Other Code Structures

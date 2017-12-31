@@ -169,6 +169,14 @@
   https://github.com/ffossum/redux-reselect-validation  
   Actions, selectors, and reducers for helping manage form input validation.
   
+- **controlled-form**  
+  https://github.com/bdmason/controlled-form  
+  A package for building forms in React & Redux. 
+  
+- **redux-duck-form**  
+  https://github.com/ivanwolf15/redux-duck-form  
+  A redux duck to manage your form state in the store.
+  
   
 #### Redux-Form Addons
 

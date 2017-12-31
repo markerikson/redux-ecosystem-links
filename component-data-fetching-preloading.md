@@ -296,3 +296,11 @@
 - **redux-universal-render**  
   https://github.com/StefanoPastore/redux-universal-render  
   Redux module for universal render with async fetching data.
+
+- **redux-infuse**  
+  https://github.com/meruhealth/redux-infuse  
+  Simple way to manage data loading from APIs into Redux state and into connected components.
+  
+- **react-apollo-redux**  
+  https://github.com/Drawbotics/react-apollo-redux  
+  A small wrapper to automatically dispatch actions in response to apollo mutations. 

@@ -142,6 +142,10 @@
 - **react-block-ui**   
   https://github.com/Availity/react-block-ui  
   This library contains easy to use components to prevent the user from interacting with the user interface based on some conditions.  There is also a separate component which works with redux to help block and unblock automatically based on redux action types. See the ReduxBlockUi component for more details.
+  
+- **redux-wizard-form**  
+  https://github.com/frankPairs/redux-wizard-form  
+  A Redux-connected wizard form that helps manage steps and transitions.
 
 
 #### Layout

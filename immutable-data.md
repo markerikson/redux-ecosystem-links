@@ -213,6 +213,22 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/Wildhoney/Redecorate  
   Simple module for reducing immutable nested properties in Redux applications. 
   
+- **unchanged**  
+  https://github.com/planttheidea/unchanged  
+  A tiny, fast, unopinionated handler for updating JS objects and arrays immutably 
+  
+- **objutil**  
+  https://github.com/thenewvu/objutil  
+  A minimal javascript library provides utility functions for working on objects.
+  
+- **ipath**  
+  https://github.com/ln613/ipath  
+  Ensure immutability by updating javascript objects using a path similar to CSS/jQuery selector, great for react/redux applications where immutability is required, especially when working with deeply nested objects. 
+  
+- **immer**  
+  https://github.com/mweststrate/immer  
+  A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
+  
 
 #### Immutable/Redux Interop
 

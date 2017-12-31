@@ -200,10 +200,6 @@
   https://github.com/shadowwzw/redux-types-creator  
   A utility to generate type constants based on prefixes, suffixes, and main types.
   
-- **async-action-creator**  
-  https://github.com/goncy/async-action-creator  
-  Action creator is a library that helps with handling async actions on redux or similar implementations, giving a couple of methods for dispatching async actions and handling actions status, errors, and responses in a separated reducer
-  
 - **kreighter**  
   https://github.com/maxhallinan/kreighter  
   A utility for generating Redux action creators. 
@@ -260,13 +256,17 @@
   https://github.com/Meeshkan/redux-ize  
   An implementation of the Redux Action Creator Creator pattern 
   
-- **redux-promise-dispatch**  
-  https://github.com/kjrocker/redux-promise-dispatch  
-  Simplifies the process of dispatching specific actions when a promise resolves or rejects.
-  
 - **actiontypes**  
   https://github.com/crvst/actiontypes  
   Generate namespaced strings for Flux standard actions 
+  
+- **redux-harmony**  
+  https://github.com/jkbailey/redux-harmony  
+  Create thunks that call a promise-returning function and dispatch actions based on the results.
+  
+- **redux-action-creators**  
+  https://github.com/doasync/redux-action-creators  
+  Configurable action creators for redux with sub-types
   
   
 #### Other Action Use Cases  
@@ -318,3 +318,7 @@
 - **redux-nested-bind-actions**  
   https://github.com/Jc160/redux-nested-bind-actions  
   Based on Redux bindActionCreator.  Turns an object whose values are action creators, into an object with the same keys, but with every function wrapped into a dispatch call so they may be invoked directly.
+  
+- **redux-hoax**  
+  https://github.com/theJian/redux-hoax  
+  Higher-order action creators for Redux, allowing dispatching an action only once and creating payloads from app state.

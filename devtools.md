@@ -258,6 +258,10 @@
   https://github.com/hudl/redux-action-logger  
   A simple, extensible redux middleware system to generate logs from actions. The intent of this library is to make logging and event reporting as simple and consistent as possible.
   
+- **redux-usage-report**  
+  https://github.com/aholachek/redux-usage-report  
+  This library allows you to replace a generic object with a proxied object and track which parts of the object are accessed. Made to help track which parts of the store were actually being used on various parts of a large Redux application.
+  
   
 #### Mutation Detection
 
@@ -290,8 +294,12 @@
   https://github.com/mmahalwy/redux-pure-connect  
   Check and log whether react-redux's connect method is passed methods that create impure props.   Built on top of lelandrichardson's gist for ensuring purity on mapStateToProps and other methods passed to connect.
   
+- **redux-freeze-tag**  
+  https://github.com/abbreviatedman/redux-freeze-tag  
+  A tiny, tiny library that adds customizable immutability to Redux. It does this by using freeze-tag to enhance the reducer(s) you use to create your Redux store.
   
-#### Linting
+  
+#### Linting and Validation
 
 Also see the [Mutation Detection](#mutation-detection) section just above.
   
@@ -330,7 +338,42 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **validstate**  
   https://github.com/lifechurch/validstate  
   Validstate is a javascript plugin for React+Redux applications to quickly validate state.
+  
+- **redux-json-schema-middleware**  
+  https://github.com/simpleigh/redux-json-schema-middleware  
+  JSON Schema middleware for Redux. Validates dispatched actions.
+  
+- **redux-validation**  
+  https://github.com/mkamakura/redux-validation  
+  Validate action properties
+  
+- **action-validate**  
+  https://github.com/chbinghu/action-validate  
+  Validate that actions match the Flux Standard Action definition
+  
+- **redux-validate-actions**  
+  https://github.com/asn007/redux-validate-actions  
+  A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
+  
+- **redux-validator**  
+  https://github.com/MaxLi1994/redux-validator  
+  Action parameter validator middleware for redux
+  
+- **redux-tsa**  
+  https://github.com/contrarian/redux-tsa  
+  Async friendly validation middleware for Redux 
+  
+- **redux-payload-validator**  
+  https://github.com/tomoyuki-tanaka/redux-payload-validator  
+  Redux middleware for FSA payload validation.
 
+- **validstate**  
+  https://github.com/lifechurch/validstate  
+  A plugin for React+Redux applications to quickly validate state.
+  
+- **redux-action-validator**  
+  https://github.com/michael-martin-al/redux-action-validator  
+  Extensible class to validate Redux/Flux action properties and ensure consistency across large projects.
   
 
 #### Component Update Monitoring

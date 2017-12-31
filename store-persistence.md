@@ -192,6 +192,10 @@
 - **persist-reducer**  
   https://github.com/nicocrm/persist-reducer  
   Simple helper functions to persist a Redux reducer state to local storage 
+ 
+- **redux-pouchdb-plus**  
+  https://github.com/medihack/redux-pouchdb-plus  
+  Synchronize Redux store with PouchDB to have a persistent store. 
   
   
 #### Redux-Persist Addons

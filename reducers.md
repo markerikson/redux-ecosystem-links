@@ -362,6 +362,10 @@
 - **redux-nestprops-reducer**  
   https://github.com/sndyuk/redux-nestprops-reducer  
   Simplifies reducer logic by allowing you to specify a reducer to handle an individual piece of nested state, and callbacks to look up which piece of the state it should apply to.
+  
+- **dumb-reducer**  
+  https://github.com/quentinvernot/dumb-reducer  
+  A reducer factory function that creates redux action handlers for any action beginning with a set prefix, these handlers will simply put the action payloads into the state.
 
   
 #### Higher-Order Reducers
@@ -491,6 +495,10 @@
 - **redux-reorder**  
   https://github.com/nonnontrivial/redux-reorder  
   Higher-order reducer that tracks order fluctuation within iterable state.  Appends a given reducer with a representation of how its new order has changed from a previous order.
+  
+- **redux-reset-state**  
+  https://github.com/cadleo/redux-reset-state  
+  A redux plugin to reset the redux state you specify 
   
   
 #### Prebuilt Use Case Reducers
@@ -678,6 +686,10 @@
 - **inducer**  
   https://github.com/tanhauhau/inducer  
   Injects Redux reducers using a React Higher-Order Component
+  
+- **react-component-chunk**  
+  https://github.com/Droeftoeter/react-component-chunk  
+  Library for making dynamic imports easy, with added support to make dynamically loaded Redux Reducers and Redux-Saga Sagas easy.
   
   
 #### State Machines

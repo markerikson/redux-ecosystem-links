@@ -269,6 +269,10 @@
   https://github.com/imflavio/react-redux-local  
   Add a local reducer to your application with ease.  Creates components that have a local Redux store.
   
+- **react-redux-setstate**  
+  https://github.com/mmiller42/react-redux-setstate  
+  A HOC that overrides the React setState API to use Redux for storing component state. 
+  
   
 #### Simplified / Key-Value State
 
@@ -384,3 +388,11 @@
 - **redux-export**  
   https://github.com/luiz-simples/redux-export  
   A utility for bootstrapping Redux modules that export {reducer, middleware, initialState}.
+
+- **redux-slices**  
+  https://github.com/imdkva/redux-slices  
+  Utilities for creating namespaced reducers, selectors, and sagas, with definable mounting points
+  
+- **redux-cube**  
+  https://github.com/dexteryy/Project-WebCube/tree/master/packages/redux-cube  
+  An app state manager, built as a set of wrappers which simplify the use of Redux and its whole ecosystem, reduce boilerplate, and provide many features (Sub App, Reducer Bundle, ...)

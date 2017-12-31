@@ -4,18 +4,18 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 
 
 #### Purpose-Built Demos and Examples
-
-- **RealWorld: TodoMVC for the Real World**  
-  https://github.com/gothinkster/realworld  
-  Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more.  Specifically intended to show how different server and client implementations of the same project and API spec compare with each other.
+  
+- **React-Redux RealWorld Example: TodoMVC for the Real World**  
+  https://github.com/GoThinkster/redux-review  
+  An example full-stack "real world" application built with Redux.  Demos a Medium-like social blogging site that includes JWT authentication, CRUD, favoriting articles, following users, routing, and more.  The RealWorld project also includes many other implementations of the front and back ends of the site, specifically intended to show how different server and client implementations of the same project and API spec compare with each other.
+  
+- **Project Mini-Mek**  
+  https://github.com/markerikson/project-minimek  
+  A sample app to demonstrate various useful Redux techniques, accompanying the "Practical Redux" blog series at http://blog.isquaredsoftware.com/series/practical-redux
 
 - **Redux Saga Persistence Example**  
   https://github.com/jportela/redux-saga-persistence  
   This example shows how a persistence mechanism can be implemented by using Redux Sagas.
-
-- **Redux Review**  
-  https://github.com/GoThinkster/redux-review  
-  An example real world application built with Redux.  Demos a Medium-like social blogging site that includes JWT authentication, CRUD, favoriting articles, following users, routing, and more.
 
 - **Saga Login Flow**  
   https://github.com/sotojuan/saga-login-flow  
@@ -41,10 +41,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Redux ORM Draft View Example**  
   https://github.com/cjke/react-example-1-redux-orm  
   An example of using redux-orm with form state. The ability to edit and update model instances, that upon hitting cancel, doesn't update the core model instance. The flipside being, when hitting saved, the core model instance is updated.
-  
-- **Project Mini-Mek**  
-  https://github.com/markerikson/project-minimek  
-  A sample app to demonstrate various useful Redux techniques, accompanying the blog series at http://blog.isquaredsoftware.com/series/practical-redux
   
 - **Tradux**  
   https://github.com/miloszpp/tradux  
@@ -284,6 +280,21 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/laurent22/joplin  
   A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. 
   
+- **boardgame.io**  
+  https://github.com/google/boardgame.io  
+  A toolkit for building server-synchronized turn-based multiplayer games
+  
+- **axis-and-allies**  
+  https://github.com/bgates/axis-and-allies  
+  A React+Redux implementation of the Axis and Allies board game
+  
+- **Mattermost**  
+  https://github.com/mattermost/mattermost-webapp  
+  An open source, self-hosted Slack alternative
+  
+- **LWJGL 3 website**  
+  https://github.com/LWJGL/lwjgl3-www  
+  The home page for Lightweight Java Game Library 3
   
 #### Other Application Lists
   

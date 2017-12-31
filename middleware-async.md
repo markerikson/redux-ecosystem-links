@@ -151,6 +151,10 @@
   https://github.com/pirateminds/redux-pirate-promise  
   A promise middleware that lets you define hooks for handling response/request/error cases.
   
+- **redux-asynch-middleware**  
+  https://github.com/benvan/redux-asynch-middleware  
+  Better promise handling for Redux
+  
   
 #### Timeouts and Delays
 
@@ -262,6 +266,10 @@
 - **redux-delayed**  
   https://github.com/n4bcak3/redux-delayed  
   Redux middleware for accepting actions with delayed dispatch 
+  
+- **redux-re-dispatch**  
+  https://github.com/rbrahul/redux-re-dispatch  
+  A redux middleware to dispatch recent actions from action history queue
   
   
 #### Other Async Actions

@@ -160,7 +160,7 @@
   A middleware that helps manage API requests by handling action suffixes, session tokens, and more
   
 - **roadhog-saga**  
-  https://github.com/Trampss/roadhog-saga  
+  https://github.com/alakarteio/roadhog-saga  
   Library that is connected to redux, use to fetch api, and to dispatch saga event 
   
 - **japicam**  
@@ -206,3 +206,7 @@
 - **redux-shapeshifter-middleware**  
   https://github.com/dawaa/redux-shapeshifter-middleware  
   Redux middleware for empowering your actions using axios and qs libraries combined 
+  
+- **redux-pure-fetch**  
+  https://github.com/Shawn-Cao/redux-pure-fetch  
+  A declarative Redux middleware to manage asynchronous service calls and side-effects, so the redux action creator & reducer stay pure can stay pure and actions still serializable 

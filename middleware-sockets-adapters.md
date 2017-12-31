@@ -119,6 +119,10 @@
   https://github.com/rodique/sockjs-middleware  
   Redux middleware for SockJS 
   
+- **bsock-middleware**  
+  https://github.com/Bucko13/bsock-middleware  
+  Redux middleware for websocket actions using the bsock client 
+  
 
 #### Firebase
 
@@ -181,6 +185,11 @@
 - **reduxfire**  
   https://github.com/ThadeuLuz/reduxfire  
   Redux is a predictable state container for JavaScript apps. Firebase complements it perfectly by providing an easy-to-use, realtime data source for populating redux's state by dispatching actions. With ReduxFire, it only takes a few lines of JavaScript to integrate Firebase data into your (pure|React|Angular|Vue|*) Redux application.
+  
+- **redux-fire-auth**  
+  https://github.com/flasd/redux-fire-auth  
+  Helper to keep the Redux State in sync with the Firebase Auth State.
+  
 
 #### Meteor
 
@@ -203,6 +212,10 @@
 - **ddp-connector**  
   https://github.com/theclinician/ddp-connector  
   DDP client bindings for react-redux
+  
+- **ddp-redux**  
+  https://github.com/apendua/ddp  
+  ddp-redux is a brand new ddp client that will allow you to fetch resources from your ddp server in a completely declarative way. Subscriptions/ methods (queries) parameters are evaluated by selectors and all you need to do is to extract collection data from the redux store. 
   
 
 #### Other Connections

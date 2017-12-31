@@ -53,6 +53,14 @@
   https://github.com/orourkedd/effects-as-data-redux  
   Connects Redux and the author's "effects-as-data" library for declarative side effects.
   
+- **redux-iterate**  
+  https://github.com/doasync/redux-iterate  
+  Use (async) generators as action creators to yield actions. This middleware will handle dispatched iterators ('nextable' objects).
+  
+- **redux-thunk-generators**  
+  https://github.com/doasync/redux-thunk-generators  
+  Thunk middleware for Redux supporting generators 
+  
 
 #### Redux-Saga extensions  
 
@@ -203,3 +211,11 @@
 - **redux-saga-injector**  
   https://github.com/isychev/redux-saga-injector  
   A lightweight library for dynamic connections of sagas. The library provides service for quick and easy connection/disconnection of sagas anytime and anywhere in your code
+  
+- **redux-saga-takeuntil**  
+  https://github.com/sh1989/redux-saga-takeuntil  
+  A utility that is useful if you wish to start a saga when a particular action is dispatched, and then cancel it when another action is dispatched.
+  
+- **redux-saga-requests**  
+  https://github.com/klis87/redux-saga-requests  
+  Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API, but different integrations could be added, as they are implemented in a plugin fashion.

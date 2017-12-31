@@ -270,6 +270,10 @@
   https://github.com/ProAI/intlized-components  
   React.js Redux components for internationalization (i18n) 
   
+- **react-redux-multilang**  
+  https://github.com/iMcreAtive/react-redux-multilang  
+  Lightweight package for implementation of multilingual React components like using CSSinJS 
+  
   
 #### Pagination
   
@@ -317,6 +321,13 @@
   https://github.com/cristian-sima/redux-paginator-immutable  
   Helps you deal with paginated API with Redux without the need to create new actions and reducers cases
   
+- **redux-search-filter**  
+  https://github.com/neptunejs/redux-search-filter  
+  Connected components to help with filtering and searching data from Redux
+  
+- **redux-cached-pagination**  
+  https://github.com/Tranzystor/redux-cached-pagination  
+  A set of action creators and reducers to easily improve quality of pagination in your react-redux application. Simple configuration gives you possibility to achieve advanced pagination features
   
 #### Network
   

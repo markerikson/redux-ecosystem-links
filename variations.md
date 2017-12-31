@@ -701,10 +701,6 @@
   https://github.com/breachofmind/vuact  
   Wraps up React components and Redux stores with a Vue/VueX inspired API.
   
-- **redux-needs**  
-  https://github.com/LUKKIEN/redux-needs  
-  Bind actions to changes in your Redux state based on the needs of your active Redux components.
-  
 - **reduxBreeze**  
   https://github.com/Lukasz-pluszczewski/reduxBreeze  
   Powerful redux wrapper to make handling redux actions and reducers a breeze! 
@@ -802,6 +798,18 @@
   https://github.com/romellogoodman/redux-setstate-reducer  
   Allows dispatching a `setState` action that either contains an object to merge in, or a reducer function that updates the state.
   
+- **redux-connect-component**  
+  https://github.com/datchley/redux-connect-component  
+  A more declarative approach to working with Redux without writing numerous HoC containers. Uses a component based approach and children functions similar to approaches in react-motion and react-router.
+  
+- **redux-mastermind**  
+  https://github.com/Neil-G/redux-mastermind  
+  Clean state management for your Redux store based on "updaters", with Firebase integration
+  
+- **redux-proxy-selectors**  
+  https://github.com/luwes/redux-proxy-selectors  
+  Redux enhancer to access selectors directly from state as getters.
+  
   
 #### Redux-Inspired Libraries
 
@@ -856,3 +864,7 @@
 - **unistore**  
   https://github.com/developit/unistore  
   A tiny ~650b centralized state container with component bindings for Preact.
+  
+- **zedux**  
+  https://github.com/bowheart/zedux  
+  A high-level, declarative, composable form of Redux 
