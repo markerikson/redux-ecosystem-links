@@ -230,6 +230,11 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
   
 
+- **hydux-mutator**  
+  https://github.com/hydux/hydux-mutator  
+  Yet another statically-typed immutable data update helper library inspired by monolite with better performance and browser compatibility, and support class state.
+
+
 #### Immutable/Redux Interop
 
 - **redux-immutable**  
