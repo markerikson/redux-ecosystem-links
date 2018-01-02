@@ -479,6 +479,10 @@
   https://github.com/Serexx/redux-rewind  
   Redux-Rewind provides scalable, single-command rollback of an arbitrary series of normal Redux Actions, where the series must complete fully, or be cancelled entirely ('Atomicity').
   
+- **undox**  
+  https://github.com/JannicBeck/undox  
+  Redux/Ngrx implementation of Undo/Redo based on an action history
+  
   
 #### Authentication
 

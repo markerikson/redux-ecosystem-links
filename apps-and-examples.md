@@ -296,6 +296,10 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/LWJGL/lwjgl3-www  
   The home page for Lightweight Java Game Library 3
   
+- **Soundize**  
+  https://github.com/Alexloof/Soundize  
+  A homemade server side rendering client made with React and Redux, powered by the Spotify API 
+  
 #### Other Application Lists
   
 - **"Ask HN: Open source projects written in React?"**  

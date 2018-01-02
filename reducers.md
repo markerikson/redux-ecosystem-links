@@ -366,6 +366,10 @@
 - **dumb-reducer**  
   https://github.com/quentinvernot/dumb-reducer  
   A reducer factory function that creates redux action handlers for any action beginning with a set prefix, these handlers will simply put the action payloads into the state.
+  
+- **redux-recompose**  
+  https://github.com/Wolox/redux-recompose  
+  A Redux utility belt for reducers and actions. Inspired by acdlite/recompose. 
 
   
 #### Higher-Order Reducers
