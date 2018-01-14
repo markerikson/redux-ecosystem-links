@@ -190,6 +190,10 @@
   https://github.com/flasd/redux-fire-auth  
   Helper to keep the Redux State in sync with the Firebase Auth State.
   
+- **react-stateful-firestore**  
+  https://github.com/paularmstrong/react-stateful-firestore  
+  Provides bindings for authentication, Firestore, messaging, and storage data in React. Caches Firestore and authentication with Redux to prevent lag on data that has already been queried. Updates in real-time by default.
+  
 
 #### Meteor
 

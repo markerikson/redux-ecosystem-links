@@ -130,3 +130,7 @@
 - **redux-serial-effects**  
   https://github.com/wix/redux-serial-effects  
   A middleware library for managing side-effects based on state changes, following an actual vs. expected philosophy, and supporting composability.
+  
+- **stranded**  
+  https://github.com/downplay/stranded  
+  A new model for side effects in a React/Redux architecture, based on constructs called "strands" and "atoms".

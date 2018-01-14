@@ -1,7 +1,7 @@
 ### Project Scaffolding and CLIs
 
 - **redux-generators**  
-  https://github.com/bpxl-labs/redux-generators
+  https://github.com/bpxl-labs/redux-generators  
   Redux Generators is a lightweight, opinionated CLI that helps scaffold a scalable approach to Redux.
 
 - **redux-thunk-scaffolding**  

@@ -300,9 +300,9 @@
   https://github.com/jiang-12196/redux-act-array-async  
   Create async multi actions and reducers based on redux-act
   
-- **cruducer**  
-  https://github.com/brietsparks/cruducer  
-  A utility function/higher-order-reducer for creating flat list reducers and CRUD-actions to operate on their state 
+- **atomic-redux**  
+  https://github.com/brietsparks/atomic-redux  
+  Building blocks for composing normalized collection-based state  
   
 - **catalyst-redux**  
   https://github.com/friendsoftheweb/catalyst-redux  
@@ -311,6 +311,11 @@
 - **redux-processor**  
   https://github.com/nicholasrq/redux-processor  
   A tool to help generate actions, reducers, and initial state all together.
+  
+- **redux-boilerplate-reducer**  
+  https://github.com/mimshwright/redux-boilerplate-reducer  
+  Quickly create bundles of action types, action creators, and reducers with a few lines of code.
+
 
 #### Network Requests and APIs
 
@@ -461,6 +466,10 @@
 - **redux-fetch-duck**  
   https://github.com/ivanwolf15/redux-fetch-duck  
   Simple and flexible API for creating a redux duck to manage a single fetch request, features loading and error states.
+  
+- **redux-standard-reducers**  
+  https://github.com/sagiavinash/redux-standard-reducers  
+  A set of utilities to create reducers that are Flux Standard Data Storage compliant.
 
   
 #### Other Code Structures

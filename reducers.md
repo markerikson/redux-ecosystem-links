@@ -264,7 +264,7 @@
   A createReducer utility that simplifies declaration of initialState, helps inforce immutability, and scopes variables and logic.
   
 - **redux-composers**  
-  https://github.com/shoutem/redux-composers
+  https://github.com/shoutem/redux-composers  
   Introduces additional reducer composers besides combineReducers from redux, which enable to compose hierarchy in different ways. Includes 3 additional composer reducers: chainReducers, mergeReducers and mapReducers.
   
 - **redux-pipe**  
@@ -370,6 +370,10 @@
 - **redux-recompose**  
   https://github.com/Wolox/redux-recompose  
   A Redux utility belt for reducers and actions. Inspired by acdlite/recompose. 
+  
+- **redux-exr**  
+  https://github.com/paska27/redux-exr  
+  A set of `combineReducers` alternatives that allow specifying dependencies between branches.
 
   
 #### Higher-Order Reducers
@@ -627,6 +631,10 @@
   https://github.com/Phationmationion/redux-regeneration  
   Utility to allow just returning the object structure representing a new state, rather than doing all the nested copying in your own code.
   
+- **redux-data-components**  
+  https://github.com/pixellyte/redux-data-components  
+  Redux Data Components are React-like components that exist entirely within the Redux store. The components support lifecycle methods so that data events within the store can trigger subsequent actions without running afoul of the "don't dispatch while reducing" rule.
+  
 
 #### Dynamic Reducer Injection
 
@@ -694,6 +702,10 @@
 - **react-component-chunk**  
   https://github.com/Droeftoeter/react-component-chunk  
   Library for making dynamic imports easy, with added support to make dynamically loaded Redux Reducers and Redux-Saga Sagas easy.
+  
+- **react-redux-async**  
+  https://github.com/sebastiendavid/react-redux-async  
+  Asynchronously load your module, then inject reducers and sagas.
   
   
 #### State Machines

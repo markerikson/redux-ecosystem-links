@@ -142,6 +142,14 @@
   https://github.com/tapayne88/combine-selectors-redux  
   Utility function for combining selectors when working with redux. Much like combineReducers it helps for defining selector functions within the reducers. 
   
+- **selectem**  
+  https://github.com/sibnerian/selectem  
+  Shorthand for react-redux’s mapStateToProps. Need some props? Just select 'em!
+  
+- **redux-getters**  
+  https://github.com/fakundo/redux-getters  
+  Provides an additional layer of getters between the store and components. The getter returns data from the store if they are there, otherwise it returns stub and invokes fetch action.
+  
   
 #### Functional Programming
   
@@ -172,3 +180,7 @@
 - **compound**  
   https://github.com/pdme/compound  
   Like compose, but with rest params also being passed in. This is particularly useful in redux reducers, for example, when you want to apply multiple modifiers to the state, using the same action object.
+  
+- **redux-fun** 
+  https://github.com/guillaumearm/redux-fun  
+  Utilities for composing and piping reducers, selectors, and middleware

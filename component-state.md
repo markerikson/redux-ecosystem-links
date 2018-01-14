@@ -396,3 +396,11 @@
 - **redux-cube**  
   https://github.com/dexteryy/Project-WebCube/tree/master/packages/redux-cube  
   An app state manager, built as a set of wrappers which simplify the use of Redux and its whole ecosystem, reduce boilerplate, and provide many features (Sub App, Reducer Bundle, ...)
+  
+- **restate**  
+  https://github.com/theKashey/restate  
+  The goal of Restate is to provide hierarchical, decoupled, isolated synthetic stores, and make your application faster and simpler. Restate just creates a new branch, from a original store, allowing you to control it, and use composition on redux-level. 
+  
+- **redux-box**  
+  https://github.com/anish000kumar/redux-box  
+  Tools for simplifying Redux app setup by generating modules that can include sagas.

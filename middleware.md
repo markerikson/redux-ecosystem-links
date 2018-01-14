@@ -233,6 +233,10 @@
   https://github.com/heiskr/redux-listen  
   Use the listener pattern with Redux middleware. 
   
+- **redux-data-dispatch**  
+  https://github.com/benjaminhadfield/redux-data-dispatch  
+  An enhancer to redux reducers that makes it easy to define dependent reducers to store data returned by a single action. This promotes a modular redux design where each reducer is responsible for storing one type of data.
+  
 #### Analytics
 
 - **redux-analytics**  

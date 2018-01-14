@@ -129,7 +129,7 @@
   Elegant and nearly zero-config routing, for React/Redux apps
   
 - **redux-first-router**  
-  https://github.com/faceyspacey/redux-first-router
+  https://github.com/faceyspacey/redux-first-router  
   seamless redux-first routing -- just dispatch actions 
 
 - **React Redux Dynamic Router Reducer Plugin**  

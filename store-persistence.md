@@ -13,7 +13,7 @@
   
 - **redux-offline**  
   https://github.com/jevakallio/redux-offline  
-  https://github.com/redux-offline/redux-offline/issues
+  https://github.com/redux-offline/redux-offline  
   Persistent Redux store for Reasonaboutable™? Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
   Note: the original "jevakallio" repo has become inactive, so the repo was forked to a "redux-offline" organization.
   
@@ -287,6 +287,10 @@
 - **redux-persist-realm**  
   https://github.com/Osedea/redux-persist-realm  
   A Realmjs interface for redux-persist 
+  
+- **redux-persist-seamless-immutable**  
+  https://github.com/hilkeheremans/redux-persist-seamless-immutable  
+  Lets you use seamless-immutable on a per-reducer basis along with redux-persist v5.
   
 
 #### Redux-Storage Addons

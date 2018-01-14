@@ -155,6 +155,14 @@
   https://github.com/benvan/redux-asynch-middleware  
   Better promise handling for Redux
   
+- **redux-minimal-code-async-actions**  
+  https://github.com/sht5/redux-minimal-code-async-actions  
+  Redux middleware for minimalizing async action boilerplate.
+  
+- **redux-awaiter**  
+  https://github.com/yenshih/redux-awaiter  
+  A Redux middleware for giving opportunities to await and receive actions in anywhere.  Allows use of `await` in components to wait for specific dispatched actions.
+  
   
 #### Timeouts and Delays
 

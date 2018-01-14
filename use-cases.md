@@ -193,6 +193,10 @@
 - **react-redux-dimensions**  
   https://github.com/mcabs3/react-redux-dimensions  
   A simple redux integration to collect browser dimension data with some sugar to make access to dimensions "sweeter"
+  
+- **react-redux-lock**  
+  https://github.com/alirezavalizade/react-redux-lock  
+  A simple container for creating responsive apps 
 
   
 ### Internationalization
@@ -273,6 +277,10 @@
 - **react-redux-multilang**  
   https://github.com/iMcreAtive/react-redux-multilang  
   Lightweight package for implementation of multilingual React components like using CSSinJS 
+  
+- **r16n**  
+  https://github.com/razodeh/r16n  
+  A simple easy-to-use redux (reducer, action, and state selectors) for your translations, and localized dates and numbers.
   
   
 #### Pagination
@@ -557,3 +565,7 @@
 - **redux-auth0**  
   https://github.com/flo-pereira/redux-auth0  
   Auth0 redux middleware 
+  
+- **redux-jwt**  
+  https://github.com/samuelchvez/redux-jwt  
+  Easy to use JWT authentication management library for Redux. 

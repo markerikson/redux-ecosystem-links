@@ -228,11 +228,18 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **immer**  
   https://github.com/mweststrate/immer  
   A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
-  
 
 - **hydux-mutator**  
   https://github.com/hydux/hydux-mutator  
   Yet another statically-typed immutable data update helper library inspired by monolite with better performance and browser compatibility, and support class state.
+  
+- **remute**  
+  https://github.com/ababik/RemuteJS  
+  A tool to produce new immutable object from the previous one using ES6 arrow functions 
+  
+- **object-immutable-set**  
+  https://github.com/GhystonSoftware/object-immutable-set  
+  Update deeply nested objects in an immutable and type-safe way
 
 
 #### Immutable/Redux Interop

@@ -210,3 +210,7 @@
 - **redux-pure-fetch**  
   https://github.com/Shawn-Cao/redux-pure-fetch  
   A declarative Redux middleware to manage asynchronous service calls and side-effects, so the redux action creator & reducer stay pure can stay pure and actions still serializable 
+  
+- **redux-http-request-middleware**  
+  https://github.com/hk-labs/redux-http-request-middleware  
+  Add the HTTP request ability to your own redux actions. 

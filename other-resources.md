@@ -48,3 +48,11 @@
 - **duck-stack**  
   https://github.com/liamross/duck-stack  
   A proposal for a simple, reusable and compartmentalized file structure for Redux projects. 
+  
+- **cache-reducks**  
+  https://github.com/guilatrova/cache-reducks  
+  Proposal to extends both duck and re-ducks ideas to handle Operations + Caching operation results with React + Redux. 
+  
+- **Flux Standard Data Storage**  
+  https://github.com/sagiavinash/flux-standard-data-storage  
+  A standard for Flux store objects and compatible action objects

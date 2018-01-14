@@ -810,6 +810,18 @@
   https://github.com/luwes/redux-proxy-selectors  
   Redux enhancer to access selectors directly from state as getters.
   
+- **redux-knife-manager**  
+  https://github.com/madetheforcebewithyou/redux-knife-manager  
+  Redux Knife Manager is the lightweight library for easily managing, encapsulating and generating the redux entities such as action, reducer, selector and so on.
+  
+- **Reactium**  
+  https://github.com/Atomic-Reactor/Reactium  
+  A framework for creating React + Redux apps using the domain driven design (DDD) paradigm. 
+  
+- **redux-command-handler**  
+  https://github.com/fabioelizandro/redux-command-handler  
+  A library that aims to separate commands from events instead of have just actions. Using this libraries all redux actions becames events and events are generate just by commands.
+  
   
 #### Redux-Inspired Libraries
 

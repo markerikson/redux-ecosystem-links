@@ -3,7 +3,7 @@
 #### React
 
 - **React-Redux**  
-  https://github.com/reactjs/react-redux
+  https://github.com/reactjs/react-redux  
   The official React bindings for Redux, maintained by the Redux team
 
 #### Angular
@@ -106,6 +106,10 @@
 - **vuejs-redux**  
   https://github.com/titouancreach/vuejs-redux  
   High order component facilities for Vue and Redux 
+  
+- **vue-own-redux**  
+  https://github.com/RequireSun/vue-own-redux  
+  A connector to make a vue component has its own redux store.
 
 #### Vanilla JS
 
@@ -199,3 +203,7 @@
 - **riot-redux-router**  
   https://github.com/collingreen/riot-redux-router  
   Dead simple integration between the riot js router and redux.  Combine Riot's router and redux so you can easily dispatch route actions to simultaneously update your store and the browser url. 
+  
+- **glace**  
+  https://github.com/Fordi/glace  
+  Glacé aspires to be a simple, fast, small, and elegant view layer for simple Redux-based apps. Its templates are entirely well-formed XML fragments and it outputs real DOM in real time.

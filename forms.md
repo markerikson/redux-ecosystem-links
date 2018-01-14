@@ -58,7 +58,7 @@
   Simple and flexible forms in React and Redux
   
 - **React Redux Local Form**  
-  https://github.com/jschr/react-redux-form-provider
+  https://github.com/jschr/react-redux-form-provider  
   React components for building forms with a local Redux store for managing state.
   
 - **asasalad**  

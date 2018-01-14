@@ -50,7 +50,7 @@
   Loads async data for Redux apps focusing on preventing duplicated requests and dealing with async dependencies.  Deeply inspired by Alt Data Sources API, also inspired by redux-saga.
   
 - **redux-filter**  
-  https://github.com/nsmith7989/redux-filter
+  https://github.com/nsmith7989/redux-filter  
   Higher Order React Component for filtering (and sorting) a collection of items. This is especially useful in product filters that mimic the sorting/filtering behavior of Amazon or Best Buy.
   
 - **Redux Connected PropTypes**  

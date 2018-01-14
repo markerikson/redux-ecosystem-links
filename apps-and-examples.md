@@ -298,7 +298,20 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   
 - **Soundize**  
   https://github.com/Alexloof/Soundize  
-  A homemade server side rendering client made with React and Redux, powered by the Spotify API 
+  A homemade server side rendering client made with React and Redux, powered by the Spotify API
+  
+- **nteract**  
+  https://github.com/nteract/nteract  
+  A desktop application for running Jupyter notebooks
+   
+ - **react-flow-diagrams**  
+   https://github.com/rmfisher/react-flow-diagrams  
+   A drag-and-drop flow diagram builder
+   
+- **oni**  
+  https://github.com/onivim/oni  
+  Oni is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors. Oni is built with neovim, and inspired by VSCode, Atom, LightTable, and Emacs
+   
   
 #### Other Application Lists
   

@@ -32,7 +32,7 @@
   A simple React component that provides Loading Bar (aka Progress Bar) for long running tasks. Works out of the box with redux-promise-middleware and can be easily tweaked for other usage.
    
 - **react-redux-terminal**  
-  https://github.com/phpingme/react-redux-terminal
+  https://github.com/phpingme/react-redux-terminal  
   React+Redux driven terminal component
   
 - **semantic-react-redux**  
@@ -181,6 +181,10 @@
 - **react-redux-layout**  
   https://github.com/skidding/react-redux-layout  
   Unleash your creativity with dynamic layouts!  Best suited for unconventional layouts, when the DOM is treated more like a canvas than a document. Yay for games, presentations and other full-screen experiences. Nay for articles, forums, e-commerce. YMMV.
+  
+- **react-multistepper**  
+  https://github.com/GigSalad/react-multistepper  
+  A Redux based React multistep UI system. 
 
 
 #### Modals
@@ -321,9 +325,9 @@
   https://github.com/kpaxqin/redux-listview  
   An HOC and Redux logic for creating list pages easier
   
-- **react-redux-composeable-list**  
-  https://github.com/SmallImprovements/react-redux-composeable-list  
-  A list component with a variety of available customizations
+- **react-redux-composable-list**  
+  https://github.com/SmallImprovements/react-redux-composable-list  
+  A list component with a variety of available customizations, including pagination and filtering
   
   
 #### Notifications
@@ -427,6 +431,14 @@
 - **redux-sweetalert**  
   https://github.com/mrstebo/redux-sweetalert  
   Actions, reducers, and component for using SweetAlert with React and Redux
+  
+- **react-native-redux-toast**  
+  https://github.com/Wolox/react-native-redux-toast  
+  Simple to use, easy to customize Toast component for Android & iOS. Developed with love for redux apps 
+  
+- **hot-tip**  
+  https://github.com/Swrve/hot-tip  
+  A stress-free redux/react tooltip solution 
   
   
 #### Maps
