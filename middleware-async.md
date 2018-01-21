@@ -163,6 +163,10 @@
   https://github.com/yenshih/redux-awaiter  
   A Redux middleware for giving opportunities to await and receive actions in anywhere.  Allows use of `await` in components to wait for specific dispatched actions.
   
+- **redux-slim-async**  
+  https://github.com/Gabri3l/redux-slim-async  
+  A FSA-compliant Redux middleware to ease the pain of tracking the status of an async action.
+  
   
 #### Timeouts and Delays
 
@@ -278,6 +282,10 @@
 - **redux-re-dispatch**  
   https://github.com/rbrahul/redux-re-dispatch  
   A redux middleware to dispatch recent actions from action history queue
+  
+- **redux-offline-queue**  
+  https://github.com/RobPando/redux-offline-queue  
+  Simple offline queue for redux, inspired by redux-queue-offline. 
   
   
 #### Other Async Actions

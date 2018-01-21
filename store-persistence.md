@@ -197,6 +197,14 @@
   https://github.com/medihack/redux-pouchdb-plus  
   Synchronize Redux store with PouchDB to have a persistent store. 
   
+- **redux-session-storage-gatorade**  
+  https://github.com/philopian/redux-session-storage-gatorade  
+  Use session storage to store the state of your redux store so if the user refreshes the browser your state will persist
+  
+- **redux-state-save**  
+  https://github.com/bytefunc/redux-state-save  
+  Save and load the Redux state to file storage and localStorage
+  
   
 #### Redux-Persist Addons
 

@@ -219,3 +219,7 @@
 - **redux-saga-requests**  
   https://github.com/klis87/redux-saga-requests  
   Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API, but different integrations could be added, as they are implemented in a plugin fashion.
+  
+- **redux-saga-auth**  
+  https://github.com/alvelig/redux-saga-auth  
+  Token auth flow handling using sagas

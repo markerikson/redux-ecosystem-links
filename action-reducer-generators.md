@@ -470,6 +470,10 @@
 - **redux-standard-reducers**  
   https://github.com/sagiavinash/redux-standard-reducers  
   A set of utilities to create reducers that are Flux Standard Data Storage compliant.
+  
+- **redux-rest-fetcher**  
+  https://github.com/klooperator/redux-rest-fetcher  
+  Small library for creating API endpoint calls and other fetch calls. Can be used in any project, but is meant to be used with redux to dispatch results to store.
 
   
 #### Other Code Structures

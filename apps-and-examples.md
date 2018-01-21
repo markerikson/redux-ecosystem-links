@@ -311,6 +311,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **oni**  
   https://github.com/onivim/oni  
   Oni is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors. Oni is built with neovim, and inspired by VSCode, Atom, LightTable, and Emacs
+  
+- **redux-game**  
+  https://github.com/osofour/redux-game  
+  Exploration of 2D WebGL rendering/physics with a Redux-based architecture.
+  
+- **posthumus**  
+  https://github.com/praghus/posthumus  
+  A 2D side-scroller zombie shooting game, built with React, Redux, and a lot of canvas rendering logic
    
   
 #### Other Application Lists

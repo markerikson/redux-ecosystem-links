@@ -822,6 +822,14 @@
   https://github.com/fabioelizandro/redux-command-handler  
   A library that aims to separate commands from events instead of have just actions. Using this libraries all redux actions becames events and events are generate just by commands.
   
+- **redux-way**  
+  https://github.com/lobor/redux-way  
+  A small, simple and immutable model to manage data in your Redux store.
+  
+- **redux-get**  
+  https://github.com/luwes/redux-get  
+  Redux enhancer to access state props and selectors via a simple store.get() method.
+  
   
 #### Redux-Inspired Libraries
 

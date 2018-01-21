@@ -235,3 +235,7 @@
 - **react-redux-router**  
   https://github.com/micahblu/react-redux-router  
   An incredibly simple and easy to use router for react redux apps.  All that is required is a routes config object to be set, then import the Router component and routerReducer and pass the store and routes to the Router component.
+  
+- **air-traffic-control**  
+  https://github.com/airplane-mode/air-traffic-control  
+  Air Traffic Control maps route changes in your app to action creators in redux. Dead simple Redux routing, the way it should work.

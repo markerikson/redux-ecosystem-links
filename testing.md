@@ -293,3 +293,7 @@
 - **redux-mock-saga**  
   https://github.com/giespaepen/redux-mock-saga  
   Elegant testing strategy to check what your sagas really do, i.e. testing the result of the side effects.
+  
+- **proofread**  
+  https://github.com/streamich/proofread  
+  \A convenience method to decrease boilerplate when testing you Redux sagas with Jest

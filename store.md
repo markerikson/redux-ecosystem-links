@@ -113,6 +113,10 @@
   https://github.com/seveibar/remote-redux  
   Remote redux eliminates the need for complex server-side apis and api bindings by combining the redux state machine on the client with the server.
   
+- **redux-state-channel**  
+  https://github.com/piotr-cz/redux-state-channel  
+  Lightweight Redux middleware to sync state across tabs with same origin using BroadcastChannel.
+  
 
 #### Store Change Subscriptions
 

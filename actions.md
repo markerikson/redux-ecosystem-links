@@ -268,6 +268,10 @@
   https://github.com/doasync/redux-action-creators  
   Configurable action creators for redux with sub-types
   
+- **redux-fast-actions**  
+  https://github.com/ozankasikci/redux-fast-actions  
+  A module to ease the pain of creating actions constants and action creator functions. 
+  
   
 #### Other Action Use Cases  
   
@@ -322,3 +326,7 @@
 - **redux-hoax**  
   https://github.com/theJian/redux-hoax  
   Higher-order action creators for Redux, allowing dispatching an action only once and creating payloads from app state.
+  
+- **reducer-action-interceptor**  
+  https://github.com/jony89/reducer-action-interceptor  
+  This plugin allows you on one hand to intercept action creators in order to patch the action before bubbling up to the reducers, and on the other hand to intercept the reducers in order to take advantage of that interception.

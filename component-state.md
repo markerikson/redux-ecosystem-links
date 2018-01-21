@@ -273,6 +273,14 @@
   https://github.com/mmiller42/react-redux-setstate  
   A HOC that overrides the React setState API to use Redux for storing component state. 
   
+- **react-redux-mirror**  
+  https://github.com/loanmarket/react-redux-mirror  
+  A reducer helper and Higher Order Component using react-redux to temporary mirror parts of a Redux store.
+  
+- **react-set-props**  
+  https://github.com/dabapps/react-set-props  
+  Store arbitrary state in redux with a similar API to setState
+  
   
 #### Simplified / Key-Value State
 

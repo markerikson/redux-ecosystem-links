@@ -146,6 +146,10 @@
 - **redux-wizard-form**  
   https://github.com/frankPairs/redux-wizard-form  
   A Redux-connected wizard form that helps manage steps and transitions.
+  
+- **redux-list-builder**  
+  https://github.com/kierandenshi/redux-list-builder  
+  A React component for building lists of strings 
 
 
 #### Layout
@@ -329,6 +333,10 @@
   https://github.com/SmallImprovements/react-redux-composable-list  
   A list component with a variety of available customizations, including pagination and filtering
   
+- **redux-manifest**  
+  https://github.com/autodatadirect/redux-manifest  
+  A paginated table implementation using Redux and React
+  
   
 #### Notifications
   
@@ -439,6 +447,10 @@
 - **hot-tip**  
   https://github.com/Swrve/hot-tip  
   A stress-free redux/react tooltip solution 
+  
+- **Xync**  
+  https://github.com/xclix/xync  
+  React component for displaying notifications. Use as a plain React component or connected to a Redux store.
   
   
 #### Maps
