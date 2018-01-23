@@ -315,6 +315,10 @@
 - **redux-boilerplate-reducer**  
   https://github.com/mimshwright/redux-boilerplate-reducer  
   Quickly create bundles of action types, action creators, and reducers with a few lines of code.
+  
+- **react-apollo-redux**  
+  https://github.com/Drawbotics/react-apollo-redux 
+  A small wrapper to automatically dispatch actions in response to apollo mutations.
 
 
 #### Network Requests and APIs
