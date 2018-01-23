@@ -206,6 +206,10 @@
 
 #### Client/Server Collections
 
+- **datavan**  
+  https://github.com/ericfong/datavan  
+  wrap redux into mongodb api and can sync with server
+  
 - **redux-collection**  
   https://github.com/eladlevy/redux-collection  
   A robust redux collection data structure that easily syncs with a RESTful API.
