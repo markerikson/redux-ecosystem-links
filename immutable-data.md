@@ -241,6 +241,9 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/GhystonSoftware/object-immutable-set  
   Update deeply nested objects in an immutable and type-safe way
 
+- **immutad●t**
+  https://github.com/Zenika/immutadot
+  immutad●t offers a short and meaningful syntax to apply operations on immutable structures. It allows batch modifications using an advandced path notation and grouped modifications using a functional approach, and is extensible.
 
 #### Immutable/Redux Interop
 
