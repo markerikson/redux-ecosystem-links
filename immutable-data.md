@@ -246,6 +246,9 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/brigand/imset  
   Immutable updates that look mutable with template strings
 
+- **immutad●t**  
+  https://github.com/Zenika/immutadot  
+  immutad●t offers a short and meaningful syntax to apply operations on immutable structures. It allows batch modifications using an advandced path notation and grouped modifications using a functional approach, and is extensible.
 
 #### Immutable/Redux Interop
 
