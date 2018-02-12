@@ -197,6 +197,10 @@
 - **react-redux-lock**  
   https://github.com/alirezavalizade/react-redux-lock  
   A simple container for creating responsive apps 
+  
+- **redux-resize**  
+  https://github.com/ysfzrn/redux-resize  
+  Keep your media type and screen size in sync with application state
 
   
 ### Internationalization

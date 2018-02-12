@@ -315,6 +315,10 @@
 - **redux-boilerplate-reducer**  
   https://github.com/mimshwright/redux-boilerplate-reducer  
   Quickly create bundles of action types, action creators, and reducers with a few lines of code.
+  
+- **redux-fluent**  
+  https://github.com/Code-Y/redux-fluent  
+  Tiny and Eloquent way to manage a redux-like state manager 
 
 
 #### Network Requests and APIs
@@ -474,6 +478,10 @@
 - **redux-rest-fetcher**  
   https://github.com/klooperator/redux-rest-fetcher  
   Small library for creating API endpoint calls and other fetch calls. Can be used in any project, but is meant to be used with redux to dispatch results to store.
+  
+- **redux-rest-easy**  
+  https://github.com/Brigad/redux-rest-easy  
+  Generates actions, reducers, and selectors, and also manages the state's data and metadata for your network requests. It is easy to use, and to observe via the Redux Devtools.  It also provides sensible defaults, allowing you to use it with almost no configuration, but also to customize anything you would like.
 
   
 #### Other Code Structures

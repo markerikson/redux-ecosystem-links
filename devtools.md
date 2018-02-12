@@ -52,6 +52,10 @@
   https://github.com/skortchmark9/reselect-devtools-extension  
   Debugging tools for Reselect.  Check selector dependencies, inputs, outputs, and recomputations at any time.  Output a JSON representation of your selector graph.  Tools include a library and a Chrome browser extension.
   
+- **kuker**  
+  https://github.com/krasimir/kuker  
+  A browser devtools extension that can show events and changes from many sources, including Redux stores, Redux-Saga, Vue, Angular, MobX, DOM elements,a nd many more
+  
   
 #### DevTools Monitors
 
@@ -426,3 +430,7 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **reactopt**  
   https://github.com/reactopt/reactopt  
   A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
+  
+- **shallow-equal-explain**  
+  https://github.com/OliverJAsh/shallow-equal-explain  
+  A function that returns an object explaining the difference (instead of the usual boolean). Useful for debugging React `PureComponent`s. 

@@ -56,6 +56,11 @@
 
 #### Immutable Update Utilities
 
+  
+- **immer**  
+  https://github.com/mweststrate/immer  
+  A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
+
 - **immutable-ops**  
   https://github.com/tommikaikkonen/immutable-ops  
 A collection of functions to perform immutable operations on plain JavaScript objects and arrays.  Like updeep but with batched mutations and no freezing.  Like icepick, but with batched mutations and a curried API that puts the target object as the last argument. No freezing.
@@ -224,10 +229,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **ipath**  
   https://github.com/ln613/ipath  
   Ensure immutability by updating javascript objects using a path similar to CSS/jQuery selector, great for react/redux applications where immutability is required, especially when working with deeply nested objects. 
-  
-- **immer**  
-  https://github.com/mweststrate/immer  
-  A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
 
 - **hydux-mutator**  
   https://github.com/hydux/hydux-mutator  
@@ -240,6 +241,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **object-immutable-set**  
   https://github.com/GhystonSoftware/object-immutable-set  
   Update deeply nested objects in an immutable and type-safe way
+  
+- **imset**  
+  https://github.com/brigand/imset  
+  Immutable updates that look mutable with template strings
 
 
 #### Immutable/Redux Interop

@@ -203,6 +203,10 @@
   https://github.com/SevenOutman/redux-eloquent  
   Allows you to query and mutate your redux store in ORM style.
   
+- **crud-reducer**  
+  https://github.com/gojutin/crud-reducer  
+  A simple utility library to help you manage CRUD, API or any other async operations with redux.
+  
 
 #### Client/Server Collections
 

@@ -308,3 +308,7 @@
 - **tpt-connect**  
   https://github.com/TeachersPayTeachers/tpt-connect  
   TpT-Connect is a Redux extension which creates simple interfaces for your React components' to interact with your RESTful API.  TpT-Connect automatically fetches your components' data dependencies on componentWillMount and componentDidUpdate when relevant props are changed so you don't have to worry about when and how to fetch your data. To make your resources available across multiple components, TpT-Connect normalizes and caches your resources in its Redux state.
+  
+- **redux-obtain**  
+  https://github.com/robertsonmcclure/redux-obtain  
+  redux-obtain works with React Redux to coordinate getting data from a server using React component lifecycles to manage the asychronous actions and Redux to store all of its state.

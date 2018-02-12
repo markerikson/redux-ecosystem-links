@@ -312,10 +312,6 @@
   https://github.com/kofile/redux-lenses  
   A set of utility functions for dealing with redux state via Ramda lenses 
   
-- **Redux-Reduced-Actions**  
-  https://github.com/PlumTreeSystems/Redux-Reduced-Actions  
-  Reduced actions are enhanced redux actions which carry information on how to change store's state. Instead of writing custom reducers for each action, reduced actions can return reduced state themselves. This is achieved by passing state object's new property value and location of that property using special path notation. 
-  
 - **k-redux-factory**  
   https://github.com/alakarteio/k-redux-factory  
   Factory of Redux reducers and their associated actions and selectors for treating your Redux state as a key/value store.
@@ -412,3 +408,11 @@
 - **redux-box**  
   https://github.com/anish000kumar/redux-box  
   Tools for simplifying Redux app setup by generating modules that can include sagas.
+
+- **redux-bundler**  
+  https://github.com/henrikjoreteg/redux-bundler  
+  Lets you compose a larger redux app out of "redux bundles" that encapsulate related functionality. Usually, a bundle includes a reducer, some action creators, and some selectors.  Supports exporting functions based on naming conventions, lazy-loading bundles, referring to selectors and actions by name, and much more.
+  
+- **redux-modulist**  
+  https://github.com/turningspace/redux-modulist  
+  A utility library that aims to simplify the way redux applications are built and scaled, by providing helpers for making your redux components fully-modular.

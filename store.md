@@ -240,6 +240,10 @@
   https://github.com/luwes/redux-eagle  
   Redux middleware to watch state changes using transformable selectors. 
   
+- **redux-filter-subscriptions-enhancer**  
+  https://github.com/warren-bank/redux-filter-subscriptions-enhancer  
+  A Redux store enhancer that allows providing a filtering callback to determine if a subscription listener will actually be invoked when an action is dispatched.
+  
   
 #### Batching and Notifications
 

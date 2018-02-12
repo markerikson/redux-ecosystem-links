@@ -374,6 +374,14 @@
 - **redux-exr**  
   https://github.com/paska27/redux-exr  
   A set of `combineReducers` alternatives that allow specifying dependencies between branches.
+  
+- **redux-combiner**  
+  https://github.com/rmdm/redux-combiner  
+  Convenient reducers combiner for Redux.
+  
+- **redux-reducer-functions**  
+  https://github.com/vitsy/redux-reducer-functions  
+  A reducer combination utility that uses function names as action names
 
   
 #### Higher-Order Reducers
@@ -530,6 +538,14 @@
 - **redux-flag-reducer**  
   https://github.com/DannyDelott/redux-flag-reducer  
   Create a reducer that returns true or false, "on" or "off", "loaded" or "loading", etc.  Makes it convenient to implement flags as reducers in your redux state tree. This can be handy for tracking all kinds of things from toggle-based UIs to the loading/loaded state of an external resource.
+  
+- **redux-diet**  
+  https://github.com/AlexMouton/redux-diet  
+  Simple pre-built reducers to handle updating objects, simple values, arrays, and request status
+  
+- **easydux**  
+  https://github.com/gtg092x/easydux  
+  Out of the box reducer creators for objects, arrays, and values, with customizable action types for triggering behavior.
   
   
 #### Advanced Reducer Use Cases

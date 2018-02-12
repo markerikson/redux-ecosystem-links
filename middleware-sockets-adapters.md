@@ -123,6 +123,10 @@
   https://github.com/Bucko13/bsock-middleware  
   Redux middleware for websocket actions using the bsock client 
   
+- **redux-websocket-bridge**  
+  https://github.com/compulim/redux-websocket-bridge  
+  Bridge WebSocket messages and Redux actions, by dispatching WebSocket messages into the Redux store and lifting Redux actions to WebSockets.
+  
 
 #### Firebase
 

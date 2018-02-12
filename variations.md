@@ -830,6 +830,20 @@
   https://github.com/luwes/redux-get  
   Redux enhancer to access state props and selectors via a simple store.get() method.
   
+- **redux-decorators**  
+  https://github.com/qens/redux-decorators  
+  A library for making development with redux more comfortable and efficient via decorators
+  
+- **redux-multistore**  
+  https://github.com/i-think-rapido/redux-multistore  
+  Provides multistore functionality for a redux store using redux-observable
+  
+- **beautiful-react-redux**  
+  https://github.com/theKashey/beautiful-react-redux  
+  https://github.com/theKashey/memoize-state  
+  A proxy-based state memoization library, with small wrappers for `connect` that encapsulate using it for your `mapState` functions
+
+  
   
 #### Redux-Inspired Libraries
 

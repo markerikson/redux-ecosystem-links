@@ -119,6 +119,10 @@
   https://github.com/rtragle/test-redux-store  
   This library is made to take up where redux-mock-store left off. You can execute actions that run reducers and see the raw action objects as well as the result state. It works nice with middleware like redux-thunk as well. Unlike redux-mock-store, you can incorporate reducers as well.
   
+- **eslint-plugin-react-redux**  
+  https://github.com/DianaSuvorova/eslint-plugin-react-redux  
+  A set of ESLint rules for enforcing some opinionated best practices with React-Redux
+  
   
 #### Reducers
 
@@ -296,4 +300,5 @@
   
 - **proofread**  
   https://github.com/streamich/proofread  
-  \A convenience method to decrease boilerplate when testing you Redux sagas with Jest
+  A convenience method to decrease boilerplate when testing you Redux sagas with Jest
+  

@@ -237,6 +237,15 @@
   https://github.com/benjaminhadfield/redux-data-dispatch  
   An enhancer to redux reducers that makes it easy to define dependent reducers to store data returned by a single action. This promotes a modular redux design where each reducer is responsible for storing one type of data.
   
+- **redux-action-spy**  
+  https://github.com/mbrimmer83/redux-action-spy  
+  Spy on actions and get notified when they are dispatched 
+  
+- **redux-handler-middleware**  
+  https://github.com/ZachPerkitny/redux-handler-middleware  
+  Middleware that executes custom handlers before and after state updates.
+
+  
 #### Analytics
 
 - **redux-analytics**  
@@ -468,3 +477,11 @@
 - **redux-meta-selector**  
   https://github.com/funkjunky/redux-meta-selector  
   Middleware for redux that enables an action to return data from the store via a selector. 
+  
+- **redux-xstate**  
+  https://github.com/carlbarrdahl/redux-xstate  
+  Redux middleware for the xstate state machine library
+  
+- **redux-clipboard**  
+  https://github.com/team-griffin/redux-clipboard  
+  Allows you to copy a given value to the clipboard. It uses execCommand('copy') which is 100% supported

@@ -214,3 +214,7 @@
 - **redux-http-request-middleware**  
   https://github.com/hk-labs/redux-http-request-middleware  
   Add the HTTP request ability to your own redux actions. 
+  
+- **redux-network-middleware**  
+  https://github.com/jacklam718/redux-network-middleware  
+  A redux network middleware for handling API calls and responses.

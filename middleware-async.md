@@ -287,6 +287,10 @@
   https://github.com/RobPando/redux-offline-queue  
   Simple offline queue for redux, inspired by redux-queue-offline. 
   
+- **redux-actions-cache-middleware**  
+  https://github.com/bamlab/redux-actions-cache-middleware  
+  Cache Redux actions, allowing them to be skipped if the cache result is still active.
+  
   
 #### Other Async Actions
   

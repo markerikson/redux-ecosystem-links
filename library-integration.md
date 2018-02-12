@@ -133,6 +133,10 @@
   https://github.com/soleiluwedu/bindreduxstoretodom  
   A tiny utility to stringify a Redux store's contents and write it to a div
   
+- **redux-helpers**  
+  https://github.com/PolymerLabs/redux-helpers  
+  Small utilities from the Polymer project to help integrate Redux into a web components app
+  
 
 #### Other
 

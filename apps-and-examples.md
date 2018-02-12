@@ -319,6 +319,14 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **posthumus**  
   https://github.com/praghus/posthumus  
   A 2D side-scroller zombie shooting game, built with React, Redux, and a lot of canvas rendering logic
+  
+- **react-lumines**  
+  https://github.com/geniusgordon/react-lumines  
+  A classic block-dropping game rewritten in React and Redux
+  
+- **tweet-tray**  
+  https://github.com/jonathontoon/tweet-tray  
+  A small application which allows you to tweet from your desktop system tray or status bar, without any further distractions. The core technology used consists of Electron, React + Redux and Styled Components.  
    
   
 #### Other Application Lists
