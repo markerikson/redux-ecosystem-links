@@ -150,6 +150,14 @@
   https://github.com/fakundo/redux-getters  
   Provides an additional layer of getters between the store and components. The getter returns data from the store if they are there, otherwise it returns stub and invokes fetch action.
   
+- **lenscrafter**  
+  https://github.com/Millsky/lenscrafter  
+  A micro library for immutable and safe state access
+  
+- **re-select**  
+  https://github.com/bearyinnovative/re-select  
+  Memoized selector library, meant to improve reselect usage to be more resilient and concise. By using the new way to construct selectors, you should be able to write selectors that are easier to combine with.
+  
   
 #### Functional Programming
   

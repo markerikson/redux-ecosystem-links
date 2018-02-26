@@ -324,6 +324,10 @@
   https://github.com/jpstone/redux-pathspace  
   Create path-based namespaces to contain action/reducer pairs using Ramda lenses under the hood 
   
+- **oberon-redux**  
+  https://github.com/oberonamsterdam/oberon-redux  
+  Update your state directly from your components without app-specific reducers or actions, by defining state tree paths.
+  
   
 #### Modularity and Encapsulation
 

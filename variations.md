@@ -842,6 +842,18 @@
   https://github.com/theKashey/beautiful-react-redux  
   https://github.com/theKashey/memoize-state  
   A proxy-based state memoization library, with small wrappers for `connect` that encapsulate using it for your `mapState` functions
+  
+- **redux-context-provider**  
+  https://github.com/jamrizzi/redux-context-provider  
+  Inject redux into react context 
+  
+- **coredux**  
+  https://github.com/kana-sama/coredux  
+  Dualism to Redux. Two-way combining of redux modules.
+  
+- **react-lot**  
+  https://github.com/didrio/react-lot  
+  A dead simple React store that can easily be updated and accessed from any React component. Built on top of Redux so the devTools extension can be used. Follows Redux's philosophy of never directly mutating state and always returning a fresh state on updates.
 
   
   

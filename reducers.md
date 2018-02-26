@@ -382,6 +382,10 @@
 - **redux-reducer-functions**  
   https://github.com/vitsy/redux-reducer-functions  
   A reducer combination utility that uses function names as action names
+  
+- **redux-split-reducer**  
+  https://github.com/jbradle/redux-split-reducer  
+  Library for more redux friendly configuration of reducers, based on Ramda. It allows splitting reducers on the same state branch. 
 
   
 #### Higher-Order Reducers
@@ -722,6 +726,10 @@
 - **react-redux-async**  
   https://github.com/sebastiendavid/react-redux-async  
   Asynchronously load your module, then inject reducers and sagas.
+  
+- **redux-extensible-store**  
+  https://github.com/lundegaard/redux-extensible-store  
+  Redux extension that allows you to dynamically inject new reducers and sagas into you running application.
   
   
 #### State Machines

@@ -239,3 +239,7 @@
 - **air-traffic-control**  
   https://github.com/airplane-mode/air-traffic-control  
   Air Traffic Control maps route changes in your app to action creators in redux. Dead simple Redux routing, the way it should work.
+  
+- **redux-location-middleware**  
+  https://github.com/diosmosis/redux-location-middleware  
+  Simple middleware and reducer that makes the URL accessible & updateable via redux state.

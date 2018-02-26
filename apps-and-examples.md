@@ -327,6 +327,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **tweet-tray**  
   https://github.com/jonathontoon/tweet-tray  
   A small application which allows you to tweet from your desktop system tray or status bar, without any further distractions. The core technology used consists of Electron, React + Redux and Styled Components.  
+  
+- **pixelpusher**  
+  https://github.com/automerge/pixelpusher  
+  https://medium.com/@pvh/pixelpusher-real-time-peer-to-peer-collaboration-with-react-7c7bc8ecbf74  
+  A real-time, peer-to-peer pixel-based drawing application
    
   
 #### Other Application Lists

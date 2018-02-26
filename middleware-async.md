@@ -167,6 +167,10 @@
   https://github.com/Gabri3l/redux-slim-async  
   A FSA-compliant Redux middleware to ease the pain of tracking the status of an async action.
   
+- **redux-loading-middleware**  
+  https://github.com/andre-araujo/redux-loading-middleware  
+  Redux loading middleware set a loading state for every unresolved action that returns a promise, after promise resolution, it set's loadings state to false. Also it chains action unresolved promises that runs within 200ms threshold, and set loading to false only when every promise is done.
+  
   
 #### Timeouts and Delays
 

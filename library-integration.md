@@ -28,6 +28,10 @@
   https://github.com/simontonsoftware/ng-app-state  
   ng-app-state is built on top of ngrx/store, bringing you the same help writing performant, consistent applications for Angular in a format more familiar for those not accustomed to functional programming.  Compatible with the Redux DevTools and ngrx/effects.
   
+- **ngx-redux-core**  
+  https://github.com/HarmoWatch/ngx-redux-core  
+  The modern Redux integration for Angular 2+
+  
 #### Ember
 
 - **ember-redux**  

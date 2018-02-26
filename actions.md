@@ -272,6 +272,10 @@
   https://github.com/ozankasikci/redux-fast-actions  
   A module to ease the pain of creating actions constants and action creator functions. 
   
+- **redux-actiontyper**  
+  https://github.com/alnorris/redux-actiontyper  
+  Helper to create slightly less verbose redux action types. Uses ES6 Proxies!
+  
   
 #### Other Action Use Cases  
   

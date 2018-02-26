@@ -300,6 +300,10 @@
   https://github.com/hilkeheremans/redux-persist-seamless-immutable  
   Lets you use seamless-immutable on a per-reducer basis along with redux-persist v5.
   
+- **redux-persist-chrome-storage**  
+  https://github.com/robinmalburn/redux-persist-chrome-storage  
+  Storage adaptor for using Google Chrome's Storage API with redux-persist.
+  
 
 #### Redux-Storage Addons
 

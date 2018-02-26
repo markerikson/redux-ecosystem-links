@@ -423,6 +423,10 @@
   https://github.com/clarityhub/react-redux-clarity  
   Provides helper utilities to standardize your reducers so that every action automatically has loading states and error handling.
   
+- **redux-live**  
+  https://github.com/mystand/redux-live  
+  Redux with data fetching, blackjack and subscriptions 
+  
   
 #### Undo-Redo
 

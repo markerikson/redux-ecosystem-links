@@ -319,6 +319,14 @@
 - **redux-fluent**  
   https://github.com/Code-Y/redux-fluent  
   Tiny and Eloquent way to manage a redux-like state manager 
+  
+- **redux-symbiote**  
+  https://github.com/atomixinteractions/redux-symbiote  
+  Write your actions and reducers without pain
+  
+- **speedux**  
+  https://github.com/teefouad/speedux  
+  Speedux is an opinionated library that allows you to create actions and reducers for Redux, automatically. 
 
 
 #### Network Requests and APIs
@@ -482,6 +490,14 @@
 - **redux-rest-easy**  
   https://github.com/Brigad/redux-rest-easy  
   Generates actions, reducers, and selectors, and also manages the state's data and metadata for your network requests. It is easy to use, and to observe via the Redux Devtools.  It also provides sensible defaults, allowing you to use it with almost no configuration, but also to customize anything you would like.
+  
+- **redux-api-utility-library**  
+  https://github.com/sakoh/redux-api-utility-library  
+  A library of higher order reducers, an API middleware, TypeScript data types, and other utility functions to make building a Redux Application involving asynchronous calls to RESTful APIs more simple.
+  
+- **redux-sleep**  
+  https://github.com/jackrobertscott/redux-sleep  
+  Convention over configuration approach to redux facing RESTful endpoints.
 
   
 #### Other Code Structures

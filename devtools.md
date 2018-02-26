@@ -258,13 +258,9 @@
   https://github.com/caiogondim/redux-logdown.js  
   redux-logdown is a tiny logger library for Redux written with logdown that supports localStorage.debug for enabling/disabling store logging.
   
-- **redux-action-logger**  
-  https://github.com/hudl/redux-action-logger  
-  A simple, extensible redux middleware system to generate logs from actions. The intent of this library is to make logging and event reporting as simple and consistent as possible.
-  
 - **redux-usage-report**  
   https://github.com/aholachek/redux-usage-report  
-  This library allows you to replace a generic object with a proxied object and track which parts of the object are accessed. Made to help track which parts of the store were actually being used on various parts of a large Redux application.
+  This library tracks the way your app is using the data in your Redux store. By setting up the monitor in devtools you can see a live view of when different parts of your store are accessed
   
   
 #### Mutation Detection
@@ -370,10 +366,6 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **redux-payload-validator**  
   https://github.com/tomoyuki-tanaka/redux-payload-validator  
   Redux middleware for FSA payload validation.
-
-- **validstate**  
-  https://github.com/lifechurch/validstate  
-  A plugin for React+Redux applications to quickly validate state.
   
 - **redux-action-validator**  
   https://github.com/michael-martin-al/redux-action-validator  
