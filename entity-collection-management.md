@@ -206,7 +206,10 @@
 - **crud-reducer**  
   https://github.com/gojutin/crud-reducer  
   A simple utility library to help you manage CRUD, API or any other async operations with redux.
-  
+
+- **blue-chip**  
+  https://github.com/mfpiccolo/blue-chip
+  Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use.
 
 #### Client/Server Collections
 
