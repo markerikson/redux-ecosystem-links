@@ -123,6 +123,10 @@
   https://github.com/ryo33/combine-section-reducers  
   Section reducers is the same as reducers but it requires the third argument to get the entire state.  (sectionState, action, state) => newSectionState
   
+- **combineCrossSliceReducers**  
+  https://github.com/visusnet/combine-cross-slice-reducers  
+  Similar to `combineSectionReducers` but introduces stages which gives lower-ranking reducers access to the global state that results from higher-ranking reducers.
+  
 - **Redux Conditional**  
   https://github.com/ypxing/redux-conditional  
   Conditionally apply actions to Redux reducers to make sharing reducers easy.
