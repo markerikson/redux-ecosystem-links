@@ -83,7 +83,11 @@
 - **redux-active**  
   https://github.com/codepunkt/redux-active  
   Redux middleware & reducer to easily manage your users active/idle state
-  
+
+- **redux-browser-extension-sync**  
+  https://github.com/perry-mitchell/redux-browser-extension-sync  
+  Redux store synchronization between browser extension components (background, popup etc.). Works seamlessly with Chrome, Firefox and Opera.
+
   
 #### Feature Flags
   
