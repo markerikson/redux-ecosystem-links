@@ -735,7 +735,7 @@
   https://github.com/lundegaard/redux-extensible-store  
   Redux extension that allows you to dynamically inject new reducers and sagas into you running application.
   
-- **redux-dynamic-modules**
+- **redux-dynamic-modules**  
   https://github.com/Microsoft/redux-dynamic-modules
   Redux library which helps you organize all of your Redux artifacts (middleware, reducers, sagas, thunks, epics) into modules and dynamically add those modules at runtime
   
