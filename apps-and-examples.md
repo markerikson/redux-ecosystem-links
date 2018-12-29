@@ -6,7 +6,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 #### Purpose-Built Demos and Examples
   
 - **React-Redux RealWorld Example: TodoMVC for the Real World**  
-  https://github.com/GoThinkster/redux-review  
+  https://github.com/gothinkster/react-redux-realworld-example-app  
   An example full-stack "real world" application built with Redux.  Demos a Medium-like social blogging site that includes JWT authentication, CRUD, favoriting articles, following users, routing, and more.  The RealWorld project also includes many other implementations of the front and back ends of the site, specifically intended to show how different server and client implementations of the same project and API spec compare with each other.
   
 - **Project Mini-Mek**  
