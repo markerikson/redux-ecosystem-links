@@ -485,3 +485,7 @@
 - **redux-clipboard**  
   https://github.com/team-griffin/redux-clipboard  
   Allows you to copy a given value to the clipboard. It uses execCommand('copy') which is 100% supported
+  
+- **redux-user-timing**  
+  https://github.com/taehwanno/redux-user-timing  
+  User Timing middleware for profiling redux application.
