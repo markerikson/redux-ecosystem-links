@@ -127,7 +127,10 @@
   https://github.com/compulim/redux-websocket-bridge  
   Bridge WebSocket messages and Redux actions, by dispatching WebSocket messages into the Redux store and lifting Redux actions to WebSockets.
   
-
+- **react-redux-websocket**  
+  https://github.com/igormael/react-redux-websocket  
+  A simple middleware to emit and receive actions through a websocket. It uses a property of your action object to configurate the dispatch. 
+  
 #### Firebase
 
 - **redux-react-firebase**  
@@ -140,7 +143,7 @@
 
 - **firedux**  
   https://github.com/adjohnson916/firedux  
-  Firedux (fiery·ducks) wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.  Also supports some authentication methods and actions.
+  Firedux (fieryÂ·ducks) wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.  Also supports some authentication methods and actions.
 
 - **este-redux-firebase**  
   https://github.com/este/este-redux-firebase  
