@@ -5,7 +5,7 @@
 
 - **deox**  
   https://github.com/thebrodmann/deox  
-  Functional Type-safe Flux Standard Utilities.
+  Functional type-safe Flux standard utilities.
 
 - **multireducer**  
   https://github.com/erikras/multireducer  
