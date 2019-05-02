@@ -43,6 +43,9 @@
   https://github.com/matthieu-beteille/redux-data-fx  
   Declarative Side Effects for Redux.  Similar to redux-loop, mostly inspired by the elm architecture, with an implementation based on re-frame in cljs and its effectful handlers.
 
+- **redux-agent**  
+  https://github.com/bard/redux-agent  
+  Treat non-visual effects (such as network I/O) like visual effects (i.e. the user interface): describe them with state changes, render them via React.
 
 
 #### Other
