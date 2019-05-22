@@ -256,6 +256,10 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/gajus/redux-immutable  
   redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
 
+- **redux-immer**  
+  https://github.com/salvoravida/redux-immer  
+  redux-immer is used to create an equivalent function of Redux combineReducers that works with immer state.  
+
 - **immutable-redux**  
   https://github.com/unindented/immutable-redux  
   Provides utilities for dealing with Immutable data structures in Redux.
