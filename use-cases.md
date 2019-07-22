@@ -542,10 +542,6 @@
   https://github.com/evenchange4/redux-csrf  
   Keep your csrf token inside your Redux store.
 
-- **redux-fetch-apptoken**  
-  https://github.com/mindiply/redux-fetch-apptoken  
-  Redux middleware that wraps fetch calls with a http header that bears and app token.
-
 - **redux-simple-auth**  
   https://github.com/jerelmiller/redux-simple-auth  
   A library for implementing authentication and authorization for redux applications, inspired by the wonderful Ember Simple Auth library
