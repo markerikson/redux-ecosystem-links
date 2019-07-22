@@ -518,10 +518,6 @@
   https://github.com/Jackong/redux-authentication  
   An authentication decorator/component for Redux
   
-- **redux-security**  
-  https://github.com/lokhmakov/redux-security  
-  Redux based user, group and access management with authentication
-  
 - **redux-oauth**  
   https://github.com/yury-dymov/redux-oauth  
   Oauth token authentication system for react + redux.
