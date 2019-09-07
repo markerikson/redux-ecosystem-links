@@ -96,6 +96,9 @@
   https://github.com/Atomic-Reactor/redux-super-thunk  
   Thunk middleware for Redux that adds the store as an argument.
   
+- **redux-detector**  
+  https://github.com/piotr-oles/redux-detector  
+  Store enhancer for pure detection of state changes. It's like advanced `useEffect` for Redux.
 
 #### Redux-Effects extensions
   
