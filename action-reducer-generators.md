@@ -27,9 +27,10 @@
   https://github.com/BurntCaramel/flambeau  
   Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
   
-- **redux-dispatcher-reducer**  
-  https://github.com/stevenla/redux-dispatcher-reducer  
-  Reduce boilerplate in your redux code by using auto-generated action creators that automatically map to reducers
+- **redux-dispatcher**  
+  https://github.com/blueish9/redux-dispatcher  
+  Significantly reduce boilerplate in your redux code by encapsulating action type, action creator and dispatch function into one single dispatcher.  
+  Compatible with other redux third-party libraries like redux-saga.
 
 - **dead-simple-redux-helper**  
   https://github.com/armed/dead-simple-redux-helper  
