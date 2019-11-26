@@ -281,6 +281,10 @@
   https://github.com/dabapps/react-set-props  
   Store arbitrary state in redux with a similar API to setState
   
+- **encaps**  
+  https://github.com/megazazik/encaps
+  Creates independent, reusable and extensible modules for applications which use reducers.
+  
   
 #### Simplified / Key-Value State
 
