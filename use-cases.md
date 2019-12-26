@@ -471,10 +471,6 @@
   https://github.com/morkl/redux-branchable  
   A simple reducer enhancer for redux which enables branching time travel. All actions are saved, time travel is possible and encouraged, and any actions dispatched from a historic state result in a new branch being created.
   
-- **redux-undo-redo**  
-  https://github.com/welldone-software/redux-undo-redo  
-  Prebuilt undo-redo handling reducer and middleware.  Define which actions are undoable and how to revert them.
-  
 - **Redux-Queue**  
   https://github.com/JBlaak/Redux-Queue  
   Higher order reducer so you don't have to worry about order of arrival of the results of your actions.
