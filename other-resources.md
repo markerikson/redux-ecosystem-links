@@ -4,7 +4,7 @@
 #### Redux Links
 
 - **Redux Docs: Ecosystem**  
-  http://redux.js.org/docs/introduction/Ecosystem.html  
+  https://redux.js.org/introduction/ecosystem  
   A vetted selection of useful links and libraries
 
 - **Awesome Redux**  

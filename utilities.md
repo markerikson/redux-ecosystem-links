@@ -126,10 +126,6 @@
   https://github.com/ralusek/reselectie  
   Memoized selector library for any immutable data structure (such as a redux immutable store). This library serves as a smaller, faster alternative to reselect AND re-reselect.
   
-- **bo-selecta**  
-  https://github.com/hnrysmth/bo-selecta  
-  Syntactic sugar for redux selectors: `select('users').from(state).byId(userId)`
-  
 - **red-ux**  
   https://github.com/codemeasandwich/red-ux  
   Provides a genSelectState utility to improve selector caching behavior, and a shouldUpdate function for simple `shouldComponentUpdate` implementation

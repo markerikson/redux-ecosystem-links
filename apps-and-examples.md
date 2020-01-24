@@ -23,7 +23,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   
 - **Redux Saga Examples**  
   https://github.com/kuy/redux-saga-examples  
-  http://kuy.github.io/redux-saga-examples/  
   A set of examples demonstrating usage of redux-saga (autocomplete, throttle, start-stop, backend integration)
   
 - **Lifegame Redux**  
@@ -50,10 +49,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/GoTeamEpsilon/angular-to-react-redux  
   An educational resource for Angular v1 experts that are looking to learn React/Redux. A contrived sample application for managing basic patient information is provided using both technologies' best practices.
   
-- **react-stage-mgmt**  
-  https://github.com/pixelingene/react-state-mgmt  
-  A repo demonstrating various ways to build a login form and signup flow, using Redux+thunks, Redux+sagas, Redux+observables, and MobX
-  
 - **RealWorld: React/Redux Modular**  
   https://github.com/j-hannes/realworld-react-redux-modular  
   Another React/Redux implementation of the RealWorld example, demonstrating a modular/feature-based structure
@@ -71,7 +66,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   An adaptation of the "Yelp Clone" app by FullStackReact.  It extends the original by using Redux and Redux Saga instead of local state, as well as React Router v4, styled-components, and other modern standards.  Based on the React-Boilerplate starter kit.
   
 - **hacker-news-resolve**  
-  https://github.com/reimagined/hacker-news-resolve  
+  https://github.com/reimagined/resolve/tree/master/examples/hacker-news  
   A Hacker News clone, built using the Resolve library that abstracts over React and Redux
   
 
@@ -121,7 +116,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/mozilla/tofino  
   An experimental browser prototype, investigating new ideas and interactions.
   
-  
 - **Guild Wars 2 Armory**  
   https://github.com/madou/armory-react  
   Allows GW2 players to share account, character, and guild information.
@@ -147,7 +141,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   New user interface for Neos CMS built with React and Redux. This is an ongoing project, and it is open to new contributors.
 
 - **CarteJaune**  
-  https://github.com/nikgraf/CarteJaune 
+  https://github.com/nikgraf/CarteJaune  
   A React Native/Redux (+Saga) application to keep track of your vaccinations
 
 - **HyperTerm**  
@@ -157,10 +151,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 - **Phoenix Trello**  
   https://github.com/bigardone/phoenix-trello  
   Trello tribute done in Elixir, Phoenix Framework, React and Redux.
-  
-- **JSchematic**  
-  https://github.com/nicksenger/JSchematic  
-  JSchematic is a React-Redux application for drawing molecules and chemical reactions
   
 - **io-808**  
   https://github.com/vincentriemer/io-808  
@@ -172,7 +162,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   
 - **Linode Manager**  
   https://github.com/Linode/manager  
-  https://engineering.linode.com/2016/05/16/Announcing-the-new-open-source-manager.html  
   Linode's new account management application
   
 - **Boostnote**  
@@ -239,10 +228,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/buckyroberts/Vataxia-Frontend  
   Vataxia is an open source Reddit-like social network written in React and Redux.
   
-- **Easy Workout Log**  
-  https://github.com/victorparmar/easy-workout-log  
-  The front-end for the fitness tracking application https://ewolo.fitness .
-  
 - **Asteredux**  
   https://github.com/funkjunky/reduxgame  
   An Asteroids game with friction and terminal velocity. Built with Redux and a canvas.
@@ -304,17 +289,9 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/nteract/nteract  
   A desktop application for running Jupyter notebooks
    
- - **react-flow-diagrams**  
-   https://github.com/rmfisher/react-flow-diagrams  
-   A drag-and-drop flow diagram builder
-   
 - **oni**  
   https://github.com/onivim/oni  
   Oni is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors. Oni is built with neovim, and inspired by VSCode, Atom, LightTable, and Emacs
-  
-- **redux-game**  
-  https://github.com/osofour/redux-game  
-  Exploration of 2D WebGL rendering/physics with a Redux-based architecture.
   
 - **posthumus**  
   https://github.com/praghus/posthumus  
@@ -352,10 +329,6 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
 
 #### Redux Usage Stories
 
-- **Twitter: mobile.twitter.com**  
-  https://twitter.com/necolas/status/727538799966715904  
-  "Thanks for Redux. When we adopted it we saw big improvements in performance, testing, and code comprehension."
-  
 - **Lystable: Real World Redux**  
   https://speakerdeck.com/chrisui/real-world-redux  
   Explores the real world experiences of using Redux everyday within a rapidly scaling team and product.

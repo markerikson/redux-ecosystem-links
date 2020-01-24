@@ -170,10 +170,6 @@
   https://github.com/sergiodxa/redux-catch  
   Error catcher middleware for Redux reducers and middlewares.
   
-- **realtime-redux-logger**  
-  https://github.com/dbslone/realtime-redux-logger  
-  Log Redux Actions in realtime to an electron app for separate browser viewing
-  
 - **redux-bug-reporter**  
   https://github.com/dtschust/redux-bug-reporter  
   A bug reporter and bug playback tool for redux.  Includes easy bug reporting, logging of state, redaction of sensitive information, easy bug playback, and more.
@@ -205,10 +201,6 @@
 - **redux-bugsnag**  
   https://github.com/restorando/redux-bugsnag  
   Redux middleware that logs to Bugsnag
-  
-- **replicator**  
-  https://github.com/nrdobie/replicator  
-  Record and replay user actions from Redux.
   
 - **redux-log-diff**  
   https://github.com/Bebersohl/redux-log-diff  
@@ -347,10 +339,6 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   https://github.com/mkamakura/redux-validation  
   Validate action properties
   
-- **action-validate**  
-  https://github.com/chbinghu/action-validate  
-  Validate that actions match the Flux Standard Action definition
-  
 - **redux-validate-actions**  
   https://github.com/asn007/redux-validate-actions  
   A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
@@ -358,10 +346,6 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **redux-validator**  
   https://github.com/MaxLi1994/redux-validator  
   Action parameter validator middleware for redux
-  
-- **redux-tsa**  
-  https://github.com/contrarian/redux-tsa  
-  Async friendly validation middleware for Redux 
   
 - **redux-payload-validator**  
   https://github.com/tomoyuki-tanaka/redux-payload-validator  
@@ -377,10 +361,6 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
 - **React Render Visualizer**  
   https://github.com/redsunsoft/react-render-visualizer  
   A component mixin that overlays a tooltip indicating when a component has re-rendered and why, as well as animating the component's outline.
-
-- **react-transform-render-visualizer**  
-  https://github.com/spredfast/react-transform-render-visualizer  
-  A react-transform version of the render visualizer.  Transforms *all* React components by default, but also offers a second transform that can be used to only modify components with a `static rerenderViz = true` attribute on the component class.
 
 - **"WhyDidYouUpdateMixin"**  
   http://benchling.engineering/deep-dive-react-perf-debugging/  

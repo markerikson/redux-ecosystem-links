@@ -12,9 +12,8 @@
   Store enhancer that syncs (a subset) of your Redux store state to localstorage.
   
 - **redux-offline**  
-  https://github.com/jevakallio/redux-offline  
   https://github.com/redux-offline/redux-offline  
-  Persistent Redux store for Reasonaboutable™? Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
+  Persistent Redux store for Reasonaboutableâ„¢? Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
   Note: the original "jevakallio" repo has become inactive, so the repo was forked to a "redux-offline" organization.
   
 - **redux-storage**  
@@ -61,10 +60,6 @@
   https://github.com/explorigin/persistent-redux  
   Persistent-Redux is a drop-in middleware that will save your Redux state and restore it on the next page load.  Previously this tool focused on PouchDB but now it offers an adapter API to use any backend.
   
-- **redux-store-sync**  
-  https://github.com/lokhmakov/redux-store-sync  
-  Redux store sync middleware
-  
 - **redux-simple-storage-middleware**  
   https://github.com/BartWaardenburg/redux-simple-storage-middleware  
   Simple redux middleware which will store the current state tree in either session- or localstorage
@@ -92,14 +87,6 @@
 - **Redux-State-Sync**  
   https://github.com/AOHUA/redux-state-sync  
   A very light weight middleware to sync your redux state across browser tabs.
-  
-- **redux-replicate**  
-  https://github.com/loggur/redux-replicate  
-  Creates a Redux store enhancer designed to replicate actions and states. Declaratively connect application state to data sources and create efficient, scalable, and reliable software with minimal effort. 
-  
-- **redux-store-sessionstorage**  
-  https://github.com/ppallesws/redux-store-sessionstorage  
-  Store enhancer that syncs (a subset) of your Redux store state to sessionstorage. 
   
 - **record-redux**  
   https://github.com/GA-MO/record-redux  
@@ -140,14 +127,6 @@
 - **redux-localstore**  
   https://github.com/arojunior/redux-localstore  
   Subscribe Redux Store and replicate to localStorage, so users can refresh the page and keep the App state
-  
-- **redux-checkpoints**  
-  https://github.com/workemy/redux-checkpoints  
-  Save / Load functionality for Redux states. 
-  
-- **node-persistent-redux**  
-  https://github.com/Jense5/node-persistent-redux  
-  Provides a very straighforward way to write a redux store to disk. This can be useful in case you want to store a configuration, like for example with electron.
   
 - **redux-persist-to-localstorage**  
   https://github.com/purposeindustries/redux-persist-to-localstorage  

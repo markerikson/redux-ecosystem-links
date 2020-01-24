@@ -120,10 +120,6 @@
   https://github.com/tbranyen/redux-create-action-types  
   Helps you create Redux action types, safely & easily.  Helps define action types without duplication and provides some validation.
   
-- **redux-nested-actions**  
-  https://github.com/yangmillstheory/redux-nested-actions  
-  Namespacing utilities for redux-actions.
-  
 - **redux-define**  
   https://github.com/smeijer/redux-define  
   Define action constants for Redux
@@ -318,10 +314,6 @@
 - **type-stash**  
   https://github.com/DaneSirois/type-stash  
   Redux type-management library.  Removes the need for a dedicated "types" file.
-  
-- **seashell-redux**  
-  https://github.com/heineiuo/seashell-redux  
-  A simple way to write functions with context dependencies without context parameter
   
 - **redux-nested-bind-actions**  
   https://github.com/Jc160/redux-nested-bind-actions  

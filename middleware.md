@@ -93,10 +93,6 @@
   https://github.com/matthias-reis/redux-listener-middleware  
   A Redux middleware that acts as a general listener on actions that are dispatched to the Redux store, with rules for handling different actions.
   
-- **Redux Transform**  
-  https://github.com/contrarian/redux-transform  
-  Field transformation middleware for Redux. 
-  
 - **suber**  
   https://github.com/oskarhane/suber  
   A message bus compatible with Redux middlewares 
@@ -165,21 +161,13 @@
   https://github.com/jasonmorita/redux-intercept-action  
   Redux middleware to intercept and redirect FSA actions before they hit reducers.  Useful for handling actions coming in asyncronously from outside your app.
   
-- **redux-actionkit**  
-  https://github.com/WA9ACE/redux-actionkit  
-  A simple redux side-effect library that lets you add callbacks to be run when requested actions are dispatched
-  
 - **redux-pre-post-action-middleware**  
   https://github.com/slivcode/redux-pre-post-action-middleware  
   A middleware for executing user-provided callbacks before or after actions are passed onward.
   
-- **redux-provider**  
-  https://github.com/logaritmdev/redux-provider  
-  A middleware that abstract (mostly) async operations in its own layer. An action that is registered as a provider will be invoked first and the original action will be executed only when the provider dispatches the same action.
-  
 - **redux-iterator**  
   https://github.com/benjmac/redux-iterator  
-  Redux Iterator middleware is capable of receiving Sets, Maps, Arrays, Objects and Generators. Once the middleware is reached, they’re iterated over and the nested actions are dispatched to the Redux store.
+  Redux Iterator middleware is capable of receiving Sets, Maps, Arrays, Objects and Generators. Once the middleware is reached, they're iterated over and the nested actions are dispatched to the Redux store.
   
 - **redux-aop**  
   https://github.com/modernserf/redux-aop  
@@ -195,15 +183,11 @@
   
 - **redux-fries**  
   https://github.com/nicolasdelfino/redux-fries  
-  Greasy™ middleware for subscribing to actions and creating tasty side-effects in your code 
+  Greasy middleware for subscribing to actions and creating tasty side-effects in your code 
   
 - **redux-lifesaver**  
   https://github.com/americanexpress/redux-lifesaver  
   lifesaver is a middleware that keeps track of how many times actions of the same type are dispatched within a given period. If a single action type is dispatched more times than the allowed amount within a given period, subsequent dispatches of that action type will be blocked from the reducer for the same period. At the end of the period, the most recently attempted dispatch of that action type will go through.
-  
-- **signalbox**  
-  https://github.com/hnrysmth/signalbox  
-  Syntactical sugar for redux middlewares.  Define callbacks to run before or after specific actions.
   
 - **redux-mediator**  
   https://github.com/quadreex/redux-mediator  
@@ -220,10 +204,6 @@
 - **redux-action-middleware**  
   https://github.com/Gaya/redux-action-middleware  
   Redux middleware which allows the user to acts upon fired action types to the store.
-  
-- **redux-provider**  
-  https://github.com/logaritmdev/redux-provider  
-  A middleware that abstract (mostly) async operations in its own layer. An action that is registered as a provider will be invoked first and the original action will be executed only when the provider dispatches the same action.
   
 - **redux-listener**  
   https://github.com/kouhin/redux-listener  
@@ -402,17 +382,9 @@
   https://github.com/guillaumearm/redux-custom-middlewares  
   Middlewares inside your FSA actions
   
-- **rex-cookies**  
-  https://github.com/linear-bits/rex-cookies  
-  React Redux cookie middleware 
-  
 - **redux-middlewares**  
   https://github.com/ryo33/redux-middlewares  
   Utility functions to generate new middlewares.
-  
-- **redux-scraper**  
-  https://github.com/therewillbecode/redux-scraper  
-  Web scraping middleware for Redux using Cheerio and Axios 
   
 - **redux-dynamic-middlewares**  
   https://github.com/pofigizm/redux-dynamic-middlewares  
@@ -458,10 +430,6 @@
   https://github.com/Natasha08/redux-middleware-workers  
   A middleware to forward actions to webworkers.
   
-- **redux-reset-middleware**  
-  https://github.com/cadleo/redux-reset-middleware  
-  A redux plugin to reset the redux store
-
 - **redux-clipboard-copy**  
   https://github.com/weslleyaraujo/redux-clipboard-copy  
   Clipboard copy middleware for Redux using document.execCommand.

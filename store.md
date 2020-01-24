@@ -128,10 +128,6 @@
   https://github.com/ashaffer/redux-subscribe  
   Subscribe to a path in your redux state atom.  Uses a middleware shared path strings for improved performance and dynamic subscription handling.
   
-- **redux-changes**  
-  https://github.com/sprightco/redux-changes  
-  Process changes in redux with path matching.  Uses a higher-order reducer that does comparisons, and uses a path string with a matching syntax.
-  
 - **redux-observers**  
   https://github.com/xuoe/redux-observers  
   Observe Redux state changes and dispatch actions on change.
@@ -163,10 +159,6 @@
 - **redux-subscriptions**  
   https://github.com/xaviervia/redux-subscriptions  
   Higher-level API for the Redux store.subscribe.  redux-subscriptions keeps the previous state for you and gives you the ability of running diffs in the state (using object-difference) so that you can do something when part of the state is updated, much like the React bindings for Redux work.
-  
-- **redux-add-action-listener**  
-  https://github.com/carnesen/redux-add-action-listener-enhancer  
-  A store enhancer that adds a second set of subscriptions for dispatched actions
   
 - **redux-subscriber**  
   https://github.com/ivantsov/redux-subscriber  

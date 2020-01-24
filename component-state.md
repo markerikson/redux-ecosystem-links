@@ -148,10 +148,6 @@
   https://github.com/molefrog/redux-actuator  
   Trigger events inside components by reacting on pure state changes. Actuator keeps you from writing component lifecycle hooks boilerplate code by providing declarative API.
   
-- **react-redux-sub-app**  
-  https://github.com/rtkhanas/react-redux-sub-app  
-  A small component to allow defining Redux sub-apps within a component tree
-  
 - **react-redux-combine-components**  
   https://github.com/simlrh/react-redux-combine-components  
   With React Redux Combine Components you can assign components to different properties of the state tree the same way you do with reducers. This aids reusability, as components need to know nothing about global state, and improves performance as they are only rerendered on change to their substree, instead of the global state.
@@ -168,18 +164,10 @@
   https://github.com/salsita/prism  
   React / Redux action composition made simple, using the action wrapping approach from Elm. (Formerly Redux-Elm)
   
-- **redux-scope-helpers**  
-  https://github.com/georgeawwad/redux-scope-helpers  
-  Functions for generating scoped action creators and reducers
-  
 - **redux-atom**
   https://github.com/bulicmatko/redux-atom  
   https://github.com/bulicmatko/react-redux-atom  
   Small utilities to generate encapsulated Redux logic and connected React components
-  
-- **with-component-state**  
-  https://github.com/chee/with-component-state  
-  Higher order component that will automatically create state for your redux components, and give you the prop componentState as well as the prop setState which works like this.setState on class components.
   
 - **redux-local-state**  
   https://github.com/t-benze/redux-local-state  
@@ -253,10 +241,6 @@
   https://github.com/Bandwidth/redux-facet  
   Scale redux applications more easily. Reuse behaviors, channel actions, and associate activity with component origins. 
   
-- **redux-call**  
-  https://github.com/Kontsedal/redux-call  
-  A simple util to add the ability to execute React component methods via Redux. It can be useful when you need to be able to conrtol components from any part of your app.
-  
 - **redux-pagestate**  
   https://github.com/etalisoft/redux-pagestate  
   redux-pagestate works with React Redux to enable a 'page' component in React to use Redux to store all of its state.
@@ -299,10 +283,6 @@
 - **Reduction Sauce**  
   https://github.com/ericwooley/reduction-sauce  
   Simple key value reducers without boilerplate
-  
-- **redux-values**  
-  https://github.com/alexesDev/redux-values  
-  Simple key-value storage for Redux
   
 - **react-redux-private-props**  
   https://github.com/dylanonelson/react-redux-private-props  
@@ -364,10 +344,6 @@
   https://github.com/brianneisler/duxtape  
   Module and util framework for redux.  Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow, with a hook system for extending the functionality of redux
   
-- **redux-segments**  
-  https://github.com/dennisgulich/redux-segments  
-  Library for writing reusable redux modules.  Writing reducers, action creators and mapping everything to the UI is tedious and time consuming, redux-segments solves this issue by breaking up the redux boilerplate into generic reusable modules.
-
 - **redux-stack**  
   https://github.com/jondot/redux-stack  
   A library that helps you build modular, structured, and cleaner redux apps.  Redux Stack introduces a concept of initializers. Small pieces of integration code, per library, that "declares" how it integrates. Redux Stack will mesh these together to create your personalized store builder.

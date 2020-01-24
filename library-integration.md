@@ -214,4 +214,4 @@
   
 - **glace**  
   https://github.com/Fordi/glace  
-  Glacé aspires to be a simple, fast, small, and elegant view layer for simple Redux-based apps. Its templates are entirely well-formed XML fragments and it outputs real DOM in real time.
+  GlacÃ© aspires to be a simple, fast, small, and elegant view layer for simple Redux-based apps. Its templates are entirely well-formed XML fragments and it outputs real DOM in real time.

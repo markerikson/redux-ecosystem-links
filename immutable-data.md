@@ -4,7 +4,7 @@
 #### Immutable Data Structures (Specialized)
 
 - **Immutable.js**  
-  https://facebook.github.io/immutable-js/  
+  https://immutable-js.github.io/immutable-js/  
   Fully-featured data structures library that uses advanced internal data storage to efficiently manage modified references.  Very widely used, but also rather complex.
 
 - **Mori**  
@@ -299,10 +299,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-seamless-immutable**  
   https://github.com/eadmundo/redux-seamless-immutable  
   Helpers for using seamless-immutable in Redux. Provides a compatible combineReducers and routerReducer (for use with react-router-redux).
-  
-- **mori-redux**  
-  https://github.com/dynn/mori-redux  
-  createReducer and combineReducers utilities that work with Mori structures
   
 - **redux-utils-immutable**  
   https://github.com/jcoreio/redux-utils-immutable  

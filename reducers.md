@@ -19,10 +19,6 @@
   https://github.com/nrn/create-reducer  
   Create a redux reducer from an object of action handling functions, keyed by the actions they handle. Has createReducer.compose(fns) helper function to combine multiple action handlers into a single action. 
   
-- **redux-map-reducers**  
-  https://github.com/zippyui/redux-map-reducers  
-  Redux reducer that maps over an object of action types.
-  
 - **reduxr-obj-reducer**  
   https://github.com/chrisdavies/reduxr-obj-reducer  
   A utility to create Redux reducers from simple objects.
@@ -111,10 +107,6 @@
   https://github.com/pcarden/fine-combine  
   Combines reducer collections, even when they have duplicate keys.
   
-- **stack-feature-store-redux**  
-  https://github.com/gp-technical/stack-feature-store-redux  
-  An alternative redux combineReducers function for use with feature package oriented applications
-  
 - **reduxerit**  
   https://github.com/jurgob/reduxerit  
   reduxerit is strongly influenced from redux-modifiers (https://github.com/calvinfroedge/redux-modifiers), It tries to simplify writing the redux reducer, but without using immutablejs.
@@ -162,10 +154,6 @@
 - **redux-sword**  
   https://github.com/somewind/redux-sword  
   Redux-Sword is a tool for Redux Reducer, which can make it automatically processed, so you can code less with it.
-  
-- **redux-cloneable**  
-  https://github.com/eliaslfox/redux-cloneable  
-  Small library for creating prefixed key/value reducers.
   
 - **redux-reducers**  
   https://github.com/casparrolfe/redux-reducers  
@@ -255,10 +243,6 @@
   https://github.com/jeremija/mixn  
   Mixes reducers in order. Allows easy extension of redux reducer functions. Tries each one until the state changes
   
-- **redux-cond**  
-  https://github.com/G1enY0ung/redux-cond  
-  Redux reducer with cond function, inspired by Clojure's cond
-  
 - **reducio**  
   https://github.com/asn007/reducio  
   Functional reducers for everybody 
@@ -338,10 +322,6 @@
 - **Redux-standard-reducer**  
   https://github.com/magicdawn/redux-standard-reducer  
   A redux reducer for standard actions that just need to merge data to state
-  
-- **combineMultiKeyReducers**  
-  https://gist.github.com/Heisenberg815/82ad6bd8dbf88b16df9af71d98b0b4db  
-  A custom reducer utility that will pass along specified slices of state to a reducer.
   
 - **redux-keto**  
   https://github.com/Airbitz/redux-keto  
@@ -539,10 +519,6 @@
   https://github.com/grifo/redux-reducer-maker  
   Prebuilt reducers for toggle values and request status
   
-- **atomic-redux**  
-  https://github.com/brietsparks/atomic-redux  
-  Building blocks for composing normalized collection-based state.  This library cuts down on boilerplate of writing reducers and action-creators for collection-based state. The goal is to make it easier to create and work with normalized state trees.
-  
 - **redux-flag-reducer**  
   https://github.com/DannyDelott/redux-flag-reducer  
   Create a reducer that returns true or false, "on" or "off", "loaded" or "loading", etc.  Makes it convenient to implement flags as reducers in your redux state tree. This can be handy for tracking all kinds of things from toggle-based UIs to the loading/loaded state of an external resource.
@@ -666,10 +642,6 @@
   https://github.com/kravchenkodev/redux-react-dynamic-store  
   Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
   
-- **sliced-redux**  
-  https://github.com/carnesen/sliced-redux  
-  A store enhancer that adds an `addSlice` method, allowing addition of slice reducers at runtime.
-  
 - **redux-injector**  
   https://github.com/randallknutson/redux-injector  
   Allows dynamically injecting reducers into a redux store at runtime
@@ -685,10 +657,6 @@
 - **redux-rack**  
   https://github.com/evanrs/redux-rack  
   Treat Redux like a rack  mount reducers like components 
-  
-- **redux-inject-reducer**  
-  https://github.com/umidbekkarimov/redux-inject-reducer  
-  Manage dynamic reducer injection and ejection in your redux app 
   
 - **redux-inject-reducer-and-saga**  
   https://github.com/marcelmokos/redux-inject-reducer-and-saga  
@@ -726,10 +694,6 @@
 - **react-component-chunk**  
   https://github.com/Droeftoeter/react-component-chunk  
   Library for making dynamic imports easy, with added support to make dynamically loaded Redux Reducers and Redux-Saga Sagas easy.
-  
-- **react-redux-async**  
-  https://github.com/sebastiendavid/react-redux-async  
-  Asynchronously load your module, then inject reducers and sagas.
   
 - **redux-extensible-store**  
   https://github.com/lundegaard/redux-extensible-store  

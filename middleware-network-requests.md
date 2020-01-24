@@ -75,10 +75,6 @@
   https://github.com/agraboso/redux-api-middleware  
   Redux middleware for calling an API.
   
-- **rictus**  
-  https://github.com/defact/rictus  
-  Redux middleware for promise-based resource requests
-  
 - **redux-track-async**  
   https://github.com/lronhoj/redux-track-async  
   A lib for tracking pending async requests. Exposes middleware & a reducer
@@ -86,10 +82,6 @@
 - **multi-action-api-middleware**  
   https://github.com/gkosharov/multi-action-api-middleware  
   Redux api middleware for handling simultaneous asynchronous action dispatches (api calls).
-  
-- **redux-http-middleware**  
-  https://github.com/sky-uk/redux-http-middleware  
-  Make http requests by dispatching actions!  The goal of this module is to move the imperative handling of HTTP requests out of Redux applications. Instead HTTP requests are declared as actions and the success or failure of the request is dispatched as another action.
   
 - **redux-cached-api**  
   https://github.com/VerenigingCampusKabel/redux-cached-api  

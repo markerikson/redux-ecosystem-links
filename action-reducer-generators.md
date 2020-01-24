@@ -27,10 +27,6 @@
   https://github.com/BurntCaramel/flambeau  
   Opinionated Redux additions: declarative, pleasant action creators, reducer encapsulation, async support
   
-- **redux-dispatcher-reducer**  
-  https://github.com/stevenla/redux-dispatcher-reducer  
-  Reduce boilerplate in your redux code by using auto-generated action creators that automatically map to reducers
-
 - **dead-simple-redux-helper**  
   https://github.com/armed/dead-simple-redux-helper  
   Dead simple redux helper for actions and reducers
@@ -71,10 +67,6 @@
   https://github.com/Xananax/actionsreducer  
   Simplifies the creation of actions, state, and reducers, and the creation of async actions. Return values are automatically re-assigned to state at the right location, no need for reducers composition.
   
-- **redux-standard-actions**  
-  https://github.com/yangmillstheory/redux-standard-actions  
-  Flux Standard Action utilities for Redux.
-  
 - **redux-factories**  
   https://github.com/zxdong262/redux-factories  
   A factory lib to produce redux constants and reducers of certain format.
@@ -104,10 +96,6 @@
   https://github.com/trabe/fredux-api-utils  
   Fredux is a utility library to make the development process of redux applications faster and easier. Fredux provides some conventions and tools to create actions which follows some standard structure, create asynchronous actions, and handle pending promise actions when the context of the application changes like in a page navigation.
   
-- **redux-routine**  
-  https://github.com/ezhikov/redux-routine  
-  Set of small utils for creation of basic redux routines as collection reducer (uses Map for collection state), item reducer, actionCreators and basic action types (ADD, REMOVE, CHANGE)
-  
 - **f1-redux-utils**  
   https://github.com/nicocrm/f1-redux-utils  
   Utility functions for generating actions, creating containers that dispatch actions on mount, and creating reducers that handle prefixed actions
@@ -119,10 +107,6 @@
 - **redux-seeds**  
   https://github.com/quinnnned/redux-seeds  
   Factories for Generating Common Redux State Trees
-  
-- **redux-reducer**  
-  https://github.com/webdeveloperpr/redux-reducer  
-  Generates prefixed actions and reducers
   
 - **Redeclare**  
   https://github.com/modernserf/redeclare  
@@ -204,10 +188,6 @@
   https://github.com/loklaan/redux-motive  
   Simplify writing action creators, reducers and effects - without breaking redux. 
   
-- **redux-utils**  
-  https://github.com/graftss/redux-utils  
-  A collection of utilities for generating actions, reducers, and tests
-  
 - **sleipnir**  
   https://github.com/benoneal/sleipnir  
   A convenience interface for Redux, to remove boilerplate and provide sensible asynchronous action handling.
@@ -231,10 +211,6 @@
 - **redux-async-action-reducer**  
   https://github.com/neolivz/redux-async-action-reducer  
   Simple redux action creation and reducer wrapper that makes creating and handling asynchronous and synchronous wrapper easier. It's completely written with type safety in mind, with typescript.
-  
-- **reduxec**  
-  https://github.com/Noviel/reduxec  
-  Create reusable, targeted actions and reducers for Redux
   
 - **redux-namespaces**  
   https://github.com/9technology/redux-namespaces  
@@ -263,10 +239,6 @@
 - **trampss-redux-factory**  
   https://github.com/Trampss/trampss-redux-factory  
   Factory of Redux reducers and their associated actions and selectors - creates generic reducers, actions and selectors in two lines.
-  
-- **redux-composable**  
-  https://github.com/aakashns/redux-composable  
-  Utilities and higher order functions for reducer composition and reuse
   
 - **redux-less**  
   https://github.com/lovetingyuan/redux-less  
@@ -299,14 +271,6 @@
 - **redux-act-array-async**  
   https://github.com/jiang-12196/redux-act-array-async  
   Create async multi actions and reducers based on redux-act
-  
-- **atomic-redux**  
-  https://github.com/brietsparks/atomic-redux  
-  Building blocks for composing normalized collection-based state  
-  
-- **catalyst-redux**  
-  https://github.com/friendsoftheweb/catalyst-redux  
-  Allows generating action creators/reducers as "operations" for sync and async behavior, and composition of operations into larger "modules".  Also provides "resource modules" for interacting with a JSON API.
   
 - **redux-processor**  
   https://github.com/nicholasrq/redux-processor  
@@ -359,17 +323,9 @@
   https://github.com/rjbma/redux-promise-reducer  
   Easily integrate with redux-promise-middleware.  Create actions with createPromiseAction, which are handled by the middleware, which dispatches new actions when the status of the promise changes.
   
-- **redux-utils**  
-  https://github.com/newtack/redux-utils  
-  Redux-utils makes it easy to combine redux and immutableJS as well as make api calls using FSA conventions.
-
 - **redux-async-collection**  
   https://github.com/QubitProducts/redux-async-collection  
   Creates a reducer, immutable state and actions for an async collection
-  
-- **redux-reqhelper**  
-  https://github.com/ophite/redux-reqhelper  
-  Helper for processing requests in redux (work with actions, reducers, selectors)
   
 - **redux-rest-resource**  
   https://github.com/mgcrea/redux-rest-resource  
@@ -415,10 +371,6 @@
   https://github.com/StickyCube/redux-fetch-resource  
   redux-fetch-resource is an attempt at a complete solution for making api requests in react/redux applications.
   
-- **redux-restapi**  
-  https://github.com/ghalex/redux-restapi  
-  redux-restapi is an utility for integrating a REST api with Redux. It helps you, to easily integrate your calls to a REST api with your store. It generates actions and reducer for making the calls to the server and can easly be combined with your actions.
-  
 - **magic-redux-generator**  
   https://github.com/luisfuertes/magic-redux-generator  
   Utils to generate types and action creators for various network requests
@@ -432,7 +384,7 @@
   Thunk actions and reducers for handling data from a REST API
   
 - **redux-easy-async**  
-  https://github.com/evanhobbs/redux-easy-async#motivation  
+  https://github.com/evanhobbs/redux-easy-async  
   Redux Easy Async makes handling asynchronous actions, such as API requests, simple, reliable, and powerful.
   
 - **redux-simple-api**  

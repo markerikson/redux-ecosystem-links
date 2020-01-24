@@ -145,10 +145,6 @@
   https://github.com/adjohnson916/firedux  
   Firedux (fiery·ducks) wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.  Also supports some authentication methods and actions.
 
-- **este-redux-firebase**  
-  https://github.com/este/este-redux-firebase  
-  Standalone module of Este's Firebase/Redux integration lib
-
 - **refire**  
   https://github.com/hoppula/refire  
   Declarative Firebase bindings for Redux and React.  Refire keeps your local Redux store in sync with selected Firebase paths. You can declaratively bind Firebase paths as Strings, Objects or Arrays.  You can also specify queries based on Redux state (e.g. currently logged in user or route parameter) and Refire will automatically subscribe and unsubscribe your bindings when state changes.

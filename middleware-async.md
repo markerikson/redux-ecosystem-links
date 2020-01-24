@@ -79,10 +79,6 @@
   https://github.com/themostaza/redux-pinky  
   Yet another Redux middleware for dispatching async actions.  A more "redux-vanilla" version of redux-pack.
   
-- **redux-promises-concluder**  
-  https://github.com/arashmilani/redux-promises-concluder  
-  A Redux middleware to keep track of active promises and notify when all resolved. Useful in server side rendering of single page applications. 
-  
 - **redux-p**  
   https://github.com/fedor/redux-p  
   redux-p middleware accepts action type in action.type and Promise in action.payload. It was made to made to replace redux-promise-middleware for React Native.
@@ -194,10 +190,6 @@
   https://github.com/rt2zz/redux-action-buffer  
   A middleware for redux that buffers all actions into a queue until a breaker condition is met, at which point the queue is released (i.e. actions are triggered).
   
-- **Quince**  
-  https://github.com/defact/quince  
-  Queueing middleware for Redux.
-  
 - **redux-throttle-actions**  
   https://github.com/pirosikick/redux-throttle-actions  
   A Redux middleware which throttles actions.
@@ -270,10 +262,6 @@
 - **redux-reqres**  
   https://github.com/Shotzoom/redux-reqres  
   Request response synchronization middleware. Syncronization should be used when multiple async actions may be dispatched to fetch data, but only the last response should be serviced such as type aheads and search filtering.
-  
-- **redux-action-trigger**  
-  https://github.com/Metnew/redux-action-trigger  
-  Mark action which you want to trigger after it will be dispatched, then after action has been triggered, it will be processed by your function and another action can be called.
   
 - **redux-offline-chain**  
   https://github.com/birgernass/redux-offline-chain  
@@ -397,10 +385,6 @@
 - **redux-client-middleware**  
   https://github.com/intactile/redux-client-middleware  
   A redux middleware handling async client actions.  Acts like a combination of redux-thunk and a promise middleware.
-  
-- **redux-roll**  
-  https://github.com/vgabor/redux-roll  
-  Redux-roll lets you dispatch chained functions and promises, and also allow you to mix-and-match functions and promises together. 
   
 - **redux-async-thunk**  
   https://github.com/kutlugsahin/redux-async-thunk  
