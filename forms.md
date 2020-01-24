@@ -41,10 +41,6 @@
   https://github.com/calvinfroedge/react-redux-autobound-inputs  
   Two way data binding and edit / view states for selected input controls.  This project provides automatic data binding to redux store for some common inputs. The inputs include choices from react-bootstrap and react-widgets.
 
-- **redux-easy-forms**  
-  https://github.com/moarwick/redux-easy-forms  
-  REForms: A React-Redux forms library for the people!  Define your fields via a simple "schema" object.  REForms automatically flows your form data through Redux state. Use a friendly API to interact with your forms and data. Supply your own validation functions and error messages, sanitizers, filters. Use it with raw HTML inputs, React-Bootstrap, custom components.
-  
 - **redux-form-validation-helpers**  
   https://github.com/leiringer/redux-form-validation-helpers  
   A number of validation functions.
@@ -53,25 +49,13 @@
   https://github.com/kjessec/react-formagic  
   A react form binding that adapts to your code, not the other way around.  At the end of the day, react-formagic is just a HoC wrapper that translates props given to it into a set of enhanced props that'll make it easy to work with forms.
   
-- **luft**  
-  https://github.com/jdudek/luft  
-  Simple and flexible forms in React and Redux
-  
 - **React Redux Local Form**  
   https://github.com/jschr/react-redux-form-provider  
   React components for building forms with a local Redux store for managing state.
   
-- **asasalad**  
-  https://github.com/contrarian/asasalad  
-  Redux Form Validation Utility Designed to Work With Immutable.js 
-  
 - **simple-redux-form**  
   https://github.com/mihirsoni/simple-redux-form  
   A tiny alternative for Redux-Form
-  
-- **franklin**  
-  https://github.com/contrarian/franklin  
-  Franklin lets you build boilerplate-free Redux forms. 
   
 - **rform**  
   https://github.com/KonstantinKo/rform  
@@ -81,10 +65,6 @@
   https://github.com/wellguimaraes/react-formy  
   A light, simple and fast Higher Order Component to keep form state, inspired by redux-form.
 
-- **react-forms**  
-  https://github.com/luvago/react-forms  
-  Provides containers, helpers and reducers to work with Forms in React/Redux
-  
 - **onion-form**  
   https://github.com/blueberryapps/onion-form  
   React Redux form builder with great UX validations
@@ -100,10 +80,6 @@
 - **redux-pure-form**  
   https://github.com/max-mykhailenko/redux-pure-form  
   Redux actions for good performance and integration with your reducers
-  
-- **basquiat**  
-  https://github.com/contrarian/basquiat  
-  Another Redux form factory library, with handling for validation and fields
   
 - **redux-forms**  
   https://github.com/oreqizer/redux-forms  
@@ -168,10 +144,6 @@
 - **redux-reselect-validation**  
   https://github.com/ffossum/redux-reselect-validation  
   Actions, selectors, and reducers for helping manage form input validation.
-  
-- **controlled-form**  
-  https://github.com/bdmason/controlled-form  
-  A package for building forms in React & Redux. 
   
 - **redux-duck-form**  
   https://github.com/ivanwolf15/redux-duck-form  

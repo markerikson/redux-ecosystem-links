@@ -159,10 +159,6 @@
   https://github.com/AlexHenkel/reduxsauce-crud  
   Adaptation of the reduxsauce utils to add CRUD functionality
   
-- **collectionReducer**  
-  https://github.com/volodymyrl/collectionReducer  
-  A small action/reducer creator for CRUD ops by ID
-  
 - **standard-redux-shape**  
   https://github.com/ecomfe/standard-redux-shape  
   A tiny utility library to help you manage an optimized redux store shape.
@@ -267,7 +263,7 @@
   
 - **resourceful-redux**  
   https://github.com/jmeas/resourceful-redux  
-  A system for managing 'resources' – data that is persisted to remote servers.
+  A system for managing 'resources': data that is persisted to remote servers.
   
 - **redux-query**  
   https://github.com/amplitude/redux-query  
@@ -292,10 +288,6 @@
 - **redux-resx**  
   https://github.com/fixate/redux-resx  
   Yet another Redux action creators, a reducer and middleware for resource-based APIs.
-  
-- **redux-json-api-toolbox**  
-  https://github.com/rmarganti/redux-json-api-toolbox  
-  Redux middleware and helpers for working with JSON API standard server requests 
   
 - **redux-entities**  
   https://github.com/zebulonj/redux-entities  

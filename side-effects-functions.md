@@ -88,10 +88,6 @@
   https://github.com/tomasz-sodzawiczny/redux-call-effect  
   A declarative way to call action creators.
   
-- **redux-pact**  
-  https://github.com/coffeedoughnuts/redux-pact  
-  Utilities for dealing with simple promise-based side effects in action creators.
-  
 - **redux-super-thunk**  
   https://github.com/Atomic-Reactor/redux-super-thunk  
   Thunk middleware for Redux that adds the store as an argument.

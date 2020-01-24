@@ -23,10 +23,6 @@
   https://github.com/cchamberlain/react-redux-idle-monitor  
   Works in tandem with redux-idle-monitor to connect information about a users activity / idle state into your React components.
   
-- **duck-ahead**  
-  https://github.com/yormi/duck-ahead  
-  A simple async typeahead solution for React and Redux
-  
 - **React Redux Loading Bar**  
   https://github.com/mironov/react-redux-loading-bar  
   A simple React component that provides Loading Bar (aka Progress Bar) for long running tasks. Works out of the box with redux-promise-middleware and can be easily tweaked for other usage.
@@ -34,10 +30,6 @@
 - **react-redux-terminal**  
   https://github.com/phpingme/react-redux-terminal  
   React+Redux driven terminal component
-  
-- **semantic-react-redux**  
-  https://github.com/insilica/semantic-react-redux  
-  Just a collection of components for projects using semantic-ui, redux, and react.
   
 - **react-recorder-redux**  
   https://github.com/agrasley/react-recorder-redux  
@@ -83,25 +75,13 @@
   https://github.com/schiehll/redux-loading  
   Loading control with Redux
   
-- **react-redux-secure**  
-  https://github.com/hasangilak/react-redux-secure  
-  A package which decides on displaying components based on your rules.
-  
 - **react-redux-theme-provider**  
   https://github.com/jschr/react-redux-theme-provider  
   React helpers for theming components. Works great with inline styles or any css-in-js library.
   
-- **redux-animate**  
-  https://github.com/clari/redux-animate  
-  Synchronize animation across React components with Redux
-
 - **react-redux-loadmask**  
   https://github.com/tsaiDavid/react-redux-loadmask  
   A Redux-driven loading screen mask, with various spinner options
-  
-- **redux-menu**  
-  https://github.com/datacamp/redux-menu  
-  Package to create a React menu component, connected with your Redux state and dispatch. 
   
 - **redux-infinite-list**  
   https://github.com/KirillKayumov/redux-infinite-list  
@@ -122,10 +102,6 @@
 - **react-redux-lifecycle**  
   https://github.com/mpeyper/react-redux-lifecycle  
   A higher-order component to dispatch actions on react lifecycle methods 
-  
-- **redux-choreography**  
-  https://github.com/Setsun/redux-choreography  
-  Higher-order components to maintain animation state in Redux and coordinate your animations 
   
 - **react-permissions**  
   https://github.com/IkoroVictor/react-permissions  
@@ -165,10 +141,6 @@
 - **Repanel**  
   https://github.com/StJohn3D/repanel 
   A configurable panel framework inspired by blender.org
-  
-- **React Tab Component Redux**  
-  https://github.com/pspfolio/ReactTabComponentRedux  
-  React tab component. Handling application state with Redux.
   
 - **react-tabs-redux**  
   https://github.com/patrik-piskay/react-tabs-redux  
@@ -225,10 +197,6 @@
   https://github.com/alexghenderson/react-redux-basic-modal  
   Barebones modal framework implemented in react with redux.  You feed it a mapping of ids to React components, and when an open action is dispatched, it will display only that component.
   
-- **react-material-promise-dialog**  
-  https://github.com/nsuthar0914/react-material-promise-dialog  
-  Promise based alert and confirm dialogs using react, redux and material-ui 
-  
 - **react-redux-modal-provider**  
   https://github.com/myaskevich/react-redux-modal-provider  
   react-redux-modal-provider controls the state of your React modal components using Redux.
@@ -257,17 +225,9 @@
   https://github.com/khanghoang/redux-modal  
   A convenient way to connect your modal with a Redux store.
   
-- **Modalo**  
-  https://github.com/xclix/modalo  
-  Component, actions, and reducer for displaying a modal in React-Redux apps
-  
 - **react-redux-easy-modal**  
   https://github.com/alexander-usolcev/react-redux-easy-modal  
   Basic react-redux modal implementation (reducer, store, components and actions)
-  
-- **react-redux-promising-modals**  
-  https://github.com/tkvw/react-redux-promising-modals  
-  Adds a Modal component and withModal HOC on top of the redux-promising-modals library.
   
 - **redux-dialog**  
   https://github.com/suciuvlad/redux-dialog  
@@ -432,10 +392,6 @@
   https://github.com/pcs2112/redux-flash-message  
   Unobtrusive way to display success and Error flash messages in your single page app. 
   
-- **notifications**  
-  https://github.com/xclix/notifications  
-  Component, actions, and reducer for displaying notifications in a React-Redux app
-  
 - **redux-sweetalert**  
   https://github.com/mrstebo/redux-sweetalert  
   Actions, reducers, and component for using SweetAlert with React and Redux
@@ -447,10 +403,6 @@
 - **hot-tip**  
   https://github.com/Swrve/hot-tip  
   A stress-free redux/react tooltip solution 
-  
-- **Xync**  
-  https://github.com/xclix/xync  
-  React component for displaying notifications. Use as a plain React component or connected to a Redux store.
   
   
 #### Maps

@@ -99,10 +99,6 @@
   https://github.com/unbounce/flag  
   Feature flagging made easy for React and Redux
   
-- **redux-feature-flags**  
-  https://github.com/zhewison/redux-feature-flags  
-  React/Redux Feature Flags
-  
 - **react-redux-ab**  
   https://github.com/ytase/react-redux-ab  
   A simple A/B testing library that stores the active variants in a reducer for easy access accross the whole application. It is universal, as it can run on the client side, browser side or any kind of application where redux can run.
@@ -166,10 +162,6 @@
   https://github.com/josepot/react-redux-scroll  
   Scroll management library for react-redux apps.
   
-- **redux-keystroke-history**  
-  https://github.com/graftss/redux-keystroke-history  
-  Maintain keystroke history in a redux store 
-  
 - **redux-browser-geolocation**  
   https://github.com/IagoLast/redux-browser-geolocation  
   HTML5 Geolocation api for redux
@@ -190,17 +182,9 @@
   https://github.com/pcs2112/redux-responsive-component  
   A higher-order component and reducer to provide props for responsive behavior.
   
-- **redux-router-scroll-restoration**  
-  https://github.com/dimalolzet/redux-router-scroll-restoration  
-  Simple middleware for scroll restoration.
-  
 - **react-redux-dimensions**  
   https://github.com/mcabs3/react-redux-dimensions  
   A simple redux integration to collect browser dimension data with some sugar to make access to dimensions "sweeter"
-  
-- **react-redux-lock**  
-  https://github.com/alirezavalizade/react-redux-lock  
-  A simple container for creating responsive apps 
   
 - **redux-resize**  
   https://github.com/ysfzrn/redux-resize  
@@ -399,10 +383,6 @@
   https://github.com/jkomyno/redux-error-snapshot  
   Redux thunk utility that aims to ease the process of retrying last failed action.
   
-- **react-redux-internet-connection**  
-  https://github.com/alirezavalizade/react-redux-internet-connection  
-  Check internet connection from your redux's state 
-  
 - **react-native-redux-connectivity**  
   https://github.com/calvium/react-native-redux-connectivity  
   Monitor network connectivity and store the result in Redux 
@@ -479,10 +459,6 @@
   https://github.com/ecomfe/redux-optimistic-manager  
   redux-optimistic-manager is a lib aimed to simplify optimistic UI implement in redux environment. this lib uses a transaction based method to handle actual and optimistic actions, rolling back optimistic ones in a future point.
   
-- **fast-undo**  
-  https://github.com/gamb/fast-undo  
-  Efficient data structure for handling undo states.
-  
 - **redux-incremental-history**  
   https://github.com/peterkhayes/redux-incremental-history  
   Given an 'inverter' function that maps actions to their opposites, allows for undo/redo in redux-based apps.
@@ -490,10 +466,6 @@
 - **redux-deep-diff**  
   https://github.com/wwilsman/redux-deep-diff  
   Higher order reducer to deep diff redux states 
-  
-- **redux-rewind**  
-  https://github.com/Serexx/redux-rewind  
-  Redux-Rewind provides scalable, single-command rollback of an arbitrary series of normal Redux Actions, where the series must complete fully, or be cancelled entirely ('Atomicity').
   
 - **undox**  
   https://github.com/JannicBeck/undox  
@@ -553,10 +525,6 @@
 - **redux-token-auth**  
   https://github.com/smoliji/redux-token-auth  
   Actions, reducer, and sagas for managing token auth behavior
-  
-- **authoc**  
-  https://github.com/Babazon/authoc  
-  Higher order component for React Redux Router authentication and redirection 
   
 - **react-redux-permissions**  
   https://github.com/shizpi/react-redux-permissions  

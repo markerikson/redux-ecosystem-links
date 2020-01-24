@@ -44,10 +44,6 @@
   https://github.com/cyclejs-community/redux-cycles  
   Bring functional reactive programming to Redux using Cycle.js 
   
-- **redux-rxjs**  
-  https://github.com/hwep/redux-rxjs  
-  RxJS based middleware for Redux. Compose and cancel async actions and handle promise more. 
-  
 - **redux-observable-utils**  
   https://github.com/sckoh/redux-observable-utils  
   Utilities to create redux-observable epics for fetching data

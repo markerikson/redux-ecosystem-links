@@ -163,10 +163,6 @@
   https://github.com/madebymany/redux-action-logging  
   Redux testing utility middleware to log actions received by a store without mocking that store.
   
-- **redux-mock-dispatcher**  
-  https://github.com/playground-xyz/redux-mock-dispatcher  
-  Utility module for ease of testing redux-thunk style action creators.
-  
 - **redux-testkit**  
   https://github.com/wix/redux-testkit  
   Use this module to easily write unit tests for redux actions, including asynchronous actions using redux-thunk middleware.

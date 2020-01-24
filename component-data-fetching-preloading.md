@@ -181,10 +181,6 @@
   https://github.com/reducks/redux-universal  
   A Redux store enhancer taking care of promise resolution for building universal apps. 
   
-- **universal-redux-thunk**  
-  https://github.com/tom-drake/universal-redux-thunk  
-  A Redux store enhancer taking care of promise resolution for building universal apps.  (Fork of redux-universal)
-  
 - **react-graphql-redux**  
   https://github.com/youknowriad/react-graphql-redux  
   This library allows you to use GraphQL to query your Redux store

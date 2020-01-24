@@ -64,10 +64,6 @@
   https://github.com/FormidableLabs/redux-little-router  
   A tiny router for Redux that lets the URL do the talking.
   
-- **redux-history-state**  
-  https://github.com/mortenolsendk/redux-history-state  
-  Redux state time traveling, optimized for pushState navigation 
-  
 - **redux-director**  
   https://github.com/mandeepbrar/redux-director  
   Redux bindings to director router. Works as front end router for redux react applications.
@@ -75,10 +71,6 @@
 - **react-router-route-reducers**  
   https://github.com/mrtnbroder/react-router-route-reducers  
   Add reducer to your routes and let them be composed and combined into a single state object that follows your route-structure.
-  
-- **redux-history-utils**  
-  https://github.com/kchmck/redux-history-utils  
-  Simple redux utilities for history and navigation
   
 - **redux-history-sync**  
   https://github.com/cape-io/redux-history-sync  
@@ -227,10 +219,6 @@
 - **redux-saga-first-router**  
   https://github.com/ChaosGroup/redux-saga-first-router  
   "Saga First" Router for React/Redux/Saga Projects, inspired by the best parts of redux-saga-router and redux-first-router. 
-  
-- **bind-redux-router**  
-  https://github.com/loispostula/bind-redux-react-router  
-  Tiny lib to bind redux and react-router.  The goal of this lib is to make the interaction between redux and react router as simple as possible.
   
 - **react-redux-router**  
   https://github.com/micahblu/react-redux-router  
