@@ -861,3 +861,8 @@
 - **zedux**  
   https://github.com/bowheart/zedux  
   A high-level, declarative, composable form of Redux 
+
+- **three-ducks**  
+  https://github.com/streamich/three-ducks  
+  A Redux clone that claims to be compatible with react-redux while being both smaller and faster than Redux according to their benchmarks.
+  
