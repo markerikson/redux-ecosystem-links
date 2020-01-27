@@ -231,3 +231,7 @@
 - **redux-location-middleware**  
   https://github.com/diosmosis/redux-location-middleware  
   Simple middleware and reducer that makes the URL accessible & updateable via redux state.
+
+- **redux-router-lite**  
+  https://github.com/alessioscalici/redux-router-lite  
+  A pure Redux-based, lightweight router with no React library dependencies.

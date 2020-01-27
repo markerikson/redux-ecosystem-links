@@ -291,8 +291,12 @@
 - **speedux**  
   https://github.com/teefouad/speedux  
   Speedux is an opinionated library that allows you to create actions and reducers for Redux, automatically. 
-
-
+  
+- **redux-grim**  
+  https://github.com/cloudflare/redux-grim  
+  GRiM is small library to reduce the boiler plate involved in making Redux action creators, and reducers. It's specifically intended for actions which retrieve remote restful data, and provides normalization support.
+  
+  
 #### Network Requests and APIs
 
 - **redux-act-async**  
@@ -541,3 +545,8 @@
 - **redux-lumbergh**  
   https://github.com/ImmoweltGroup/redux-lumbergh  
   Embrace best practices for Redux encapsulation.  Provides utilities for generating action constant / action creators / reducers, and combining ducks into a root reducer and root saga.
+  
+- **redux-duck-immer**  
+  https://github.com/cjies/redux-duck-immer  
+  Provides redux helpers to implement ducks-modular-redux proposal. The reducer's state is produced by Immer for immutability. Inspired by [redux-duck](https://github.com/PlatziDev/redux-duck).
+  

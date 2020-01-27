@@ -309,7 +309,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/automerge/pixelpusher  
   https://medium.com/@pvh/pixelpusher-real-time-peer-to-peer-collaboration-with-react-7c7bc8ecbf74  
   A real-time, peer-to-peer pixel-based drawing application
-   
+  
+- **Deer**  
+  https://github.com/abahmed/Deer  
+  Deer is a modern, fast, beautiful note taking app. Write down your thoughts and ideas quickly and easily on Linux, Mac and Windows.
+  
   
 #### Other Application Lists
   

@@ -457,3 +457,12 @@
 - **redux-user-timing**  
   https://github.com/taehwanno/redux-user-timing  
   User Timing middleware for profiling redux application.
+  
+- **redux-dynamic-registry**  
+  https://github.com/andyjessop/redux-dynamic-registry  
+  Redux Dynamic Registry is a tool to dynamically add and remove reducers and middleware. It was conceived to aid code-splitting. It's very small, weighing-in <600B minified and gzipped.
+  
+- **xstate-redux**  
+  https://github.com/go-aos/xstate-redux  
+  Redux middleware/reducer to use xstate with redux.
+  

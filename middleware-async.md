@@ -167,6 +167,10 @@
   https://github.com/andre-araujo/redux-loading-middleware  
   Redux loading middleware set a loading state for every unresolved action that returns a promise, after promise resolution, it set's loadings state to false. Also it chains action unresolved promises that runs within 200ms threshold, and set loading to false only when every promise is done.
   
+- **redux-magic-async-middleware**  
+  https://github.com/algolia/redux-magic-async-middleware  
+  redux-magic-async-middleware is a middleware which makes it easy to handle asynchronous data with redux. Combine it with redux-updeep for increased awesomeness and reduced boilerplate!
+  
   
 #### Timeouts and Delays
 
@@ -401,3 +405,12 @@
 - **redux-saga-promise**  
   https://github.com/wallaroo/redux-saga-promise  
   A redux middleware to handle dispatch for "trigger" actions, by creating a Promise, attaching the resolve/reject functions to the action, and returning the Promise from dispatch.
+  
+- **redux-modular-fetch-middleware**  
+  https://github.com/brigonzalez/redux-modular-fetch-middleware  
+  A modular redux middleware for using fetch. Dispatch an action with a fetch attribute to automatically call a request.
+  
+- **redux-fetch-middleware**  
+  https://github.com/callmedadaxin/react-fetch-middleware  
+  A library to simplify fetching and managing network state for Redux which based on redux-thunk.
+  
