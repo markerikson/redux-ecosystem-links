@@ -78,4 +78,9 @@
   
 - **redux-fetch-epic-builder**  
   https://github.com/pcmnac/redux-fetch-epic-builder  
-  An utility lib to build "fetch actions" and generic EPICs handled by redux-observable. 
+  An utility lib to build "fetch actions" and generic EPICs handled by redux-observable.
+
+- **redux-observer-component**  
+  https://github.com/ferdaber/redux-observer-component  
+  A Redux store observer with a familiar React-like API.
+  

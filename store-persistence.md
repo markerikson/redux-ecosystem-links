@@ -184,6 +184,10 @@
   https://github.com/bytefunc/redux-state-save  
   Save and load the Redux state to file storage and localStorage
   
+- **redux-local-persist**  
+  https://github.com/Atomic-Reactor/redux-local-persist  
+  Redux middleware for selectively loading and saving state to localStorage. Redux Local Persist allows you to add a persist property to your Redux state that will specify how the defined values are saved in localStorage.
+  
   
 #### Redux-Persist Addons
 
@@ -283,7 +287,11 @@
   https://github.com/robinmalburn/redux-persist-chrome-storage  
   Storage adaptor for using Google Chrome's Storage API with redux-persist.
   
-
+- **redux-persist-check-version-transform**  
+  https://github.com/devx-agency/redux-persist-check-version-transform  
+  Redux persist with version information.
+  
+  
 #### Redux-Storage Addons
 
 - **redux-storage-engine-indexed-db**  

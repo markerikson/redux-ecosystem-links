@@ -223,3 +223,8 @@
 - **redux-saga-auth**  
   https://github.com/alvelig/redux-saga-auth  
   Token auth flow handling using sagas
+
+- **redux-saga-fetch**  
+  https://github.com/dat2/redux-saga-fetch  
+  A saga that helps reduce HTTP duplication when writing redux-saga code.
+  
