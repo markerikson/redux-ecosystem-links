@@ -3,6 +3,10 @@
 
 #### Reducer Utilities
 
+- **deox**  
+  https://github.com/thebrodmann/deox  
+  Functional type-safe Flux standard utilities.
+
 - **multireducer**  
   https://github.com/erikras/multireducer  
   A utility to wrap many copies of a single Redux reducer into a single key-based reducer.
