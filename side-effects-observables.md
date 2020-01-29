@@ -36,10 +36,6 @@
   https://github.com/joshburgess/redux-most  
   Most.js based middleware for Redux.  Handle async actions with monadic streams & reactive programming.
   
-- **redux-cycle-middleware**  
-  https://github.com/lmatteis/redux-cycle-middleware  
-  Handle redux async actions using Cycle.js. 
-  
 - **redux-cycles**  
   https://github.com/cyclejs-community/redux-cycles  
   Bring functional reactive programming to Redux using Cycle.js 

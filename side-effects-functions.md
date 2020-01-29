@@ -127,10 +127,6 @@
   https://github.com/redux-effects/redux-effects-fetch  
   Declarative data fetching for redux  
   
-- **redux-effects-fetch-fixture**  
-  https://github.com/team-boris/redux-effects-fetch-fixture  
-  An extension for redux-effects-fetch, which lets you define fixtures for your FETCH actions. Now you are able to develope completely without any REST backend.
-  
 - **redux-effects-credentials**  
   https://github.com/redux-effects/redux-effects-credentials  
   Add credentials to fetch requests when conditions are met

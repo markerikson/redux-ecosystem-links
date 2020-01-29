@@ -61,10 +61,6 @@
   https://github.com/benwiley4000/redux-action-transform-middleware  
   Generates Redux middleware for applying a given transformer function to a given sub-object target on each dispatched action (if it exists). This target's key is specified as a string and can be deeply nested (e.g. 'req.data').
   
-- **redux-action-enhancer**  
-  https://github.com/bdwain/redux-action-enhancer  
-  Enhance your actions with values from the store. Inspired by connected components in react-redux.
-  
 - **redux-error-middleware**  
   https://github.com/johnrhampton/redux-error-middleware  
   Middleware that dispatches defined actions when the current action has an error.
@@ -108,10 +104,6 @@
 - **redux-tap**  
   https://github.com/markdalgleish/redux-tap  
   Simple side-effect middleware for Redux.  Create middleware that match a predicate and run a callback accordingly.
-  
-- **redux-entry**  
-  https://github.com/ThatBean/redux-entry  
-  Process dispatched action before it reaches the store 
   
 - **redux-observable-middleware**  
   https://github.com/d6u/redux-observable-middleware  
@@ -299,10 +291,6 @@
   https://github.com/kwhitaker/redux-make-mori  
   Redux middleware to coerce native javascript types into the equivalent Mori types. 
   
-- **Redux Provider Middleware**  
-  https://github.com/reduxible/redux-provider-middleware  
-  A redux middleware which provides Angular-like providers.
-  
 - **redux-inject**  
   https://github.com/bradharms/redux-inject  
   Redux middleware generator that allows dependencies to be injected into action creators.
@@ -346,9 +334,9 @@
   https://github.com/chikeichan/redux-worker  
   Helps you build multi-threaded JavaScript applications by moving your reducer into a Web Worker. It also provides a simple API for you to register tasks to be executed in the web worker outside of Redux. 
 
-- **Redux Provider**  
-  https://github.com/reduxible/redux-provider-middleware  
-  The providerMiddleware provides providers that similar with providers of Angular.js. A providerMiddleware injects providers that returns new or cached objects to action. It also similar with Spring Beans.
+- **Redux Provider Middleware**  
+  https://github.com/pitzcarraldo/redux-provider-middleware  
+  The providerMiddleware provides providers that similar with providers of Angular.js. A providerMiddleware injects providers that returns new or cached objects to action. It also similar to Spring Beans.
 
 - **redux-publish-action**  
   https://github.com/oriweingart/redux-publish-action  
@@ -421,10 +409,6 @@
 - **redux-script-loader**  
   https://github.com/eliascodes/redux-script-loader  
   Redux middleware to handle dynamically loading scripts 
-  
-- **redux-elm-plugin**  
-  https://github.com/ulisses-alves/redux-elm-plugin  
-  Utility package for wrapping Elm application ports into Redux actions and reducers.
   
 - **redux-middleware-workers**  
   https://github.com/Natasha08/redux-middleware-workers  

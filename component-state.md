@@ -332,10 +332,6 @@
   https://github.com/robbyemmert/redux-segmentize  
   Organize your redux store into partitions. Automatically manage state for each instance of your components. 
   
-- **redux-register-module**  
-  https://github.com/birdy-/redux-register-module  
-  Allows you to register reducer and saga handler from your module. With this, your module stays a standalone package.
-  
 - **redux-blocks**  
   https://github.com/alonbardavid/redux-blocks  
   redux-blocks is a library for isolating and combining redux modules (referred to here on out as blocks). It makes writing reusable redux code easier and more flexible.

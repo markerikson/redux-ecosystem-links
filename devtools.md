@@ -343,10 +343,6 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   https://github.com/asn007/redux-validate-actions  
   A small tool to automatically validate redux actions based on a predicate and log wrongly formatted actions into console 
   
-- **redux-validator**  
-  https://github.com/MaxLi1994/redux-validator  
-  Action parameter validator middleware for redux
-  
 - **redux-payload-validator**  
   https://github.com/tomoyuki-tanaka/redux-payload-validator  
   Redux middleware for FSA payload validation.

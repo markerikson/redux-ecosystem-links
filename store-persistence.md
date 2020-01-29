@@ -60,10 +60,6 @@
   https://github.com/explorigin/persistent-redux  
   Persistent-Redux is a drop-in middleware that will save your Redux state and restore it on the next page load.  Previously this tool focused on PouchDB but now it offers an adapter API to use any backend.
   
-- **redux-simple-storage-middleware**  
-  https://github.com/BartWaardenburg/redux-simple-storage-middleware  
-  Simple redux middleware which will store the current state tree in either session- or localstorage
-  
 - **Redux-Session**  
   https://github.com/HelpfulHuman/Redux-Session  
   Redux middleware for automatic setting and hydration of state data in external storage.
@@ -180,10 +176,6 @@
   https://github.com/philopian/redux-session-storage-gatorade  
   Use session storage to store the state of your redux store so if the user refreshes the browser your state will persist
   
-- **redux-state-save**  
-  https://github.com/bytefunc/redux-state-save  
-  Save and load the Redux state to file storage and localStorage
-  
 - **redux-local-persist**  
   https://github.com/Atomic-Reactor/redux-local-persist  
   Redux middleware for selectively loading and saving state to localStorage. Redux Local Persist allows you to add a persist property to your Redux state that will specify how the defined values are saved in localStorage.
@@ -230,10 +222,6 @@
 - **redux-persist-transform-filter**  
   https://github.com/edy/redux-persist-transform-filter  
   Filter transformator for redux-persist
-  
-- **redux-persist-transform-expire**  
-  https://github.com/gabceb/redux-persist-transform-expire  
-  Add expiration to your persisted store 
   
 - **redux-persist-restful-storage**  
   https://github.com/qwe852/redux-persist-restful-storage  

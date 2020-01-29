@@ -1,4 +1,6 @@
-### Assorted Use Cases
+### Use Cases
+
+#### Assorted
   
 - **Redux Collections**  
   https://github.com/khrykin/redux-collections  
@@ -112,7 +114,7 @@
   Flip or flop a feature in with real-time updates through a Redux store by directly using React's context.
   
   
-### Page Interaction
+#### Page Interaction
 
 - **redux-geolocation**  
   https://github.com/karlguillotte/redux-geolocation  
@@ -191,7 +193,7 @@
   Keep your media type and screen size in sync with application state
 
   
-### Internationalization
+#### Internationalization
 
 - **redux-pagan**  
   https://github.com/alexkuz/redux-pagan  

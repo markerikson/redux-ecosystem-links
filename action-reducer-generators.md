@@ -39,10 +39,6 @@
   https://github.com/sodiumjoe/rehash  
   A set of utilities to generate an initial state, a reducer, and an action creator tree for use with redux.
   
-- **redux-utils**  
-  https://github.com/mindfront/redux-utils  
-  Functions for creating and composing reducers and middleware efficiently
-  
 - **redux-code-generator**  
   https://github.com/jermspeaks/redux-code-generator  
   Pass a yaml file and the generator spits out action, reducer, and test files. Tests are written for Mocha.
@@ -180,10 +176,6 @@
   https://github.com/welldone-software/redux-toolbelt  
   A set of tools for quicker, easier and safer redux development.  Create FSA-compliant action creators, async action creators, and compose reducers.
   
-- **redux-factories**  
-  https://github.com/zxdong262/redux-factories  
-  A factory lib to produce redux constants and reducers of certain format.
-  
 - **redux-motive**  
   https://github.com/loklaan/redux-motive  
   Simplify writing action creators, reducers and effects - without breaking redux. 
@@ -199,10 +191,6 @@
 - **redux-tiles**  
   https://github.com/Bloomca/redux-tiles  
   This library tries to provide minimal abstraction on top of Redux, to allow easy composability, easy async requests, and sane testability.
-  
-- **redux-ts-simple**  
-  https://github.com/Cooke/redux-ts-simple  
-  Yet another lib for creating typed actions and reducers. This library is FSA-compliant.
   
 - **redux-helpers**  
   https://github.com/mindbox-moscow/redux-helpers  
@@ -223,10 +211,6 @@
 - **redux-enjoy-helpers**  
   https://github.com/ya-kostik/redux-enjoy-helpers  
   Utilities for action type creation, creating reducers with reset abilities, and updating arrays
-  
-- **redux-thunk-action-reducer**  
-  https://github.com/neolivz/redux-async-action-reducer  
-  Simple redux action creation and reducer wrapper that makes creating and handling asynchronous and synchronous actions easier.
   
 - **redux-typed-action-reducer**  
   https://github.com/slivcode/redux-typed-action-reducer  
@@ -390,10 +374,6 @@
 - **redux-easy-async**  
   https://github.com/evanhobbs/redux-easy-async  
   Redux Easy Async makes handling asynchronous actions, such as API requests, simple, reliable, and powerful.
-  
-- **redux-simple-api**  
-  https://github.com/kazagkazag/redux-simple-api  
-  A library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
   
 - **redux-fetch-actions**  
   https://github.com/deptno/redux-fetch-actions  

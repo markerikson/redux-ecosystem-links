@@ -78,7 +78,7 @@
   
 - **router-redux**  
   https://github.com/subuta/router-redux  
-  View framework agnostic router for redux :) This is react-router-redux for your vdom-based project.
+  View framework agnostic router for redux :) This is react-router-redux for your vdom-based project. Uses pushState/popState-based client side routing.
   
 - **Redux.Routes.Renderer**  
   https://github.com/sequencemedia/Redux.Routes.Renderer  
@@ -155,10 +155,6 @@
 - **router-redux-params**  
   https://github.com/Darmikon/router-redux-params  
   React router params inside redux store.
-  
-- **router-redux**  
-  https://github.com/subuta/router-redux  
-  A view-framework-agnostic router for Redux, with pushState/popState-based client side routing
   
 - **redux-url**  
   https://github.com/jedirandy/redux-url  

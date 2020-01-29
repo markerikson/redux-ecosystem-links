@@ -208,10 +208,6 @@
   https://github.com/anwfr/redux-subscribe-ts  
   Subscribe to a path in your redux state, get notified when sub-state changed with state diff 
   
-- **redux-detector**  
-  https://github.com/piotr-oles/redux-detector  
-  Redux Detector enhancer allows you to detect state changes in redux. A detector is a simple and pure function which compares two states and returns action or list of actions for some states transitions.
-  
 - **redux-watch-immutable**  
   https://github.com/Danetag/redux-watch-immutable  
   Watch/observe Redux store state changes using Immutable.js.  Redux-watch is a small but helpful library that associate a callback() to a path-to-the-store. Unfortunately, it's not optimized/made to work with Immutable.js. So we took the main concept and made it work.

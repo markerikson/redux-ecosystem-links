@@ -83,10 +83,6 @@
   https://github.com/khanghoang/react-redux-mock  
   Mock the react-redux package for testing.
   
-- **mocha-redux-integration**  
-  https://github.com/tomvej/mocha-redux-integration  
-  Integration testing of redux stores with mocha 
-  
 - **chai-redux**  
   https://github.com/ScaCap/chai-redux  
   An extension plugin for the Chai assertion library for testing Redux stores.
@@ -150,10 +146,6 @@
 
 #### Actions
   
-- **redux-asserts**  
-  https://github.com/mitodl/redux-asserts  
-  Functions to assert dispatched actions in redux
-
 - **redux-actions-assertions**  
   https://github.com/redux-things/redux-actions-assertions  
   https://github.com/redux-things/redux-actions-assertions-js  
@@ -162,10 +154,6 @@
 - **redux-action-logging**  
   https://github.com/madebymany/redux-action-logging  
   Redux testing utility middleware to log actions received by a store without mocking that store.
-  
-- **redux-testkit**  
-  https://github.com/wix/redux-testkit  
-  Use this module to easily write unit tests for redux actions, including asynchronous actions using redux-thunk middleware.
   
 - **redux-asserts**  
   https://github.com/mitodl/redux-asserts  
@@ -205,10 +193,6 @@
 - **redux-saga-chai**  
   https://github.com/R1ZZU/redux-saga-chai  
   redux-saga-chai extends Chai and allows you to be more verbose while testing sagas
-
-- **redux-saga-tester**  
-  https://github.com/guybenron/redux-saga-tester  
-  Full redux environment testing helper for redux-saga
 
 - **redux-saga-testing**  
   https://github.com/antoinejaussoin/redux-saga-testing  
@@ -258,10 +242,6 @@
    https://github.com/modosc/better-redux-saga-tester  
    Better full redux environment testing helper for redux-saga (initially forked from redux-saga-tester)
    
- - **trampss-redux-saga-tester**  
-   https://github.com/Trampss/trampss-redux-saga-tester  
-   Test your sagas (redux-saga) with ease, compatible with Jest snapshots !
-   
  - **jest-saga**  
    https://github.com/a-type/jest-saga  
    A Jest expect extension to quickly test a redux-saga generator.
@@ -287,14 +267,10 @@
   Utilities to test sagas, reducers and selectors in integration
   
 - **k-redux-saga-tester**  
-  https://github.com/alakarteio/k-redux-saga-tester  
+  https://github.com/unirakun/k-redux-saga-tester  
   Test your sagas (redux-saga) with ease, compatible with Jest snapshots!
   
 - **redux-mock-saga**  
   https://github.com/giespaepen/redux-mock-saga  
   Elegant testing strategy to check what your sagas really do, i.e. testing the result of the side effects.
-  
-- **proofread**  
-  https://github.com/streamich/proofread  
-  A convenience method to decrease boilerplate when testing you Redux sagas with Jest
   

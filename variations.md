@@ -234,10 +234,6 @@
   https://github.com/stephenbunch/redux-branch  
   A library for defining "branches" - local stores whose state is merged on top of the parent.  This allows each component to have its own Redux store while still being able to interact with the parent store.
   
-- **redux-with-selectors**  
-  https://github.com/guillaumearm/redux-with-selectors  
-  A redux store enhancer for adding selectors inside the store.  Provide a withSelectors function that take a schema of your selectors, a store and return a new enhanced store.  This will allow you to centralize all your selectors in the redux store, and call them by using getState()
-  
 - **Petiole**  
   https://github.com/ilkkahanninen/petiole  
   Petiole embraces the idea of Redux reducer bundles, better known as ducks, but takes them further with uniform construction function and throws support for selectors in. In Petiole these bundles are called leaves -- they are the leaf nodes (end-nodes) in our state tree.
@@ -320,7 +316,7 @@
   
 - **redux-global-selectors**  
   https://github.com/guillaumearm/redux-global-selectors  
-  A redux store enhancer adding selectors inside the store.
+  A redux store enhancer for adding selectors inside the store. Provide a withSelectors function that take a schema of your selectors, a store and return a new enhanced store. This will allow you to centralize all your selectors in the redux store, and call them by using getState()
   
 - **react-redux-connect-helpers**  
   https://github.com/rongierlach/react-redux-connect-helpers  
@@ -459,10 +455,6 @@
   https://github.com/jgnewman/react-redux-infuser  
   A thin layer wrapping react-redux tools to simplify creating more powerful React containers.
   
-- **react-redux-connected**  
-  https://github.com/jimmyhmiller/react-redux-connected  
-  An opinionated layer on top of react-redux that provides a simple props driven way to connect components.
-  
 - **redux-lens**  
   https://github.com/dashed/redux-lens  
   Apply a redux reducer and an action at the specified path of your application state tree
@@ -499,10 +491,6 @@
 - **redux-domain** 
   https://github.com/aight8/redux-domain  
   Manage your redux store, reducers, sagas in domains
-  
-- **react-dedux**  
-  https://github.com/tiagomapmarques/react-dedux  
-  Redux abstraction for state management in React 
   
 - **redux-state-connect**  
   https://github.com/NikolayBorisov/redux-state-connect  
@@ -741,7 +729,6 @@
   A set of utility functions to make it easier to use Redux.  No string constants, no reducers with switch statements, no nested reducers.
   
 - **redux-modules**  
-  https://github.com/procore/redux-modules  
   https://github.com/mboperator/redux-modules-middleware  
   A refinement on the Redux module concept with developer experience in mind. It provides: a concise, intuitive way to define actions and state transformations; action creator middleware for transforming actions before they're dispatched; a decorator that handles mapping state and actions to components; a modified Redux Provider that dynamically registers new reducers as connected components mount;
 

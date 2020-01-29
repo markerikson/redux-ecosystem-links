@@ -200,10 +200,6 @@
   https://github.com/cyrilluce/redux-saga-catch  
   Helpers for redux-saga that auto-wrap sagas with try-catch to prevent a thrown error from stopping all sagas.
   
-- **redux-saga-requests**  
-  https://github.com/klis87/redux-saga-requests  
-  Redux-Saga addon to simplify handling of AJAX requests. It supports Axios and Fetch API, in the future additional integrations will be added, as they can be implemented in a plugin fashion.
-  
 - **redux-saga-crud-service**  
   https://github.com/eakarpov/redux-saga-crud-service  
   Generates crud methods for services using saga middleware 

@@ -141,10 +141,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   https://github.com/ricsv/immutable-light  
   Light-weight immutability helpers that works great together with Redux, inspired by Immutable.js
   
-- **redux-create-state**  
-  https://github.com/niklasramo/redux-create-state  
-  A utility function for Redux to ease the process of creating a new state object, immutably.
-  
 - **qim**  
   https://github.com/jdeal/qim  
   Immutable/functional select/update queries for plain JS. 
@@ -213,10 +209,6 @@ A collection of functions to perform immutable operations on plain JavaScript ob
 - **redux-immutable-ops**  
   https://github.com/nitishkr88/redux-immutable-ops  
   A collection of helper functions to perform immutable operations on plain JavaScript objects and arrays. Works on the immutable update patterns as defined by Redux.
-  
-- **Redecorate**  
-  https://github.com/Wildhoney/Redecorate  
-  Simple module for reducing immutable nested properties in Redux applications. 
   
 - **unchanged**  
   https://github.com/planttheidea/unchanged  

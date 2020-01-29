@@ -57,7 +57,7 @@
   A small middleware to handle AJAX requests with Axios
 
 
-### General 
+#### General
 
 - **redux-request-middleware**  
   https://github.com/founderlab/redux-request-middleware  
@@ -118,10 +118,6 @@
 - **redux-token-api-middleware**  
   https://github.com/eadmundo/redux-token-api-middleware  
   A redux middleware for making calls to APIs with token-based auth, automatically requesting a new token if needed. Actions can be calls to single or multiple API endpoints.
-  
-- **redux-routed-api-middleware**  
-  https://github.com/aliaksandr-master/redux-routed-api-middleware  
-  Redux api middleware for separate your api routes, api actions, and interceptors. provide state normalization, db reducer 
   
 - **redux-callapi-middleware**  
   https://github.com/Reaverart/redux-callapi-middleware  
