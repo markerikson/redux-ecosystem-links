@@ -295,7 +295,12 @@
 - **redux-grim**  
   https://github.com/cloudflare/redux-grim  
   GRiM is small library to reduce the boiler plate involved in making Redux action creators, and reducers. It's specifically intended for actions which retrieve remote restful data, and provides normalization support.
-  
+   
+- **redux-dispatcher**  
+  https://github.com/blueish9/redux-dispatcher  
+  Significantly reduce boilerplate in your redux code by encapsulating action type, action creator and dispatch function into one single dispatcher.
+  It also supports thunk and compatible with other libraries like redux-saga.
+
   
 #### Network Requests and APIs
 
@@ -549,4 +554,3 @@
 - **redux-duck-immer**  
   https://github.com/cjies/redux-duck-immer  
   Provides redux helpers to implement ducks-modular-redux proposal. The reducer's state is produced by Immer for immutability. Inspired by [redux-duck](https://github.com/PlatziDev/redux-duck).
-  
