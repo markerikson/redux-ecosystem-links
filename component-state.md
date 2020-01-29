@@ -282,7 +282,7 @@
   Store arbitrary state in redux with a similar API to setState
   
 - **encaps**  
-  https://github.com/megazazik/encaps
+  https://github.com/megazazik/encaps  
   Creates independent, reusable and extensible modules for applications which use reducers.
   
   
