@@ -57,7 +57,7 @@
   A small middleware to handle AJAX requests with Axios
 
 
-### General 
+#### General
 
 - **redux-request-middleware**  
   https://github.com/founderlab/redux-request-middleware  
