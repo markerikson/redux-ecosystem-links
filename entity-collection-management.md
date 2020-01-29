@@ -159,10 +159,6 @@
   https://github.com/AlexHenkel/reduxsauce-crud  
   Adaptation of the reduxsauce utils to add CRUD functionality
   
-- **standard-redux-shape**  
-  https://github.com/ecomfe/standard-redux-shape  
-  A tiny utility library to help you manage an optimized redux store shape.
-  
 - **erschema-redux-immutable**  
   https://github.com/l2silver/erschema-redux-immutable  
   Provides standardized actions, reducers, and state shape for storing Entities and Relationships using Immutable.js
@@ -324,10 +320,6 @@
 - **redux-endpoints**  
   https://github.com/dylanonelson/redux-endpoints  
   Define Redux modules for fetching data from API endpoints.  
-  
-- **Hyperduce**  
-  https://github.com/jondot/hyperduce  
-  A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.
   
 - **active-redux**  
   https://github.com/coverhound/active-redux  

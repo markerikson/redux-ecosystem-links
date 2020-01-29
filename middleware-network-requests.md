@@ -119,10 +119,6 @@
   https://github.com/eadmundo/redux-token-api-middleware  
   A redux middleware for making calls to APIs with token-based auth, automatically requesting a new token if needed. Actions can be calls to single or multiple API endpoints.
   
-- **redux-routed-api-middleware**  
-  https://github.com/aliaksandr-master/redux-routed-api-middleware  
-  Redux api middleware for separate your api routes, api actions, and interceptors. provide state normalization, db reducer 
-  
 - **redux-callapi-middleware**  
   https://github.com/Reaverart/redux-callapi-middleware  
   Redux CallAPI Middleware to make API calls in generic and declarative way. 

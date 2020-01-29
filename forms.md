@@ -49,10 +49,6 @@
   https://github.com/kjessec/react-formagic  
   A react form binding that adapts to your code, not the other way around.  At the end of the day, react-formagic is just a HoC wrapper that translates props given to it into a set of enhanced props that'll make it easy to work with forms.
   
-- **React Redux Local Form**  
-  https://github.com/jschr/react-redux-form-provider  
-  React components for building forms with a local Redux store for managing state.
-  
 - **simple-redux-form**  
   https://github.com/mihirsoni/simple-redux-form  
   A tiny alternative for Redux-Form
@@ -80,10 +76,6 @@
 - **redux-pure-form**  
   https://github.com/max-mykhailenko/redux-pure-form  
   Redux actions for good performance and integration with your reducers
-  
-- **redux-forms**  
-  https://github.com/oreqizer/redux-forms  
-  A simple form manager for React and Redux (WIP)
   
 - **reFormz**  
   https://github.com/orangecoding/reFormz  

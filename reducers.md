@@ -259,10 +259,6 @@
   https://github.com/giftofjehovah/redux-pipe  
   Utilities for running reducers in a sequence and branching based on a predicate.
   
-- **reducer-redux**  
-  https://github.com/b-gran/reducer-redux  
-  A Ramda-based utility for reducers based on an object tree to define the shape of the state
-
 - **redux-strategic-reducer**  
   https://github.com/davidjbeveridge/redux-strategic-reducer  
   Another lookup-table reducer builder, with built-in "set" and "clear" handlers
@@ -279,10 +275,6 @@
   https://github.com/dphilipson/typescript-fsa-reducers  
   Fluent syntax for defining typesafe reducers on top of typescript-fsa. 
   
-- **redux-reducers**  
-  https://github.com/casparrolfe/redux-reducers  
-  Unobtrusive Redux utils for composing reducers and targeting them based on an ID.
-  
 - **redux-ramda-reducer**  
   https://github.com/kudorori/redux-ramda-reducer  
   Assorted utilities for creating reducer functions using Ramda
@@ -298,10 +290,6 @@
 - **redux-autoreducers**  
   https://github.com/oxyno-zeta/redux-autoreducers  
   Utilities for generating reducers that handle async progress actions.
-  
-- **redux-dependent-reducers**  
-  https://github.com/shura-v/redux-dependent-reducers  
-  Combine reducers dependent on evaluation order 
   
 - **redux-reducers**  
   https://github.com/zimmed/redux-reducers  
@@ -448,10 +436,6 @@
   https://github.com/gtg092x/redux-pipeline  
   Redux Pipeline combines reducers into a single, manageable sequence.
   
-- **redux-composers**  
-  https://github.com/shoutem/redux-composers  
-  Utilities to combine reducers in various ways beyond `combineReducers`, including chaining, merging, and mapping.
-  
 - **redux-higher-order**  
   https://github.com/brianneisler/redux-higher-orders  
   Redux enhancer for composing higher order reducers.  Wrap the reducer with functionality ensuring that the higher order reducers run before the primary reducer.
@@ -459,10 +443,6 @@
 - **redux-rereducers**  
   https://github.com/brianneisler/redux-rereducers  
   A higher order reducer for performing state calculations after the initial reduction has completed.
-  
-- **higher-order-reducers**  
-  https://github.com/Nehle/higher-order-reducers  
-  A simple utility belt library for building and composing redux reducers using higher order functions.
   
 - **redux-compose-hors**  
   https://github.com/l2silver/redux-compose-hors  
@@ -480,10 +460,6 @@
   https://github.com/bspaulding/redux-buffered-reducer  
   A simple reducer enhancer to buffer changes
   
-- **initializable-reducer**  
-  https://github.com/oreshinya/initializable-reducer  
-  Initializing reducers action and associated higher order reducer for redux.
-  
 - **horux**  
   https://github.com/Nehle/horux  
   A simple utility belt library for building and composing redux reducers using higher order functions.
@@ -496,10 +472,6 @@
   https://github.com/aakashns/dextrous  
   A tiny library with utilities for Redux reducer composition.
 
-- **redux-reorder**  
-  https://github.com/nonnontrivial/redux-reorder  
-  Higher-order reducer that tracks order fluctuation within iterable state.  Appends a given reducer with a representation of how its new order has changed from a previous order.
-  
 - **redux-reset-state**  
   https://github.com/cadleo/redux-reset-state  
   A redux plugin to reset the redux state you specify 
@@ -587,11 +559,6 @@
 - **redux-property-graph**  
   https://github.com/telepathtech/redux-property-graph  
   Basic property graph for redux
-  
-- **redux-reducer-factory**  
-  https://github.com/mclauia/redux-reducer-factory  
-  https://github.com/mclauia/redux-reducer-meld  
-  A configurable createReducer factory for adding common reducer enhancers. 
   
 - **redux-store-validator**  
   https://github.com/alixander/redux-store-validator  

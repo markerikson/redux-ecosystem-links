@@ -108,10 +108,6 @@
   https://github.com/BerkeleyTrue/redux-create-types  
   A better way to create namespaced action types.
   
-- **redux-thunk-actions**  
-  https://github.com/machadogj/redux-thunk-actions  
-  Easily create action creators for redux with redux-thunk.
-  
 - **Actioner**  
   https://github.com/yanick/actioner  
   Actioner is a little utility to help define, manage and validate Redux actions, using json-schema.
@@ -176,10 +172,6 @@
   https://github.com/fiberthrone/redux-actions-namespace  
   Syntax sugar for using namespaces with redux-actions.
   
-- **redux-actions-api-addon**  
-  https://github.com/jkusachi/redux-actions-api-addon  
-  Redux Actions add-on to support API Requests. 
-  
 - **redux-helper**  
   https://github.com/vgmr/redux-helper  
   Action creator, promise action creator and checked promise middleware.
@@ -203,10 +195,6 @@
 - **redux-create-actions**  
   https://github.com/adrianObel/redux-create-actions  
   redux-create-actions is a library that helps construct FSA compliant action creators and massively decreasing the amount of boilerplate necessary to generate constants and action creators.
-  
-- **redux-actions-helper**  
-  https://github.com/ariesjia/redux-actions-helper  
-  Assorted helper utilities for redux-actions.
   
 - **fsa-meta-extender**  
   https://github.com/tomoyuki-tanaka/fsa-meta-extender  
