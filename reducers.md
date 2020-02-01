@@ -698,8 +698,11 @@
 - **redux-extensible-store**  
   https://github.com/lundegaard/redux-extensible-store  
   Redux extension that allows you to dynamically inject new reducers and sagas into you running application.
-  
-  
+
+- **redux-tools**  
+  https://github.com/lundegaard/redux-tools  
+  A collection of Redux libraries for modular applications. The library allows you to dynamically inject and eject reducers, middleware and epics from redux-observable.  An injection can be based on namespace so the certain epic/middleware/reducer is applied only for certain module.
+
 #### State Machines
 
 - **redux-machine**  
