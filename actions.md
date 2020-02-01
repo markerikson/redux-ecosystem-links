@@ -271,6 +271,10 @@
 - **redux-actiontyper**  
   https://github.com/alnorris/redux-actiontyper  
   Helper to create slightly less verbose redux action types. Uses ES6 Proxies!
+
+- **redux-lightweight**  
+  https://github.com/doniyor2109/redux-lightweight  
+  Write one business logic instead of writing actions, action types and reducers
   
   
 #### Other Action Use Cases  
