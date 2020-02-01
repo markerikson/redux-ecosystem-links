@@ -180,6 +180,10 @@
   https://github.com/welldone-software/redux-toolbelt  
   A set of tools for quicker, easier and safer redux development.  Create FSA-compliant action creators, async action creators, and compose reducers.
   
+- **redux-generic**  
+  https://github.com/mathieueveillard/redux-generic  
+  A tool to generate CRUD actions and reducers when willing to normalize the state. Minimal footprint, strong typing.
+  
 - **redux-factories**  
   https://github.com/zxdong262/redux-factories  
   A factory lib to produce redux constants and reducers of certain format.

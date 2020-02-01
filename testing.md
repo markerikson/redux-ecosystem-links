@@ -55,6 +55,10 @@
   https://github.com/knegusen/redux-test-utils  
   Provides a mock store and utilities for checking dispatched actions.
   
+- **redux-integration-testing**  
+  https://github.com/mathieueveillard/redux-integration-testing  
+  A lightweight framework for integration testing in a Gherkin style, fluent API, async friendly, strongly typed, test-runner agnostic.
+  
 - **redux-jest**  
   https://github.com/Roilan/redux-jest  
   Write your Redux test with Jest.  Port of redux-ava.
