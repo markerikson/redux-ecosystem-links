@@ -7,7 +7,7 @@
 
 #### Client-Only Collections
 
-- **normalized-reducer**
+- **normalized-reducer**  
   https://github.com/brietsparks/normalized-reducer  
   A higher-order reducer for managing normalized state without writing any reducer/action boilerplate. Pass in relational schema, and get back reducers, actions, and selectors that behave according to the schema. Plays well with Normalizr.
 
