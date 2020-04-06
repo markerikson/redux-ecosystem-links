@@ -7,6 +7,10 @@
 
 #### Client-Only Collections
 
+- **normalized-reducer**
+  https://github.com/brietsparks/normalized-reducer  
+  A higher-order reducer for managing normalized state without writing any reducer/action boilerplate. Pass in relational schema, and get back reducers, actions, and selectors that behave according to the schema. Plays well with Normalizr.
+
 - **redux-orm**  
   https://github.com/tommikaikkonen/redux-orm  
   A small, simple and immutable ORM to manage relational data in your Redux store. Provides a Model-like interface on top of a portion of your store, allowing you to define relations between Models, store values as "tables" in your state, and make immutable updates by assigning values to Model fields.
