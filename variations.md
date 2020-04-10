@@ -805,8 +805,10 @@
 - **react-lot**  
   https://github.com/didrio/react-lot  
   A dead simple React store that can easily be updated and accessed from any React component. Built on top of Redux so the devTools extension can be used. Follows Redux's philosophy of never directly mutating state and always returning a fresh state on updates.
-
   
+- **data-provider**  
+  https://github.com/data-provider/core  
+  An async data provider built on top of Redux. Agnostic about specific data origins, queryable, with powerful selectors inspired by Reselect, cache and memoization, it empowers decoupling and makes easy connecting views to any type of async data while retains data layer composability. Addons for different UI bindings are also distributed separately.
   
 #### Redux-Inspired Libraries
 
