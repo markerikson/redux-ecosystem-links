@@ -376,3 +376,7 @@
 - **r3-library**  
   https://github.com/cassaram09/r3-library  
   r3-library (short for React-Redux-Resource) is a small library to handle resources in a React-Redux application more efficiently. This library allows users to create a Resource handles remote and promise based actions. It dynamically generates the reducer for use by the store.  This project was inspired by AngularJS $Resource functionality for making HTTP requests. 
+
+- **jsonapi-redux-data**  
+  https://github.com/wednesday-solutions/jsonapi-redux-data  
+  JsonApi Redux data is a one stop shop for all your redux-jsonapi needs: it provides methods to make your API call and automatically formats data based on relationships and updates it in the redux store!
