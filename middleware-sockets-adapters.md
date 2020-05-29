@@ -3,10 +3,6 @@
 
 #### Websockets
 
-- **redux-socket**  
-  https://github.com/quirinpa/redux-socket  
-  A redux middleware that allows you to trigger a socket request on the client-side and dispatch an action in response.
-  
 - **cape-redux-socket**  
   https://github.com/cape-io/cape-redux-socket  
   Socket middleware, reducer, actions, constants
