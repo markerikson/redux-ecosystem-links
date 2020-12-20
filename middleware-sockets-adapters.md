@@ -131,6 +131,10 @@
   https://github.com/igormael/react-redux-websocket  
   A simple middleware to emit and receive actions through a websocket. It uses a property of your action object to configurate the dispatch. 
   
+- **react-redux-signalR**  
+  https://github.com/berkslv/react-redux-signalR  
+  redux middleware for signalR
+  
 #### Firebase
 
 - **redux-react-firebase**  
