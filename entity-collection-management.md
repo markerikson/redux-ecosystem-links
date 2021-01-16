@@ -207,6 +207,11 @@
   https://github.com/mfpiccolo/blue-chip
   Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use.
 
+- **ngrx-entity-relationship**  
+  https://github.com/satanTime/ngrx-entity-relationship  
+  Provides a root reducer and actions to normalize linear and graph payloads from backends including GraphQL, automates generation of GraphQL queries, simplifies selects of entities with their relationships from Redux store.
+  
+  
 #### Client/Server Collections
 
 - **redux-collection**  
