@@ -75,6 +75,10 @@
   https://github.com/jdrouet/normal-it  
   Normalizes and denormalizes JSON according to relational schema, inspired by Normalizr
   
+- **ngrx-entity-relationship**  
+  https://github.com/satanTime/ngrx-entity-relationship  
+  Normalizes arrays and objects of linear and graph entities, helps to update the store on GraphQL responses with a single action dispatch.
+  
   
 #### Selectors
 
@@ -153,6 +157,10 @@
 - **re-select**  
   https://github.com/bearyinnovative/re-select  
   Memoized selector library, meant to improve reselect usage to be more resilient and concise. By using the new way to construct selectors, you should be able to write selectors that are easier to combine with.
+  
+- **ngrx-entity-relationship**  
+  https://github.com/satanTime/ngrx-entity-relationship  
+  ORM selectors for related entities in normalized Redux store.
   
   
 #### Functional Programming

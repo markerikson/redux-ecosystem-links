@@ -69,7 +69,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   https://github.com/reimagined/resolve/tree/master/examples/hacker-news  
   A Hacker News clone, built using the Resolve library that abstracts over React and Redux
   
-
+- **ngrx-entity-relationship**  
+  https://github.com/satanTime/ngrx-entity-relationship-react  
+  An example project which demonstrates how to use ORM in Redux and select related entities from normalized store.
+  
+  
 #### Applications
 - **MapStore2**  
   https://github.com/geosolutions-it/MapStore2  
