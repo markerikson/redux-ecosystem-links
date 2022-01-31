@@ -56,3 +56,7 @@
 - **Flux Standard Data Storage**  
   https://github.com/sagiavinash/flux-standard-data-storage  
   A standard for Flux store objects and compatible action objects
+  
+- **Ducks++**  
+  https://wwwhttps://github.com/huan/ducks/issues/7.npmjs.com/package/ducks  
+  Ducks is a Reducer Bundles Manager that Implementing the Redux Ducks Modular Proposal with Great Convenience.
