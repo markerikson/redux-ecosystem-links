@@ -144,6 +144,10 @@
 
 #### Other
 
+- **@liveblocks/redux**
+  https://github.com/liveblocks/liveblocks/tree/main/packages/liveblocks-redux
+  A store enhancer to make your application multiplayer
+
 - **deku-redux**  
   https://github.com/troch/deku-redux  
   Bindings for redux in deku < v2 
