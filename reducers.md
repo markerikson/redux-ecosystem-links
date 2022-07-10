@@ -638,6 +638,10 @@
 
 #### Dynamic Reducer Injection
 
+- **redux-eggs**  
+  https://github.com/fostyfost/redux-eggs 
+  Here is a monorepository that contains packages that allow you to easily split your Redux store into separate parts (eggs), and then dynamically add and remove them when you need it.
+  
 - **redux-react-dynamic-store**  
   https://github.com/kravchenkodev/redux-react-dynamic-store  
   Allows to register reducers dynamically through react container components to help solve code-splitting and complex state in large applications.
