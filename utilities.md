@@ -109,6 +109,14 @@
 - **re-reselect**  
   https://github.com/toomuchdesign/re-reselect  
   Enhance Reselect selectors by wrapping createSelector function and returning a memoized collection of selectors indexed with the cache key returned by a custom resolver function.  Useful to reduce selectors recalculation when the same selector is repeatedly called with one/few different arguments.
+
+- **reselect-utils**  
+  https://github.com/sgrishchenko/reselect-utils  
+  Reselect-utils was created to solve the following problems:
+  - Work with optional objects as a source for selection.
+  - Binding parametric selectors to specific property values.
+  - Using selection results as parameters for a new selection.
+  - Calculating the aggregate value from a collection of selector results.
   
 - **selectorator**  
   https://github.com/planttheidea/selectorator  
